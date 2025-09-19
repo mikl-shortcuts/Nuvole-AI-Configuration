@@ -1,250 +1,1544 @@
 {
-  "Install_T_Model": "Recomended",
-  "Install_H_Model": "Which AI model would you like to use?",
-  "Install_H_Main": "Do you want to open the Main Menu when running Nuvole AI?",
-  "Install_N_YesMenu": "Open the Main Menu with Each New Running",
-  "Install_N_NoMenu": "Without Opening to Enter the Request",
-  "Install_H_Input": "Select the most convenient way for you to enter a request for AI",
-  "Install_N_YesUpdates": "Receive Updates",
-  "Install_ORG_YesUpdates": "Recommended for a better experience of Nuvole AI usage",
-  "Install_N_NoUpdates": "Do Not Receive Updates",
-  "Install_H_Updates": "Select whether you want to receive notifications about updates",
-  "Install_N_Learn": "More Information about Nuvole AI",
-  "Install_ORG_Learn": "You will be redirected to the RoutineHub description page for Nuvole AI",
-  "Install_N_SkipLearn": "Skip and Start Working with Nuvole AI",
-  "N_Exit": "Exit the Nuvole AI",
-  "ORG_Exit": "Goodbye!",
-  "Install_H_Learn": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-  "Update_T_1Updates": "1 update",
-  "Update_T_2Updates": "2 updates",
-  "Update_T_5Updates": "5 updates",
-  "Update_T_21Updates": "21 updates",
-  "Update_T_1Changes": "1 change",
-  "Update_T_2Changes": "2 changes",
-  "Update_T_5Changes": "5 changes",
-  "Update_T_21Changes": "21 changes",
-  "Update_T_More": "More",
-  "Update_H_VersionCount": "${Count versions} have been released since version ${Num}",
-  "Update_H_2Versions": "2 versions",
-  "Update_H_5Versions": "5 versions",
-  "Update_H_21Versions": "21 versions",
-  "Update_N_Install": "Install a New ${Num} Version",
-  "Update_N_Details": "View More Detailed Changelog",
-  "Update_N_Hide": "Do Not Offer This Update",
-  "Update_N_NotInstall": "Do Not Install the Update",
-  "Update_H_Hidden": "Update ${Num} is hidden",
-  "Update_T_Hidden": "You can later install this update via the RoutineHub",
-  "Update_H_Update": "A new update for Nuvole AI is available!",
-  "H_ModelUpdate": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-  "Main_N_History": "History",
-  "Main_ORG_History": "Browse, search, view and continue your chats with Nuvole AI",
-  "Main_N_LastLoad": "Continue by Loading the Last Chat",
-  "Main_ORG_Ago": "${Seconds} ago",
-  "Main_ORG_2Messages": "2 messages",
-  "Main_ORG_5Messages": "5 messages",
-  "Main_N_Continue": "Continue Chatting with Nuvole AI",
-  "Main_N_NewChat": "Create a New Chat",
-  "Main_ORG_NewChat": "Start from scratch",
-  "Main_ORG_Settings": "Modify and customize Nuvole AI to perfectly fit your needs",
-  "Main_N_Feedback": "Write a Feedback",
-  "Main_ORG_Feedback": "Any problems, questions or ideas on how to improve Nuvole AI?",
-  "Main_H_Main": "Main Menu",
-  "History_N_Search": "Search",
-  "History_ORG_Search": "Search among your chats",
-  "History_N_Back": "Close History",
-  "History_ORG_BackMain": "Return to Main Menu",
-  "History_N_Select": "Select and Delete Chats",
-  "History_N_Delete": "Delete All Chats",
-  "History_T_1Chats": "1 chat",
-  "History_T_2Chats": "2 chats",
-  "History_T_5Chats": "5 chats",
-  "History_T_21Chats": "21 chats",
-  "History_N_DeletionStop": "Do Not Delete",
-  "History_ORG_DeletionStop": "Save chats and go back",
-  "History_N_DeletionDelete": "Delete All Chats",
-  "History_ORG_DeletionDelete": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
-  "History_H_Deletion": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
-  "History_H_Selection": "Choose which chats you want to delete",
-  "History_N_SelectionDelete": "Delete ${Count} Selected ${Chats}",
-  "History_ORG_SelectionDelete": "Delete this chats without the possibility of recovery",
-  "History_H_SelectionConfirm": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-  "History_H_Search": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
-  "History_T_SearchError": "Nothing was found for your request",
-  "History_N_SearchChange": "Change Search Query",
-  "History_N_SearchBack": "Close Search",
-  "History_ORG_BackHistory": "Return to History",
-  "History_N_SearchSelect": "Select and Delete Found Chats",
-  "History_N_SearchDelete": "Delete All Found Chats",
-  "History_T_Found": "${Count chats} found on request “${Text}”",
-  "History_ORG_SearchDeletionDelete": "Delete all found chats without the possibility of recovery",
-  "History_H_SearchDeletion": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-  "Feedback_N_Email": "Using Email",
-  "Feedback_ORG_Email": "You will be able to get feedback from developer",
-  "Feedback_N_Server": "Anonymously",
-  "Feedback_ORG_Server": "You won’t be able to get feedback from developer",
-  "N_Back": "Back",
-  "Feedback_H_Type": "How you want to send feedback?",
-  "Feedback_N_YesConfig": "Yes, Transmit My Nuvole AI Config",
-  "Feedback_ORG_YesConfig": "This may give a better understanding of your problem, if you have one",
-  "Feedback_N_NoConfig": "No, Not Transmit Config",
-  "Feedback_H_Config": "Would you like to transmit a Nuvole AI config with developer?",
-  "Feedback_H_Input": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
-  "Feedback_H_End": "Message sent!",
-  "Feedback_T_End": "Thank you for your feedback! This will help improve the Nuvole AI!",
-  "Chat_N_Rename": "Rename Chat",
-  "Chat_ORG_Rename": "Change the chat name “${Text}” to any other",
-  "Chat_N_Icon": "Change Chat Icon",
-  "Chat_ORG_Icon": "Change the chat icon “${Text}” to any other",
-  "Chat_N_View": "View Chat",
-  "Chat_N_Load": "Load and Continue Chat",
-  "Chat_N_Delete": "Delete Chat",
-  "Chat_ORG_DeletionStop": "Save chat and go back",
-  "Chat_N_DeletionDelete": "Delete This Chat",
-  "Chat_ORG_DeletionDelete": "Delete this chat without the possibility of recovery",
-  "Chat_H_Deletion": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
-  "Chat_H_Renaming": "What name do you want to give this chat?",
-  "Chat_T_RenamingError": "The chat name cannot be an empty string",
-  "Chat_H_Changing": "What icon do you want to give this chat (you can use only one emoji)?",
-  "Chat_T_ChangingError": "Only emojis can be used as an icon",
-  "Settings_T_ID-Voice-True": "With Voice",
-  "Settings_T_ID-Voice-False": "With Text",
-  "Settings_T_ID-Upd-True": "Turned On",
-  "Settings_T_ID-Upd-False": "Turned Off",
-  "Settings_T_ID-Theme-Auto": "System",
-  "Settings_T_ID-Theme-1": "Dark",
-  "Settings_T_ID-Theme-0": "Light",
-  "Settings_T_ID-Summary-1": "Small",
-  "Settings_T_ID-Summary-2": "Medium",
-  "Settings_T_ID-Summary-3": "Big",
-  "Settings_T_ID-Summary-Ask": "Ask Every Time",
-  "Settings_T_ID-Share-1": "Summarization",
-  "Settings_T_ID-Share-2": "Question",
-  "Settings_T_ID-Main-True": "Open When Running",
-  "Settings_T_ID-Main-False": "Don’t Open When Running",
-  "Settings_T_ID-Save-True": "Always",
-  "Settings_T_ID-Save-False": "Only on Request",
-  "Settings_T_ID-Search-True": "Automatically",
-  "Settings_H_Settings": "Settings",
-  "Settings_N_NAME-Lang": "Nuvole AI Language",
-  "Settings_N_NAME-Model": "AI Model",
-  "Settings_N_NAME-Main": "Main Menu",
-  "Settings_N_NAME-Upd": "Checking for Updates",
-  "Settings_N_NAME-Voice": "Entering a Request",
-  "Settings_N_NAME-Search": "Internet Search",
-  "Settings_N_NAME-Saving": "Chat Saving",
-  "Settings_N_NAME-Loading": "Last Chat Load When Running",
-  "Settings_N_NAME-Font": "Font Size",
-  "Settings_N_NAME-Theme": "Appearance",
-  "Settings_N_NAME-History": "Chat History Displaying",
-  "Settings_N_NAME-ImagePlus": "Improving the Prompt Using AI",
-  "Settings_N_NAME-ImageSFW": "NSFW Content Filtering",
-  "Settings_N_NAME-Share": "Request Type",
-  "Settings_N_NAME-Summary": "Summarization Size",
-  "Settings_N_Lite": "Lighter Version of Nuvole AI",
-  "Settings_ORG_Lite": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-  "Settings_N_Close": "Close Settings",
-  "Settings_ORG_Close": "Continue the conversation with Nuvole AI",
-  "Settings_T_C-General": "General Settings",
-  "Settings_T_C-Request": "Processing of the Request",
-  "Settings_T_C-Html": "Displaying the Answer",
-  "Settings_T_C-Image": "Image Generation",
-  "Settings_T_C-Share": "Share Sheet",
-  "Settings_T_C-More": "Additional",
-  "Settings_T_C-Next": "What do you want to do next?",
-  "Settings_ORG_Selected": "Selected setting",
-  "Settings_T_Stop": "Don’t want to change the settings of this parameter?",
-  "Settings_H_Success": "The setting has been changed",
-  "Settings_H_Error": "The setting has not been changed",
-  "Settings_T_FontErrorMax": "You have set the value too high",
-  "Settings_T_FontErrorMin": "You have set the value too small",
-  "Settings_T_FontMax": "Maximum value: 62",
-  "Settings_T_FontMin": "Minimum value: 22",
-  "Settings_T_Font": "Your value: ${Num}",
-  "Settings_H_NAME-Lang": "Choose a language in which it will be convenient for you to work with Nuvole AI",
-  "Settings_H_NAME-Font": "Select the font size to display the response (48 pixels by default)",
-  "Settings_N_Search-True": "Automatically Search for Information on the Internet",
-  "Settings_N_Search-False": "Do Not Look for Information on the Internet",
-  "Settings_H_NAME-Search": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
-  "Settings_N_Saving-True": "Always Save New Chats",
-  "Settings_N_Saving-False": "Save New Chats Only on Request",
-  "Settings_H_NAME-Saving": "How do you want to save new chats?",
-  "Settings_N_Loading-False": "Create New Chat",
-  "Settings_N_Loading-True": "Automatically Load and Continue Last Chat When Running",
-  "Settings_H_NAME-Loading": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
-  "Settings_H_NAME-Theme": "Select the appearance to be applied to the display of responses",
-  "Settings_N_History-True": "Display Chat History ",
-  "Settings_N_History-False": "Do Not Display Chat History",
-  "Settings_H_NAME-History": "Select whether you want to display the session history",
-  "Settings_N_ImagePlus-True": "Improve Prompt with AI",
-  "Settings_N_ImagePlus-False": "Do Not Improve Prompt with AI",
-  "Settings_H_NAME-ImagePlus": "Select whether you want to improve prompt to generate images with AI",
-  "Settings_N_ImageSFW-True": "Filter NSFW Content When Generating Images",
-  "Settings_N_ImagwSFW-False": "Do Not Filter NSFW Content When Generating Images",
-  "Settings_H_NAME-Share": "Select what you want to do with the items from the “Share Sheet” menu",
-  "Settings_H_NAME-Summary": "Select the size of summarization you want to receive",
-  "Error_H_Error": "Error",
-  "Share_T_ErrorSite": "Unfortunately, Nuvole AI cannot work with this site",
-  "Share_N_Summary": "Make a Summarization",
-  "Share_N_Question": "Ask Your Question",
-  "Share_H_SiteType": "What do you want to do with this site?",
-  "Share_H_SummarySize": "Select the size of summarization you want to get",
-  "Share_H_Input": "What do you want to ask?",
-  "Share_T_SiteSize": "Make a ${Size} summarization of the site",
-  "Share_T_ErrorVideo": "Unfortunately, Nuvole AI cannot work with this video",
-  "Share_H_VideoType": "What do you want to do with this video?",
-  "Share_T_VideoSize": "Make a ${Size} summarization of the video",
-  "Share_N_AllFile": "Use the Whole File",
-  "Share_N_Pages": "Select the Pages to be Used",
-  "Share_ORG_Pages": "Before selecting, you will be shown your file",
-  "Share_H_BigFile": "Use the whole file? Or certain pages?",
-  "Share_H_Pages": "Select the pages you want to use",
-  "Share_T_ErrorFile": "Unfortunately, Nuvole AI cannot work with this file",
-  "Share_N_AllPre": "Use the Whole Presentation",
-  "Share_N_Slides": "Select the Slides to be Used",
-  "Share_ORG_Slides": "Before selecting, you will be shown your presentation",
-  "Share_H_BigPre": "Use the whole presentation? Or certain slides?",
-  "Share_H_Slides": "Select the slides you want to use",
-  "Share_T_ErrorPre": "Unfortunately, Nuvole AI cannot work with this presentation",
-  "Share_T_ErrorExtension": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
-  "Share_H_FileType": "What do you want to do with this file?",
-  "Share_T_FileSize": "Make a ${Size} summarization of the file",
-  "Text_T_History": "The history of “${Name}” chat is loaded.",
-  "Text_T_Else": "Maybe something else?",
-  "Text_T_New": "Hello! How can I help you?",
-  "Text_T_Exit": "Nuvole AI will complete its work",
-  "Text_T_Save": "Chat will be saved",
-  "Text_T_Seconds": "Thought for ${Num} seconds",
-  "Text_T_ShowThink": "Show full throghts",
-  "Text_T_HideThink": "Hide full throghts",
-  "Text_T_Search": "Found ${Num} results",
-  "Text_T_Show": "Show full message",
-  "Text_T_Hide": "Hide full message",
-  "Error_T_Normal": "All systems are working properly.",
-  "Error_T_Outage": "Partial problems.",
-  "Error_T_Type-Error-1": "An error occurred during processing the request.",
-  "Error_T_Type-Error-2": "An error occurred during the thinking process.",
-  "Error_T_Type-Error-3": "An error occurred during text generation.",
-  "Error_T_Type-Error-4": "An error occurred during image generation.",
-  "Error_T_Type-Error-5": "An error occurred during processing the image.",
-  "Error_N_Replace": "Change the AI Model for This Session Only and Repeat Request",
-  "Error_ORG_Replace": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
-  "Error_N_Change": "Change the AI Model and Repeat Request",
-  "Error_ORG_Change": "Nuvole AI will use the model that you will select",
-  "Error_ORG_RestartNew": "New chat will be created",
-  "Error_ORG_RestartLoad": "This chat will load automatically",
-  "Error_N_Repeat": "Repeat Request",
-  "Error_N_Restart": "Restart Nuvole AI",
-  "Error_N_Report": "Is the Error Repeating Too Often?",
-  "Error_ORG_Report": "Report a bug",
-  "Error_H_Status": "Server status of ${Name}",
-  "Error_N_ChangeStop": "Repeat Request Using the Same Model",
-  "Error_ORG_ChangeStop": "Repeat request using ${Name}",
-  "Error_T_Changing": "Don’t want to change the model?",
-  "Feedback_N_YesHistory": "Yes, Transmit the History of This Chat",
-  "Feedback_ORG_YesHistory": "This may give a better understanding of your problem",
-  "Feedback_N_NoHistory": "No, Not Transmit the History",
-  "Feedback_H_History": "Do you want to share this chat containing your messages and AI responses with developer?",
-  "Feedback_H_ReportInput": "Describe in detail the problem you have encountered",
-  "Settings_N_Telegram": "Subscribe to MIKL’s Telegram Channel",
-  "Settings_ORG_Telegram": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects."
+  "Settings_N_NAME-Search": {
+    "value": "Internet Search",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "Major outage.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "Checking for Updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "Unfortunately, Nuvole AI cannot work with this file",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "You will be able to get feedback from developer",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "Thought for ${Num} seconds",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "How you want to send feedback?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "Delete All Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "Select the appearance to be applied to the display of responses",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "Yes, Transmit the History of This Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "Message sent!",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "With Text",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "Would you like to transmit a Nuvole AI config with developer?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "Choose which chats you want to delete",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "System",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "Delete Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 messages",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "Only on Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "${Count versions} have been released since version ${Num}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "Turned On",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "Main Menu",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "Device management alert!",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "Question",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "View More Detailed Changelog",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "Open the Main Menu with Each New Running",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "Write a Feedback",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "Main Menu",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "Select the slides you want to use",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "An error occurred during image generation.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 versions",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "More",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "Hide Full Note",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "All systems are working properly.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "Create a New Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "Create New Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "Unfortunately, Nuvole AI cannot work with this video",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "More Information about Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Delete this chat without the possibility of recovery",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "Do Not Receive Updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "Do Not Filter NSFW Content When Generating Images",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "Chat will be saved",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 changes",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "Continue the conversation with Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "What do you want to do with this site?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "Appearance",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 update",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "Always",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "Load and Continue Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "Hide Full Throghts",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "Report a bug",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "Not available at the moment",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Do Not Improve Prompt with AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "What do you want to do next?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "Describe in detail the problem you have encountered",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "Share Sheet",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "Browse, search, view and continue your chats with Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "Return to History",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "Save chat and go back",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "Receive Updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "What do you want to do with this file?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 change",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "Unfortunately, Nuvole AI cannot work with this site",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "Search",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "Continue by Loading the Last Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "${Seconds} ago",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "Make a ${Size} summarization of the site",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "New chat will be created",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "What icon do you want to give this chat (you can use only one emoji)?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "Make a ${Size} summarization of the video",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "Use the whole presentation? Or certain slides?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "Restart Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "Found ${Num} results",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "A new update for Nuvole AI is available!",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "AI Model",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "Always Save New Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "Make a ${Size} summarization of the file",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "Small",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "Dark",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "Ask Every Time",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "Change the AI Model for This Session Only and Repeat Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "Without Opening to Enter the Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "Only emojis can be used as an icon",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "No, Not Transmit the History",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "Select and Delete Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "Delete All Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "An error occurred during text generation.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Improving the Prompt Using AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "Save chats and go back",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "Change Chat Icon",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "Show Full Message",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "Install a New ${Num} Version",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Which AI model would you like to use?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "Skip and Start Working with Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Last Chat Load When Running",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "Turned Off",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "No, Skip This Action",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "Select whether you want to display the session history",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "Processing of the Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "Your value: ${Num}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "Automatically Load and Continue Last Chat When Running",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "Chat History Displaying",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "Do you want to open the Main Menu when running Nuvole AI?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "The setting has been changed",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "Close Search",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "Don’t want to change the settings of this parameter?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "Medium",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "Automatically Search for Information on the Internet",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 changes",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "Select the pages you want to use",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "Server status of ${Name}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Recommended for a better experience of Nuvole AI usage",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "Hide Full Message",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "Select whether you want to improve prompt to generate images with AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "Ask Your Question",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "Change the chat name “${Text}” to any other",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "Change Search Query",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "Error",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "Make a Summarization",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "What name do you want to give this chat?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "The history of “${Name}” chat is loaded.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "This may give a better understanding of your problem, if you have one",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "Select and Delete Found Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "What do you want to ask?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "Summarization",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "Start from scratch",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "Settings",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "Additional",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "You can later install this update via the RoutineHub",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "Repeat request using ${Name}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "An error occurred during the thinking process.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "Change the chat icon “${Text}” to any other",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "The setting has not been changed",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "This chat will load automatically",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "Anonymously",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Nuvole AI will use the model that you will select",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "Hello! How can I help you?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "Big",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "Select the size of summarization you want to receive",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "Return to Main Menu",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Before selecting, you will be shown your presentation",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "History",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "Summarization Size",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "Displaying the Answer",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "Do Not Display Chat History",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "Continue Chatting with Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "Entering a Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "Select the font size to display the response (48 pixels by default)",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Nuvole AI Language",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "Lighter Version of Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "Improve Prompt with AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "Don’t want to change the model?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "Chat Saving",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "Select the most convenient way for you to enter a request for AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Delete this chats without the possibility of recovery",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "Recomended",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "With Voice",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "Don’t Open When Running",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "An error occurred during note generation.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "Use the Whole Presentation",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "Repeat Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "Open When Running",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "Update ${Num} is hidden",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "Using Email",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "Goodbye!",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "General Settings",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 changes",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "Select what you want to do with the items from the “Share Sheet” menu",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "Delete All Found Chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "Use the whole file? Or certain pages?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "Filter NSFW Content When Generating Images",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "NSFW Content Filtering",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "Show Full Note",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "Close Settings",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Delete all found chats without the possibility of recovery",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "Use the Whole File",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "Change the AI Model and Repeat Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "Select the Slides to be Used",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "Subscribe to MIKL’s Telegram Channel",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "Light",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "Do Not Delete",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 messages",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "Maybe something else?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "Do Not Offer This Update",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "Rename Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "Exit the Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "Image Generation",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "Do Not Install the Update",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "What do you want to do with this video?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "An error occurred during processing the request.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "Save New Chats Only on Request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "Minimum value: 22",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "${Count chats} found on request “${Text}”",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "Yes, Transmit My Nuvole AI Config",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "Is the Error Repeating Too Often?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "Select the Pages to be Used",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "You have set the value too high",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "You won’t be able to get feedback from developer",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "Delete ${Count} Selected ${Chats}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 versions",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "Close History",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "How do you want to save new chats?",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "Font Size",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "You have set the value too small",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "Automatically",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "Repeat Request Using the Same Model",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "An error occurred during processing the image.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "Select the size of summarization you want to get",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 versions",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "Select whether you want to receive notifications about updates",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "This may give a better understanding of your problem",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "Yes, Generate and Save a Note on My Device",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "No, Not Transmit Config",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "View Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "Delete This Chat",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "The chat name cannot be an empty string",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "Display Chat History ",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "Before selecting, you will be shown your file",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "Request Type",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "Back",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "Maximum value: 62",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "Do Not Look for Information on the Internet",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "Search among your chats",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "Show Full Throghts",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "Nothing was found for your request",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "Nuvole AI will complete its work",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "Partial problems.",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "Selected setting",
+    "translatedBy": "human",
+    "isTranslated": true,
+    "version": 1
+  }
 }
