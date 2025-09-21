@@ -4,12 +4,40 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
 
 ## How to make changes to the translation for Nuvole AI?
 
+### Guide:
+
 1. Fork this repository;
 2. Make changes to file with translations (`dictionaries/language-code.json`):
   - Translate what is in `value` into the language that names the file;
   - Change or check on corrections what is translated by AI (`"translatedBy": "ai"`). At the same time, changing `translatedBy` to the value of `human`;
   - Translate only what you know and are 100% sure of. The original version of the element is shown in `original.value`.
 3. Once you have translated and corrected all the translations of the elements, make a contribute by opening a pull request.
+
+### Examples:
+
+- **Old**:
+```
+"History_T_2Chats": {
+    "value": "22 chats",
+    "original": {
+      "value": "2 chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  }
+```
+
+- **New**:
+```
+"History_T_2Chats": {
+    "value": " 2 chats", // 4 chats -> 2 chats
+    "original": {
+      "value": "2 chats"
+    },
+    "translatedBy": "human", // ai -> human
+    "isTranslated": true
+  }
+```
 
 ## Additional information
 
