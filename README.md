@@ -15,10 +15,12 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
 
 ### Examples:
 
-- **Old**:
+#### 1. Bad translation (fixing):
+
+**Old**:
 ```
 "History_T_2Chats": {
-    "value": "22 chats",
+    "value": "22 chats", // Bad translation from AI (not matches with original.value)
     "original": {
       "value": "2 chats"
     },
@@ -27,7 +29,7 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
   }
 ```
 
-- **New**:
+**New**:
 ```
 "History_T_2Chats": {
     "value": " 2 chats", // 4 chats -> 2 chats
@@ -38,6 +40,36 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
     "isTranslated": true
   }
 ```
+
+There are changes in the values of `value` and `translatedBy`, as the translation has been changed.
+
+#### 2. Excellent translation (checking):
+
+**Old**:
+```
+"History_T_2Chats": {
+    "value": "2 chats", // Good translation from AI
+    "original": {
+      "value": "2 chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  }
+```
+
+**New**:
+```
+"History_T_2Chats": {
+    "value": " 2 chats",
+    "original": {
+      "value": "2 chats"
+    },
+    "translatedBy": "human", // ai -> human
+    "isTranslated": true
+  }
+```
+
+There are change in the value of `translatedBy`, as the translation has been checked by a person and it is perfect.
 
 ## Additional information
 
