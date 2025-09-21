@@ -5,9 +5,9 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
 ## How to make changes to the translation for Nuvole AI?
 
 1. Fork this repository;
-2. Make changes to file with translations:
-   - Translate what is in `value` into the language that names the file;
-   - Change what is translated by AI (see `translatedBy`. At the same time, changing `translatedBy` to the value of `human`;
+2. Make changes to file with translations (`dictionaries/language-code.json`):
+  - Translate what is in `value` into the language that names the file;
+  - Change what is translated by AI (see `translatedBy`. At the same time, changing `translatedBy` to the value of `human`;
   - Translate only what you know and are 100% sure of. The original version of the element is shown in `original.value`.
 3. Once you have translated and corrected all the translations of the elements, make a contribute by opening a pull request.
 
