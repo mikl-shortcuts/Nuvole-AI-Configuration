@@ -13,6 +13,9 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
   - Translate only what you know and are 100% sure of. The original version of the element is shown in `original.value`.
 3. Once you have translated and corrected all the translations of the elements, make a contribute by opening a pull request.
 
+> [!NOTE]
+> Please leave JSON in the same beautiful format. So that it would be convenient for other translators to work.
+
 ### Examples:
 
 #### 1. Bad translation (fixing):
