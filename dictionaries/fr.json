@@ -48,11 +48,11 @@
     "isTranslated": true
   },
   "Text_T_Seconds": {
-    "value": "Réflexion pendant ${Num} secondes",
+    "value": "Réponse réfléchit pendant ${Num} secondes",
     "original": {
       "value": "Thought for ${Num} seconds"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Feedback_H_Type": {
@@ -64,7 +64,7 @@
     "isTranslated": true
   },
   "History_N_DeletionDelete": {
-    "value": "Supprimer tous les chats",
+    "value": "Supprimer toutes les conversations",
     "original": {
       "value": "Delete All Chats"
     },
@@ -112,7 +112,7 @@
     "isTranslated": true
   },
   "History_H_Selection": {
-    "value": "Choisissez les chats que vous souhaitez supprimer",
+    "value": "Choisissez les conversations que vous souhaitez supprimer",
     "original": {
       "value": "Choose which chats you want to delete"
     },
@@ -128,7 +128,7 @@
     "isTranslated": true
   },
   "Chat_N_Delete": {
-    "value": "Supprimer le chat",
+    "value": "Supprimer la conversation",
     "original": {
       "value": "Delete Chat"
     },
@@ -320,11 +320,11 @@
     "isTranslated": true
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Supprimer ce chat sans possibilité de récupération",
+    "value": "Supprimer cette conversation sans possibilité de récupération",
     "original": {
       "value": "Delete this chat without the possibility of recovery"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Install_N_NoUpdates": {
@@ -352,7 +352,7 @@
     "isTranslated": true
   },
   "Text_T_Save": {
-    "value": "Le chat sera enregistré",
+    "value": "La conversation sera enregistré",
     "original": {
       "value": "Chat will be saved"
     },
@@ -408,7 +408,7 @@
     "isTranslated": true
   },
   "Chat_N_Load": {
-    "value": "Charger et poursuivre le chat",
+    "value": "Charger et poursuivre la conversation",
     "original": {
       "value": "Load and Continue Chat"
     },
@@ -416,11 +416,11 @@
     "isTranslated": true
   },
   "Text_T_HideThink": {
-    "value": "Masquer les pensées complètes",
+    "value": "Masquer les réflexions complètes",
     "original": {
       "value": "Hide Full Throghts"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Error_ORG_Report": {
@@ -440,11 +440,11 @@
     "isTranslated": true
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Ne pas améliorer l'invite avec l'IA",
+    "value": "Ne pas améliorer la demande avec l'IA",
     "original": {
       "value": "Do Not Improve Prompt with AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_T_C-Next": {
@@ -472,11 +472,11 @@
     "isTranslated": true
   },
   "Main_ORG_History": {
-    "value": "Parcourez, recherchez, affichez et poursuivez vos chats avec Nuvole AI",
+    "value": "Parcourez, recherchez, affichez et poursuivez vos conversations avec Nuvole AI",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "History_ORG_BackHistory": {
@@ -488,7 +488,7 @@
     "isTranslated": true
   },
   "Chat_ORG_DeletionStop": {
-    "value": "Enregistrer le chat et revenir",
+    "value": "Enregistrer la conversations et revenir",
     "original": {
       "value": "Save chat and go back"
     },
@@ -536,7 +536,7 @@
     "isTranslated": true
   },
   "Main_N_LastLoad": {
-    "value": "Continuer en chargeant le dernier chat",
+    "value": "Continuer en chargeant la dernière conversation",
     "original": {
       "value": "Continue by Loading the Last Chat"
     },
@@ -544,11 +544,11 @@
     "isTranslated": true
   },
   "Main_ORG_Ago": {
-    "value": "${Seconds} ago",
+    "value": "Il y a ${Seconds} secondes",
     "original": {
       "value": "${Seconds} ago"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Share_T_SiteSize": {
@@ -560,7 +560,7 @@
     "isTranslated": true
   },
   "Error_ORG_RestartNew": {
-    "value": "Un nouveau chat sera créé",
+    "value": "Une nouvelle conversation sera créé",
     "original": {
       "value": "New chat will be created"
     },
@@ -568,11 +568,11 @@
     "isTranslated": true
   },
   "Chat_H_Changing": {
-    "value": "Quel icône voulez-vous donner à ce chat (vous ne pouvez utiliser qu'un seul emoji) ?",
+    "value": "Quel icône voulez-vous donner à cette conversation (vous ne pouvez utiliser qu'un seul emoji) ?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Main_ORG_Feedback": {
@@ -608,11 +608,11 @@
     "isTranslated": true
   },
   "Text_T_Search": {
-    "value": "Trouvé ${Num} résultats",
+    "value": "${Num} résultats trouvés",
     "original": {
       "value": "Found ${Num} results"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_ORG_Telegram": {
@@ -640,11 +640,11 @@
     "isTranslated": true
   },
   "Settings_N_Saving-True": {
-    "value": "Toujours enregistrer les nouveaux chats",
+    "value": "Toujours enregistrer les nouvelles conversations",
     "original": {
       "value": "Always Save New Chats"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Share_T_FileSize": {
@@ -720,7 +720,7 @@
     "isTranslated": true
   },
   "History_N_Select": {
-    "value": "Sélectionner et supprimer des chats",
+    "value": "Sélectionner et supprimer des conversations",
     "original": {
       "value": "Select and Delete Chats"
     },
@@ -728,7 +728,7 @@
     "isTranslated": true
   },
   "History_N_Delete": {
-    "value": "Supprimer tous les chats",
+    "value": "Supprimer tous les conversations",
     "original": {
       "value": "Delete All Chats"
     },
@@ -736,11 +736,11 @@
     "isTranslated": true
   },
   "History_T_1Chats": {
-    "value": "1 chat",
+    "value": "1 conversation",
     "original": {
       "value": "1 chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Error_T_Type-Error-3": {
@@ -752,35 +752,35 @@
     "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Améliorer l'invite en utilisant l'IA",
+    "value": "Améliorer la demande en utilisant l'IA",
     "original": {
       "value": "Improving the Prompt Using AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_H_NAME-Loading": {
-    "value": "Voulez-vous créer un nouveau chat ou charger et continuer le dernier lors de l'exécution de Nuvole AI ?",
+    "value": "Voulez-vous créer une nouvelle conversation ou charger et continuer le dernier lors de l'exécution de Nuvole AI ?",
     "original": {
       "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "History_ORG_DeletionStop": {
-    "value": "Sauvegarder les chats et revenir",
+    "value": "Sauvegarder les comversations et revenir",
     "original": {
       "value": "Save chats and go back"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Chat_N_Icon": {
-    "value": "Changer l'icône du chat",
+    "value": "Changer l'icône de la conversation",
     "original": {
       "value": "Change Chat Icon"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Text_T_Show": {
@@ -816,11 +816,11 @@
     "isTranslated": true
   },
   "Settings_N_NAME-Loading": {
-    "value": "Chargement du dernier chat lors de l'exécution",
+    "value": "Chargement de la dernière conversation lors de l'exécution",
     "original": {
       "value": "Last Chat Load When Running"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
@@ -880,19 +880,19 @@
     "isTranslated": true
   },
   "Settings_N_Loading-True": {
-    "value": "Charger et poursuivre automatiquement le dernier chat lors de l'exécution",
+    "value": "Charger et poursuivre automatiquement la dernière conversation lors de l'exécution",
     "original": {
       "value": "Automatically Load and Continue Last Chat When Running"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_N_NAME-History": {
-    "value": "Affichage de l'historique des chats",
+    "value": "Affichage de l'historique des conversations",
     "original": {
       "value": "Chat History Displaying"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Install_H_Main": {
@@ -960,11 +960,11 @@
     "isTranslated": true
   },
   "History_H_SearchDeletion": {
-    "value": "Êtes-vous sûr de vouloir supprimer ${Count} chats trouvés ? Vous pouvez supprimer uniquement les chats nécessaires en sélectionnant « Sélectionner et supprimer les chats trouvés » dans le menu précédent. En cliquant sur le bouton « Supprimer tous les chats trouvés », vous acceptez que tous les chats trouvés soient supprimés sans possibilité de récupération.",
+    "value": "Êtes-vous sûr de vouloir supprimer ${Count} conversations trouvés ? Vous pouvez supprimer uniquement les conversations nécessaires en sélectionnant « Sélectionner et supprimer les conversations trouvés » dans le menu précédent. En cliquant sur le bouton « Supprimer tous les conversations trouvés », vous acceptez que tous les conversations trouvés soient supprimés sans possibilité de récupération.",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Share_H_Pages": {
