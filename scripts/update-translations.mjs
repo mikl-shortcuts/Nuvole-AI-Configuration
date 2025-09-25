@@ -9,8 +9,8 @@ const API_URL = 'https://translateapi-six.vercel.app/api/translate';
 
 function getPreviousEnJson() {
   try {
-    const relativePath = path.relative(process.cwd(), EN_FILE).replace(/\\/g, '/');
-    const content = execSync(`git show HEAD:${relativePath}`, { encoding: 'utf8' });
+    const relPath = path.relative(process.cwd(), EN_FILE).replace(/\\/g, '/');
+    const content = execSync(`git show HEAD~1:${relPath}`, { encoding: 'utf8' });
     return JSON.parse(content);
   } catch {
     return {};
