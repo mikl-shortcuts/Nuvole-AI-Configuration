@@ -31,7 +31,7 @@ function getLanguageFiles() {
 
 async function translateText(textObj, lang) {
   const payload = {
-    text: JSON.stringify(textObj),
+    json: JSON.stringify(textObj),
     lang: lang
   };
 
@@ -42,6 +42,8 @@ async function translateText(textObj, lang) {
   });
 
   if (!response.ok) {
+    const errorText = await response.text();
+    console.error('API Error Response:', errorText);
     throw new Error(`Translation API error: ${response.status}`);
   }
 
