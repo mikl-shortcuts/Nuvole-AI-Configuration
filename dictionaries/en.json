@@ -1,31 +1,6 @@
 {
-  "627282727": {
-    "value": "New value (Test)",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "1661727": {
-    "value": "New value (Test)",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "TestTestTestTest": {
-    "value": "New value (Test)",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "New-Value-Test": {
-    "value": "New value (Test)",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "Test": {
-    "value": "Hello!",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "NewValuZ-Search": {
-    "value": "Hello!",
+  "Settings_N_NAME-Search": {
+    "value": "Internet Search",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -39,18 +14,18 @@
     "translatedBy": "human",
     "isTranslated": true
   },
+  "Share_T_ErrorFile": {
+    "value": "Unfortunately, Nuvole AI cannot work with this file",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "History_T_2Chats": {
     "value": "2 chats",
     "translatedBy": "human",
     "isTranslated": true
   },
-  "NEW-VALUE-Search": {
-    "value": "Hello!",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
   "Feedback_ORG_Email": {
-    "value": "New Update (Test message)",
+    "value": "You will be able to get feedback from developer",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -65,7 +40,7 @@
     "isTranslated": true
   },
   "History_N_DeletionDelete": {
-    "value": "Delete",
+    "value": "Delete All Chats",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -84,6 +59,11 @@
     "translatedBy": "human",
     "isTranslated": true
   },
+  "Settings_T_ID-Voice-False": {
+    "value": "With Text",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "Feedback_H_Config": {
     "value": "Would you like to transmit a Nuvole AI config with developer?",
     "translatedBy": "human",
@@ -95,7 +75,7 @@
     "isTranslated": true
   },
   "Settings_T_ID-Theme-Auto": {
-    "value": "New Value Update",
+    "value": "System",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -126,6 +106,11 @@
   },
   "Settings_T_ID-Upd-True": {
     "value": "Turned On",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Main": {
+    "value": "Main Menu",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -170,7 +155,7 @@
     "isTranslated": true
   },
   "Error_T_Type-Error-4": {
-    "value": "Just Error😀",
+    "value": "An error occurred during image generation.",
     "translatedBy": "human",
     "isTranslated": true
   },
