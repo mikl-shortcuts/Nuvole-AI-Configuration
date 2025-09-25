@@ -1,0 +1,39 @@
+name: Update Translations
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.modified, 'dictionaries/en.json') || contains(github.event.head_commit.added, 'dictionaries/en.json') || contains(github.event.head_commit.removed, 'dictionaries/en.json')
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@^3
+
+      - name: Run translation update
+        run: node scripts/update-translations.mjs
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dictionaries/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update translations based on en.json"
+            git push
+          else
+            echo "No changes to commit."
+          fi
