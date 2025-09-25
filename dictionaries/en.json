@@ -1,4 +1,9 @@
 {
+  "Test": {
+    "value": "Hello!",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "NewValuZ-Search": {
     "value": "Hello!",
     "translatedBy": "human",
