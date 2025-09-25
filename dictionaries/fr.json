@@ -1,4 +1,20 @@
 {
+  "627282727": {
+    "value": "New value (Test)",
+    "original": {
+      "value": "New value (Test)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Just Error😀",
+    "original": {
+      "value": "Just Error😀"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Problem": {
     "value": "Panne majeure.",
     "original": {
@@ -79,14 +95,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ID-Voice-False": {
-    "value": "Avec du texte",
-    "original": {
-      "value": "With Text"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Feedback_H_Config": {
     "value": "Souhaitez-vous transmettre une configuration Nuvole AI avec le développeur ?",
     "original": {
@@ -159,14 +167,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_NAME-Main": {
-    "value": "Menu principal",
-    "original": {
-      "value": "Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Generation_H_H": {
     "value": "Alerte de gestion de l'appareil !",
     "original": {
@@ -224,14 +224,6 @@
     "isTranslated": true
   },
   "Share_H_Slides": {
-    "value": "Supprimer l'intégralité de l'historique des conversations avec Nuvole AI sans possibilité de récupération",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
     "value": "Supprimer l'intégralité de l'historique des conversations avec Nuvole AI sans possibilité de récupération",
     "original": {
       "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery"
