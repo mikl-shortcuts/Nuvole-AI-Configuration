@@ -1,4 +1,9 @@
 {
+  "NewValuE-Search": {
+    "value": "Hello!",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Internet Search",
     "translatedBy": "human",
@@ -14,18 +19,13 @@
     "translatedBy": "human",
     "isTranslated": true
   },
-  "Share_T_ErrorFile": {
-    "value": "Unfortunately, Nuvole AI cannot work with this file",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
   "History_T_2Chats": {
     "value": "2 chats",
     "translatedBy": "human",
     "isTranslated": true
   },
   "Feedback_ORG_Email": {
-    "value": "You will be able to get feedback from developer",
+    "value": "New Update (Test message)",
     "translatedBy": "human",
     "isTranslated": true
   },
