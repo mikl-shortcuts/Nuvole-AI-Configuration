@@ -31,7 +31,7 @@ function getLanguageFiles() {
 
 async function translateText(textObj, lang) {
   const payload = {
-    json: JSON.stringify(textObj),
+    json: textObj,
     language: lang
   };
 
