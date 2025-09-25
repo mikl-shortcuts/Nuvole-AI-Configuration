@@ -1,16 +1,64 @@
 {
-  "627282727": {
-    "value": "New value (Test)",
+  "Settings_N_NAME-Main": {
+    "value": "Main Menu",
     "original": {
-      "value": "New value (Test)"
+      "value": "Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "With Text",
+    "original": {
+      "value": "With Text"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_T_ErrorFile": {
+    "value": "Unfortunately, Nuvole AI cannot work with this file",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Search": {
+    "value": "Internet Search",
+    "original": {
+      "value": "Internet Search"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_T_Type-Error-4": {
-    "value": "Just Error😀",
+    "value": "An error occurred during image generation.",
     "original": {
-      "value": "Just Error😀"
+      "value": "An error occurred during image generation."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "System",
+    "original": {
+      "value": "System"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_N_DeletionDelete": {
+    "value": "Delete All Chats",
+    "original": {
+      "value": "Delete All Chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "You will be able to get feedback from developer",
+    "original": {
+      "value": "You will be able to get feedback from developer"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -39,14 +87,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Feedback_ORG_Email": {
-    "value": "Vous pourrez obtenir des retours du développeur",
-    "original": {
-      "value": "You will be able to get feedback from developer"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Text_T_Seconds": {
     "value": "Réflexion pendant ${Num} secondes",
     "original": {
@@ -59,14 +99,6 @@
     "value": "Comment souhaitez-vous envoyer vos retours ?",
     "original": {
       "value": "How you want to send feedback?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_N_DeletionDelete": {
-    "value": "Supprimer tous les chats",
-    "original": {
-      "value": "Delete All Chats"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -107,14 +139,6 @@
     "value": "Choisissez les chats que vous souhaitez supprimer",
     "original": {
       "value": "Choose which chats you want to delete"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_T_ID-Theme-Auto": {
-    "value": "Système",
-    "original": {
-      "value": "System"
     },
     "translatedBy": "ai",
     "isTranslated": true
