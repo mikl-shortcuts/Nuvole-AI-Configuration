@@ -1,12 +1,4 @@
 {
-  "Settings_N_NAME-Search": {
-    "value": "Recherche Internet",
-    "original": {
-      "value": "Internet Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Error_T_Problem": {
     "value": "Panne majeure.",
     "original": {
@@ -19,14 +11,6 @@
     "value": "Vérification des mises à jour",
     "original": {
       "value": "Checking for Updates"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_T_ErrorFile": {
-    "value": "Malheureusement, Nuvole AI ne peut pas travailler avec ce fichier",
-    "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file"
     },
     "translatedBy": "ai",
     "isTranslated": true
