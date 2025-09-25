@@ -32,7 +32,7 @@ function getLanguageFiles() {
 async function translateText(textObj, lang) {
   const payload = {
     json: JSON.stringify(textObj),
-    lang: lang
+    language: lang
   };
 
   const response = await fetch(API_URL, {
