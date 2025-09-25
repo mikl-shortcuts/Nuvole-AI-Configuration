@@ -1,4 +1,9 @@
 {
+  "New-Value-Test": {
+    "value": "New value (Test)",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "Test": {
     "value": "Hello!",
     "translatedBy": "human",
