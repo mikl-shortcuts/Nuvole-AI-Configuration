@@ -1,4 +1,9 @@
 {
+  "1661727": {
+    "value": "New value (Test)",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "TestTestTestTest": {
     "value": "New value (Test)",
     "translatedBy": "human",
@@ -90,7 +95,7 @@
     "isTranslated": true
   },
   "Settings_T_ID-Theme-Auto": {
-    "value": "System",
+    "value": "New Value Update",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -121,11 +126,6 @@
   },
   "Settings_T_ID-Upd-True": {
     "value": "Turned On",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Main": {
-    "value": "Main Menu",
     "translatedBy": "human",
     "isTranslated": true
   },
