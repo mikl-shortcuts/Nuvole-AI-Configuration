@@ -84,7 +84,8 @@ async function updateLanguageFile(langPath, currentEn, prevEn) {
   }
 
   if (Object.keys(changedKeys).length > 0) {
-    const translations = await translateText(changedKeys, langCode);
+    const apiResponse = await translateText(changedKeys, langCode);
+    const translations = apiResponse[langCode] || {};
     for (const [key, enValue] of Object.entries(changedKeys)) {
       const translatedValue = translations[key] ?? enValue;
       newLangData[key] = {
