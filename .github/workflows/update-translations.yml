@@ -7,26 +7,38 @@ on:
 jobs:
   update-translations:
     runs-on: ubuntu-latest
-    if: contains(github.event.head_commit.modified, 'dictionaries/en.json') || contains(github.event.head_commit.added, 'dictionaries/en.json') || contains(github.event.head_commit.removed, 'dictionaries/en.json')
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2
+
+      - name: Check if en.json changed
+        id: check
+        run: |
+          if git diff --name-only HEAD~1 HEAD | grep -q "^dictionaries/en\.json$"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Setup Node.js
+        if: steps.check.outputs.changed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install dependencies
+        if: steps.check.outputs.changed == 'true'
         run: npm install node-fetch@^3
 
       - name: Run translation update
+        if: steps.check.outputs.changed == 'true'
         run: node scripts/update-translations.mjs
 
       - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -34,6 +46,4 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore: auto-update translations based on en.json"
             git push
-          else
-            echo "No changes to commit."
           fi
