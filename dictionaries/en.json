@@ -1,4 +1,9 @@
 {
+  "627282727": {
+    "value": "New value (Test)",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "1661727": {
     "value": "New value (Test)",
     "translatedBy": "human",
@@ -76,11 +81,6 @@
   },
   "Feedback_H_End": {
     "value": "Message sent!",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "Settings_T_ID-Voice-False": {
-    "value": "With Text",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -170,7 +170,7 @@
     "isTranslated": true
   },
   "Error_T_Type-Error-4": {
-    "value": "An error occurred during image generation.",
+    "value": "Just Error😀",
     "translatedBy": "human",
     "isTranslated": true
   },
