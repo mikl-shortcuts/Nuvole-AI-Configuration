@@ -1,4 +1,9 @@
 {
+  "TestTestTestTest": {
+    "value": "New value (Test)",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "New-Value-Test": {
     "value": "New value (Test)",
     "translatedBy": "human",
@@ -50,7 +55,7 @@
     "isTranslated": true
   },
   "History_N_DeletionDelete": {
-    "value": "Delete All Chats",
+    "value": "Delete",
     "translatedBy": "human",
     "isTranslated": true
   },
