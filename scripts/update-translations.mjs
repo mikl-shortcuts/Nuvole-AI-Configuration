@@ -10,6 +10,12 @@ const API_URL = 'https://nuvole-systems.vercel.app/api/translator';
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000;
 
+const API_KEY = process.env.TRANSLATION_API_KEY;
+if (!API_KEY) {
+  log('error', 'TRANSLATION_API_KEY is not set');
+  throw new Error('Missing TRANSLATION_API_KEY');
+}
+
 function log(level, message) {
   const timestamp = new Date().toISOString();
   const prefix = { info: '[INFO]', warn: '[WARN]', error: '[ERROR]' }[level] || '[LOG]';
@@ -51,7 +57,7 @@ async function translateWithRetry(payload, lang, retries = MAX_RETRIES) {
   try {
     const response = await fetch(API_URL, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'x-api-key': API_KEY },
       body: JSON.stringify(payload),
       signal: controller.signal
     });
