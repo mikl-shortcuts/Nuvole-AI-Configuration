@@ -1,6 +1,6 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI!",
+    "value": "Hello, I am Nuvole AI! And who are you?",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -9,8 +9,8 @@
     "translatedBy": "human",
     "isTranslated": true
   },
-  "Test-Value": {
-    "value": "Testing something really REALLY great 😋",
+  "Test": {
+    "value": "Loading. . .",
     "translatedBy": "human",
     "isTranslated": true
   }, 
