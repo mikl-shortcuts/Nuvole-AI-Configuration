@@ -119,7 +119,7 @@ async function updateLanguageFile(langPath, currentEn, prevEn) {
     try {
       const payload = { json: changedKeys, to: langCode, from: 'en' };
       const apiResponse = await translateWithRetry(payload, langCode);
-      const translations = apiResponse?.[langCode] || {};
+      const translations = apiResponse || {};
 
       for (const [key, enValue] of Object.entries(changedKeys)) {
         const translatedValue = translations[key];
