@@ -1,16 +1,16 @@
 {
-  "Test-Value": {
-    "value": "Testing something really REALLY great 😋",
+  "Test": {
+    "value": "Loading. . .",
     "original": {
-      "value": "Testing something really REALLY great 😋"
+      "value": "Loading. . ."
     },
     "translatedBy": "none",
     "isTranslated": false
   },
   "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI!",
+    "value": "Hello, I am Nuvole AI! And who are you?",
     "original": {
-      "value": "Hello, I am Nuvole AI!"
+      "value": "Hello, I am Nuvole AI! And who are you?"
     },
     "translatedBy": "none",
     "isTranslated": false
