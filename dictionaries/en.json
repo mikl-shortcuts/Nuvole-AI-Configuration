@@ -1,15 +1,15 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI! And who are you?",
+    "value": "Hello, I am Nuvole AI!",
     "translatedBy": "human",
     "isTranslated": true
   },
   "Error_T_Problem": {
-    "value": "Major outage.",
+    "value": "Major problems.",
     "translatedBy": "human",
     "isTranslated": true
   },
-  "Test": {
+  "Test-Value": {
     "value": "Loading. . .",
     "translatedBy": "human",
     "isTranslated": true
