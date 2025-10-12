@@ -1,16 +1,16 @@
 {
   "Test-Value": {
-    "value": "Testing something great 😋",
+    "value": "Testing something really REALLY great 😋",
     "original": {
-      "value": "Testing something great 😋"
+      "value": "Testing something really REALLY great 😋"
     },
     "translatedBy": "none",
     "isTranslated": false
   },
   "Settings_N_NAME-Search": {
-    "value": "I am NOT A robot 😁",
+    "value": "Hello, I am Nuvole AI!",
     "original": {
-      "value": "I am NOT A robot 😁"
+      "value": "Hello, I am Nuvole AI!"
     },
     "translatedBy": "none",
     "isTranslated": false
@@ -19,16 +19,6 @@
     "value": "Главна авария.",
     "original": {
       "value": "Major outage.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_T_ErrorFile": {
-    "value": "За съжаление, Nuvole AI не може да работи с този файл",
-    "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
     },
     "translatedBy": "ai",

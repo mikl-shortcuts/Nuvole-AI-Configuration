@@ -1,16 +1,16 @@
 {
   "Test-Value": {
-    "value": "Testing something great 😋",
+    "value": "Testing something really REALLY great 😋",
     "original": {
-      "value": "Testing something great 😋"
+      "value": "Testing something really REALLY great 😋"
     },
     "translatedBy": "none",
     "isTranslated": false
   },
   "Settings_N_NAME-Search": {
-    "value": "I am NOT A robot 😁",
+    "value": "Hello, I am Nuvole AI!",
     "original": {
-      "value": "I am NOT A robot 😁"
+      "value": "Hello, I am Nuvole AI!"
     },
     "translatedBy": "none",
     "isTranslated": false
@@ -19,14 +19,6 @@
     "value": "Panne majeure.",
     "original": {
       "value": "Major outage."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_T_ErrorFile": {
-    "value": "Unfortunately, Nuvole AI cannot work with this file",
-    "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file"
     },
     "translatedBy": "ai",
     "isTranslated": true
