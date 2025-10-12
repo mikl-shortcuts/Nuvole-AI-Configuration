@@ -1,43 +1,43 @@
 {
-  "Settings_T_ID-Theme-Auto": {
-    "value": "Система",
+  "Settings_N_NAME-Search": {
+    "value": "Интернет поиск",
     "original": {
-      "value": "System"
+      "value": "Internet Search",
+      "version": 1
     },
     "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_T_ErrorFile": {
-    "value": "К сожалению, Nuvole AI не может работать с этим файлом",
-    "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Upd": {
-    "value": "Проверка обновлений",
-    "original": {
-      "value": "Checking for Updates"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
+    "isTranslated": true,
+    "version": 1
   },
   "Error_T_Problem": {
     "value": "Серьёзная авария.",
     "original": {
-      "value": "Major outage."
+      "value": "Major outage.",
+      "version": 1
     },
     "translatedBy": "ai",
-    "isTranslated": true
+    "isTranslated": true,
+    "version": 1
   },
-  "Settings_N_NAME-Search": {
-    "value": "Поиск в интернете",
+  "Settings_N_NAME-Upd": {
+    "value": "Проверка обновлений",
     "original": {
-      "value": "Internet Search"
+      "value": "Checking for Updates",
+      "version": 1
     },
     "translatedBy": "ai",
-    "isTranslated": true
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "К сожалению, Nuvole AI не может работать с этим файлом",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
   },
   "History_T_2Chats": {
     "value": "2 чата",
@@ -143,6 +143,16 @@
     "value": "Выберите, какие чаты вы хотите удалить",
     "original": {
       "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "Система",
+    "original": {
+      "value": "System",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,6 +1,6 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "Интернет търсене",
+    "value": "Internetrecherche",
     "original": {
       "value": "Internet Search",
       "version": 1
@@ -10,7 +10,7 @@
     "version": 1
   },
   "Error_T_Problem": {
-    "value": "Главна авария.",
+    "value": "Großer Ausfall.",
     "original": {
       "value": "Major outage.",
       "version": 1
@@ -20,7 +20,7 @@
     "version": 1
   },
   "Settings_N_NAME-Upd": {
-    "value": "Проверка за обновления",
+    "value": "Auf Updates prüfen",
     "original": {
       "value": "Checking for Updates",
       "version": 1
@@ -30,7 +30,7 @@
     "version": 1
   },
   "Share_T_ErrorFile": {
-    "value": "За съжаление, Nuvole AI не може да работи с този файл",
+    "value": "Leider kann Nuvole AI nicht mit dieser Datei arbeiten",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
@@ -40,7 +40,7 @@
     "version": 1
   },
   "History_T_2Chats": {
-    "value": "2 чата",
+    "value": "2 Chats",
     "original": {
       "value": "2 chats",
       "version": 1
@@ -50,7 +50,7 @@
     "version": 1
   },
   "Feedback_ORG_Email": {
-    "value": "Ще можете да получите отзив от разработчика",
+    "value": "Sie können Feedback vom Entwickler erhalten",
     "original": {
       "value": "You will be able to get feedback from developer",
       "version": 1
@@ -60,7 +60,7 @@
     "version": 1
   },
   "Text_T_Seconds": {
-    "value": "Мисъл за ${Num} секунди",
+    "value": "Gedacht für ${Num} Sekunden",
     "original": {
       "value": "Thought for ${Num} seconds",
       "version": 1
@@ -70,7 +70,7 @@
     "version": 1
   },
   "Feedback_H_Type": {
-    "value": "Как искате да изпратите отзив?",
+    "value": "Wie möchten Sie Feedback senden?",
     "original": {
       "value": "How you want to send feedback?",
       "version": 1
@@ -80,7 +80,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Изтрий всички чатове",
+    "value": "Alle Chats löschen",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -90,7 +90,7 @@
     "version": 1
   },
   "Settings_H_NAME-Theme": {
-    "value": "Изберете какво да се приложи към отображението на отговорите",
+    "value": "Wählen Sie das Aussehen, das auf die Anzeige der Antworten angewendet werden soll",
     "original": {
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
@@ -100,7 +100,7 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Да, изпрати историята на този чат",
+    "value": "Ja, die Geschichte dieses Chats übertragen",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
@@ -110,7 +110,7 @@
     "version": 1
   },
   "Feedback_H_End": {
-    "value": "Съобщението е изпратено!",
+    "value": "Nachricht gesendet!",
     "original": {
       "value": "Message sent!",
       "version": 1
@@ -120,7 +120,7 @@
     "version": 1
   },
   "Settings_T_ID-Voice-False": {
-    "value": "С текст",
+    "value": "Mit Text",
     "original": {
       "value": "With Text",
       "version": 1
@@ -130,7 +130,7 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Искате ли да изпратите конфигурация на Nuvole AI с разработчика?",
+    "value": "Möchten Sie eine Nuvole AI-Konfiguration mit dem Entwickler übertragen?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
@@ -140,7 +140,7 @@
     "version": 1
   },
   "History_H_Selection": {
-    "value": "Изберете кои чатове искате да изтриете",
+    "value": "Wählen Sie die Chats aus, die Sie löschen möchten",
     "original": {
       "value": "Choose which chats you want to delete",
       "version": 1
@@ -150,7 +150,7 @@
     "version": 1
   },
   "Settings_T_ID-Theme-Auto": {
-    "value": "Система",
+    "value": "System",
     "original": {
       "value": "System",
       "version": 1
@@ -160,7 +160,7 @@
     "version": 1
   },
   "Chat_N_Delete": {
-    "value": "Изтрий чат",
+    "value": "Chat löschen",
     "original": {
       "value": "Delete Chat",
       "version": 1
@@ -170,7 +170,7 @@
     "version": 1
   },
   "Main_ORG_2Messages": {
-    "value": "2 съобщения",
+    "value": "2 Nachrichten",
     "original": {
       "value": "2 messages",
       "version": 1
@@ -180,7 +180,7 @@
     "version": 1
   },
   "Settings_T_ID-Save-False": {
-    "value": "Само по искане",
+    "value": "Nur auf Anfrage",
     "original": {
       "value": "Only on Request",
       "version": 1
@@ -190,7 +190,7 @@
     "version": 1
   },
   "Update_T_5Updates": {
-    "value": "5 обновления",
+    "value": "5 Updates",
     "original": {
       "value": "5 updates",
       "version": 1
@@ -200,7 +200,7 @@
     "version": 1
   },
   "Update_H_VersionCount": {
-    "value": "${Count версии} са издадени от версия ${Num}",
+    "value": "${Count versions} wurden seit Version ${Num} veröffentlicht",
     "original": {
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
@@ -210,7 +210,7 @@
     "version": 1
   },
   "Settings_T_ID-Upd-True": {
-    "value": "Включено",
+    "value": "Eingeschaltet",
     "original": {
       "value": "Turned On",
       "version": 1
@@ -220,7 +220,7 @@
     "version": 1
   },
   "Settings_N_NAME-Main": {
-    "value": "Главно меню",
+    "value": "Hauptmenü",
     "original": {
       "value": "Main Menu",
       "version": 1
@@ -230,7 +230,7 @@
     "version": 1
   },
   "Generation_H_H": {
-    "value": "Уведомление за управление на устройството!",
+    "value": "Geräteverwaltungsalarm!",
     "original": {
       "value": "Device management alert!",
       "version": 1
@@ -240,7 +240,7 @@
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Изтрийте цялата история на чатовете с Nuvole AI без възможност за възстановяване",
+    "value": "Löschen Sie die gesamte Chat-Historie mit Nuvole AI ohne die Möglichkeit der Wiederherstellung",
     "original": {
       "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
@@ -250,7 +250,7 @@
     "version": 1
   },
   "Settings_T_ID-Share-2": {
-    "value": "Въпрос",
+    "value": "Frage",
     "original": {
       "value": "Question",
       "version": 1
@@ -260,7 +260,7 @@
     "version": 1
   },
   "Update_N_Details": {
-    "value": "Погледнете по-подробен дневник с промени",
+    "value": "Detailliertes Änderungsprotokoll anzeigen",
     "original": {
       "value": "View More Detailed Changelog",
       "version": 1
@@ -270,7 +270,7 @@
     "version": 1
   },
   "Install_N_YesMenu": {
-    "value": "Отворете главното меню при всеки нов старт",
+    "value": "Öffnen Sie das Hauptmenü bei jedem neuen Start",
     "original": {
       "value": "Open the Main Menu with Each New Running",
       "version": 1
@@ -280,7 +280,7 @@
     "version": 1
   },
   "Main_N_Feedback": {
-    "value": "Напишете отзив",
+    "value": "Feedback schreiben",
     "original": {
       "value": "Write a Feedback",
       "version": 1
@@ -290,7 +290,7 @@
     "version": 1
   },
   "Main_H_Main": {
-    "value": "Главно меню",
+    "value": "Hauptmenü",
     "original": {
       "value": "Main Menu",
       "version": 1
@@ -300,7 +300,7 @@
     "version": 1
   },
   "Share_H_Slides": {
-    "value": "Изберете слайдовете, които искате да използвате",
+    "value": "Wählen Sie die Folien aus, die Sie verwenden möchten",
     "original": {
       "value": "Select the slides you want to use",
       "version": 1
@@ -310,7 +310,7 @@
     "version": 1
   },
   "Error_T_Type-Error-4": {
-    "value": "Възникна грешка при генерирането на изображение.",
+    "value": "Ein Fehler ist beim Generieren des Bildes aufgetreten.",
     "original": {
       "value": "An error occurred during image generation.",
       "version": 1
@@ -320,7 +320,7 @@
     "version": 1
   },
   "Update_H_2Versions": {
-    "value": "2 версии",
+    "value": "2 Versionen",
     "original": {
       "value": "2 versions",
       "version": 1
@@ -330,7 +330,7 @@
     "version": 1
   },
   "Update_T_More": {
-    "value": "Още",
+    "value": "Mehr",
     "original": {
       "value": "More",
       "version": 1
@@ -340,7 +340,7 @@
     "version": 1
   },
   "Text_T_HideNote": {
-    "value": "Скрий пълната бележка",
+    "value": "Vollständige Notiz ausblenden",
     "original": {
       "value": "Hide Full Note",
       "version": 1
@@ -350,7 +350,7 @@
     "version": 1
   },
   "Error_T_Normal": {
-    "value": "Всички системи работят правилно.",
+    "value": "Alle Systeme funktionieren ordnungsgemäß.",
     "original": {
       "value": "All systems are working properly.",
       "version": 1
@@ -360,7 +360,7 @@
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Създайте нов чат",
+    "value": "Neuen Chat erstellen",
     "original": {
       "value": "Create a New Chat",
       "version": 1
@@ -370,7 +370,7 @@
     "version": 1
   },
   "Settings_N_Loading-False": {
-    "value": "Създай нов чат",
+    "value": "Neuen Chat erstellen",
     "original": {
       "value": "Create New Chat",
       "version": 1
@@ -380,7 +380,7 @@
     "version": 1
   },
   "Share_T_ErrorVideo": {
-    "value": "За съжаление, Nuvole AI не може да работи с това видео",
+    "value": "Leider kann Nuvole AI nicht mit diesem Video arbeiten",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
@@ -390,7 +390,7 @@
     "version": 1
   },
   "Install_N_Learn": {
-    "value": "Още информация за Nuvole AI",
+    "value": "Mehr Informationen über Nuvole AI",
     "original": {
       "value": "More Information about Nuvole AI",
       "version": 1
@@ -400,7 +400,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Изтрийте този чат без възможност за възстановяване",
+    "value": "Löschen Sie diesen Chat ohne die Möglichkeit der Wiederherstellung",
     "original": {
       "value": "Delete this chat without the possibility of recovery",
       "version": 1
@@ -410,7 +410,7 @@
     "version": 1
   },
   "Install_N_NoUpdates": {
-    "value": "Не получавайте обновления",
+    "value": "Keine Updates erhalten",
     "original": {
       "value": "Do Not Receive Updates",
       "version": 1
@@ -420,7 +420,7 @@
     "version": 1
   },
   "Settings_H_NAME-Search": {
-    "value": "Искате ли Nuvole AI да търси информация в интернет, ако е необходимо?",
+    "value": "Möchten Sie, dass Nuvole AI bei Bedarf im Internet nach Informationen sucht?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
       "version": 1
@@ -430,7 +430,7 @@
     "version": 1
   },
   "Settings_N_ImagwSFW-False": {
-    "value": "Не филтрирайте NSFW съдържание при генериране на изображения",
+    "value": "Filtere keinen NSFW-Inhalt beim Generieren von Bildern",
     "original": {
       "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
@@ -440,7 +440,7 @@
     "version": 1
   },
   "Text_T_Save": {
-    "value": "Чатът ще бъде запазен",
+    "value": "Der Chat wird gespeichert",
     "original": {
       "value": "Chat will be saved",
       "version": 1
@@ -450,7 +450,7 @@
     "version": 1
   },
   "Update_T_5Changes": {
-    "value": "5 промени",
+    "value": "5 Änderungen",
     "original": {
       "value": "5 changes",
       "version": 1
@@ -460,7 +460,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Продължете разговора с Nuvole AI",
+    "value": "Führen Sie das Gespräch mit Nuvole AI fort",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -470,7 +470,7 @@
     "version": 1
   },
   "Share_H_SiteType": {
-    "value": "Какво искате да направите с този сайт?",
+    "value": "Was möchten Sie mit dieser Website tun?",
     "original": {
       "value": "What do you want to do with this site?",
       "version": 1
@@ -480,9 +480,9 @@
     "version": 1
   },
   "Settings_N_NAME-Theme": {
-    "value": "Какво искате да направите с този сайт?",
+    "value": "Aussehen",
     "original": {
-      "value": "What do you want to do with this site?",
+      "value": "Appearance",
       "version": 1
     },
     "translatedBy": "ai",
@@ -490,7 +490,7 @@
     "version": 1
   },
   "Update_T_1Updates": {
-    "value": "1 обновление",
+    "value": "1 Update",
     "original": {
       "value": "1 update",
       "version": 1
@@ -500,7 +500,7 @@
     "version": 1
   },
   "Settings_T_ID-Save-True": {
-    "value": "Всички пъти",
+    "value": "Immer",
     "original": {
       "value": "Always",
       "version": 1
@@ -510,7 +510,7 @@
     "version": 1
   },
   "Chat_N_Load": {
-    "value": "Зареди и продължи чата",
+    "value": "Chat laden und fortsetzen",
     "original": {
       "value": "Load and Continue Chat",
       "version": 1
@@ -520,7 +520,7 @@
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Скрий пълните мисли",
+    "value": "Vollständige Gedanken ausblenden",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
@@ -530,7 +530,7 @@
     "version": 1
   },
   "Error_ORG_Report": {
-    "value": "Съобщи за грешка",
+    "value": "Einen Fehler melden",
     "original": {
       "value": "Report a bug",
       "version": 1
@@ -540,7 +540,7 @@
     "version": 1
   },
   "Error_T_ModelNotAvaiable": {
-    "value": "В момента недостъпно",
+    "value": "Derzeit nicht verfügbar",
     "original": {
       "value": "Not available at the moment",
       "version": 1
@@ -550,7 +550,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Не подобрявайте промпта с AI",
+    "value": "Verbessere die Aufforderung nicht mit KI",
     "original": {
       "value": "Do Not Improve Prompt with AI",
       "version": 1
@@ -560,7 +560,7 @@
     "version": 1
   },
   "Settings_T_C-Next": {
-    "value": "Какво искате да направите следващо?",
+    "value": "Was möchten Sie als Nächstes tun?",
     "original": {
       "value": "What do you want to do next?",
       "version": 1
@@ -570,7 +570,7 @@
     "version": 1
   },
   "Feedback_H_ReportInput": {
-    "value": "Опишете подробно проблема, с който сте се сблъскали",
+    "value": "Beschreiben Sie das Problem, auf das Sie gestoßen sind, detailliert",
     "original": {
       "value": "Describe in detail the problem you have encountered",
       "version": 1
@@ -580,7 +580,7 @@
     "version": 1
   },
   "Settings_T_C-Share": {
-    "value": "Споделяне",
+    "value": "Teilen Blatt",
     "original": {
       "value": "Share Sheet",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Прегледайте, търсете, виждайте и продължавайте чатовете си с Nuvole AI",
+    "value": "Durchsuchen, suchen, anzeigen und Ihre Chats mit Nuvole AI fortsetzen",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -600,7 +600,7 @@
     "version": 1
   },
   "History_ORG_BackHistory": {
-    "value": "Върнете се към историята",
+    "value": "Zurück zur Geschichte",
     "original": {
       "value": "Return to History",
       "version": 1
@@ -610,7 +610,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionStop": {
-    "value": "Запазете чата и се върнете назад",
+    "value": "Chat speichern und zurückgehen",
     "original": {
       "value": "Save chat and go back",
       "version": 1
@@ -620,7 +620,7 @@
     "version": 1
   },
   "Install_N_YesUpdates": {
-    "value": "Получавайте обновления",
+    "value": "Updates erhalten",
     "original": {
       "value": "Receive Updates",
       "version": 1
@@ -630,7 +630,7 @@
     "version": 1
   },
   "Share_H_FileType": {
-    "value": "Какво искате да направите с този файл?",
+    "value": "Was möchten Sie mit dieser Datei tun?",
     "original": {
       "value": "What do you want to do with this file?",
       "version": 1
@@ -640,7 +640,7 @@
     "version": 1
   },
   "Update_T_1Changes": {
-    "value": "1 промяна",
+    "value": "1 Änderung",
     "original": {
       "value": "1 change",
       "version": 1
@@ -650,7 +650,7 @@
     "version": 1
   },
   "Share_T_ErrorSite": {
-    "value": "За съжаление, Nuvole AI не може да работи с този сайт",
+    "value": "Leider kann Nuvole AI nicht mit dieser Website arbeiten",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
@@ -660,7 +660,7 @@
     "version": 1
   },
   "History_N_Search": {
-    "value": "Търсене",
+    "value": "Suche",
     "original": {
       "value": "Search",
       "version": 1
@@ -670,7 +670,7 @@
     "version": 1
   },
   "Main_N_LastLoad": {
-    "value": "Продължете с зареждането на последния чат",
+    "value": "Fortsetzen durch Laden des letzten Chats",
     "original": {
       "value": "Continue by Loading the Last Chat",
       "version": 1
@@ -680,7 +680,7 @@
     "version": 1
   },
   "Main_ORG_Ago": {
-    "value": "${Seconds} преди",
+    "value": "Vor ${Seconds}",
     "original": {
       "value": "${Seconds} ago",
       "version": 1
@@ -690,9 +690,9 @@
     "version": 1
   },
   "Share_T_SiteSize": {
-    "value": "${Seconds} преди",
+    "value": "Machen Sie eine ${Size} Zusammenfassung der Website",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Make a ${Size} summarization of the site",
       "version": 1
     },
     "translatedBy": "ai",
@@ -700,9 +700,9 @@
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "${Seconds} преди",
+    "value": "Ein neuer Chat wird erstellt",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "New chat will be created",
       "version": 1
     },
     "translatedBy": "ai",
@@ -710,9 +710,9 @@
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "${Seconds} преди",
+    "value": "Welches Symbol möchten Sie diesem Chat geben (Sie können nur ein Emoji verwenden)?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -720,9 +720,9 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "${Seconds} преди",
+    "value": "Irgendwelche Probleme, Fragen oder Ideen, wie man Nuvole AI verbessern kann?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -730,7 +730,7 @@
     "version": 1
   },
   "Share_T_VideoSize": {
-    "value": "Направете ${Size} резюме на видео",
+    "value": "Machen Sie eine ${Size} Zusammenfassung des Videos",
     "original": {
       "value": "Make a ${Size} summarization of the video",
       "version": 1
@@ -740,7 +740,7 @@
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Искате ли да използвате цялата презентация? Или само определени слайдове?",
+    "value": "Die gesamte Präsentation verwenden? Oder bestimmte Folien?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
@@ -750,7 +750,7 @@
     "version": 1
   },
   "Error_N_Restart": {
-    "value": "Рестартирайте Nuvole AI",
+    "value": "Nuvole AI neu starten",
     "original": {
       "value": "Restart Nuvole AI",
       "version": 1
@@ -760,7 +760,7 @@
     "version": 1
   },
   "Text_T_Search": {
-    "value": "Намерени ${Num} резултати",
+    "value": "${Num} Ergebnisse gefunden",
     "original": {
       "value": "Found ${Num} results",
       "version": 1
@@ -770,7 +770,7 @@
     "version": 1
   },
   "Settings_ORG_Telegram": {
-    "value": "Абонирайте се за официалния канал на MIKL, за да получавате новини за Nuvole AI и други проекти.",
+    "value": "Folgen Sie dem offiziellen MIKL-Kanal, um Nachrichten über Nuvole AI und andere Projekte zu erhalten.",
     "original": {
       "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
@@ -780,7 +780,7 @@
     "version": 1
   },
   "Update_H_Update": {
-    "value": "Ново обновление за Nuvole AI е налично!",
+    "value": "Ein neues Update für Nuvole AI ist verfügbar!",
     "original": {
       "value": "A new update for Nuvole AI is available!",
       "version": 1
@@ -790,7 +790,7 @@
     "version": 1
   },
   "Settings_N_NAME-Model": {
-    "value": "AI Модел",
+    "value": "KI-Modell",
     "original": {
       "value": "AI Model",
       "version": 1
@@ -800,7 +800,7 @@
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Всички пъти запазвайте нови чатове",
+    "value": "Immer neue Chats speichern",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
@@ -810,7 +810,7 @@
     "version": 1
   },
   "Share_T_FileSize": {
-    "value": "Направете ${Size} резюме на файла",
+    "value": "Machen Sie eine ${Size} Zusammenfassung der Datei",
     "original": {
       "value": "Make a ${Size} summarization of the file",
       "version": 1
@@ -820,7 +820,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-1": {
-    "value": "Малък",
+    "value": "Klein",
     "original": {
       "value": "Small",
       "version": 1
@@ -830,7 +830,7 @@
     "version": 1
   },
   "Settings_T_ID-Theme-1": {
-    "value": "Тъмен",
+    "value": "Dunkel",
     "original": {
       "value": "Dark",
       "version": 1
@@ -840,7 +840,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Питайте винаги",
+    "value": "Jedes Mal fragen",
     "original": {
       "value": "Ask Every Time",
       "version": 1
@@ -850,7 +850,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Променете AI модела за тази сесия само и повторете заявката",
+    "value": "Ändern Sie das KI-Modell nur für diese Sitzung und wiederholen Sie die Anfrage",
     "original": {
       "value": "Change the AI Model for This Session Only and Repeat Request",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -870,7 +870,7 @@
     "version": 1
   },
   "Install_N_NoMenu": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -880,7 +880,7 @@
     "version": 1
   },
   "Chat_T_ChangingError": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -890,7 +890,7 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -900,7 +900,7 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -910,7 +910,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -920,7 +920,7 @@
     "version": 1
   },
   "History_T_1Chats": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -930,7 +930,7 @@
     "version": 1
   },
   "Error_T_Type-Error-3": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -940,7 +940,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -950,7 +950,7 @@
     "version": 1
   },
   "Settings_H_NAME-Loading": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -960,7 +960,7 @@
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -970,7 +970,7 @@
     "version": 1
   },
   "Chat_N_Icon": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -980,7 +980,7 @@
     "version": 1
   },
   "Text_T_Show": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -990,7 +990,7 @@
     "version": 1
   },
   "Update_N_Install": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -1000,7 +1000,7 @@
     "version": 1
   },
   "Install_H_Model": {
-    "value": "Изглежда, че модела ${Name}, който сте избрали по-рано, вече не е наличен. Какъв AI модел искате да използвате?",
+    "value": "Es scheint, dass das Modell ${Name}, das Sie zuvor ausgewählt haben, nicht mehr verfügbar ist. Welches KI-Modell möchten Sie verwenden?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -1010,7 +1010,7 @@
     "version": 1
   },
   "Install_N_SkipLearn": {
-    "value": "Пропуснете и започнете да работи с Nuvole AI",
+    "value": "Überspringen und mit Nuvole AI arbeiten",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
       "version": 1
@@ -1020,7 +1020,7 @@
     "version": 1
   },
   "Settings_N_NAME-Loading": {
-    "value": "Зареждане на последният чат при стартиране",
+    "value": "Letzter Chat beim Start laden",
     "original": {
       "value": "Last Chat Load When Running",
       "version": 1
@@ -1030,7 +1030,7 @@
     "version": 1
   },
   "Settings_T_ID-Upd-False": {
-    "value": "Изключено",
+    "value": "Ausgeschaltet",
     "original": {
       "value": "Turned Off",
       "version": 1
@@ -1040,7 +1040,7 @@
     "version": 1
   },
   "Generation_N_Skip": {
-    "value": "Не, пропуснете това действие",
+    "value": "Nein, diese Aktion überspringen",
     "original": {
       "value": "No, Skip This Action",
       "version": 1
@@ -1050,7 +1050,7 @@
     "version": 1
   },
   "Generation_H_Note": {
-    "value": "Искате ли да създадете и запазите бележка „${Title}“ с Nuvole AI?",
+    "value": "Möchten Sie eine Notiz „${Title}“ mit Nuvole AI erstellen und speichern?",
     "original": {
       "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
       "version": 1
@@ -1060,7 +1060,7 @@
     "version": 1
   },
   "Settings_H_NAME-History": {
-    "value": "Изберете дали искате да се показва историята на сесията",
+    "value": "Wählen Sie aus, ob Sie die Sitzungshistorie anzeigen möchten",
     "original": {
       "value": "Select whether you want to display the session history",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Изберете език, с който ще ви е удобно да работи с Nuvole AI",
+    "value": "Wählen Sie eine Sprache, in der es für Sie bequem ist, mit Nuvole AI zu arbeiten",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1080,7 +1080,7 @@
     "version": 1
   },
   "Settings_T_C-Request": {
-    "value": "Обработка на заявката",
+    "value": "Verarbeitung der Anfrage",
     "original": {
       "value": "Processing of the Request",
       "version": 1
@@ -1090,7 +1090,7 @@
     "version": 1
   },
   "Settings_T_Font": {
-    "value": "Вашата стойност: ${Num}",
+    "value": "Ihr Wert: ${Num}",
     "original": {
       "value": "Your value: ${Num}",
       "version": 1
@@ -1100,7 +1100,7 @@
     "version": 1
   },
   "Settings_N_Loading-True": {
-    "value": "Автоматично зареждане и продължаване на последния чат при стартиране",
+    "value": "Automatisch den letzten Chat beim Start laden und fortsetzen",
     "original": {
       "value": "Automatically Load and Continue Last Chat When Running",
       "version": 1
@@ -1110,7 +1110,7 @@
     "version": 1
   },
   "Settings_N_NAME-History": {
-    "value": "Показване на историята на чатовете",
+    "value": "Anzeige der Chat-Historie",
     "original": {
       "value": "Chat History Displaying",
       "version": 1
@@ -1120,7 +1120,7 @@
     "version": 1
   },
   "Install_H_Main": {
-    "value": "Искате ли да отворите главното меню при стартиране на Nuvole AI?",
+    "value": "Möchten Sie das Hauptmenü beim Start von Nuvole AI öffnen?",
     "original": {
       "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
@@ -1130,7 +1130,7 @@
     "version": 1
   },
   "Settings_H_Success": {
-    "value": "Настройката е променена",
+    "value": "Die Einstellung wurde geändert",
     "original": {
       "value": "The setting has been changed",
       "version": 1
@@ -1140,7 +1140,7 @@
     "version": 1
   },
   "History_N_SearchBack": {
-    "value": "Затворете търсенето",
+    "value": "Suche schließen",
     "original": {
       "value": "Close Search",
       "version": 1
@@ -1150,7 +1150,7 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Опишете подробно проблема, с който сте се сблъскали, заедно с всякакви въпроси или идеи за подобряване на Nuvole AI",
+    "value": "Beschreiben Sie das Problem, auf das Sie gestoßen sind, detailliert, zusammen mit allen Fragen oder Ideen, die Sie zur Verbesserung von Nuvole AI haben",
     "original": {
       "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
@@ -1160,7 +1160,7 @@
     "version": 1
   },
   "Settings_T_Stop": {
-    "value": "Не искате ли да промените настройките на този параметър?",
+    "value": "Möchten Sie die Einstellungen dieses Parameters nicht ändern?",
     "original": {
       "value": "Don’t want to change the settings of this parameter?",
       "version": 1
@@ -1170,7 +1170,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-2": {
-    "value": "Среден",
+    "value": "Mittel",
     "original": {
       "value": "Medium",
       "version": 1
@@ -1180,7 +1180,7 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Автоматично търсене на информация в интернет",
+    "value": "Automatisch im Internet nach Informationen suchen",
     "original": {
       "value": "Automatically Search for Information on the Internet",
       "version": 1
@@ -1190,7 +1190,7 @@
     "version": 1
   },
   "Update_T_21Changes": {
-    "value": "21 промени",
+    "value": "21 Änderungen",
     "original": {
       "value": "21 changes",
       "version": 1
@@ -1200,7 +1200,7 @@
     "version": 1
   },
   "History_H_SearchDeletion": {
-    "value": "Сигурни ли сте, че искате да изтриете ${Count} намерени ${Chats}? Можете да изтриете само необходимите чатове, като изберете „Изберете и изтрийте намерените чатове“ в предишното меню. При натискане на бутона „Изтрийте всички намерени чатове“, се съгласявате, че всички намерени чатове ще бъдат изтрити без възможност за възстановяване.",
+    "value": "Sind Sie sicher, dass Sie ${Count} gefundene ${Chats} löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Gefundene Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle gefundenen Chats löschen“ stimmen Sie zu, dass alle gefundenen Chats ohne die Möglichkeit der Wiederherstellung gelöscht werden.",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -1210,7 +1210,7 @@
     "version": 1
   },
   "Share_H_Pages": {
-    "value": "Изберете страниците, които искате да използвате",
+    "value": "Wählen Sie die Seiten aus, die Sie verwenden möchten",
     "original": {
       "value": "Select the pages you want to use",
       "version": 1
@@ -1220,7 +1220,7 @@
     "version": 1
   },
   "Error_H_Status": {
-    "value": "Статус на сървъра на ${Name}",
+    "value": "Serverstatus von ${Name}",
     "original": {
       "value": "Server status of ${Name}",
       "version": 1
@@ -1230,7 +1230,7 @@
     "version": 1
   },
   "Install_ORG_YesUpdates": {
-    "value": "Препоръчително за по-добър опит с Nuvole AI",
+    "value": "Empfohlen für ein besseres Nuvole AI-Erlebnis",
     "original": {
       "value": "Recommended for a better experience of Nuvole AI usage",
       "version": 1
@@ -1240,7 +1240,7 @@
     "version": 1
   },
   "Text_T_Hide": {
-    "value": "Скрий пълното съобщение",
+    "value": "Vollständige Nachricht ausblenden",
     "original": {
       "value": "Hide Full Message",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Изберете дали искате да подобрите промпта за генериране на изображения с AI",
+    "value": "Wählen Sie aus, ob Sie die Aufforderung zur Generierung von Bildern mit KI verbessern möchten",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1260,7 +1260,7 @@
     "version": 1
   },
   "Share_N_Question": {
-    "value": "Задайте въпроса си",
+    "value": "Stellen Sie Ihre Frage",
     "original": {
       "value": "Ask Your Question",
       "version": 1
@@ -1270,7 +1270,7 @@
     "version": 1
   },
   "Chat_ORG_Rename": {
-    "value": "Променете името на чата „${Text}“ на друго",
+    "value": "Ändern Sie den Chat-Namen „${Text}“ in einen anderen",
     "original": {
       "value": "Change the chat name “${Text}” to any other",
       "version": 1
@@ -1280,7 +1280,7 @@
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Променете търсенето",
+    "value": "Suchanfrage ändern",
     "original": {
       "value": "Change Search Query",
       "version": 1
@@ -1290,7 +1290,7 @@
     "version": 1
   },
   "Feedback_T_End": {
-    "value": "Благодаря за отзива ви! Това ще помогне за подобряване на Nuvole AI!",
+    "value": "Vielen Dank für Ihr Feedback! Dies wird helfen, Nuvole AI zu verbessern!",
     "original": {
       "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
       "version": 1
@@ -1300,7 +1300,7 @@
     "version": 1
   },
   "Error_H_Error": {
-    "value": "Грешка",
+    "value": "Fehler",
     "original": {
       "value": "Error",
       "version": 1
@@ -1310,7 +1310,7 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Направете резюме",
+    "value": "Zusammenfassung erstellen",
     "original": {
       "value": "Make a Summarization",
       "version": 1
@@ -1320,7 +1320,7 @@
     "version": 1
   },
   "Chat_H_Renaming": {
-    "value": "Какво име искате да дадете на този чат?",
+    "value": "Welchen Namen möchten Sie diesem Chat geben?",
     "original": {
       "value": "What name do you want to give this chat?",
       "version": 1
@@ -1330,7 +1330,7 @@
     "version": 1
   },
   "Text_T_History": {
-    "value": "Историята на чата „${Name}“ е заредена.",
+    "value": "Die Geschichte des „${Name}“-Chats ist geladen.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
       "version": 1
@@ -1340,7 +1340,7 @@
     "version": 1
   },
   "Feedback_ORG_YesConfig": {
-    "value": "Това може да даде по-добро разбиране на вашата проблема, ако имате такъв",
+    "value": "Dies kann ein besseres Verständnis Ihres Problems ermöglichen, falls Sie eines haben",
     "original": {
       "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
@@ -1350,7 +1350,7 @@
     "version": 1
   },
   "History_N_SearchSelect": {
-    "value": "Изберете и изтрийте намерените чатове",
+    "value": "Gefundene Chats auswählen und löschen",
     "original": {
       "value": "Select and Delete Found Chats",
       "version": 1
@@ -1360,7 +1360,7 @@
     "version": 1
   },
   "Share_H_Input": {
-    "value": "Какво искате да попитате?",
+    "value": "Was möchten Sie fragen?",
     "original": {
       "value": "What do you want to ask?",
       "version": 1
@@ -1370,7 +1370,7 @@
     "version": 1
   },
   "Install_H_Learn": {
-    "value": "Инсталационният процес е завършен!\n Искате ли да научите повече за Nuvole AI и неговите функции?",
+    "value": "Der Installationsvorgang ist abgeschlossen!\nMöchten Sie mehr über Nuvole AI und seine Funktionen erfahren?",
     "original": {
       "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
       "version": 1
@@ -1380,7 +1380,7 @@
     "version": 1
   },
   "Settings_T_ID-Share-1": {
-    "value": "Резюме",
+    "value": "Zusammenfassung",
     "original": {
       "value": "Summarization",
       "version": 1
@@ -1390,7 +1390,7 @@
     "version": 1
   },
   "Main_ORG_NewChat": {
-    "value": "Започнете от нула",
+    "value": "Von vorne beginnen",
     "original": {
       "value": "Start from scratch",
       "version": 1
@@ -1400,7 +1400,7 @@
     "version": 1
   },
   "Settings_H_Settings": {
-    "value": "Настройки",
+    "value": "Einstellungen",
     "original": {
       "value": "Settings",
       "version": 1
@@ -1410,7 +1410,7 @@
     "version": 1
   },
   "Settings_T_C-More": {
-    "value": "Допълнително",
+    "value": "Zusätzlich",
     "original": {
       "value": "Additional",
       "version": 1
@@ -1420,7 +1420,7 @@
     "version": 1
   },
   "Update_T_Hidden": {
-    "value": "По-късно можете да инсталирате това обновление чрез RoutineHub",
+    "value": "Sie können dieses Update später über RoutineHub installieren",
     "original": {
       "value": "You can later install this update via the RoutineHub",
       "version": 1
@@ -1430,7 +1430,7 @@
     "version": 1
   },
   "Error_ORG_ChangeStop": {
-    "value": "Повторете заявката, използвайки ${Name}",
+    "value": "Wiederholen Sie die Anfrage mit ${Name}",
     "original": {
       "value": "Repeat request using ${Name}",
       "version": 1
@@ -1440,7 +1440,7 @@
     "version": 1
   },
   "Error_T_Type-Error-2": {
-    "value": "Възникна грешка по време на мисленето.",
+    "value": "Ein Fehler ist beim Denkprozess aufgetreten.",
     "original": {
       "value": "An error occurred during the thinking process.",
       "version": 1
@@ -1450,7 +1450,7 @@
     "version": 1
   },
   "Chat_ORG_Icon": {
-    "value": "Променете иконата на чата „${Text}“ на друга",
+    "value": "Ändern Sie das Chat-Symbol „${Text}“ in ein anderes",
     "original": {
       "value": "Change the chat icon “${Text}” to any other",
       "version": 1
@@ -1460,7 +1460,7 @@
     "version": 1
   },
   "Settings_H_Error": {
-    "value": "Настройката не е променена",
+    "value": "Die Einstellung wurde nicht geändert",
     "original": {
       "value": "The setting has not been changed",
       "version": 1
@@ -1470,7 +1470,7 @@
     "version": 1
   },
   "Error_ORG_RestartLoad": {
-    "value": "Този чат ще се зареди автоматично",
+    "value": "Dieser Chat wird automatisch geladen",
     "original": {
       "value": "This chat will load automatically",
       "version": 1
@@ -1480,7 +1480,7 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Този чат ще се зареди автоматично",
+    "value": "Dieser Chat wird automatisch geladen",
     "original": {
       "value": "This chat will load automatically",
       "version": 1
@@ -1490,7 +1490,7 @@
     "version": 1
   },
   "Feedback_N_Server": {
-    "value": "Анонимно",
+    "value": "Anonym",
     "original": {
       "value": "Anonymously",
       "version": 1
@@ -1500,9 +1500,9 @@
     "version": 1
   },
   "Error_ORG_Change": {
-    "value": "Nuvole AI ще използва модела, който ще изберете",
+    "value": "Anonym",
     "original": {
-      "value": "Nuvole AI will use the model that you will select",
+      "value": "Anonymously",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1510,7 +1510,7 @@
     "version": 1
   },
   "Text_T_New": {
-    "value": "Здравейте! Как може да ви помогна?",
+    "value": "Hallo! Wie kann ich Ihnen helfen?",
     "original": {
       "value": "Hello! How can I help you?",
       "version": 1
@@ -1520,7 +1520,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-3": {
-    "value": "Голямо",
+    "value": "Groß",
     "original": {
       "value": "Big",
       "version": 1
@@ -1530,7 +1530,7 @@
     "version": 1
   },
   "Settings_H_NAME-Summary": {
-    "value": "Изберете размера на резюмето, което искате да получите",
+    "value": "Wählen Sie die Größe der Zusammenfassung aus, die Sie erhalten möchten",
     "original": {
       "value": "Select the size of summarization you want to receive",
       "version": 1
@@ -1540,7 +1540,7 @@
     "version": 1
   },
   "History_ORG_BackMain": {
-    "value": "Върнете се към главното меню",
+    "value": "Zum Hauptmenü zurückkehren",
     "original": {
       "value": "Return to Main Menu",
       "version": 1
@@ -1550,7 +1550,7 @@
     "version": 1
   },
   "Share_ORG_Slides": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Bevor Sie auswählen, wird Ihnen Ihre Präsentation angezeigt",
     "original": {
       "value": "Before selecting, you will be shown your presentation",
       "version": 1
@@ -1560,9 +1560,9 @@
     "version": 1
   },
   "Main_N_History": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Verlauf",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1570,9 +1570,9 @@
     "version": 1
   },
   "Settings_N_NAME-Summary": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Zusammenfassungsgröße",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Summarization Size",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1580,9 +1580,9 @@
     "version": 1
   },
   "Settings_T_C-Html": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Antwort anzeigen",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Displaying the Answer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1590,9 +1590,9 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Chat-Historie nicht anzeigen",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Do Not Display Chat History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1600,9 +1600,9 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Chat mit Nuvole AI fortsetzen",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Continue Chatting with Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1610,9 +1610,9 @@
     "version": 1
   },
   "Settings_N_NAME-Voice": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Anforderung eingeben",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Entering a Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1620,9 +1620,9 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Wählen Sie die Schriftgröße für die Anzeige der Antwort (Standard: 48 Pixel)",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1630,9 +1630,9 @@
     "version": 1
   },
   "Settings_N_NAME-Lang": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Nuvole AI-Sprache",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Nuvole AI Language",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1640,9 +1640,9 @@
     "version": 1
   },
   "Settings_N_Lite": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Leichtere Version von Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1650,9 +1650,9 @@
     "version": 1
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Aufforderung mit KI verbessern",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1660,9 +1660,9 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Möchten Sie das Modell nicht ändern?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1670,9 +1670,9 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Möchten Sie das Modell nicht ändern?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1680,9 +1680,9 @@
     "version": 1
   },
   "Install_H_Input": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Möchten Sie das Modell nicht ändern?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1690,9 +1690,9 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Löschen Sie diese Chats ohne die Möglichkeit der Wiederherstellung",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1700,9 +1700,9 @@
     "version": 1
   },
   "Install_T_Model": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Löschen Sie diese Chats ohne die Möglichkeit der Wiederherstellung",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1710,9 +1710,9 @@
     "version": 1
   },
   "Settings_T_ID-Voice-True": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Löschen Sie diese Chats ohne die Möglichkeit der Wiederherstellung",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1720,9 +1720,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-False": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Nicht beim Start öffnen",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1730,9 +1730,9 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Прежде да изберете, ще ви се покаже презентацията ви",
+    "value": "Ein Fehler ist beim Generieren der Notiz aufgetreten.",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1740,7 +1740,7 @@
     "version": 1
   },
   "Share_N_AllPre": {
-    "value": "Използвайте цялата презентация",
+    "value": "Die gesamte Präsentation verwenden",
     "original": {
       "value": "Use the Whole Presentation",
       "version": 1
@@ -1750,9 +1750,9 @@
     "version": 1
   },
   "Error_N_Repeat": {
-    "value": "Използвайте цялата презентация",
+    "value": "Anfrage wiederholen",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Repeat Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1760,9 +1760,9 @@
     "version": 1
   },
   "Update_T_2Updates": {
-    "value": "Използвайте цялата презентация",
+    "value": "2 Updates",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "2 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1770,9 +1770,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-True": {
-    "value": "Използвайте цялата презентация",
+    "value": "Beim Start öffnen",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1780,9 +1780,9 @@
     "version": 1
   },
   "Update_H_Hidden": {
-    "value": "Използвайте цялата презентация",
+    "value": "Update ${Num} ist versteckt",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Update ${Num} is hidden",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1790,9 +1790,9 @@
     "version": 1
   },
   "Feedback_N_Email": {
-    "value": "Използвайте цялата презентация",
+    "value": "Per E-Mail",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Using Email",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1800,9 +1800,9 @@
     "version": 1
   },
   "ORG_Exit": {
-    "value": "Използвайте цялата презентация",
+    "value": "Auf Wiedersehen!",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Goodbye!",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1810,9 +1810,9 @@
     "version": 1
   },
   "Settings_T_C-General": {
-    "value": "Използвайте цялата презентация",
+    "value": "Allgemeine Einstellungen",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "General Settings",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1820,9 +1820,9 @@
     "version": 1
   },
   "Update_T_2Changes": {
-    "value": "Използвайте цялата презентация",
+    "value": "2 Änderungen",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "2 changes",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1830,9 +1830,9 @@
     "version": 1
   },
   "Update_T_21Updates": {
-    "value": "Използвайте цялата презентация",
+    "value": "21 Updates",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "21 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1840,9 +1840,9 @@
     "version": 1
   },
   "Chat_H_Deletion": {
-    "value": "Използвайте цялата презентация",
+    "value": "Sind Sie sicher, dass Sie den Chat „${Text}“ löschen möchten? Durch Klicken auf die Schaltfläche „Chat löschen“ stimmen Sie zu, dass dieser Chat ohne die Möglichkeit der Wiederherstellung gelöscht wird.",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1850,9 +1850,9 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Използвайте цялата презентация",
+    "value": "Wählen Sie aus, was Sie mit den Elementen aus dem „Teilen“-Menü tun möchten",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1860,9 +1860,9 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Използвайте цялата презентация",
+    "value": "Alle gefundenen Chats löschen",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Delete All Found Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1870,9 +1870,9 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Използвайте цялата презентация",
+    "value": "Die gesamte Datei verwenden? Oder bestimmte Seiten?",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Use the whole file? Or certain pages?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1880,9 +1880,9 @@
     "version": 1
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Използвайте цялата презентация",
+    "value": "NSFW-Inhalt beim Generieren von Bildern filtern",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1890,9 +1890,9 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Използвайте цялата презентация",
+    "value": "NSFW-Inhaltsfilterung",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1900,7 +1900,7 @@
     "version": 1
   },
   "Main_ORG_Settings": {
-    "value": "Модифицирайте и настройте Nuvole AI, за да отговаря на вашите нужди",
+    "value": "Passen Sie Nuvole AI an, um perfekt zu Ihren Bedürfnissen zu passen",
     "original": {
       "value": "Modify and customize Nuvole AI to perfectly fit your needs",
       "version": 1
@@ -1910,7 +1910,7 @@
     "version": 1
   },
   "Settings_ORG_Lite": {
-    "value": "Ще бъдете прехвърлени към страницата на RoutineHub за Nuvole AI Lite",
+    "value": "Sie werden zur RoutineHub-Seite für Nuvole AI Lite weitergeleitet",
     "original": {
       "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
       "version": 1
@@ -1920,7 +1920,7 @@
     "version": 1
   },
   "Text_T_ShowNote": {
-    "value": "Покажете пълната бележка",
+    "value": "Vollständige Notiz anzeigen",
     "original": {
       "value": "Show Full Note",
       "version": 1
@@ -1930,7 +1930,7 @@
     "version": 1
   },
   "History_T_21Chats": {
-    "value": "21 чата",
+    "value": "21 Chats",
     "original": {
       "value": "21 chats",
       "version": 1
@@ -1940,7 +1940,7 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "Сигурни ли сте, че искате да изтриете ${Count} избрани ${Chats}? При натискане на бутона „Изтрийте избраните чатове“, се съгласявате, че чатовете, които сте избрали, ще бъдат изтрити без възможност за възстановяване.",
+    "value": "Sind Sie sicher, dass Sie ${Count} ausgewählte ${Chats} löschen möchten? Durch Klicken auf die Schaltfläche „Ausgewählte Chats löschen“ stimmen Sie zu, dass die von Ihnen ausgewählten Chats ohne die Möglichkeit der Wiederherstellung gelöscht werden.",
     "original": {
       "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
       "version": 1
@@ -1950,7 +1950,7 @@
     "version": 1
   },
   "Settings_N_Close": {
-    "value": "Затворете настройките",
+    "value": "Einstellungen schließen",
     "original": {
       "value": "Close Settings",
       "version": 1
@@ -1960,7 +1960,7 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Изтрийте всички намерени чатове без възможност за възстановяване",
+    "value": "Löschen Sie alle gefundenen Chats ohne die Möglichkeit der Wiederherstellung",
     "original": {
       "value": "Delete all found chats without the possibility of recovery",
       "version": 1
@@ -1970,9 +1970,9 @@
     "version": 1
   },
   "Share_N_AllFile": {
-    "value": "Изтрийте всички намерени чатове без възможност за възстановяване",
+    "value": "Die gesamte Datei verwenden",
     "original": {
-      "value": "Delete all found chats without the possibility of recovery",
+      "value": "Use the Whole File",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1980,7 +1980,7 @@
     "version": 1
   },
   "Error_N_Change": {
-    "value": "Променете AI модела и повторете заявката",
+    "value": "Ändern Sie das KI-Modell und wiederholen Sie die Anfrage",
     "original": {
       "value": "Change the AI Model and Repeat Request",
       "version": 1
@@ -1990,7 +1990,7 @@
     "version": 1
   },
   "Share_N_Slides": {
-    "value": "Изберете слайдовете, които ще бъдат използвани",
+    "value": "Wählen Sie die zu verwendenden Folien aus",
     "original": {
       "value": "Select the Slides to be Used",
       "version": 1
@@ -2000,7 +2000,7 @@
     "version": 1
   },
   "Settings_N_Telegram": {
-    "value": "Абонирайте се за канала на MIKL в Telegram",
+    "value": "Abonnieren Sie den Telegram-Kanal von MIKL",
     "original": {
       "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
@@ -2010,7 +2010,7 @@
     "version": 1
   },
   "Settings_T_ID-Theme-0": {
-    "value": "Светъл",
+    "value": "Hell",
     "original": {
       "value": "Light",
       "version": 1
@@ -2020,7 +2020,7 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Светъл",
+    "value": "Hell",
     "original": {
       "value": "Light",
       "version": 1
@@ -2030,7 +2030,7 @@
     "version": 1
   },
   "Main_ORG_5Messages": {
-    "value": "5 съобщения",
+    "value": "5 Nachrichten",
     "original": {
       "value": "5 messages",
       "version": 1
@@ -2040,7 +2040,7 @@
     "version": 1
   },
   "Text_T_Else": {
-    "value": "Може би нещо друго?",
+    "value": "Vielleicht etwas anderes?",
     "original": {
       "value": "Maybe something else?",
       "version": 1
@@ -2050,7 +2050,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Не предлагайте това обновление",
+    "value": "Dieses Update nicht anbieten",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
@@ -2060,7 +2060,7 @@
     "version": 1
   },
   "Chat_N_Rename": {
-    "value": "Преименувайте чат",
+    "value": "Chat umbenennen",
     "original": {
       "value": "Rename Chat",
       "version": 1
@@ -2070,7 +2070,7 @@
     "version": 1
   },
   "N_Exit": {
-    "value": "Изход от Nuvole AI",
+    "value": "Nuvole AI verlassen",
     "original": {
       "value": "Exit the Nuvole AI",
       "version": 1
@@ -2080,7 +2080,7 @@
     "version": 1
   },
   "History_H_Deletion": {
-    "value": "Сигурни ли сте, че искате да изтриете историята? Можете да изтриете само необходимите чатове, като изберете „Изберете и изтрийте чатове“ в предишното меню. При натискане на бутона „Изтрийте всички чатове“, се съгласявате, че всички чатове ще бъдат изтрити без възможност за възстановяване.",
+    "value": "Sind Sie sicher, dass Sie die Geschichte löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle Chats löschen“ stimmen Sie zu, dass alle Chats ohne die Möglichkeit der Wiederherstellung gelöscht werden.",
     "original": {
       "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -2090,7 +2090,7 @@
     "version": 1
   },
   "Settings_T_C-Image": {
-    "value": "Генериране на изображения",
+    "value": "Bildgenerierung",
     "original": {
       "value": "Image Generation",
       "version": 1
@@ -2100,7 +2100,7 @@
     "version": 1
   },
   "Update_N_NotInstall": {
-    "value": "Не инсталирайте обновлението",
+    "value": "Update nicht installieren",
     "original": {
       "value": "Do Not Install the Update",
       "version": 1
@@ -2110,7 +2110,7 @@
     "version": 1
   },
   "Share_H_VideoType": {
-    "value": "Какво искате да направите с това видео?",
+    "value": "Was möchten Sie mit diesem Video tun?",
     "original": {
       "value": "What do you want to do with this video?",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "Сега Nuvole AI ще използва модела, който ще изберете, но следващия път ${Name}",
+    "value": "Im Moment wird Nuvole AI das Modell verwenden, das Sie auswählen, aber beim nächsten Mal das ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2130,7 +2130,7 @@
     "version": 1
   },
   "Error_T_Type-Error-1": {
-    "value": "Възникна грешка при обработката на заявката.",
+    "value": "Ein Fehler ist beim Verarbeiten der Anfrage aufgetreten.",
     "original": {
       "value": "An error occurred during processing the request.",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Запазвайте нови чатове само по искане",
+    "value": "Neue Chats nur auf Anfrage speichern",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2150,7 +2150,7 @@
     "version": 1
   },
   "Settings_T_FontMin": {
-    "value": "Минимална стойност: 22",
+    "value": "Mindestwert: 22",
     "original": {
       "value": "Minimum value: 22",
       "version": 1
@@ -2160,7 +2160,7 @@
     "version": 1
   },
   "History_T_Found": {
-    "value": "${Count чатове} са намерени по заявката „${Text}“",
+    "value": "${Count chats} auf die Anfrage „${Text}“ gefunden",
     "original": {
       "value": "${Count chats} found on request “${Text}”",
       "version": 1
@@ -2170,7 +2170,7 @@
     "version": 1
   },
   "Feedback_H_History": {
-    "value": "Искате ли да споделите този чат, съдържащ вашите съобщения и отговорите на AI, с разработчика?",
+    "value": "Möchten Sie diesen Chat, der Ihre Nachrichten und die Antworten der KI enthält, mit dem Entwickler teilen?",
     "original": {
       "value": "Do you want to share this chat containing your messages and AI responses with developer?",
       "version": 1
@@ -2180,7 +2180,7 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Да, изпратете моята конфигурация на Nuvole AI",
+    "value": "Ja, meine Nuvole AI-Konfiguration übertragen",
     "original": {
       "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
@@ -2190,7 +2190,7 @@
     "version": 1
   },
   "Error_N_Report": {
-    "value": "Грешката се повтаря твърде често?",
+    "value": "Wird der Fehler zu oft wiederholt?",
     "original": {
       "value": "Is the Error Repeating Too Often?",
       "version": 1
@@ -2200,7 +2200,7 @@
     "version": 1
   },
   "Share_N_Pages": {
-    "value": "Изберете страниците, които ще бъдат използвани",
+    "value": "Wählen Sie die zu verwendenden Seiten aus",
     "original": {
       "value": "Select the Pages to be Used",
       "version": 1
@@ -2210,7 +2210,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMax": {
-    "value": "Стойността, която сте задали, е твърде висока",
+    "value": "Sie haben den Wert zu hoch eingestellt",
     "original": {
       "value": "You have set the value too high",
       "version": 1
@@ -2220,7 +2220,7 @@
     "version": 1
   },
   "Feedback_ORG_Server": {
-    "value": "Не ще можете да получите отзив от разработчика",
+    "value": "Sie können kein Feedback vom Entwickler erhalten",
     "original": {
       "value": "You won’t be able to get feedback from developer",
       "version": 1
@@ -2230,7 +2230,7 @@
     "version": 1
   },
   "Install_ORG_Learn": {
-    "value": "Ще бъдете прехвърлени към страницата с описание на RoutineHub за Nuvole AI",
+    "value": "Sie werden zur RoutineHub-Beschreibungsseite für Nuvole AI weitergeleitet",
     "original": {
       "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
@@ -2240,7 +2240,7 @@
     "version": 1
   },
   "History_N_SelectionDelete": {
-    "value": "Изтрийте ${Count} избрани ${Chats}",
+    "value": "${Count} ausgewählte ${Chats} löschen",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
@@ -2250,7 +2250,7 @@
     "version": 1
   },
   "Update_H_5Versions": {
-    "value": "5 версии",
+    "value": "5 Versionen",
     "original": {
       "value": "5 versions",
       "version": 1
@@ -2260,7 +2260,7 @@
     "version": 1
   },
   "History_N_Back": {
-    "value": "Затворете историята",
+    "value": "Geschichte schließen",
     "original": {
       "value": "Close History",
       "version": 1
@@ -2270,7 +2270,7 @@
     "version": 1
   },
   "Settings_H_NAME-Saving": {
-    "value": "Как искате да запазвате нови чатове?",
+    "value": "Wie möchten Sie neue Chats speichern?",
     "original": {
       "value": "How do you want to save new chats?",
       "version": 1
@@ -2280,7 +2280,7 @@
     "version": 1
   },
   "Settings_N_NAME-Font": {
-    "value": "Размер на шрифта",
+    "value": "Schriftgröße",
     "original": {
       "value": "Font Size",
       "version": 1
@@ -2290,7 +2290,7 @@
     "version": 1
   },
   "Share_T_ErrorExtension": {
-    "value": "За съжаление, Nuvole AI не може да работи с файлове .{Extension}",
+    "value": "Leider kann Nuvole AI nicht mit Dateien .{Extension} arbeiten",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Стойността, която сте задали, е твърде ниска",
+    "value": "Sie haben den Wert zu klein eingestellt",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2310,7 +2310,7 @@
     "version": 1
   },
   "Settings_T_ID-Search-True": {
-    "value": "Стойността, която сте задали, е твърде ниска",
+    "value": "Sie haben den Wert zu klein eingestellt",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2320,7 +2320,7 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "Повторете заявката, използвайки същия модел",
+    "value": "Anfrage mit dem gleichen Modell wiederholen",
     "original": {
       "value": "Repeat Request Using the Same Model",
       "version": 1
@@ -2330,7 +2330,7 @@
     "version": 1
   },
   "Error_T_Type-Error-5": {
-    "value": "Възникна грешка при обработката на изображението.",
+    "value": "Ein Fehler ist beim Verarbeiten des Bildes aufgetreten.",
     "original": {
       "value": "An error occurred during processing the image.",
       "version": 1
@@ -2340,7 +2340,7 @@
     "version": 1
   },
   "Share_H_SummarySize": {
-    "value": "Изберете размера на резюмето, което искате да получите",
+    "value": "Wählen Sie die Größe der Zusammenfassung aus, die Sie erhalten möchten",
     "original": {
       "value": "Select the size of summarization you want to get",
       "version": 1
@@ -2350,7 +2350,7 @@
     "version": 1
   },
   "Update_H_21Versions": {
-    "value": "21 версии",
+    "value": "21 Versionen",
     "original": {
       "value": "21 versions",
       "version": 1
@@ -2360,7 +2360,7 @@
     "version": 1
   },
   "Install_H_Updates": {
-    "value": "Изберете дали искате да получавате известия за обновления",
+    "value": "Wählen Sie aus, ob Sie Benachrichtigungen über Updates erhalten möchten",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
       "version": 1
@@ -2370,7 +2370,7 @@
     "version": 1
   },
   "Feedback_ORG_YesHistory": {
-    "value": "Това може да даде по-добро разбиране на вашата проблема",
+    "value": "Dies kann ein besseres Verständnis Ihres Problems ermöglichen",
     "original": {
       "value": "This may give a better understanding of your problem",
       "version": 1
@@ -2380,7 +2380,7 @@
     "version": 1
   },
   "Generation_N_Note": {
-    "value": "Да, генерирайте и запазете бележка на моето устройство",
+    "value": "Ja, eine Notiz auf meinem Gerät generieren und speichern",
     "original": {
       "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "Не, не изпращайте конфигурация",
+    "value": "Nein, Konfiguration nicht übertragen",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2400,7 +2400,7 @@
     "version": 1
   },
   "Chat_N_View": {
-    "value": "Прегледайте чата",
+    "value": "Chat anzeigen",
     "original": {
       "value": "View Chat",
       "version": 1
@@ -2410,7 +2410,7 @@
     "version": 1
   },
   "Chat_N_DeletionDelete": {
-    "value": "Изтрийте този чат",
+    "value": "Diesen Chat löschen",
     "original": {
       "value": "Delete This Chat",
       "version": 1
@@ -2420,7 +2420,7 @@
     "version": 1
   },
   "Chat_T_RenamingError": {
-    "value": "Името на чата не може да бъде празен низ",
+    "value": "Der Chatname kann keine leere Zeichenfolge sein",
     "original": {
       "value": "The chat name cannot be an empty string",
       "version": 1
@@ -2430,7 +2430,7 @@
     "version": 1
   },
   "Settings_N_History-True": {
-    "value": "Показване на историята на чатовете",
+    "value": "Chat-Historie anzeigen",
     "original": {
       "value": "Display Chat History ",
       "version": 1
@@ -2440,7 +2440,7 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Прежде да изберете, ще ви се покаже вашият файл",
+    "value": "Bevor Sie auswählen, wird Ihnen Ihre Datei angezeigt",
     "original": {
       "value": "Before selecting, you will be shown your file",
       "version": 1
@@ -2450,7 +2450,7 @@
     "version": 1
   },
   "History_T_5Chats": {
-    "value": "5 чата",
+    "value": "5 Chats",
     "original": {
       "value": "5 chats",
       "version": 1
@@ -2460,7 +2460,7 @@
     "version": 1
   },
   "Settings_N_NAME-Share": {
-    "value": "Тип на заявката",
+    "value": "Anfragentyp",
     "original": {
       "value": "Request Type",
       "version": 1
@@ -2470,7 +2470,7 @@
     "version": 1
   },
   "N_Back": {
-    "value": "Назад",
+    "value": "Zurück",
     "original": {
       "value": "Back",
       "version": 1
@@ -2480,7 +2480,7 @@
     "version": 1
   },
   "Settings_T_FontMax": {
-    "value": "Максимална стойност: 62",
+    "value": "Maximalwert: 62",
     "original": {
       "value": "Maximum value: 62",
       "version": 1
@@ -2490,7 +2490,7 @@
     "version": 1
   },
   "Share_T_ErrorPre": {
-    "value": "Максимална стойност: 62",
+    "value": "Maximalwert: 62",
     "original": {
       "value": "Maximum value: 62",
       "version": 1
@@ -2500,7 +2500,7 @@
     "version": 1
   },
   "Settings_N_Search-False": {
-    "value": "Не търсете информация в интернет",
+    "value": "Nicht im Internet nach Informationen suchen",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2510,7 +2510,7 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "Не търсете информация в интернет",
+    "value": "Nicht im Internet nach Informationen suchen",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2520,7 +2520,7 @@
     "version": 1
   },
   "Text_T_ShowThink": {
-    "value": "Покажете пълните мисли",
+    "value": "Vollständige Gedanken anzeigen",
     "original": {
       "value": "Show Full Throghts",
       "version": 1
@@ -2530,7 +2530,7 @@
     "version": 1
   },
   "History_T_SearchError": {
-    "value": "Нищо не е намерено за вашата заявка",
+    "value": "Es wurde nichts für Ihre Anfrage gefunden",
     "original": {
       "value": "Nothing was found for your request",
       "version": 1
@@ -2540,7 +2540,7 @@
     "version": 1
   },
   "Text_T_Exit": {
-    "value": "Nuvole AI ще завърши работата си",
+    "value": "Nuvole AI wird seine Arbeit beenden",
     "original": {
       "value": "Nuvole AI will complete its work",
       "version": 1
@@ -2550,7 +2550,7 @@
     "version": 1
   },
   "Error_T_Outage": {
-    "value": "Частични проблеми.",
+    "value": "Teilweise Probleme.",
     "original": {
       "value": "Partial problems.",
       "version": 1
@@ -2560,7 +2560,7 @@
     "version": 1
   },
   "Settings_ORG_Selected": {
-    "value": "Избрана настройка",
+    "value": "Ausgewählte Einstellung",
     "original": {
       "value": "Selected setting",
       "version": 1
