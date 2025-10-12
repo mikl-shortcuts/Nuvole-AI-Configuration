@@ -1,43 +1,43 @@
 {
-  "Settings_N_NAME-Search": {
-    "value": "Recherche sur Internet",
+  "Settings_T_ID-Theme-Auto": {
+    "value": "Système",
     "original": {
-      "value": "Internet Search",
-      "version": 1
+      "value": "System"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Problem": {
-    "value": "Panne majeure.",
-    "original": {
-      "value": "Major outage.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Upd": {
-    "value": "Vérification des mises à jour",
-    "original": {
-      "value": "Checking for Updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Share_T_ErrorFile": {
     "value": "Malheureusement, Nuvole AI ne peut pas travailler avec ce fichier",
     "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file",
-      "version": 1
+      "value": "Unfortunately, Nuvole AI cannot work with this file"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "Vérification des mises à jour",
+    "original": {
+      "value": "Checking for Updates"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Problem": {
+    "value": "Panne majeure.",
+    "original": {
+      "value": "Major outage."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Search": {
+    "value": "Recherche sur Internet",
+    "original": {
+      "value": "Internet Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_T_2Chats": {
     "value": "2 chats",
@@ -143,16 +143,6 @@
     "value": "Choisissez les chats que vous souhaitez supprimer",
     "original": {
       "value": "Choose which chats you want to delete",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_ID-Theme-Auto": {
-    "value": "Système",
-    "original": {
-      "value": "System",
       "version": 1
     },
     "translatedBy": "ai",
