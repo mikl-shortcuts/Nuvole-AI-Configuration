@@ -1,6 +1,6 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "I am NOT A robot 😁",
+    "value": "Hello, I am Nuvole AI!",
     "translatedBy": "human",
     "isTranslated": true
   },
@@ -10,15 +10,10 @@
     "isTranslated": true
   },
   "Test-Value": {
-    "value": "Testing something great 😋",
+    "value": "Testing something really REALLY great 😋",
     "translatedBy": "human",
     "isTranslated": true
   }, 
-  "Share_T_ErrorFile": {
-    "value": "Unfortunately, Nuvole AI cannot work with this file",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
   "History_T_2Chats": {
     "value": "2 chats",
     "translatedBy": "human",
