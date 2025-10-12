@@ -1,13 +1,19 @@
 {
-  "Settings_N_NAME-Search": {
-    "value": "Интернет търсене",
+  "🎃": {
+    "value": "Pumpkin",
     "original": {
-      "value": "Internet Search",
-      "version": 1
+      "value": "Pumpkin"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Search": {
+    "value": "I am robot 🤖",
+    "original": {
+      "value": "I am robot 🤖"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Error_T_Problem": {
     "value": "Главна авария.",
@@ -143,16 +149,6 @@
     "value": "Изберете кои чатове искате да изтриете",
     "original": {
       "value": "Choose which chats you want to delete",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_ID-Theme-Auto": {
-    "value": "Система",
-    "original": {
-      "value": "System",
       "version": 1
     },
     "translatedBy": "ai",

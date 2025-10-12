@@ -1,64 +1,16 @@
 {
-  "Settings_N_NAME-Main": {
-    "value": "Main Menu",
+  "🎃": {
+    "value": "Pumpkin",
     "original": {
-      "value": "Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_T_ID-Voice-False": {
-    "value": "With Text",
-    "original": {
-      "value": "With Text"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_T_ErrorFile": {
-    "value": "Unfortunately, Nuvole AI cannot work with this file",
-    "original": {
-      "value": "Unfortunately, Nuvole AI cannot work with this file"
+      "value": "Pumpkin"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_N_NAME-Search": {
-    "value": "Internet Search",
+    "value": "I am robot 🤖",
     "original": {
-      "value": "Internet Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "An error occurred during image generation.",
-    "original": {
-      "value": "An error occurred during image generation."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_T_ID-Theme-Auto": {
-    "value": "System",
-    "original": {
-      "value": "System"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_N_DeletionDelete": {
-    "value": "Delete All Chats",
-    "original": {
-      "value": "Delete All Chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Email": {
-    "value": "You will be able to get feedback from developer",
-    "original": {
-      "value": "You will be able to get feedback from developer"
+      "value": "I am robot 🤖"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,10 +31,26 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_T_ErrorFile": {
+    "value": "Unfortunately, Nuvole AI cannot work with this file",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_2Chats": {
     "value": "2 conversations",
     "original": {
       "value": "2 chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "You will be able to get feedback from developer",
+    "original": {
+      "value": "You will be able to get feedback from developer"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -99,6 +67,14 @@
     "value": "Comment souhaitez-vous envoyer vos retours ?",
     "original": {
       "value": "How you want to send feedback?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_N_DeletionDelete": {
+    "value": "Delete All Chats",
+    "original": {
+      "value": "Delete All Chats"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -123,6 +99,14 @@
     "value": "Message envoyé !",
     "original": {
       "value": "Message sent!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "With Text",
+    "original": {
+      "value": "With Text"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -191,6 +175,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_N_NAME-Main": {
+    "value": "Main Menu",
+    "original": {
+      "value": "Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Generation_H_H": {
     "value": "Alerte de gestion de l'appareil !",
     "original": {
@@ -251,6 +243,14 @@
     "value": "Supprimer l'intégralité de l'historique des conversations avec Nuvole AI sans possibilité de récupération",
     "original": {
       "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "An error occurred during image generation.",
+    "original": {
+      "value": "An error occurred during image generation."
     },
     "translatedBy": "ai",
     "isTranslated": true
