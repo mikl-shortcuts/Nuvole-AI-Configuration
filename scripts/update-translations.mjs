@@ -5,7 +5,7 @@ import fetch from 'node-fetch';
 
 const DICTIONARIES_DIR = path.resolve('dictionaries');
 const EN_FILE = path.join(DICTIONARIES_DIR, 'en.json');
-const API_URL = 'https://translateapi-six.vercel.app/api/translate';
+const API_URL = 'https://nuvole-systems.vercel.app/api/translator';
 
 function getPreviousEnJson() {
   try {
