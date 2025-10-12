@@ -1,19 +1,24 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI!",
+    "value": "Internet Search",
     "translatedBy": "human",
     "isTranslated": true
   },
   "Error_T_Problem": {
-    "value": "Major problems.",
+    "value": "Major outage.",
     "translatedBy": "human",
     "isTranslated": true
   },
-  "Test-Value": {
-    "value": "Loading. . .",
+  "Settings_N_NAME-Upd": {
+    "value": "Checking for Updates",
     "translatedBy": "human",
     "isTranslated": true
-  }, 
+  },
+  "Share_T_ErrorFile": {
+    "value": "Unfortunately, Nuvole AI cannot work with this file",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "History_T_2Chats": {
     "value": "2 chats",
     "translatedBy": "human",
@@ -69,6 +74,11 @@
     "translatedBy": "human",
     "isTranslated": true
   },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "System",
+    "translatedBy": "human",
+    "isTranslated": true
+  },
   "Chat_N_Delete": {
     "value": "Delete Chat",
     "translatedBy": "human",
@@ -76,11 +86,6 @@
   },
   "Main_ORG_2Messages": {
     "value": "2 messages",
-    "translatedBy": "human",
-    "isTranslated": true
-  },
-  "🎃": {
-    "value": "Pumpkin",
     "translatedBy": "human",
     "isTranslated": true
   },
