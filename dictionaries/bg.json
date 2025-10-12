@@ -1,29 +1,27 @@
 {
-  "Test": {
-    "value": "Loading. . .",
+  "Test-Value": {
+    "value": "Зареждане. . .",
     "original": {
       "value": "Loading. . ."
     },
-    "translatedBy": "none",
-    "isTranslated": false
-  },
-  "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI! And who are you?",
-    "original": {
-      "value": "Hello, I am Nuvole AI! And who are you?"
-    },
-    "translatedBy": "none",
-    "isTranslated": false
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Error_T_Problem": {
-    "value": "Главна авария.",
+    "value": "Главни проблеми.",
     "original": {
-      "value": "Major outage.",
-      "version": 1
+      "value": "Major problems."
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Search": {
+    "value": "Здравей, аз съм Nuvole AI!",
+    "original": {
+      "value": "Hello, I am Nuvole AI!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_T_2Chats": {
     "value": "2 чата",

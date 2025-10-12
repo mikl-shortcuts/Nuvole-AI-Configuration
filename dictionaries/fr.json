@@ -1,24 +1,24 @@
 {
-  "Test": {
-    "value": "Loading. . .",
+  "Test-Value": {
+    "value": "Chargement. . .",
     "original": {
       "value": "Loading. . ."
     },
-    "translatedBy": "none",
-    "isTranslated": false
-  },
-  "Settings_N_NAME-Search": {
-    "value": "Hello, I am Nuvole AI! And who are you?",
-    "original": {
-      "value": "Hello, I am Nuvole AI! And who are you?"
-    },
-    "translatedBy": "none",
-    "isTranslated": false
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Error_T_Problem": {
-    "value": "Panne majeure.",
+    "value": "Problèmes majeurs.",
     "original": {
-      "value": "Major outage."
+      "value": "Major problems."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Search": {
+    "value": "Bonjour, je suis Nuvole AI !",
+    "original": {
+      "value": "Hello, I am Nuvole AI!"
     },
     "translatedBy": "ai",
     "isTranslated": true
