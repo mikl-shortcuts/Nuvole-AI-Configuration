@@ -1,32 +1,24 @@
 {
-  "🎃": {
-    "value": "Pumpkin",
+  "Test-Value": {
+    "value": "Testing something great 😋",
     "original": {
-      "value": "Pumpkin"
+      "value": "Testing something great 😋"
     },
-    "translatedBy": "ai",
-    "isTranslated": true
+    "translatedBy": "none",
+    "isTranslated": false
   },
   "Settings_N_NAME-Search": {
-    "value": "I am robot 🤖",
+    "value": "I am NOT A robot 😁",
     "original": {
-      "value": "I am robot 🤖"
+      "value": "I am NOT A robot 😁"
     },
-    "translatedBy": "ai",
-    "isTranslated": true
+    "translatedBy": "none",
+    "isTranslated": false
   },
   "Error_T_Problem": {
     "value": "Panne majeure.",
     "original": {
       "value": "Major outage."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Upd": {
-    "value": "Vérification des mises à jour",
-    "original": {
-      "value": "Checking for Updates"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -139,6 +131,14 @@
     "value": "2 messages",
     "original": {
       "value": "2 messages"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "🎃": {
+    "value": "Pumpkin",
+    "original": {
+      "value": "Pumpkin"
     },
     "translatedBy": "ai",
     "isTranslated": true

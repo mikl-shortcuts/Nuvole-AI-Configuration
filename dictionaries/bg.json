@@ -1,34 +1,24 @@
 {
-  "🎃": {
-    "value": "Pumpkin",
+  "Test-Value": {
+    "value": "Testing something great 😋",
     "original": {
-      "value": "Pumpkin"
+      "value": "Testing something great 😋"
     },
-    "translatedBy": "ai",
-    "isTranslated": true
+    "translatedBy": "none",
+    "isTranslated": false
   },
   "Settings_N_NAME-Search": {
-    "value": "I am robot 🤖",
+    "value": "I am NOT A robot 😁",
     "original": {
-      "value": "I am robot 🤖"
+      "value": "I am NOT A robot 😁"
     },
-    "translatedBy": "ai",
-    "isTranslated": true
+    "translatedBy": "none",
+    "isTranslated": false
   },
   "Error_T_Problem": {
     "value": "Главна авария.",
     "original": {
       "value": "Major outage.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Upd": {
-    "value": "Проверка за обновления",
-    "original": {
-      "value": "Checking for Updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -174,6 +164,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "🎃": {
+    "value": "Pumpkin",
+    "original": {
+      "value": "Pumpkin"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Save-False": {
     "value": "Само по искане",
