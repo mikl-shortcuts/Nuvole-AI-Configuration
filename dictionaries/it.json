@@ -10,7 +10,7 @@
     "version": 1
   },
   "Error_T_Problem": {
-    "value": "Grave interruzione.",
+    "value": "Interruzione importante.",
     "original": {
       "value": "Major outage.",
       "version": 1
@@ -80,7 +80,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Elimina Tutte le Chat",
+    "value": "Elimina tutte le chat",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -100,7 +100,7 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Sì, Trasmettere la Storia di Questa Chat",
+    "value": "Sì, trasmetti la cronologia di questa chat",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
@@ -120,7 +120,7 @@
     "version": 1
   },
   "Settings_T_ID-Voice-False": {
-    "value": "Con Testo",
+    "value": "Con testo",
     "original": {
       "value": "With Text",
       "version": 1
@@ -130,9 +130,9 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Con Testo",
+    "value": "Vuoi trasmettere una configurazione di Nuvole AI con lo sviluppatore?",
     "original": {
-      "value": "With Text",
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -150,9 +150,9 @@
     "version": 1
   },
   "Settings_T_ID-Theme-Auto": {
-    "value": "Scegli quali chat vuoi eliminare",
+    "value": "Sistema",
     "original": {
-      "value": "Choose which chats you want to delete",
+      "value": "System",
       "version": 1
     },
     "translatedBy": "ai",
@@ -160,7 +160,7 @@
     "version": 1
   },
   "Chat_N_Delete": {
-    "value": "Elimina Chat",
+    "value": "Elimina chat",
     "original": {
       "value": "Delete Chat",
       "version": 1
@@ -180,7 +180,7 @@
     "version": 1
   },
   "Settings_T_ID-Save-False": {
-    "value": "Solo su Richiesta",
+    "value": "Solo su richiesta",
     "original": {
       "value": "Only on Request",
       "version": 1
@@ -200,7 +200,7 @@
     "version": 1
   },
   "Update_H_VersionCount": {
-    "value": "${Count versioni} sono state rilasciate dalla versione ${Num}",
+    "value": "Sono state rilasciate ${Count versioni} dalla versione ${Num}",
     "original": {
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
@@ -220,7 +220,7 @@
     "version": 1
   },
   "Settings_N_NAME-Main": {
-    "value": "Menu Principale",
+    "value": "Menu principale",
     "original": {
       "value": "Main Menu",
       "version": 1
@@ -260,7 +260,7 @@
     "version": 1
   },
   "Update_N_Details": {
-    "value": "Visualizza il changelog più dettagliato",
+    "value": "Visualizza il changelog dettagliato",
     "original": {
       "value": "View More Detailed Changelog",
       "version": 1
@@ -270,7 +270,7 @@
     "version": 1
   },
   "Install_N_YesMenu": {
-    "value": "Apri il Menu Principale ad Ogni Nuova Esecuzione",
+    "value": "Apri il menu principale con ogni nuova esecuzione",
     "original": {
       "value": "Open the Main Menu with Each New Running",
       "version": 1
@@ -280,7 +280,7 @@
     "version": 1
   },
   "Main_N_Feedback": {
-    "value": "Scrivi un Feedback",
+    "value": "Scrivi un feedback",
     "original": {
       "value": "Write a Feedback",
       "version": 1
@@ -290,7 +290,7 @@
     "version": 1
   },
   "Main_H_Main": {
-    "value": "Menu Principale",
+    "value": "Menu principale",
     "original": {
       "value": "Main Menu",
       "version": 1
@@ -340,7 +340,7 @@
     "version": 1
   },
   "Text_T_HideNote": {
-    "value": "Nascondi Appunto Completo",
+    "value": "Nascondi nota completa",
     "original": {
       "value": "Hide Full Note",
       "version": 1
@@ -360,7 +360,7 @@
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Crea una Nuova Chat",
+    "value": "Crea una nuova chat",
     "original": {
       "value": "Create a New Chat",
       "version": 1
@@ -370,7 +370,7 @@
     "version": 1
   },
   "Settings_N_Loading-False": {
-    "value": "Crea Nuova Chat",
+    "value": "Crea nuova chat",
     "original": {
       "value": "Create New Chat",
       "version": 1
@@ -390,7 +390,7 @@
     "version": 1
   },
   "Install_N_Learn": {
-    "value": "Maggiori Informazioni su Nuvole AI",
+    "value": "Ulteriori informazioni su Nuvole AI",
     "original": {
       "value": "More Information about Nuvole AI",
       "version": 1
@@ -410,7 +410,7 @@
     "version": 1
   },
   "Install_N_NoUpdates": {
-    "value": "Non Ricevere Aggiornamenti",
+    "value": "Non ricevere aggiornamenti",
     "original": {
       "value": "Do Not Receive Updates",
       "version": 1
@@ -430,7 +430,7 @@
     "version": 1
   },
   "Settings_N_ImagwSFW-False": {
-    "value": "Non filtrare i contenuti NSFW durante la generazione delle immagini",
+    "value": "Non filtrare contenuti NSFW durante la generazione di immagini",
     "original": {
       "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
@@ -510,7 +510,7 @@
     "version": 1
   },
   "Chat_N_Load": {
-    "value": "Carica e Continua Chat",
+    "value": "Carica e continua chat",
     "original": {
       "value": "Load and Continue Chat",
       "version": 1
@@ -520,7 +520,7 @@
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Nascondi Pensieri Completi",
+    "value": "Nascondi pensieri completi",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
@@ -550,7 +550,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Non migliorare il prompt con l'IA",
+    "value": "Non migliorare il prompt con l'AI",
     "original": {
       "value": "Do Not Improve Prompt with AI",
       "version": 1
@@ -580,7 +580,7 @@
     "version": 1
   },
   "Settings_T_C-Share": {
-    "value": "Foglio di Condivisione",
+    "value": "Foglio di condivisione",
     "original": {
       "value": "Share Sheet",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Naviga, cerca, visualizza e continua le tue chat con Nuvole AI",
+    "value": "Sfoglia, cerca, visualizza e continua le tue chat con Nuvole AI",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -600,7 +600,7 @@
     "version": 1
   },
   "History_ORG_BackHistory": {
-    "value": "Torna alla Cronologia",
+    "value": "Torna alla cronologia",
     "original": {
       "value": "Return to History",
       "version": 1
@@ -620,7 +620,7 @@
     "version": 1
   },
   "Install_N_YesUpdates": {
-    "value": "Ricevi Aggiornamenti",
+    "value": "Ricevi aggiornamenti",
     "original": {
       "value": "Receive Updates",
       "version": 1
@@ -680,7 +680,7 @@
     "version": 1
   },
   "Main_ORG_Ago": {
-    "value": "${Seconds} fa",
+    "value": "${Secondi} fa",
     "original": {
       "value": "${Seconds} ago",
       "version": 1
@@ -740,7 +740,7 @@
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Usare tutta la presentazione? O alcune diapositive?",
+    "value": "Usare l'intera presentazione? O alcune diapositive?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
@@ -800,7 +800,7 @@
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Salva Sempre le Nuove Chat",
+    "value": "Salva sempre nuove chat",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
@@ -840,7 +840,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Chiedi Ogni Volta",
+    "value": "Chiedi ogni volta",
     "original": {
       "value": "Ask Every Time",
       "version": 1
@@ -850,7 +850,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Cambia il modello AI per questa sessione e ripeti la richiesta",
+    "value": "Cambia il modello AI solo per questa sessione e ripeti la richiesta",
     "original": {
       "value": "Change the AI Model for This Session Only and Repeat Request",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Sembra che il modello ${Name} che hai selezionato in precedenza non sia più disponibile. Quale modello AI vuoi usare?",
+    "value": "Sembra che il modello ${Name} che hai selezionato in precedenza non sia più disponibile. Quale modello AI vuoi utilizzare?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -870,7 +870,7 @@
     "version": 1
   },
   "Install_N_NoMenu": {
-    "value": "Senza Aprire per Inserire la Richiesta",
+    "value": "Senza aprire per inserire la richiesta",
     "original": {
       "value": "Without Opening to Enter the Request",
       "version": 1
@@ -880,7 +880,7 @@
     "version": 1
   },
   "Chat_T_ChangingError": {
-    "value": "Solo emoji possono essere usate come icona",
+    "value": "Solo emoji possono essere usati come icona",
     "original": {
       "value": "Only emojis can be used as an icon",
       "version": 1
@@ -890,7 +890,7 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "No, Non Trasmettere la Storia",
+    "value": "No, non trasmettere la cronologia",
     "original": {
       "value": "No, Not Transmit the History",
       "version": 1
@@ -900,7 +900,7 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Seleziona ed Elimina Chat",
+    "value": "Seleziona ed elimina chat",
     "original": {
       "value": "Select and Delete Chats",
       "version": 1
@@ -910,7 +910,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Elimina Tutte le Chat",
+    "value": "Elimina tutte le chat",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -940,7 +940,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Miglioramento del Prompt Usando l'IA",
+    "value": "Miglioramento del prompt utilizzando l'AI",
     "original": {
       "value": "Improving the Prompt Using AI",
       "version": 1
@@ -970,7 +970,7 @@
     "version": 1
   },
   "Chat_N_Icon": {
-    "value": "Cambia Icona Chat",
+    "value": "Cambia icona chat",
     "original": {
       "value": "Change Chat Icon",
       "version": 1
@@ -980,7 +980,7 @@
     "version": 1
   },
   "Text_T_Show": {
-    "value": "Mostra Messaggio Completo",
+    "value": "Mostra messaggio completo",
     "original": {
       "value": "Show Full Message",
       "version": 1
@@ -990,7 +990,7 @@
     "version": 1
   },
   "Update_N_Install": {
-    "value": "Installa una Nuova Versione ${Num}",
+    "value": "Installa una nuova versione ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
       "version": 1
@@ -1000,7 +1000,7 @@
     "version": 1
   },
   "Install_H_Model": {
-    "value": "Quale modello AI vuoi usare?",
+    "value": "Quale modello AI vuoi utilizzare?",
     "original": {
       "value": "Which AI model would you like to use?",
       "version": 1
@@ -1010,7 +1010,7 @@
     "version": 1
   },
   "Install_N_SkipLearn": {
-    "value": "Salta e Inizia a Lavorare con Nuvole AI",
+    "value": "Salta e inizia a lavorare con Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
       "version": 1
@@ -1020,7 +1020,7 @@
     "version": 1
   },
   "Settings_N_NAME-Loading": {
-    "value": "Caricamento Ultima Chat all'Avvio",
+    "value": "Carica ultima chat all'avvio",
     "original": {
       "value": "Last Chat Load When Running",
       "version": 1
@@ -1040,7 +1040,7 @@
     "version": 1
   },
   "Generation_N_Skip": {
-    "value": "No, Salta questa Azione",
+    "value": "No, salta questa azione",
     "original": {
       "value": "No, Skip This Action",
       "version": 1
@@ -1050,7 +1050,7 @@
     "version": 1
   },
   "Generation_H_Note": {
-    "value": "Vuoi creare e salvare un appunto “${Title}” con Nuvole AI?",
+    "value": "Vuoi creare e salvare una nota “${Title}” con Nuvole AI?",
     "original": {
       "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Scegli una lingua in cui sarà conveniente per te lavorare con Nuvole AI",
+    "value": "Scegli una lingua in cui ti sarà comodo lavorare con Nuvole AI",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1080,7 +1080,7 @@
     "version": 1
   },
   "Settings_T_C-Request": {
-    "value": "Elaborazione della Richiesta",
+    "value": "Elaborazione della richiesta",
     "original": {
       "value": "Processing of the Request",
       "version": 1
@@ -1100,7 +1100,7 @@
     "version": 1
   },
   "Settings_N_Loading-True": {
-    "value": "Carica e Continua Automaticamente l'Ultima Chat all'Avvio",
+    "value": "Carica e continua automaticamente l'ultima chat all'avvio",
     "original": {
       "value": "Automatically Load and Continue Last Chat When Running",
       "version": 1
@@ -1110,7 +1110,7 @@
     "version": 1
   },
   "Settings_N_NAME-History": {
-    "value": "Visualizzazione Cronologia Chat",
+    "value": "Visualizzazione cronologia chat",
     "original": {
       "value": "Chat History Displaying",
       "version": 1
@@ -1120,7 +1120,7 @@
     "version": 1
   },
   "Install_H_Main": {
-    "value": "Vuoi aprire il Menu Principale all'avvio di Nuvole AI?",
+    "value": "Vuoi aprire il menu principale quando esegui Nuvole AI?",
     "original": {
       "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
@@ -1130,7 +1130,7 @@
     "version": 1
   },
   "Settings_H_Success": {
-    "value": "L'impostazione è stata modificata",
+    "value": "L'impostazione è stata cambiata",
     "original": {
       "value": "The setting has been changed",
       "version": 1
@@ -1140,7 +1140,7 @@
     "version": 1
   },
   "History_N_SearchBack": {
-    "value": "Chiudi Ricerca",
+    "value": "Chiudi ricerca",
     "original": {
       "value": "Close Search",
       "version": 1
@@ -1150,7 +1150,7 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Descrivi in dettaglio il problema che hai riscontrato, insieme a eventuali domande o idee per migliorare Nuvole AI",
+    "value": "Descrivi in dettaglio il problema che hai riscontrato, insieme a eventuali domande o idee che hai per migliorare Nuvole AI",
     "original": {
       "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
@@ -1180,7 +1180,7 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Cerca Automaticamente Informazioni su Internet",
+    "value": "Cerca automaticamente informazioni su Internet",
     "original": {
       "value": "Automatically Search for Information on the Internet",
       "version": 1
@@ -1240,7 +1240,7 @@
     "version": 1
   },
   "Text_T_Hide": {
-    "value": "Nascondi Messaggio Completo",
+    "value": "Nascondi messaggio completo",
     "original": {
       "value": "Hide Full Message",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Seleziona se vuoi migliorare il prompt per generare immagini con l'IA",
+    "value": "Seleziona se vuoi migliorare il prompt per generare immagini con l'AI",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1260,7 +1260,7 @@
     "version": 1
   },
   "Share_N_Question": {
-    "value": "Fai la Tua Domanda",
+    "value": "Fai la tua domanda",
     "original": {
       "value": "Ask Your Question",
       "version": 1
@@ -1280,7 +1280,7 @@
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Modifica Query di Ricerca",
+    "value": "Cambia query di ricerca",
     "original": {
       "value": "Change Search Query",
       "version": 1
@@ -1310,7 +1310,7 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Fai un Riassunto",
+    "value": "Fai un riassunto",
     "original": {
       "value": "Make a Summarization",
       "version": 1
@@ -1350,7 +1350,7 @@
     "version": 1
   },
   "History_N_SearchSelect": {
-    "value": "Seleziona ed Elimina Chat Trovate",
+    "value": "Seleziona ed elimina chat trovate",
     "original": {
       "value": "Select and Delete Found Chats",
       "version": 1
@@ -1430,7 +1430,7 @@
     "version": 1
   },
   "Error_ORG_ChangeStop": {
-    "value": "Ripeti la richiesta usando ${Name}",
+    "value": "Ripeti la richiesta utilizzando ${Name}",
     "original": {
       "value": "Repeat request using ${Name}",
       "version": 1
@@ -1460,7 +1460,7 @@
     "version": 1
   },
   "Settings_H_Error": {
-    "value": "L'impostazione non è stata modificata",
+    "value": "L'impostazione non è stata cambiata",
     "original": {
       "value": "The setting has not been changed",
       "version": 1
@@ -1480,9 +1480,9 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Questa chat verrà caricata automaticamente",
+    "value": "Scrivi il testo con cui vuoi trovare le chat. Verranno controllati i nomi delle chat e il loro contenuto (non sensibile alle maiuscole, supporta regex).",
     "original": {
-      "value": "This chat will load automatically",
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1490,7 +1490,7 @@
     "version": 1
   },
   "Feedback_N_Server": {
-    "value": "In modo anonimo",
+    "value": "Anonimamente",
     "original": {
       "value": "Anonymously",
       "version": 1
@@ -1500,9 +1500,9 @@
     "version": 1
   },
   "Error_ORG_Change": {
-    "value": "In modo anonimo",
+    "value": "Nuvole AI utilizzerà il modello che selezionerai",
     "original": {
-      "value": "Anonymously",
+      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1540,7 +1540,7 @@
     "version": 1
   },
   "History_ORG_BackMain": {
-    "value": "Torna al Menu Principale",
+    "value": "Torna al menu principale",
     "original": {
       "value": "Return to Main Menu",
       "version": 1
@@ -1550,7 +1550,7 @@
     "version": 1
   },
   "Share_ORG_Slides": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Prima di selezionare, ti verrà mostrata la tua presentazione",
     "original": {
       "value": "Before selecting, you will be shown your presentation",
       "version": 1
@@ -1560,9 +1560,9 @@
     "version": 1
   },
   "Main_N_History": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Cronologia",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1570,9 +1570,9 @@
     "version": 1
   },
   "Settings_N_NAME-Summary": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Dimensione del riassunto",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Summarization Size",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1580,9 +1580,9 @@
     "version": 1
   },
   "Settings_T_C-Html": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Visualizzazione della risposta",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Displaying the Answer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1590,9 +1590,9 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Non visualizzare la cronologia delle chat",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Do Not Display Chat History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1600,9 +1600,9 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Continua a chattare con Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Continue Chatting with Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1610,9 +1610,9 @@
     "version": 1
   },
   "Settings_N_NAME-Voice": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Inserimento di una richiesta",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Entering a Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1620,9 +1620,9 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Seleziona la dimensione del font per visualizzare la risposta (48 pixel di default)",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1630,9 +1630,9 @@
     "version": 1
   },
   "Settings_N_NAME-Lang": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Lingua di Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Nuvole AI Language",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1640,9 +1640,9 @@
     "version": 1
   },
   "Settings_N_Lite": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Versione leggera di Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1650,9 +1650,9 @@
     "version": 1
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Migliora il prompt con l'AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1660,9 +1660,9 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Non vuoi cambiare il modello?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1670,9 +1670,9 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Salvataggio chat",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Chat Saving",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1680,9 +1680,9 @@
     "version": 1
   },
   "Install_H_Input": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Seleziona il modo più comodo per te per inserire una richiesta per l'AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1690,9 +1690,9 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Elimina queste chat senza possibilità di recupero",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1700,9 +1700,9 @@
     "version": 1
   },
   "Install_T_Model": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Consigliato",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Recomended",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1710,9 +1710,9 @@
     "version": 1
   },
   "Settings_T_ID-Voice-True": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Con voce",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "With Voice",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1720,9 +1720,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-False": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Non aprire all'avvio",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1730,9 +1730,9 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Si è verificato un errore durante la generazione della nota.",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1740,9 +1740,9 @@
     "version": 1
   },
   "Share_N_AllPre": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Usa l'intera presentazione",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Use the Whole Presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1750,9 +1750,9 @@
     "version": 1
   },
   "Error_N_Repeat": {
-    "value": "Prima della selezione, ti verrà mostrata la tua presentazione",
+    "value": "Ripeti la richiesta",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Repeat Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1770,9 +1770,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-True": {
-    "value": "2 aggiornamenti",
+    "value": "Apri all'avvio",
     "original": {
-      "value": "2 updates",
+      "value": "Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1790,7 +1790,7 @@
     "version": 1
   },
   "Feedback_N_Email": {
-    "value": "Usando Email",
+    "value": "Utilizzando l'email",
     "original": {
       "value": "Using Email",
       "version": 1
@@ -1810,7 +1810,7 @@
     "version": 1
   },
   "Settings_T_C-General": {
-    "value": "Impostazioni Generali",
+    "value": "Impostazioni generali",
     "original": {
       "value": "General Settings",
       "version": 1
@@ -1850,7 +1850,7 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Seleziona cosa vuoi fare con gli elementi del menu “Foglio di Condivisione”",
+    "value": "Seleziona cosa vuoi fare con gli elementi del menu “Foglio di condivisione”",
     "original": {
       "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
@@ -1860,7 +1860,7 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Elimina Tutte le Chat Trovate",
+    "value": "Elimina tutte le chat trovate",
     "original": {
       "value": "Delete All Found Chats",
       "version": 1
@@ -1870,7 +1870,7 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Usare tutto il file? O alcune pagine?",
+    "value": "Usare l'intero file? O alcune pagine?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
       "version": 1
@@ -1880,7 +1880,7 @@
     "version": 1
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Filtra i contenuti NSFW durante la generazione delle immagini",
+    "value": "Filtra contenuti NSFW durante la generazione di immagini",
     "original": {
       "value": "Filter NSFW Content When Generating Images",
       "version": 1
@@ -1890,7 +1890,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Filtraggio Contenuti NSFW",
+    "value": "Filtro contenuti NSFW",
     "original": {
       "value": "NSFW Content Filtering",
       "version": 1
@@ -1920,7 +1920,7 @@
     "version": 1
   },
   "Text_T_ShowNote": {
-    "value": "Mostra Appunto Completo",
+    "value": "Mostra nota completa",
     "original": {
       "value": "Show Full Note",
       "version": 1
@@ -1950,7 +1950,7 @@
     "version": 1
   },
   "Settings_N_Close": {
-    "value": "Chiudi Impostazioni",
+    "value": "Chiudi impostazioni",
     "original": {
       "value": "Close Settings",
       "version": 1
@@ -1980,7 +1980,7 @@
     "version": 1
   },
   "Error_N_Change": {
-    "value": "Cambia il Modello AI e Ripeti la Richiesta",
+    "value": "Cambia il modello AI e ripeti la richiesta",
     "original": {
       "value": "Change the AI Model and Repeat Request",
       "version": 1
@@ -1990,7 +1990,7 @@
     "version": 1
   },
   "Share_N_Slides": {
-    "value": "Seleziona le Diapositive da Utilizzare",
+    "value": "Seleziona le diapositive da utilizzare",
     "original": {
       "value": "Select the Slides to be Used",
       "version": 1
@@ -2000,7 +2000,7 @@
     "version": 1
   },
   "Settings_N_Telegram": {
-    "value": "Iscriviti al Canale Telegram di MIKL",
+    "value": "Iscriviti al canale Telegram di MIKL",
     "original": {
       "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
@@ -2020,7 +2020,7 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Non Eliminare",
+    "value": "Non eliminare",
     "original": {
       "value": "Do Not Delete",
       "version": 1
@@ -2040,7 +2040,7 @@
     "version": 1
   },
   "Text_T_Else": {
-    "value": "Qualcos'altro?",
+    "value": "Forse qualcos'altro?",
     "original": {
       "value": "Maybe something else?",
       "version": 1
@@ -2050,7 +2050,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Non Offrire Questo Aggiornamento",
+    "value": "Non offrire questo aggiornamento",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
@@ -2060,7 +2060,7 @@
     "version": 1
   },
   "Chat_N_Rename": {
-    "value": "Rinomina Chat",
+    "value": "Rinomina chat",
     "original": {
       "value": "Rename Chat",
       "version": 1
@@ -2090,7 +2090,7 @@
     "version": 1
   },
   "Settings_T_C-Image": {
-    "value": "Generazione Immagini",
+    "value": "Generazione immagine",
     "original": {
       "value": "Image Generation",
       "version": 1
@@ -2100,7 +2100,7 @@
     "version": 1
   },
   "Update_N_NotInstall": {
-    "value": "Non Installare l'Aggiornamento",
+    "value": "Non installare l'aggiornamento",
     "original": {
       "value": "Do Not Install the Update",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "Al momento, Nuvole AI utilizzerà il modello che selezionerai, ma la prossima volta il ${Name}",
+    "value": "Al momento, Nuvole AI utilizzerà il modello che selezionerai, ma la prossima volta ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Salva Nuove Chat Solo su Richiesta",
+    "value": "Salva nuove chat solo su richiesta",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2160,7 +2160,7 @@
     "version": 1
   },
   "History_T_Found": {
-    "value": "${Count chat} trovate per la richiesta “${Text}”",
+    "value": "Trovate ${Count chat} per la richiesta “${Text}”",
     "original": {
       "value": "${Count chats} found on request “${Text}”",
       "version": 1
@@ -2170,7 +2170,7 @@
     "version": 1
   },
   "Feedback_H_History": {
-    "value": "Vuoi condividere questa chat contenente i tuoi messaggi e le risposte dell'IA con lo sviluppatore?",
+    "value": "Vuoi condividere questa chat contenente i tuoi messaggi e le risposte dell'AI con lo sviluppatore?",
     "original": {
       "value": "Do you want to share this chat containing your messages and AI responses with developer?",
       "version": 1
@@ -2180,7 +2180,7 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Sì, Trasmettere la Mia Configurazione di Nuvole AI",
+    "value": "Sì, trasmetti la mia configurazione di Nuvole AI",
     "original": {
       "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
@@ -2200,7 +2200,7 @@
     "version": 1
   },
   "Share_N_Pages": {
-    "value": "Seleziona le Pagine da Utilizzare",
+    "value": "Seleziona le pagine da utilizzare",
     "original": {
       "value": "Select the Pages to be Used",
       "version": 1
@@ -2230,7 +2230,7 @@
     "version": 1
   },
   "Install_ORG_Learn": {
-    "value": "Verrai reindirizzato alla pagina di descrizione RoutineHub per Nuvole AI",
+    "value": "Verrai reindirizzato alla pagina di descrizione di RoutineHub per Nuvole AI",
     "original": {
       "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
@@ -2240,7 +2240,7 @@
     "version": 1
   },
   "History_N_SelectionDelete": {
-    "value": "Elimina ${Count} ${Chats} Selezionati",
+    "value": "Elimina ${Count} ${Chats} selezionati",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
@@ -2260,7 +2260,7 @@
     "version": 1
   },
   "History_N_Back": {
-    "value": "Chiudi Cronologia",
+    "value": "Chiudi cronologia",
     "original": {
       "value": "Close History",
       "version": 1
@@ -2280,7 +2280,7 @@
     "version": 1
   },
   "Settings_N_NAME-Font": {
-    "value": "Dimensione del Font",
+    "value": "Dimensione del font",
     "original": {
       "value": "Font Size",
       "version": 1
@@ -2290,7 +2290,7 @@
     "version": 1
   },
   "Share_T_ErrorExtension": {
-    "value": "Purtroppo, Nuvole AI non può lavorare con i file .{Extension}",
+    "value": "Purtroppo, Nuvole AI non può lavorare con file .{Extension}",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Hai impostato un valore troppo piccolo",
+    "value": "Hai impostato un valore troppo basso",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2310,9 +2310,9 @@
     "version": 1
   },
   "Settings_T_ID-Search-True": {
-    "value": "Hai impostato un valore troppo piccolo",
+    "value": "Automaticamente",
     "original": {
-      "value": "You have set the value too small",
+      "value": "Automatically",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2320,7 +2320,7 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "Ripeti la Richiesta Usando lo Stesso Modello",
+    "value": "Ripeti la richiesta utilizzando lo stesso modello",
     "original": {
       "value": "Repeat Request Using the Same Model",
       "version": 1
@@ -2380,7 +2380,7 @@
     "version": 1
   },
   "Generation_N_Note": {
-    "value": "Sì, Genera e Salva un Appunto sul Mio Dispositivo",
+    "value": "Sì, genera e salva una nota sul mio dispositivo",
     "original": {
       "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "No, Non Trasmettere Config",
+    "value": "No, non trasmettere la configurazione",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2400,7 +2400,7 @@
     "version": 1
   },
   "Chat_N_View": {
-    "value": "Visualizza Chat",
+    "value": "Visualizza chat",
     "original": {
       "value": "View Chat",
       "version": 1
@@ -2410,7 +2410,7 @@
     "version": 1
   },
   "Chat_N_DeletionDelete": {
-    "value": "Elimina Questa Chat",
+    "value": "Elimina questa chat",
     "original": {
       "value": "Delete This Chat",
       "version": 1
@@ -2430,7 +2430,7 @@
     "version": 1
   },
   "Settings_N_History-True": {
-    "value": "Visualizza Cronologia Chat",
+    "value": "Visualizza cronologia chat",
     "original": {
       "value": "Display Chat History ",
       "version": 1
@@ -2440,7 +2440,7 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Prima della selezione, ti verrà mostrato il tuo file",
+    "value": "Prima di selezionare, ti verrà mostrato il tuo file",
     "original": {
       "value": "Before selecting, you will be shown your file",
       "version": 1
@@ -2460,7 +2460,7 @@
     "version": 1
   },
   "Settings_N_NAME-Share": {
-    "value": "Tipo di Richiesta",
+    "value": "Tipo di richiesta",
     "original": {
       "value": "Request Type",
       "version": 1
@@ -2500,7 +2500,7 @@
     "version": 1
   },
   "Settings_N_Search-False": {
-    "value": "Non Cercare Informazioni su Internet",
+    "value": "Non cercare informazioni su Internet",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2510,9 +2510,9 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "Non Cercare Informazioni su Internet",
+    "value": "Cerca tra le tue chat",
     "original": {
-      "value": "Do Not Look for Information on the Internet",
+      "value": "Search among your chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2520,7 +2520,7 @@
     "version": 1
   },
   "Text_T_ShowThink": {
-    "value": "Mostra Pensieri Completi",
+    "value": "Mostra pensieri completi",
     "original": {
       "value": "Show Full Throghts",
       "version": 1
@@ -2530,7 +2530,7 @@
     "version": 1
   },
   "History_T_SearchError": {
-    "value": "Niente è stato trovato per la tua richiesta",
+    "value": "Non è stato trovato nulla per la tua richiesta",
     "original": {
       "value": "Nothing was found for your request",
       "version": 1

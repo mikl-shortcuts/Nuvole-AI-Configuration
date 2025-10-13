@@ -10,7 +10,7 @@
     "version": 1
   },
   "Error_T_Problem": {
-    "value": "Hlavní výpadek.",
+    "value": "Významná porucha.",
     "original": {
       "value": "Major outage.",
       "version": 1
@@ -30,7 +30,7 @@
     "version": 1
   },
   "Share_T_ErrorFile": {
-    "value": "Bohužel Nuvole AI nemůže pracovat s tímto souborem",
+    "value": "Bohužel, Nuvole AI nemůže pracovat s tímto souborem",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
@@ -70,7 +70,7 @@
     "version": 1
   },
   "Feedback_H_Type": {
-    "value": "Jak chcete zaslat zpětnou vazbu?",
+    "value": "Jak chcete odeslat zpětnou vazbu?",
     "original": {
       "value": "How you want to send feedback?",
       "version": 1
@@ -80,7 +80,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Odstranit všechny chaty",
+    "value": "Smazat všechny chaty",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -90,7 +90,7 @@
     "version": 1
   },
   "Settings_H_NAME-Theme": {
-    "value": "Vyberte vzhled, který bude aplikován na zobrazení odpovědí",
+    "value": "Vyberte vzhled, který se má použít pro zobrazení odpovědí",
     "original": {
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
@@ -100,13 +100,13 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Ano, přenést historii tohoto chatu",
+    "value": "{\"value\":\"Yes, Transmit the History of This Chat\",\"translatedBy\":\"human\",\"isTranslated\":true,\"version\":1}",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
     },
-    "translatedBy": "ai",
-    "isTranslated": true,
+    "translatedBy": "none",
+    "isTranslated": false,
     "version": 1
   },
   "Feedback_H_End": {
@@ -130,7 +130,7 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Chcete přenést konfiguraci Nuvole AI s vývojářem?",
+    "value": "Chcete odeslat konfiguraci Nuvole AI vývojáři?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
@@ -140,7 +140,7 @@
     "version": 1
   },
   "History_H_Selection": {
-    "value": "Vyberte, které chaty chcete odstranit",
+    "value": "Vyberte, které chaty chcete smazat",
     "original": {
       "value": "Choose which chats you want to delete",
       "version": 1
@@ -160,7 +160,7 @@
     "version": 1
   },
   "Chat_N_Delete": {
-    "value": "Odstranit chat",
+    "value": "Smazat chat",
     "original": {
       "value": "Delete Chat",
       "version": 1
@@ -180,7 +180,7 @@
     "version": 1
   },
   "Settings_T_ID-Save-False": {
-    "value": "Pouze na požadavek",
+    "value": "Pouze na požádání",
     "original": {
       "value": "Only on Request",
       "version": 1
@@ -200,7 +200,7 @@
     "version": 1
   },
   "Update_H_VersionCount": {
-    "value": "${Count verzí} bylo vydáno od verze ${Num}",
+    "value": "Od verze ${Num} bylo vydáno ${Count} verzí",
     "original": {
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
@@ -240,7 +240,7 @@
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Odstranit celou historii chatů s Nuvole AI bez možnosti obnovení",
+    "value": "Smazat celou historii chatů s Nuvole AI bez možnosti obnovy",
     "original": {
       "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
@@ -350,7 +350,7 @@
     "version": 1
   },
   "Error_T_Normal": {
-    "value": "Všechny systémy fungují správně.",
+    "value": "Všechny systémy pracují správně.",
     "original": {
       "value": "All systems are working properly.",
       "version": 1
@@ -380,7 +380,7 @@
     "version": 1
   },
   "Share_T_ErrorVideo": {
-    "value": "Bohužel Nuvole AI nemůže pracovat s tímto videem",
+    "value": "Bohužel, Nuvole AI nemůže pracovat s tímto videem",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
@@ -400,7 +400,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Odstranit tento chat bez možnosti obnovení",
+    "value": "Smazat tento chat bez možnosti obnovy",
     "original": {
       "value": "Delete this chat without the possibility of recovery",
       "version": 1
@@ -420,7 +420,7 @@
     "version": 1
   },
   "Settings_H_NAME-Search": {
-    "value": "Chcete, aby Nuvole AI hledala informace na internetu, pokud je to nutné?",
+    "value": "Chcete, aby Nuvole AI vyhledávala informace na internetu, pokud je to nutné?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
       "version": 1
@@ -460,7 +460,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Pokračovat v rozhovoru s Nuvole AI",
+    "value": "Pokračovat v konverzaci s Nuvole AI",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -470,7 +470,7 @@
     "version": 1
   },
   "Share_H_SiteType": {
-    "value": "Co chcete udělat s touto stránkou?",
+    "value": "Co chcete s tímto webu dělat?",
     "original": {
       "value": "What do you want to do with this site?",
       "version": 1
@@ -480,9 +480,9 @@
     "version": 1
   },
   "Settings_N_NAME-Theme": {
-    "value": "Co chcete udělat s touto stránkou?",
+    "value": "Vzhled",
     "original": {
-      "value": "What do you want to do with this site?",
+      "value": "Appearance",
       "version": 1
     },
     "translatedBy": "ai",
@@ -520,7 +520,7 @@
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Skrýt všechny myšlenky",
+    "value": "Skrýt celé myšlenky",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
@@ -540,7 +540,7 @@
     "version": 1
   },
   "Error_T_ModelNotAvaiable": {
-    "value": "Není dostupný v tuto chvíli",
+    "value": "Momentálně nedostupné",
     "original": {
       "value": "Not available at the moment",
       "version": 1
@@ -550,7 +550,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Nevylepšovat prompt pomocí AI",
+    "value": "Nezlepšovat výzvu pomocí AI",
     "original": {
       "value": "Do Not Improve Prompt with AI",
       "version": 1
@@ -560,7 +560,7 @@
     "version": 1
   },
   "Settings_T_C-Next": {
-    "value": "Co chcete dělat dále?",
+    "value": "Co chcete dělat dál?",
     "original": {
       "value": "What do you want to do next?",
       "version": 1
@@ -580,7 +580,7 @@
     "version": 1
   },
   "Settings_T_C-Share": {
-    "value": "Sdílení",
+    "value": "Sdílet",
     "original": {
       "value": "Share Sheet",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Procházet, hledat, zobrazovat a pokračovat ve svých chatech s Nuvole AI",
+    "value": "Procházet, vyhledávat, prohlížet a pokračovat ve svých chatech s Nuvole AI",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -600,7 +600,7 @@
     "version": 1
   },
   "History_ORG_BackHistory": {
-    "value": "Návrat do historie",
+    "value": "Vrátit se do historie",
     "original": {
       "value": "Return to History",
       "version": 1
@@ -630,7 +630,7 @@
     "version": 1
   },
   "Share_H_FileType": {
-    "value": "Co chcete udělat s tímto souborem?",
+    "value": "Co chcete s tímto souborem dělat?",
     "original": {
       "value": "What do you want to do with this file?",
       "version": 1
@@ -650,7 +650,7 @@
     "version": 1
   },
   "Share_T_ErrorSite": {
-    "value": "Bohužel Nuvole AI nemůže pracovat s touto stránkou",
+    "value": "Bohužel, Nuvole AI nemůže pracovat s tímto webu",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
@@ -660,7 +660,7 @@
     "version": 1
   },
   "History_N_Search": {
-    "value": "Hledat",
+    "value": "Vyhledávání",
     "original": {
       "value": "Search",
       "version": 1
@@ -670,7 +670,7 @@
     "version": 1
   },
   "Main_N_LastLoad": {
-    "value": "Pokračovat v načítání posledního chatu",
+    "value": "Pokračovat načtením posledního chatu",
     "original": {
       "value": "Continue by Loading the Last Chat",
       "version": 1
@@ -680,7 +680,7 @@
     "version": 1
   },
   "Main_ORG_Ago": {
-    "value": "před ${Seconds} sekundami",
+    "value": "Před ${Seconds} sekundami",
     "original": {
       "value": "${Seconds} ago",
       "version": 1
@@ -690,9 +690,9 @@
     "version": 1
   },
   "Share_T_SiteSize": {
-    "value": "před ${Seconds} sekundami",
+    "value": "Vytvořit ${Size} souhrn webu",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Make a ${Size} summarization of the site",
       "version": 1
     },
     "translatedBy": "ai",
@@ -700,9 +700,9 @@
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "před ${Seconds} sekundami",
+    "value": "Bude vytvořen nový chat",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "New chat will be created",
       "version": 1
     },
     "translatedBy": "ai",
@@ -710,9 +710,9 @@
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "před ${Seconds} sekundami",
+    "value": "Jakou ikonu chcete tomuto chatu dát (můžete použít pouze jeden emoji)?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -720,9 +720,9 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "před ${Seconds} sekundami",
+    "value": "Máte nějaké problémy, otázky nebo nápady, jak zlepšit Nuvole AI?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -730,7 +730,7 @@
     "version": 1
   },
   "Share_T_VideoSize": {
-    "value": "Vytvořit shrnutí velikosti ${Size} videa",
+    "value": "Vytvořit ${Size} souhrn videa",
     "original": {
       "value": "Make a ${Size} summarization of the video",
       "version": 1
@@ -760,7 +760,7 @@
     "version": 1
   },
   "Text_T_Search": {
-    "value": "Nalezl ${Num} výsledků",
+    "value": "Nalezeno ${Num} výsledků",
     "original": {
       "value": "Found ${Num} results",
       "version": 1
@@ -780,7 +780,7 @@
     "version": 1
   },
   "Update_H_Update": {
-    "value": "K dispozici je nová aktualizace pro Nuvole AI!",
+    "value": "Je k dispozici nová aktualizace pro Nuvole AI!",
     "original": {
       "value": "A new update for Nuvole AI is available!",
       "version": 1
@@ -790,7 +790,7 @@
     "version": 1
   },
   "Settings_N_NAME-Model": {
-    "value": "AI model",
+    "value": "AI Model",
     "original": {
       "value": "AI Model",
       "version": 1
@@ -800,7 +800,7 @@
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Vždy uložit nové chaty",
+    "value": "Vždy ukládat nové chaty",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
@@ -810,7 +810,7 @@
     "version": 1
   },
   "Share_T_FileSize": {
-    "value": "Vytvořit shrnutí velikosti ${Size} souboru",
+    "value": "Vytvořit ${Size} souhrn souboru",
     "original": {
       "value": "Make a ${Size} summarization of the file",
       "version": 1
@@ -820,7 +820,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-1": {
-    "value": "Malé",
+    "value": "Malý",
     "original": {
       "value": "Small",
       "version": 1
@@ -840,7 +840,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Zeptat se vždy",
+    "value": "Ptat se pokaždé",
     "original": {
       "value": "Ask Every Time",
       "version": 1
@@ -850,7 +850,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Změnit AI model pouze pro tuto relaci a opakovat požadavek",
+    "value": "Změnit AI model pro tuto relaci a opakovat požadavek",
     "original": {
       "value": "Change the AI Model for This Session Only and Repeat Request",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Vypadá to, že model ${Name}, který jste dříve vybrali, není k dispozici. Jaký AI model chcete použít?",
+    "value": "Vypadá to, že model ${Name}, který jste dříve vybrali, již není dostupný. Jaký AI model chcete použít?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -890,7 +890,7 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Ne, neposílat historii",
+    "value": "Ne, neodesílat historii",
     "original": {
       "value": "No, Not Transmit the History",
       "version": 1
@@ -900,7 +900,7 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Vybrat a odstranit chaty",
+    "value": "Vybrat a smazat chaty",
     "original": {
       "value": "Select and Delete Chats",
       "version": 1
@@ -910,7 +910,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Odstranit všechny chaty",
+    "value": "Smazat všechny chaty",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -940,7 +940,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Vylepšení promptu pomocí AI",
+    "value": "Zlepšování výzvy pomocí AI",
     "original": {
       "value": "Improving the Prompt Using AI",
       "version": 1
@@ -1010,7 +1010,7 @@
     "version": 1
   },
   "Install_N_SkipLearn": {
-    "value": "Přeskákat a začít pracovat s Nuvole AI",
+    "value": "Přeskočit a začít pracovat s Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
       "version": 1
@@ -1060,7 +1060,7 @@
     "version": 1
   },
   "Settings_H_NAME-History": {
-    "value": "Vyberte, zda chcete zobrazovat historii relací",
+    "value": "Vyberte, zda chcete zobrazit historii relace",
     "original": {
       "value": "Select whether you want to display the session history",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Vyberte jazyk, ve kterém bude pro vás pohodlné pracovat s Nuvole AI",
+    "value": "Vyberte jazyk, ve kterém vám bude pohodlné pracovat s Nuvole AI",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1150,7 +1150,7 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Popište podrobně problém, se kterým jste se setkali, spolu s jakýmikoli otázkami nebo nápady na zlepšení Nuvole AI",
+    "value": "Popište podrobně problém, se kterým jste se setkali, spolu s jakýmikoli otázkami nebo nápady, které máte pro zlepšení Nuvole AI",
     "original": {
       "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
@@ -1160,7 +1160,7 @@
     "version": 1
   },
   "Settings_T_Stop": {
-    "value": "Nechcete změnit nastavení tohoto parametru?",
+    "value": "Nechtít změnit nastavení tohoto parametru?",
     "original": {
       "value": "Don’t want to change the settings of this parameter?",
       "version": 1
@@ -1180,7 +1180,7 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Automaticky hledat informace na internetu",
+    "value": "Automaticky vyhledávat informace na internetu",
     "original": {
       "value": "Automatically Search for Information on the Internet",
       "version": 1
@@ -1200,7 +1200,7 @@
     "version": 1
   },
   "History_H_SearchDeletion": {
-    "value": "Jste si jisti, že chcete odstranit ${Count} nalezených ${Chats}? Můžete odstranit pouze potřebné chaty výběrem „Vybrat a odstranit nalezené chaty“ v předchozím menu. Kliknutím na tlačítko „Odstranit všechny nalezené chaty“ souhlasíte s tím, že všechny nalezené chaty budou odstraněny bez možnosti obnovení.",
+    "value": "Jste si jisti, že chcete smazat ${Count} nalezených ${Chats}? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat nalezené chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny nalezené chaty“ souhlasíte, že všechny nalezené chaty budou smazány bez možnosti obnovy.",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -1230,7 +1230,7 @@
     "version": 1
   },
   "Install_ORG_YesUpdates": {
-    "value": "Doporučeno pro lepší zážitek z používání Nuvole AI",
+    "value": "Doporučeno pro lepší zkušenost s používáním Nuvole AI",
     "original": {
       "value": "Recommended for a better experience of Nuvole AI usage",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Vyberte, zda chcete vylepšit prompt pro generování obrázků pomocí AI",
+    "value": "Vyberte, zda chcete zlepšit výzvu pro generování obrázků pomocí AI",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1260,7 +1260,7 @@
     "version": 1
   },
   "Share_N_Question": {
-    "value": "Zeptejte se na svou otázku",
+    "value": "Položit svou otázku",
     "original": {
       "value": "Ask Your Question",
       "version": 1
@@ -1310,7 +1310,7 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Vytvořit shrnutí",
+    "value": "Vytvořit souhrn",
     "original": {
       "value": "Make a Summarization",
       "version": 1
@@ -1320,7 +1320,7 @@
     "version": 1
   },
   "Chat_H_Renaming": {
-    "value": "Jaký název chcete dát tomuto chatu?",
+    "value": "Jaký název chcete tomuto chatu dát?",
     "original": {
       "value": "What name do you want to give this chat?",
       "version": 1
@@ -1330,7 +1330,7 @@
     "version": 1
   },
   "Text_T_History": {
-    "value": "Nahrána historie chatu „${Name}“",
+    "value": "Historie chatu „${Name}“ je načtena.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
       "version": 1
@@ -1340,7 +1340,7 @@
     "version": 1
   },
   "Feedback_ORG_YesConfig": {
-    "value": "To může poskytnout lepší pochopení vašeho problému, pokud jej máte",
+    "value": "To může poskytnout lepší pochopení vašeho problému, pokud nějaký máte",
     "original": {
       "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
@@ -1350,7 +1350,7 @@
     "version": 1
   },
   "History_N_SearchSelect": {
-    "value": "Vybrat a odstranit nalezené chaty",
+    "value": "Vybrat a smazat nalezené chaty",
     "original": {
       "value": "Select and Delete Found Chats",
       "version": 1
@@ -1360,7 +1360,7 @@
     "version": 1
   },
   "Share_H_Input": {
-    "value": "Na co se chcete zeptat?",
+    "value": "Co chcete se zeptat?",
     "original": {
       "value": "What do you want to ask?",
       "version": 1
@@ -1380,7 +1380,7 @@
     "version": 1
   },
   "Settings_T_ID-Share-1": {
-    "value": "Shrnutí",
+    "value": "Souhrn",
     "original": {
       "value": "Summarization",
       "version": 1
@@ -1440,7 +1440,7 @@
     "version": 1
   },
   "Error_T_Type-Error-2": {
-    "value": "Při procesu myšlení došlo k chybě.",
+    "value": "Při procesu přemýšlení došlo k chybě.",
     "original": {
       "value": "An error occurred during the thinking process.",
       "version": 1
@@ -1470,7 +1470,7 @@
     "version": 1
   },
   "Error_ORG_RestartLoad": {
-    "value": "Tento chat se automaticky načte",
+    "value": "Tento chat se načte automaticky",
     "original": {
       "value": "This chat will load automatically",
       "version": 1
@@ -1480,9 +1480,9 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Tento chat se automaticky načte",
+    "value": "Napište text, podle kterého chcete najít chaty. Budou zkontrolovány názvy chatů a jejich obsah (bez rozlišování velikosti písmen, podporuje regex).",
     "original": {
-      "value": "This chat will load automatically",
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1500,9 +1500,9 @@
     "version": 1
   },
   "Error_ORG_Change": {
-    "value": "Anonymně",
+    "value": "Nuvole AI bude používat model, který vyberete",
     "original": {
-      "value": "Anonymously",
+      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1520,7 +1520,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-3": {
-    "value": "Velké",
+    "value": "Velký",
     "original": {
       "value": "Big",
       "version": 1
@@ -1530,7 +1530,7 @@
     "version": 1
   },
   "Settings_H_NAME-Summary": {
-    "value": "Vyberte velikost shrnutí, které chcete získat",
+    "value": "Vyberte velikost souhrnu, který chcete získat",
     "original": {
       "value": "Select the size of summarization you want to receive",
       "version": 1
@@ -1540,7 +1540,7 @@
     "version": 1
   },
   "History_ORG_BackMain": {
-    "value": "Návrat do hlavního menu",
+    "value": "Vrátit se do hlavního menu",
     "original": {
       "value": "Return to Main Menu",
       "version": 1
@@ -1560,9 +1560,9 @@
     "version": 1
   },
   "Main_N_History": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Historie",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1570,9 +1570,9 @@
     "version": 1
   },
   "Settings_N_NAME-Summary": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Velikost souhrnu",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Summarization Size",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1580,9 +1580,9 @@
     "version": 1
   },
   "Settings_T_C-Html": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Zobrazení odpovědi",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Displaying the Answer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1590,9 +1590,9 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Nezobrazovat historii chatů",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Do Not Display Chat History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1600,9 +1600,9 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Pokračovat v chatu s Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Continue Chatting with Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1610,9 +1610,9 @@
     "version": 1
   },
   "Settings_N_NAME-Voice": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Zadání požadavku",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Entering a Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1620,9 +1620,9 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Vyberte velikost písma pro zobrazení odpovědi (výchozí 48 pixelů)",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1630,9 +1630,9 @@
     "version": 1
   },
   "Settings_N_NAME-Lang": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Jazyk Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Nuvole AI Language",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1640,9 +1640,9 @@
     "version": 1
   },
   "Settings_N_Lite": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Lhčí verze Nuvole AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1650,9 +1650,9 @@
     "version": 1
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Zlepšit výzvu pomocí AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1660,9 +1660,9 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Nechtít změnit model?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1670,9 +1670,9 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Ukládání chatů",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Chat Saving",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1680,9 +1680,9 @@
     "version": 1
   },
   "Install_H_Input": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Vyberte nejvhodnější způsob zadání požadavku pro AI",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1690,9 +1690,9 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Smazat tyto chaty bez možnosti obnovy",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1700,9 +1700,9 @@
     "version": 1
   },
   "Install_T_Model": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Doporučeno",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Recomended",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1710,9 +1710,9 @@
     "version": 1
   },
   "Settings_T_ID-Voice-True": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "S hlasem",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "With Voice",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1720,9 +1720,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-False": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Nepři spuštění neotevírat",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1730,9 +1730,9 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Před výběrem vám bude zobrazena vaše prezentace",
+    "value": "Při generování poznámky došlo k chybě.",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1750,9 +1750,9 @@
     "version": 1
   },
   "Error_N_Repeat": {
-    "value": "Použít celou prezentaci",
+    "value": "Opakovat požadavek",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Repeat Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1760,9 +1760,9 @@
     "version": 1
   },
   "Update_T_2Updates": {
-    "value": "Použít celou prezentaci",
+    "value": "2 aktualizace",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "2 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1770,9 +1770,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-True": {
-    "value": "Použít celou prezentaci",
+    "value": "Otevřít při spuštění",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1780,9 +1780,9 @@
     "version": 1
   },
   "Update_H_Hidden": {
-    "value": "Použít celou prezentaci",
+    "value": "Aktualizace ${Num} je skryta",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Update ${Num} is hidden",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1790,9 +1790,9 @@
     "version": 1
   },
   "Feedback_N_Email": {
-    "value": "Použít celou prezentaci",
+    "value": "Použitím e-mailu",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Using Email",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1800,9 +1800,9 @@
     "version": 1
   },
   "ORG_Exit": {
-    "value": "Použít celou prezentaci",
+    "value": "Sbohem!",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Goodbye!",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1810,9 +1810,9 @@
     "version": 1
   },
   "Settings_T_C-General": {
-    "value": "Použít celou prezentaci",
+    "value": "Obecná nastavení",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "General Settings",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1820,9 +1820,9 @@
     "version": 1
   },
   "Update_T_2Changes": {
-    "value": "Použít celou prezentaci",
+    "value": "2 změny",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "2 changes",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1830,9 +1830,9 @@
     "version": 1
   },
   "Update_T_21Updates": {
-    "value": "Použít celou prezentaci",
+    "value": "21 aktualizací",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "21 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1840,9 +1840,9 @@
     "version": 1
   },
   "Chat_H_Deletion": {
-    "value": "Použít celou prezentaci",
+    "value": "Jste si jisti, že chcete smazat chat „${Text}“? Kliknutím na tlačítko „Smazat chat“ souhlasíte, že tento chat bude smazán bez možnosti obnovy.",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1850,9 +1850,9 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Použít celou prezentaci",
+    "value": "Vyberte, co chcete dělat s položkami z menu „Sdílet“",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1860,9 +1860,9 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Použít celou prezentaci",
+    "value": "Smazat všechny nalezené chaty",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Delete All Found Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1870,9 +1870,9 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Použít celou prezentaci",
+    "value": "Použít celý soubor? Nebo určité stránky?",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Use the whole file? Or certain pages?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1880,9 +1880,9 @@
     "version": 1
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Použít celou prezentaci",
+    "value": "Filtrovat obsah NSFW při generování obrázků",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1890,9 +1890,9 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Použít celou prezentaci",
+    "value": "Filtrování obsahu NSFW",
     "original": {
-      "value": "Use the Whole Presentation",
+      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1900,7 +1900,7 @@
     "version": 1
   },
   "Main_ORG_Settings": {
-    "value": "Upravit a přizpůsobit Nuvole AI tak, aby perfektně vyhovovala vašim potřebám",
+    "value": "Upravit a přizpůsobit Nuvole AI tak, aby dokonale vyhovovala vašim potřebám",
     "original": {
       "value": "Modify and customize Nuvole AI to perfectly fit your needs",
       "version": 1
@@ -1940,7 +1940,7 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "Jste si jisti, že chcete odstranit ${Count} vybraných ${Chats}? Kliknutím na tlačítko „Odstranit vybrané chaty“ souhlasíte s tím, že chaty, které jste vybrali, budou odstraněny bez možnosti obnovení.",
+    "value": "Jste si jisti, že chcete smazat ${Count} vybraných ${Chats}? Kliknutím na tlačítko „Smazat vybrané chaty“ souhlasíte, že chaty, které jste vybrali, budou smazány bez možnosti obnovy.",
     "original": {
       "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
       "version": 1
@@ -1960,7 +1960,7 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Odstranit všechny nalezené chaty bez možnosti obnovení",
+    "value": "Smazat všechny nalezené chaty bez možnosti obnovy",
     "original": {
       "value": "Delete all found chats without the possibility of recovery",
       "version": 1
@@ -1970,9 +1970,9 @@
     "version": 1
   },
   "Share_N_AllFile": {
-    "value": "Odstranit všechny nalezené chaty bez možnosti obnovení",
+    "value": "Použít celý soubor",
     "original": {
-      "value": "Delete all found chats without the possibility of recovery",
+      "value": "Use the Whole File",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1990,7 +1990,7 @@
     "version": 1
   },
   "Share_N_Slides": {
-    "value": "Vybrat snímky, které budou použity",
+    "value": "Vybrat snímky, které mají být použity",
     "original": {
       "value": "Select the Slides to be Used",
       "version": 1
@@ -2020,7 +2020,7 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Neodstraňovat",
+    "value": "Nesmazat",
     "original": {
       "value": "Do Not Delete",
       "version": 1
@@ -2070,7 +2070,7 @@
     "version": 1
   },
   "N_Exit": {
-    "value": "Opustit Nuvole AI",
+    "value": "Ukončit Nuvole AI",
     "original": {
       "value": "Exit the Nuvole AI",
       "version": 1
@@ -2080,7 +2080,7 @@
     "version": 1
   },
   "History_H_Deletion": {
-    "value": "Jste si jisti, že chcete odstranit historii? Můžete odstranit pouze potřebné chaty výběrem „Vybrat a odstranit chaty“ v předchozím menu. Kliknutím na tlačítko „Odstranit všechny chaty“ souhlasíte s tím, že všechny chaty budou odstraněny bez možnosti obnovení.",
+    "value": "Jste si jisti, že chcete smazat historii? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny chaty“ souhlasíte, že všechny chaty budou smazány bez možnosti obnovy.",
     "original": {
       "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -2110,7 +2110,7 @@
     "version": 1
   },
   "Share_H_VideoType": {
-    "value": "Co chcete udělat s tímto videem?",
+    "value": "Co chcete s tímto videem dělat?",
     "original": {
       "value": "What do you want to do with this video?",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "Právě teď Nuvole AI použije model, který vyberete, ale příště ${Name}",
+    "value": "Právě teď bude Nuvole AI používat model, který vyberete, ale příště ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Uložit nové chaty pouze na požadavek",
+    "value": "Ukládat nové chaty pouze na požádání",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2160,7 +2160,7 @@
     "version": 1
   },
   "History_T_Found": {
-    "value": "${Count chatů} nalezeno na požadavek „${Text}“",
+    "value": "Na požadavek „${Text}“ bylo nalezeno ${Count} chatů",
     "original": {
       "value": "${Count chats} found on request “${Text}”",
       "version": 1
@@ -2180,7 +2180,7 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Ano, přenést mou konfiguraci Nuvole AI",
+    "value": "Ano, odeslat mou konfiguraci Nuvole AI",
     "original": {
       "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
@@ -2200,7 +2200,7 @@
     "version": 1
   },
   "Share_N_Pages": {
-    "value": "Vybrat stránky, které budou použity",
+    "value": "Vybrat stránky, které mají být použity",
     "original": {
       "value": "Select the Pages to be Used",
       "version": 1
@@ -2210,7 +2210,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMax": {
-    "value": "Nastavili jste hodnotu příliš vysokou",
+    "value": "Nastavili jste příliš vysokou hodnotu",
     "original": {
       "value": "You have set the value too high",
       "version": 1
@@ -2230,7 +2230,7 @@
     "version": 1
   },
   "Install_ORG_Learn": {
-    "value": "Budete přesměrováni na stránku RoutineHub pro popis Nuvole AI",
+    "value": "Budete přesměrováni na stránku s popisem RoutineHub pro Nuvole AI",
     "original": {
       "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
@@ -2240,7 +2240,7 @@
     "version": 1
   },
   "History_N_SelectionDelete": {
-    "value": "Odstranit ${Count} vybraných ${Chats}",
+    "value": "Smazat ${Count} vybraných ${Chats}",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
@@ -2270,7 +2270,7 @@
     "version": 1
   },
   "Settings_H_NAME-Saving": {
-    "value": "Jak chcete uložit nové chaty?",
+    "value": "Jak chcete ukládat nové chaty?",
     "original": {
       "value": "How do you want to save new chats?",
       "version": 1
@@ -2290,7 +2290,7 @@
     "version": 1
   },
   "Share_T_ErrorExtension": {
-    "value": "Bohužel Nuvole AI nemůže pracovat se soubory .{Extension}",
+    "value": "Bohužel, Nuvole AI nemůže pracovat se soubory .{Extension}",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Nastavili jste hodnotu příliš nízkou",
+    "value": "Nastavili jste příliš nízkou hodnotu",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2340,7 +2340,7 @@
     "version": 1
   },
   "Share_H_SummarySize": {
-    "value": "Vyberte velikost shrnutí, které chcete získat",
+    "value": "Vyberte velikost souhrnu, který chcete získat",
     "original": {
       "value": "Select the size of summarization you want to get",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "Ne, neposílat konfiguraci",
+    "value": "Ne, neodesílat konfiguraci",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2410,7 +2410,7 @@
     "version": 1
   },
   "Chat_N_DeletionDelete": {
-    "value": "Odstranit tento chat",
+    "value": "Smazat tento chat",
     "original": {
       "value": "Delete This Chat",
       "version": 1
@@ -2430,7 +2430,7 @@
     "version": 1
   },
   "Settings_N_History-True": {
-    "value": "Zobrazit historii chatů",
+    "value": "Zobrazovat historii chatů",
     "original": {
       "value": "Display Chat History ",
       "version": 1
@@ -2440,7 +2440,7 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Před výběrem vám bude zobrazován váš soubor",
+    "value": "Před výběrem vám bude zobrazena vaše soubor",
     "original": {
       "value": "Before selecting, you will be shown your file",
       "version": 1
@@ -2490,7 +2490,7 @@
     "version": 1
   },
   "Share_T_ErrorPre": {
-    "value": "Bohužel Nuvole AI nemůže pracovat s touto prezentací",
+    "value": "Bohužel, Nuvole AI nemůže pracovat s touto prezentací",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
       "version": 1
@@ -2500,7 +2500,7 @@
     "version": 1
   },
   "Settings_N_Search-False": {
-    "value": "Nenahledávat informace na internetu",
+    "value": "Nevyhledávat informace na internetu",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2510,9 +2510,9 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "Nenahledávat informace na internetu",
+    "value": "Vyhledávání mezi vašimi chaty",
     "original": {
-      "value": "Do Not Look for Information on the Internet",
+      "value": "Search among your chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2520,7 +2520,7 @@
     "version": 1
   },
   "Text_T_ShowThink": {
-    "value": "Zobrazit všechny myšlenky",
+    "value": "Zobrazit celé myšlenky",
     "original": {
       "value": "Show Full Throghts",
       "version": 1

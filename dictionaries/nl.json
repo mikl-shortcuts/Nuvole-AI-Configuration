@@ -1,6 +1,6 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "Internet Search",
+    "value": "Internet Zoeken",
     "original": {
       "value": "Internet Search",
       "version": 1
@@ -20,7 +20,7 @@
     "version": 1
   },
   "Settings_N_NAME-Upd": {
-    "value": "Controleer op updates",
+    "value": "Controleren op updates",
     "original": {
       "value": "Checking for Updates",
       "version": 1
@@ -30,7 +30,7 @@
     "version": 1
   },
   "Share_T_ErrorFile": {
-    "value": "Helaas kan Nuvole AI niet werken met dit bestand",
+    "value": "Helaas kan Nuvole AI niet met dit bestand werken",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
@@ -50,7 +50,7 @@
     "version": 1
   },
   "Feedback_ORG_Email": {
-    "value": "Je kunt feedback krijgen van de ontwikkelaar",
+    "value": "Je kunt feedback van de ontwikkelaar krijgen",
     "original": {
       "value": "You will be able to get feedback from developer",
       "version": 1
@@ -60,7 +60,7 @@
     "version": 1
   },
   "Text_T_Seconds": {
-    "value": "Gedacht voor ${Num} seconden",
+    "value": "Nagedacht voor ${Num} seconden",
     "original": {
       "value": "Thought for ${Num} seconds",
       "version": 1
@@ -70,7 +70,7 @@
     "version": 1
   },
   "Feedback_H_Type": {
-    "value": "Hoe wilt u feedback versturen?",
+    "value": "Hoe wil je feedback geven?",
     "original": {
       "value": "How you want to send feedback?",
       "version": 1
@@ -80,7 +80,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Verwijder alle chats",
+    "value": "Alle chats verwijderen",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -90,7 +90,7 @@
     "version": 1
   },
   "Settings_H_NAME-Theme": {
-    "value": "Selecteer het uiterlijk dat moet worden toegepast op het weergeven van antwoorden",
+    "value": "Selecteer het uiterlijk dat moet worden toegepast op de weergave van antwoorden",
     "original": {
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
@@ -100,7 +100,7 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Ja, verzend het geschiedenis van deze chat",
+    "value": "Ja, de geschiedenis van deze chat verzenden",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
@@ -130,7 +130,7 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Wilt u een Nuvole AI-configuratie versturen naar de ontwikkelaar?",
+    "value": "Wil je een Nuvole AI-configuratie met de ontwikkelaar delen?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
@@ -160,7 +160,7 @@
     "version": 1
   },
   "Chat_N_Delete": {
-    "value": "Verwijder chat",
+    "value": "Chat verwijderen",
     "original": {
       "value": "Delete Chat",
       "version": 1
@@ -240,7 +240,7 @@
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Verwijder de hele chatgeschiedenis met Nuvole AI zonder de mogelijkheid tot herstel",
+    "value": "Verwijder de volledige chatgeschiedenis met Nuvole AI zonder mogelijkheid tot herstel",
     "original": {
       "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
@@ -260,7 +260,7 @@
     "version": 1
   },
   "Update_N_Details": {
-    "value": "Bekijk een uitgebreider wijzigingslogboek",
+    "value": "Bekijk gedetailleerde wijzigingslog",
     "original": {
       "value": "View More Detailed Changelog",
       "version": 1
@@ -270,7 +270,7 @@
     "version": 1
   },
   "Install_N_YesMenu": {
-    "value": "Open het hoofdmenu bij elke nieuwe uitvoering",
+    "value": "Open het hoofdmenu bij elke nieuwe start",
     "original": {
       "value": "Open the Main Menu with Each New Running",
       "version": 1
@@ -310,7 +310,7 @@
     "version": 1
   },
   "Error_T_Type-Error-4": {
-    "value": "Er is een fout opgetreden tijdens het genereren van afbeeldingen.",
+    "value": "Er is een fout opgetreden tijdens het genereren van de afbeelding.",
     "original": {
       "value": "An error occurred during image generation.",
       "version": 1
@@ -340,7 +340,7 @@
     "version": 1
   },
   "Text_T_HideNote": {
-    "value": "Verberg volledige notitie",
+    "value": "Volledige notitie verbergen",
     "original": {
       "value": "Hide Full Note",
       "version": 1
@@ -350,7 +350,7 @@
     "version": 1
   },
   "Error_T_Normal": {
-    "value": "Alle systemen werken correct.",
+    "value": "Alle systemen werken goed.",
     "original": {
       "value": "All systems are working properly.",
       "version": 1
@@ -360,7 +360,7 @@
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Maak een nieuwe chat aan",
+    "value": "Nieuwe chat maken",
     "original": {
       "value": "Create a New Chat",
       "version": 1
@@ -370,7 +370,7 @@
     "version": 1
   },
   "Settings_N_Loading-False": {
-    "value": "Maak een nieuwe chat aan",
+    "value": "Nieuwe chat maken",
     "original": {
       "value": "Create New Chat",
       "version": 1
@@ -380,7 +380,7 @@
     "version": 1
   },
   "Share_T_ErrorVideo": {
-    "value": "Helaas kan Nuvole AI niet werken met deze video",
+    "value": "Helaas kan Nuvole AI niet met deze video werken",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
@@ -400,7 +400,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Verwijder deze chat zonder de mogelijkheid tot herstel",
+    "value": "Verwijder deze chat zonder mogelijkheid tot herstel",
     "original": {
       "value": "Delete this chat without the possibility of recovery",
       "version": 1
@@ -420,7 +420,7 @@
     "version": 1
   },
   "Settings_H_NAME-Search": {
-    "value": "Wilt u dat Nuvole AI informatie op het internet zoekt, indien nodig?",
+    "value": "Wil je dat Nuvole AI op internet zoekt naar informatie als dat nodig is?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
       "version": 1
@@ -440,7 +440,7 @@
     "version": 1
   },
   "Text_T_Save": {
-    "value": "De chat wordt opgeslagen",
+    "value": "Chat wordt opgeslagen",
     "original": {
       "value": "Chat will be saved",
       "version": 1
@@ -460,7 +460,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Ga verder met het gesprek met Nuvole AI",
+    "value": "Ga door met het gesprek met Nuvole AI",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -470,7 +470,7 @@
     "version": 1
   },
   "Share_H_SiteType": {
-    "value": "Wat wilt u doen met deze site?",
+    "value": "Wat wil je met deze site doen?",
     "original": {
       "value": "What do you want to do with this site?",
       "version": 1
@@ -510,7 +510,7 @@
     "version": 1
   },
   "Chat_N_Load": {
-    "value": "Laad en ga verder met de chat",
+    "value": "Chat laden en voortzetten",
     "original": {
       "value": "Load and Continue Chat",
       "version": 1
@@ -520,7 +520,7 @@
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Verberg volledige gedachten",
+    "value": "Volledige gedachten verbergen",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
@@ -530,7 +530,7 @@
     "version": 1
   },
   "Error_ORG_Report": {
-    "value": "Rapportage van een bug",
+    "value": "Meld een bug",
     "original": {
       "value": "Report a bug",
       "version": 1
@@ -560,7 +560,7 @@
     "version": 1
   },
   "Settings_T_C-Next": {
-    "value": "Wat wilt u als volgt doen?",
+    "value": "Wat wil je daarna doen?",
     "original": {
       "value": "What do you want to do next?",
       "version": 1
@@ -570,7 +570,7 @@
     "version": 1
   },
   "Feedback_H_ReportInput": {
-    "value": "Beschrijf het probleem dat je hebt tegengekomen in detail",
+    "value": "Beschrijf het probleem dat je bent tegengekomen in detail",
     "original": {
       "value": "Describe in detail the problem you have encountered",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Blader, zoek, bekijk en ga verder met je chats met Nuvole AI",
+    "value": "Blader, zoek, bekijk en zet je chats met Nuvole AI voort",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -620,7 +620,7 @@
     "version": 1
   },
   "Install_N_YesUpdates": {
-    "value": "Ontvang updates",
+    "value": "Updates ontvangen",
     "original": {
       "value": "Receive Updates",
       "version": 1
@@ -630,7 +630,7 @@
     "version": 1
   },
   "Share_H_FileType": {
-    "value": "Wat wilt u doen met dit bestand?",
+    "value": "Wat wil je met dit bestand doen?",
     "original": {
       "value": "What do you want to do with this file?",
       "version": 1
@@ -650,7 +650,7 @@
     "version": 1
   },
   "Share_T_ErrorSite": {
-    "value": "Helaas kan Nuvole AI niet werken met deze site",
+    "value": "Helaas kan Nuvole AI niet met deze site werken",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
@@ -670,7 +670,7 @@
     "version": 1
   },
   "Main_N_LastLoad": {
-    "value": "Ga verder met het laden van de laatste chat",
+    "value": "Doorgaan door de laatste chat te laden",
     "original": {
       "value": "Continue by Loading the Last Chat",
       "version": 1
@@ -680,7 +680,7 @@
     "version": 1
   },
   "Main_ORG_Ago": {
-    "value": "${Seconds} geleden",
+    "value": "${Seconden} geleden",
     "original": {
       "value": "${Seconds} ago",
       "version": 1
@@ -700,7 +700,7 @@
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "Er wordt een nieuwe chat aangemaakt",
+    "value": "Er wordt een nieuwe chat gemaakt",
     "original": {
       "value": "New chat will be created",
       "version": 1
@@ -710,7 +710,7 @@
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "Welk icoon wilt u aan deze chat geven (je kunt alleen één emoji gebruiken)?",
+    "value": "Welk pictogram wil je aan deze chat geven (je kunt maar één emoji gebruiken)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
@@ -720,7 +720,7 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "Problemen, vragen of ideeën om Nuvole AI te verbeteren?",
+    "value": "Problemen, vragen of ideeën over hoe Nuvole AI te verbeteren?",
     "original": {
       "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
@@ -740,7 +740,7 @@
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Gebruik de hele presentatie? Of bepaalde dia's?",
+    "value": "De hele presentatie gebruiken? Of bepaalde dia's?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
@@ -750,7 +750,7 @@
     "version": 1
   },
   "Error_N_Restart": {
-    "value": "Start Nuvole AI opnieuw op",
+    "value": "Nuvole AI opnieuw starten",
     "original": {
       "value": "Restart Nuvole AI",
       "version": 1
@@ -770,7 +770,7 @@
     "version": 1
   },
   "Settings_ORG_Telegram": {
-    "value": "Volg de officiële MIKL-kanaal om nieuws te ontvangen over Nuvole AI en andere projecten.",
+    "value": "Volg het officiële MIKL-kanaal om nieuws te ontvangen over Nuvole AI en andere projecten.",
     "original": {
       "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
@@ -840,7 +840,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Altijd vragen",
+    "value": "Elke keer vragen",
     "original": {
       "value": "Ask Every Time",
       "version": 1
@@ -850,7 +850,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Verander het AI-model voor deze sessie alleen en herhaal het verzoek",
+    "value": "Verander het AI-model voor deze sessie en herhaal het verzoek",
     "original": {
       "value": "Change the AI Model for This Session Only and Repeat Request",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Het lijkt erop dat het model ${Name} dat je eerder hebt geselecteerd niet meer beschikbaar is. Welk AI-model wilt u gebruiken?",
+    "value": "Het lijkt erop dat het model ${Name} dat je eerder hebt geselecteerd niet meer beschikbaar is. Welk AI-model wil je gebruiken?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -870,9 +870,9 @@
     "version": 1
   },
   "Install_N_NoMenu": {
-    "value": "Het lijkt erop dat het model ${Name} dat je eerder hebt geselecteerd niet meer beschikbaar is. Welk AI-model wilt u gebruiken?",
+    "value": "Zonder te openen om het verzoek in te voeren",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Without Opening to Enter the Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -880,9 +880,9 @@
     "version": 1
   },
   "Chat_T_ChangingError": {
-    "value": "Het lijkt erop dat het model ${Name} dat je eerder hebt geselecteerd niet meer beschikbaar is. Welk AI-model wilt u gebruiken?",
+    "value": "Alleen emoji's kunnen als pictogram worden gebruikt",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Only emojis can be used as an icon",
       "version": 1
     },
     "translatedBy": "ai",
@@ -890,7 +890,7 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Nee, verzend de geschiedenis niet",
+    "value": "Nee, de geschiedenis niet verzenden",
     "original": {
       "value": "No, Not Transmit the History",
       "version": 1
@@ -910,7 +910,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Verwijder alle chats",
+    "value": "Alle chats verwijderen",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -930,7 +930,7 @@
     "version": 1
   },
   "Error_T_Type-Error-3": {
-    "value": "Er is een fout opgetreden tijdens het genereren van tekst.",
+    "value": "Er is een fout opgetreden tijdens het genereren van de tekst.",
     "original": {
       "value": "An error occurred during text generation.",
       "version": 1
@@ -940,7 +940,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Verbetering van de prompt met behulp van AI",
+    "value": "Verbeter de prompt met behulp van AI",
     "original": {
       "value": "Improving the Prompt Using AI",
       "version": 1
@@ -950,7 +950,7 @@
     "version": 1
   },
   "Settings_H_NAME-Loading": {
-    "value": "Wilt u een nieuwe chat maken of laden en verdergaan met de laatste bij het uitvoeren van Nuvole AI?",
+    "value": "Wil je een nieuwe chat maken of de laatste laden en voortzetten bij het starten van Nuvole AI?",
     "original": {
       "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
       "version": 1
@@ -960,7 +960,7 @@
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Chat opslaan en teruggaan",
+    "value": "Chats opslaan en teruggaan",
     "original": {
       "value": "Save chats and go back",
       "version": 1
@@ -970,7 +970,7 @@
     "version": 1
   },
   "Chat_N_Icon": {
-    "value": "Verander chat-icoon",
+    "value": "Chatpictogram wijzigen",
     "original": {
       "value": "Change Chat Icon",
       "version": 1
@@ -980,7 +980,7 @@
     "version": 1
   },
   "Text_T_Show": {
-    "value": "Toon volledig bericht",
+    "value": "Volledig bericht weergeven",
     "original": {
       "value": "Show Full Message",
       "version": 1
@@ -990,7 +990,7 @@
     "version": 1
   },
   "Update_N_Install": {
-    "value": "Installeer een nieuwe versie ${Num}",
+    "value": "Installeer een nieuwe ${Num} versie",
     "original": {
       "value": "Install a New ${Num} Version",
       "version": 1
@@ -1000,7 +1000,7 @@
     "version": 1
   },
   "Install_H_Model": {
-    "value": "Welk AI-model wilt u gebruiken?",
+    "value": "Welk AI-model wil je gebruiken?",
     "original": {
       "value": "Which AI model would you like to use?",
       "version": 1
@@ -1020,7 +1020,7 @@
     "version": 1
   },
   "Settings_N_NAME-Loading": {
-    "value": "Laatste chat laden bij het uitvoeren",
+    "value": "Laatste chat laden bij starten",
     "original": {
       "value": "Last Chat Load When Running",
       "version": 1
@@ -1040,7 +1040,7 @@
     "version": 1
   },
   "Generation_N_Skip": {
-    "value": "Nee, overslaan van deze actie",
+    "value": "Nee, deze actie overslaan",
     "original": {
       "value": "No, Skip This Action",
       "version": 1
@@ -1050,7 +1050,7 @@
     "version": 1
   },
   "Generation_H_Note": {
-    "value": "Wilt u een notitie “${Title}” maken en opslaan met Nuvole AI?",
+    "value": "Wil je een notitie “${Title}” maken en opslaan met Nuvole AI?",
     "original": {
       "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Kies een taal waarin het voor je handig is om te werken met Nuvole AI",
+    "value": "Kies een taal waarin je gemakkelijk met Nuvole AI kunt werken",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1090,7 +1090,7 @@
     "version": 1
   },
   "Settings_T_Font": {
-    "value": "Uw waarde: ${Num}",
+    "value": "Je waarde: ${Num}",
     "original": {
       "value": "Your value: ${Num}",
       "version": 1
@@ -1100,7 +1100,7 @@
     "version": 1
   },
   "Settings_N_Loading-True": {
-    "value": "Laad automatisch en ga verder met de laatste chat bij het uitvoeren",
+    "value": "Automatisch de laatste chat laden en voortzetten bij starten",
     "original": {
       "value": "Automatically Load and Continue Last Chat When Running",
       "version": 1
@@ -1110,7 +1110,7 @@
     "version": 1
   },
   "Settings_N_NAME-History": {
-    "value": "Weergave van chatgeschiedenis",
+    "value": "Chatgeschiedenis weergeven",
     "original": {
       "value": "Chat History Displaying",
       "version": 1
@@ -1120,7 +1120,7 @@
     "version": 1
   },
   "Install_H_Main": {
-    "value": "Wilt u het hoofdmenu openen bij het uitvoeren van Nuvole AI?",
+    "value": "Wil je het hoofdmenu openen bij het starten van Nuvole AI?",
     "original": {
       "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
@@ -1140,7 +1140,7 @@
     "version": 1
   },
   "History_N_SearchBack": {
-    "value": "Sluit zoeken",
+    "value": "Zoeken sluiten",
     "original": {
       "value": "Close Search",
       "version": 1
@@ -1150,9 +1150,9 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Sluit zoeken",
+    "value": "Beschrijf het probleem dat je bent tegengekomen in detail, samen met eventuele vragen of ideeën die je hebt voor het verbeteren van Nuvole AI",
     "original": {
-      "value": "Close Search",
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1160,7 +1160,7 @@
     "version": 1
   },
   "Settings_T_Stop": {
-    "value": "Wilt u de instellingen van deze parameter niet veranderen?",
+    "value": "Wil je de instellingen van deze parameter niet wijzigen?",
     "original": {
       "value": "Don’t want to change the settings of this parameter?",
       "version": 1
@@ -1170,7 +1170,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-2": {
-    "value": "Middel",
+    "value": "Gemiddeld",
     "original": {
       "value": "Medium",
       "version": 1
@@ -1180,7 +1180,7 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Zoek automatisch informatie op het internet",
+    "value": "Automatisch zoeken naar informatie op internet",
     "original": {
       "value": "Automatically Search for Information on the Internet",
       "version": 1
@@ -1200,7 +1200,7 @@
     "version": 1
   },
   "History_H_SearchDeletion": {
-    "value": "Weet je zeker dat je ${Count} gevonden ${Chats} wilt verwijderen? Je kunt alleen de benodigde chats verwijderen door “Selecteer en verwijder gevonden chats” te selecteren in het vorige menu. Door op de knop “Verwijder alle gevonden chats” te klikken, ga je akkoord dat alle gevonden chats worden verwijderd zonder de mogelijkheid tot herstel.",
+    "value": "Weet je zeker dat je de ${Count} gevonden ${Chats} wilt verwijderen? Je kunt alleen de benodigde chats verwijderen door 'Selecteer en verwijder gevonden chats' te selecteren in het vorige menu. Door op de knop 'Alle gevonden chats verwijderen' te klikken, ga je akkoord dat alle gevonden chats zonder mogelijkheid tot herstel worden verwijderd.",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -1210,9 +1210,9 @@
     "version": 1
   },
   "Share_H_Pages": {
-    "value": "Weet je zeker dat je ${Count} gevonden ${Chats} wilt verwijderen? Je kunt alleen de benodigde chats verwijderen door “Selecteer en verwijder gevonden chats” te selecteren in het vorige menu. Door op de knop “Verwijder alle gevonden chats” te klikken, ga je akkoord dat alle gevonden chats worden verwijderd zonder de mogelijkheid tot herstel.",
+    "value": "Selecteer de pagina's die je wilt gebruiken",
     "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "value": "Select the pages you want to use",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1230,9 +1230,9 @@
     "version": 1
   },
   "Install_ORG_YesUpdates": {
-    "value": "Serverstatus van ${Name}",
+    "value": "Aanbevolen voor een betere ervaring met Nuvole AI",
     "original": {
-      "value": "Server status of ${Name}",
+      "value": "Recommended for a better experience of Nuvole AI usage",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1240,7 +1240,7 @@
     "version": 1
   },
   "Text_T_Hide": {
-    "value": "Verberg volledig bericht",
+    "value": "Volledig bericht verbergen",
     "original": {
       "value": "Hide Full Message",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Selecteer of je de prompt wilt verbeteren om afbeeldingen te genereren met AI",
+    "value": "Selecteer of je de prompt wilt verbeteren om afbeeldingen met AI te genereren",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1270,7 +1270,7 @@
     "version": 1
   },
   "Chat_ORG_Rename": {
-    "value": "Verander de chatnaam “${Text}” naar een andere",
+    "value": "Verander de chatnaam “${Text}” in een andere",
     "original": {
       "value": "Change the chat name “${Text}” to any other",
       "version": 1
@@ -1280,9 +1280,9 @@
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Verander de chatnaam “${Text}” naar een andere",
+    "value": "Zoekopdracht wijzigen",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Change Search Query",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1300,9 +1300,9 @@
     "version": 1
   },
   "Error_H_Error": {
-    "value": "Bedankt voor je feedback! Dit zal helpen om Nuvole AI te verbeteren!",
+    "value": "Fout",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Error",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1310,9 +1310,9 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Bedankt voor je feedback! Dit zal helpen om Nuvole AI te verbeteren!",
+    "value": "Maak een samenvatting",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Make a Summarization",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1320,7 +1320,7 @@
     "version": 1
   },
   "Chat_H_Renaming": {
-    "value": "Welke naam wilt u aan deze chat geven?",
+    "value": "Welke naam wil je aan deze chat geven?",
     "original": {
       "value": "What name do you want to give this chat?",
       "version": 1
@@ -1330,7 +1330,7 @@
     "version": 1
   },
   "Text_T_History": {
-    "value": "De geschiedenis van de chat “${Name}” is geladen.",
+    "value": "De geschiedenis van de “${Name}” chat is geladen.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
       "version": 1
@@ -1360,7 +1360,7 @@
     "version": 1
   },
   "Share_H_Input": {
-    "value": "Wat wilt u vragen?",
+    "value": "Wat wil je vragen?",
     "original": {
       "value": "What do you want to ask?",
       "version": 1
@@ -1370,7 +1370,7 @@
     "version": 1
   },
   "Install_H_Learn": {
-    "value": "Het installatieproces is voltooid!\nWilt u meer te weten komen over Nuvole AI en zijn functies?",
+    "value": "Het installatieproces is voltooid!\nWil je meer leren over Nuvole AI en zijn functies?",
     "original": {
       "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
       "version": 1
@@ -1390,7 +1390,7 @@
     "version": 1
   },
   "Main_ORG_NewChat": {
-    "value": "Begin vanaf het begin",
+    "value": "Van nul beginnen",
     "original": {
       "value": "Start from scratch",
       "version": 1
@@ -1430,7 +1430,7 @@
     "version": 1
   },
   "Error_ORG_ChangeStop": {
-    "value": "Herhaal het verzoek met behulp van ${Name}",
+    "value": "Verzoek herhalen met ${Name}",
     "original": {
       "value": "Repeat request using ${Name}",
       "version": 1
@@ -1440,7 +1440,7 @@
     "version": 1
   },
   "Error_T_Type-Error-2": {
-    "value": "Er is een fout opgetreden tijdens het denken.",
+    "value": "Er is een fout opgetreden tijdens het denkproces.",
     "original": {
       "value": "An error occurred during the thinking process.",
       "version": 1
@@ -1450,7 +1450,7 @@
     "version": 1
   },
   "Chat_ORG_Icon": {
-    "value": "Verander het chat-icoon “${Text}” naar een ander",
+    "value": "Verander het chatpictogram “${Text}” in een ander",
     "original": {
       "value": "Change the chat icon “${Text}” to any other",
       "version": 1
@@ -1480,7 +1480,7 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Schrijf de tekst waarmee je chats wilt vinden. De namen van de chats en hun inhoud worden gecontroleerd (hoofdlettergevoelig, ondersteunt regex).",
+    "value": "Schrijf de tekst waarmee je chats wilt vinden. De namen van de chats en hun inhoud worden gecontroleerd (hoofdletterongevoelig, ondersteunt regex).",
     "original": {
       "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
       "version": 1
@@ -1550,7 +1550,7 @@
     "version": 1
   },
   "Share_ORG_Slides": {
-    "value": "Voordat je selecteert, wordt je je presentatie getoond",
+    "value": "Voordat je selecteert, wordt je presentatie getoond",
     "original": {
       "value": "Before selecting, you will be shown your presentation",
       "version": 1
@@ -1570,7 +1570,7 @@
     "version": 1
   },
   "Settings_N_NAME-Summary": {
-    "value": "Grootte van samenvatting",
+    "value": "Samenvattingsgrootte",
     "original": {
       "value": "Summarization Size",
       "version": 1
@@ -1580,7 +1580,7 @@
     "version": 1
   },
   "Settings_T_C-Html": {
-    "value": "Weergave van het antwoord",
+    "value": "Antwoord weergeven",
     "original": {
       "value": "Displaying the Answer",
       "version": 1
@@ -1590,7 +1590,7 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Toon geen chatgeschiedenis",
+    "value": "Chatgeschiedenis niet weergeven",
     "original": {
       "value": "Do Not Display Chat History",
       "version": 1
@@ -1600,7 +1600,7 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Ga verder met chatten met Nuvole AI",
+    "value": "Doorgaan met chatten met Nuvole AI",
     "original": {
       "value": "Continue Chatting with Nuvole AI",
       "version": 1
@@ -1610,7 +1610,7 @@
     "version": 1
   },
   "Settings_N_NAME-Voice": {
-    "value": "Invoeren van een verzoek",
+    "value": "Verzoek invoeren",
     "original": {
       "value": "Entering a Request",
       "version": 1
@@ -1620,7 +1620,7 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Selecteer de lettergrootte voor het weergeven van het antwoord (48 pixels standaard)",
+    "value": "Selecteer de lettergrootte om het antwoord weer te geven (standaard 48 pixels)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
@@ -1660,7 +1660,7 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Wilt u het model niet veranderen?",
+    "value": "Wil je het model niet wijzigen?",
     "original": {
       "value": "Don’t want to change the model?",
       "version": 1
@@ -1670,7 +1670,7 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Chatopslag",
+    "value": "Chat opslaan",
     "original": {
       "value": "Chat Saving",
       "version": 1
@@ -1680,7 +1680,7 @@
     "version": 1
   },
   "Install_H_Input": {
-    "value": "Selecteer de meest geschikte manier voor je om een verzoek in te dienen voor AI",
+    "value": "Selecteer de meest handige manier voor jou om een verzoek voor AI in te voeren",
     "original": {
       "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
@@ -1690,7 +1690,7 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Verwijder deze chats zonder de mogelijkheid tot herstel",
+    "value": "Verwijder deze chats zonder mogelijkheid tot herstel",
     "original": {
       "value": "Delete this chats without the possibility of recovery",
       "version": 1
@@ -1700,7 +1700,7 @@
     "version": 1
   },
   "Install_T_Model": {
-    "value": "Aangeraden",
+    "value": "Aanbevolen",
     "original": {
       "value": "Recomended",
       "version": 1
@@ -1720,7 +1720,7 @@
     "version": 1
   },
   "Settings_T_ID-Main-False": {
-    "value": "Open niet bij uitvoeren",
+    "value": "Niet openen bij starten",
     "original": {
       "value": "Don’t Open When Running",
       "version": 1
@@ -1730,7 +1730,7 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Er is een fout opgetreden tijdens het genereren van notities.",
+    "value": "Er is een fout opgetreden tijdens het genereren van de notitie.",
     "original": {
       "value": "An error occurred during note generation.",
       "version": 1
@@ -1740,7 +1740,7 @@
     "version": 1
   },
   "Share_N_AllPre": {
-    "value": "Gebruik de hele presentatie",
+    "value": "De hele presentatie gebruiken",
     "original": {
       "value": "Use the Whole Presentation",
       "version": 1
@@ -1750,7 +1750,7 @@
     "version": 1
   },
   "Error_N_Repeat": {
-    "value": "Herhaal verzoek",
+    "value": "Verzoek herhalen",
     "original": {
       "value": "Repeat Request",
       "version": 1
@@ -1770,7 +1770,7 @@
     "version": 1
   },
   "Settings_T_ID-Main-True": {
-    "value": "Open bij uitvoeren",
+    "value": "Openen bij starten",
     "original": {
       "value": "Open When Running",
       "version": 1
@@ -1790,7 +1790,7 @@
     "version": 1
   },
   "Feedback_N_Email": {
-    "value": "Met e-mail",
+    "value": "Via e-mail",
     "original": {
       "value": "Using Email",
       "version": 1
@@ -1840,7 +1840,7 @@
     "version": 1
   },
   "Chat_H_Deletion": {
-    "value": "Weet je zeker dat je de chat “${Text}” wilt verwijderen? Door op de knop “Chat verwijderen” te klikken, ga je akkoord dat deze chat wordt verwijderd zonder de mogelijkheid tot herstel.",
+    "value": "Weet je zeker dat je de “${Text}” chat wilt verwijderen? Door op de knop 'Chat verwijderen' te klikken, ga je akkoord dat deze chat zonder mogelijkheid tot herstel wordt verwijderd.",
     "original": {
       "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
       "version": 1
@@ -1850,7 +1850,7 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Selecteer wat je wilt doen met de items uit het menu “Deelblad”",
+    "value": "Selecteer wat je wilt doen met de items uit het 'Deelblad'-menu",
     "original": {
       "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
@@ -1860,7 +1860,7 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Verwijder alle gevonden chats",
+    "value": "Alle gevonden chats verwijderen",
     "original": {
       "value": "Delete All Found Chats",
       "version": 1
@@ -1870,7 +1870,7 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Gebruik het hele bestand? Of bepaalde pagina's?",
+    "value": "Het hele bestand gebruiken? Of bepaalde pagina's?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
       "version": 1
@@ -1890,7 +1890,7 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Filtering van NSFW-inhoud",
+    "value": "NSFW-inhoud filteren",
     "original": {
       "value": "NSFW Content Filtering",
       "version": 1
@@ -1900,7 +1900,7 @@
     "version": 1
   },
   "Main_ORG_Settings": {
-    "value": "Pas en personaliseer Nuvole AI om perfect aan je behoeften te voldoen",
+    "value": "Pas Nuvole AI aan om perfect aan je behoeften te voldoen",
     "original": {
       "value": "Modify and customize Nuvole AI to perfectly fit your needs",
       "version": 1
@@ -1920,7 +1920,7 @@
     "version": 1
   },
   "Text_T_ShowNote": {
-    "value": "Toon volledige notitie",
+    "value": "Volledige notitie weergeven",
     "original": {
       "value": "Show Full Note",
       "version": 1
@@ -1940,7 +1940,7 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "Weet je zeker dat je ${Count} geselecteerde ${Chats} wilt verwijderen? Door op de knop “Geselecteerde chats verwijderen” te klikken, ga je akkoord dat de chats die je hebt gekozen worden verwijderd zonder de mogelijkheid tot herstel.",
+    "value": "Weet je zeker dat je de ${Count} geselecteerde ${Chats} wilt verwijderen? Door op de knop 'Geselecteerde chats verwijderen' te klikken, ga je akkoord dat de chats die je hebt geselecteerd zonder mogelijkheid tot herstel worden verwijderd.",
     "original": {
       "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
       "version": 1
@@ -1950,7 +1950,7 @@
     "version": 1
   },
   "Settings_N_Close": {
-    "value": "Sluit instellingen",
+    "value": "Instellingen sluiten",
     "original": {
       "value": "Close Settings",
       "version": 1
@@ -1960,7 +1960,7 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Verwijder alle gevonden chats zonder de mogelijkheid tot herstel",
+    "value": "Verwijder alle gevonden chats zonder mogelijkheid tot herstel",
     "original": {
       "value": "Delete all found chats without the possibility of recovery",
       "version": 1
@@ -1970,7 +1970,7 @@
     "version": 1
   },
   "Share_N_AllFile": {
-    "value": "Gebruik het hele bestand",
+    "value": "Het hele bestand gebruiken",
     "original": {
       "value": "Use the Whole File",
       "version": 1
@@ -2000,7 +2000,7 @@
     "version": 1
   },
   "Settings_N_Telegram": {
-    "value": "Abonneer je op het Telegram-kanaal van MIKL",
+    "value": "Abonneer je op het MIKL Telegram-kanaal",
     "original": {
       "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
@@ -2020,9 +2020,9 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Licht",
+    "value": "Niet verwijderen",
     "original": {
-      "value": "Light",
+      "value": "Do Not Delete",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2050,7 +2050,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Bied deze update niet aan",
+    "value": "Deze update niet aanbieden",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
@@ -2070,7 +2070,7 @@
     "version": 1
   },
   "N_Exit": {
-    "value": "Verlaat Nuvole AI",
+    "value": "Nuvole AI verlaten",
     "original": {
       "value": "Exit the Nuvole AI",
       "version": 1
@@ -2080,7 +2080,7 @@
     "version": 1
   },
   "History_H_Deletion": {
-    "value": "Weet je zeker dat je de geschiedenis wilt verwijderen? Je kunt alleen de benodigde chats verwijderen door “Selecteer en verwijder chats” te selecteren in het vorige menu. Door op de knop “Verwijder alle chats” te klikken, ga je akkoord dat alle chats worden verwijderd zonder de mogelijkheid tot herstel.",
+    "value": "Weet je zeker dat je de geschiedenis wilt verwijderen? Je kunt alleen de benodigde chats verwijderen door 'Selecteer en verwijder chats' te selecteren in het vorige menu. Door op de knop 'Alle chats verwijderen' te klikken, ga je akkoord dat alle chats zonder mogelijkheid tot herstel worden verwijderen.",
     "original": {
       "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -2100,7 +2100,7 @@
     "version": 1
   },
   "Update_N_NotInstall": {
-    "value": "Installeer de update niet",
+    "value": "De update niet installeren",
     "original": {
       "value": "Do Not Install the Update",
       "version": 1
@@ -2110,7 +2110,7 @@
     "version": 1
   },
   "Share_H_VideoType": {
-    "value": "Wat wilt u doen met deze video?",
+    "value": "Wat wil je met deze video doen?",
     "original": {
       "value": "What do you want to do with this video?",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "Nuvole AI zal momenteel het model gebruiken dat je selecteert, maar de volgende keer ${Name}",
+    "value": "Op dit moment zal Nuvole AI het model gebruiken dat je selecteert, maar de volgende keer ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Nieuwe chats alleen opslaan op verzoek",
+    "value": "Nieuwe chats alleen op verzoek opslaan",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2150,7 +2150,7 @@
     "version": 1
   },
   "Settings_T_FontMin": {
-    "value": "Minimumwaarde: 22",
+    "value": "Minimale waarde: 22",
     "original": {
       "value": "Minimum value: 22",
       "version": 1
@@ -2170,7 +2170,7 @@
     "version": 1
   },
   "Feedback_H_History": {
-    "value": "Wilt u deze chat met uw berichten en AI-antwoorden delen met de ontwikkelaar?",
+    "value": "Wil je deze chat delen die je berichten en AI-antwoorden bevat met de ontwikkelaar?",
     "original": {
       "value": "Do you want to share this chat containing your messages and AI responses with developer?",
       "version": 1
@@ -2180,9 +2180,9 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Wilt u deze chat met uw berichten en AI-antwoorden delen met de ontwikkelaar?",
+    "value": "Ja, mijn Nuvole AI-configuratie verzenden",
     "original": {
-      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2220,7 +2220,7 @@
     "version": 1
   },
   "Feedback_ORG_Server": {
-    "value": "Je kunt geen feedback krijgen van de ontwikkelaar",
+    "value": "Je kunt geen feedback van de ontwikkelaar krijgen",
     "original": {
       "value": "You won’t be able to get feedback from developer",
       "version": 1
@@ -2260,7 +2260,7 @@
     "version": 1
   },
   "History_N_Back": {
-    "value": "Sluit geschiedenis",
+    "value": "Geschiedenis sluiten",
     "original": {
       "value": "Close History",
       "version": 1
@@ -2270,7 +2270,7 @@
     "version": 1
   },
   "Settings_H_NAME-Saving": {
-    "value": "Hoe wilt u nieuwe chats opslaan?",
+    "value": "Hoe wil je nieuwe chats opslaan?",
     "original": {
       "value": "How do you want to save new chats?",
       "version": 1
@@ -2290,7 +2290,7 @@
     "version": 1
   },
   "Share_T_ErrorExtension": {
-    "value": "Helaas kan Nuvole AI niet werken met bestanden .{Extension}",
+    "value": "Helaas kan Nuvole AI niet met bestanden .{Extension} werken",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Je hebt de waarde te klein ingesteld",
+    "value": "Je hebt de waarde te laag ingesteld",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2320,7 +2320,7 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "Herhaal verzoek met hetzelfde model",
+    "value": "Verzoek herhalen met hetzelfde model",
     "original": {
       "value": "Repeat Request Using the Same Model",
       "version": 1
@@ -2340,7 +2340,7 @@
     "version": 1
   },
   "Share_H_SummarySize": {
-    "value": "Selecteer de grootte van de samenvatting die je wilt krijgen",
+    "value": "Selecteer de grootte van de samenvatting die je wilt ontvangen",
     "original": {
       "value": "Select the size of summarization you want to get",
       "version": 1
@@ -2360,7 +2360,7 @@
     "version": 1
   },
   "Install_H_Updates": {
-    "value": "Selecteer of je meldingen wilt ontvangen over updates",
+    "value": "Selecteer of je meldingen over updates wilt ontvangen",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
       "version": 1
@@ -2380,7 +2380,7 @@
     "version": 1
   },
   "Generation_N_Note": {
-    "value": "Ja, genereer en sla een notitie op op mijn apparaat",
+    "value": "Ja, een notitie op mijn apparaat genereren en opslaan",
     "original": {
       "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "Nee, verzend geen configuratie",
+    "value": "Nee, configuratie niet verzenden",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2400,7 +2400,7 @@
     "version": 1
   },
   "Chat_N_View": {
-    "value": "Bekijk chat",
+    "value": "Chat bekijken",
     "original": {
       "value": "View Chat",
       "version": 1
@@ -2410,7 +2410,7 @@
     "version": 1
   },
   "Chat_N_DeletionDelete": {
-    "value": "Verwijder deze chat",
+    "value": "Deze chat verwijderen",
     "original": {
       "value": "Delete This Chat",
       "version": 1
@@ -2420,7 +2420,7 @@
     "version": 1
   },
   "Chat_T_RenamingError": {
-    "value": "De chatnaam kan niet een lege string zijn",
+    "value": "De chatnaam mag geen lege tekenreeks zijn",
     "original": {
       "value": "The chat name cannot be an empty string",
       "version": 1
@@ -2430,7 +2430,7 @@
     "version": 1
   },
   "Settings_N_History-True": {
-    "value": "Toon chatgeschiedenis",
+    "value": "Chatgeschiedenis weergeven",
     "original": {
       "value": "Display Chat History ",
       "version": 1
@@ -2440,7 +2440,7 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Voordat je selecteert, wordt je je bestand getoond",
+    "value": "Voordat je selecteert, wordt je bestand getoond",
     "original": {
       "value": "Before selecting, you will be shown your file",
       "version": 1
@@ -2470,9 +2470,9 @@
     "version": 1
   },
   "N_Back": {
-    "value": "Verzoektype",
+    "value": "Terug",
     "original": {
-      "value": "Request Type",
+      "value": "Back",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2480,7 +2480,7 @@
     "version": 1
   },
   "Settings_T_FontMax": {
-    "value": "Maximumwaarde: 62",
+    "value": "Maximale waarde: 62",
     "original": {
       "value": "Maximum value: 62",
       "version": 1
@@ -2490,9 +2490,9 @@
     "version": 1
   },
   "Share_T_ErrorPre": {
-    "value": "Maximumwaarde: 62",
+    "value": "Helaas kan Nuvole AI niet met deze presentatie werken",
     "original": {
-      "value": "Maximum value: 62",
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2500,7 +2500,7 @@
     "version": 1
   },
   "Settings_N_Search-False": {
-    "value": "Zoek geen informatie op het internet",
+    "value": "Niet zoeken naar informatie op internet",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2510,9 +2510,9 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "Zoek geen informatie op het internet",
+    "value": "Zoek onder je chats",
     "original": {
-      "value": "Do Not Look for Information on the Internet",
+      "value": "Search among your chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2520,7 +2520,7 @@
     "version": 1
   },
   "Text_T_ShowThink": {
-    "value": "Toon volledige gedachten",
+    "value": "Volledige gedachten weergeven",
     "original": {
       "value": "Show Full Throghts",
       "version": 1
@@ -2540,7 +2540,7 @@
     "version": 1
   },
   "Text_T_Exit": {
-    "value": "Nuvole AI zal zijn werk afronden",
+    "value": "Nuvole AI zal zijn werk voltooien",
     "original": {
       "value": "Nuvole AI will complete its work",
       "version": 1
@@ -2550,7 +2550,7 @@
     "version": 1
   },
   "Error_T_Outage": {
-    "value": "Deelproblemen.",
+    "value": "Gedeeltelijke problemen.",
     "original": {
       "value": "Partial problems.",
       "version": 1

@@ -10,7 +10,7 @@
     "version": 1
   },
   "Error_T_Problem": {
-    "value": "Alvorlig nedetid.",
+    "value": "Stor nedbrud.",
     "original": {
       "value": "Major outage.",
       "version": 1
@@ -20,7 +20,7 @@
     "version": 1
   },
   "Settings_N_NAME-Upd": {
-    "value": "Tjekker for opdateringer",
+    "value": "Tjekker efter opdateringer",
     "original": {
       "value": "Checking for Updates",
       "version": 1
@@ -40,7 +40,7 @@
     "version": 1
   },
   "History_T_2Chats": {
-    "value": "2 chatter",
+    "value": "2 chats",
     "original": {
       "value": "2 chats",
       "version": 1
@@ -60,7 +60,7 @@
     "version": 1
   },
   "Text_T_Seconds": {
-    "value": "Tænkte i ${Num} sekunder",
+    "value": "Tænkt i ${Num} sekunder",
     "original": {
       "value": "Thought for ${Num} seconds",
       "version": 1
@@ -80,7 +80,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Slet alle chatter",
+    "value": "Slet alle chats",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -90,7 +90,7 @@
     "version": 1
   },
   "Settings_H_NAME-Theme": {
-    "value": "Vælg udseendet, der skal anvendes til visning af svar",
+    "value": "Vælg det udseende, der skal anvendes til visning af svar",
     "original": {
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
@@ -100,17 +100,17 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Ja, Send historien for denne chat",
+    "value": "{\"value\":\"Yes, Transmit the History of This Chat\",\"translatedBy\":\"human\",\"isTranslated\":true,\"version\":1}",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
     },
-    "translatedBy": "ai",
-    "isTranslated": true,
+    "translatedBy": "none",
+    "isTranslated": false,
     "version": 1
   },
   "Feedback_H_End": {
-    "value": "Besked sendt!",
+    "value": "Beskeden er sendt!",
     "original": {
       "value": "Message sent!",
       "version": 1
@@ -130,7 +130,7 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Vil du sende en Nuvole AI-konfiguration til udvikleren?",
+    "value": "Vil du sende en Nuvole AI-konfiguration med udvikleren?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
@@ -140,7 +140,7 @@
     "version": 1
   },
   "History_H_Selection": {
-    "value": "Vælg, hvilke chatter du vil slette",
+    "value": "Vælg hvilke chats, du vil slette",
     "original": {
       "value": "Choose which chats you want to delete",
       "version": 1
@@ -270,7 +270,7 @@
     "version": 1
   },
   "Install_N_YesMenu": {
-    "value": "Åbn hovedmenuen ved hver ny kørsel",
+    "value": "Åbn hovedmenuen med hver ny kørsel",
     "original": {
       "value": "Open the Main Menu with Each New Running",
       "version": 1
@@ -300,7 +300,7 @@
     "version": 1
   },
   "Share_H_Slides": {
-    "value": "Vælg de slides, du vil bruge",
+    "value": "Vælg de dias, du vil bruge",
     "original": {
       "value": "Select the slides you want to use",
       "version": 1
@@ -310,7 +310,7 @@
     "version": 1
   },
   "Error_T_Type-Error-4": {
-    "value": "Der opstod en fejl under billedegenerering.",
+    "value": "Der opstod en fejl under billedgenerering.",
     "original": {
       "value": "An error occurred during image generation.",
       "version": 1
@@ -340,7 +340,7 @@
     "version": 1
   },
   "Text_T_HideNote": {
-    "value": "Skjul hele noten",
+    "value": "Skjul fuld note",
     "original": {
       "value": "Hide Full Note",
       "version": 1
@@ -460,7 +460,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Fortæt samtalen med Nuvole AI",
+    "value": "Fortsæt samtalen med Nuvole AI",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -470,7 +470,7 @@
     "version": 1
   },
   "Share_H_SiteType": {
-    "value": "Hvad vil du gøre med denne side?",
+    "value": "Hvad vil du gøre med dette websted?",
     "original": {
       "value": "What do you want to do with this site?",
       "version": 1
@@ -520,7 +520,7 @@
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Skjul hele tanker",
+    "value": "Skjul fulde tanker",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
@@ -530,7 +530,7 @@
     "version": 1
   },
   "Error_ORG_Report": {
-    "value": "Rapporter en fejl",
+    "value": "Raporter en fejl",
     "original": {
       "value": "Report a bug",
       "version": 1
@@ -540,7 +540,7 @@
     "version": 1
   },
   "Error_T_ModelNotAvaiable": {
-    "value": "Ikke tilgængelig for øjeblikket",
+    "value": "Ikke tilgængelig på nuværende tidspunkt",
     "original": {
       "value": "Not available at the moment",
       "version": 1
@@ -550,7 +550,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Forbedre ikke prompt med AI",
+    "value": "Forbedr ikke prompt med AI",
     "original": {
       "value": "Do Not Improve Prompt with AI",
       "version": 1
@@ -580,7 +580,7 @@
     "version": 1
   },
   "Settings_T_C-Share": {
-    "value": "Del ark",
+    "value": "Delingsark",
     "original": {
       "value": "Share Sheet",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Gennemse, søg, vis og fortsæt dine chatter med Nuvole AI",
+    "value": "Gennemse, søg, se og fortsæt dine chats med Nuvole AI",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -600,7 +600,7 @@
     "version": 1
   },
   "History_ORG_BackHistory": {
-    "value": "Gå tilbage til historien",
+    "value": "Gå tilbage til historie",
     "original": {
       "value": "Return to History",
       "version": 1
@@ -650,7 +650,7 @@
     "version": 1
   },
   "Share_T_ErrorSite": {
-    "value": "Desværre kan Nuvole AI ikke arbejde med denne side",
+    "value": "Desværre kan Nuvole AI ikke arbejde med dette websted",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
@@ -670,7 +670,7 @@
     "version": 1
   },
   "Main_N_LastLoad": {
-    "value": "Fortæt ved at indlæse den sidste chat",
+    "value": "Fortsæt ved at indlæse den sidste chat",
     "original": {
       "value": "Continue by Loading the Last Chat",
       "version": 1
@@ -690,9 +690,9 @@
     "version": 1
   },
   "Share_T_SiteSize": {
-    "value": "${Seconds} siden",
+    "value": "Lav en ${Size} opsummering af webstedet",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Make a ${Size} summarization of the site",
       "version": 1
     },
     "translatedBy": "ai",
@@ -700,9 +700,9 @@
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "${Seconds} siden",
+    "value": "En ny chat vil blive oprettet",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "New chat will be created",
       "version": 1
     },
     "translatedBy": "ai",
@@ -710,9 +710,9 @@
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "${Seconds} siden",
+    "value": "Hvilket ikon vil du give denne chat (du kan kun bruge et emoji)?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -720,9 +720,9 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "${Seconds} siden",
+    "value": "Nogen problemer, spørgsmål eller ideer til, hvordan man kan forbedre Nuvole AI?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -740,7 +740,7 @@
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Brug hele præsentationen? Eller visse slides?",
+    "value": "Brug hele præsentationen? Eller visse dias?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
@@ -770,7 +770,7 @@
     "version": 1
   },
   "Settings_ORG_Telegram": {
-    "value": "Følg den officielle MIKL-kanal for at modtage nyheder om Nuvole AI og andre projekter.",
+    "value": "Følg den officielle MIKL’s kanal for at modtage nyheder om Nuvole AI og andre projekter.",
     "original": {
       "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
@@ -800,7 +800,7 @@
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Gem altid nye chatter",
+    "value": "Gem altid nye chats",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
@@ -840,7 +840,7 @@
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Spør hver gang",
+    "value": "Spørg hver gang",
     "original": {
       "value": "Ask Every Time",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Det ser ud til, at modellen ${Name}, du valgte tidligere, ikke er tilgængelig længere. Hvilken AI-model vil du gerne bruge?",
+    "value": "Det ser ud til, at modellen ${Name}, du valgte tidligere, ikke længere er tilgængelig. Hvilken AI-model vil du gerne bruge?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -870,9 +870,9 @@
     "version": 1
   },
   "Install_N_NoMenu": {
-    "value": "Det ser ud til, at modellen ${Name}, du valgte tidligere, ikke er tilgængelig længere. Hvilken AI-model vil du gerne bruge?",
+    "value": "Uden at åbne for at indtaste anmodningen",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Without Opening to Enter the Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -880,9 +880,9 @@
     "version": 1
   },
   "Chat_T_ChangingError": {
-    "value": "Det ser ud til, at modellen ${Name}, du valgte tidligere, ikke er tilgængelig længere. Hvilken AI-model vil du gerne bruge?",
+    "value": "Kun emojis kan bruges som et ikon",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Only emojis can be used as an icon",
       "version": 1
     },
     "translatedBy": "ai",
@@ -890,9 +890,9 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Det ser ud til, at modellen ${Name}, du valgte tidligere, ikke er tilgængelig længere. Hvilken AI-model vil du gerne bruge?",
+    "value": "Nej, send ikke historien",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "No, Not Transmit the History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -900,7 +900,7 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Vælg og slet chatter",
+    "value": "Vælg og slet chats",
     "original": {
       "value": "Select and Delete Chats",
       "version": 1
@@ -910,7 +910,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Slet alle chatter",
+    "value": "Slet alle chats",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -960,7 +960,7 @@
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Gem chatter og gå tilbage",
+    "value": "Gem chats og gå tilbage",
     "original": {
       "value": "Save chats and go back",
       "version": 1
@@ -970,7 +970,7 @@
     "version": 1
   },
   "Chat_N_Icon": {
-    "value": "Skift chatikon",
+    "value": "Skift chat-ikon",
     "original": {
       "value": "Change Chat Icon",
       "version": 1
@@ -980,7 +980,7 @@
     "version": 1
   },
   "Text_T_Show": {
-    "value": "Vis hele beskeden",
+    "value": "Vis fuld besked",
     "original": {
       "value": "Show Full Message",
       "version": 1
@@ -1010,7 +1010,7 @@
     "version": 1
   },
   "Install_N_SkipLearn": {
-    "value": "Spring over og start med at arbejde med Nuvole AI",
+    "value": "Spring over og begynd at arbejde med Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
       "version": 1
@@ -1020,7 +1020,7 @@
     "version": 1
   },
   "Settings_N_NAME-Loading": {
-    "value": "Sidste chat indlæses ved kørsel",
+    "value": "Indlæs sidste chat ved kørsel",
     "original": {
       "value": "Last Chat Load When Running",
       "version": 1
@@ -1030,7 +1030,7 @@
     "version": 1
   },
   "Settings_T_ID-Upd-False": {
-    "value": "Slukket",
+    "value": "Slået fra",
     "original": {
       "value": "Turned Off",
       "version": 1
@@ -1040,7 +1040,7 @@
     "version": 1
   },
   "Generation_N_Skip": {
-    "value": "Nej, spring denne handling over",
+    "value": "Nej, spring over denne handling",
     "original": {
       "value": "No, Skip This Action",
       "version": 1
@@ -1060,7 +1060,7 @@
     "version": 1
   },
   "Settings_H_NAME-History": {
-    "value": "Vælg, om du vil vise sessionshistorikken",
+    "value": "Vælg om du vil vise sessionens historie",
     "original": {
       "value": "Select whether you want to display the session history",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Vælg et sprog, som det vil være bekvemt for dig at arbejde med Nuvole AI på",
+    "value": "Vælg et sprog, hvor det vil være bekvemt for dig at arbejde med Nuvole AI",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1100,7 +1100,7 @@
     "version": 1
   },
   "Settings_N_Loading-True": {
-    "value": "Indlæs og fortsæt automatisk sidste chat ved kørsel",
+    "value": "Indlæs og fortsæt sidste chat automatisk ved kørsel",
     "original": {
       "value": "Automatically Load and Continue Last Chat When Running",
       "version": 1
@@ -1120,7 +1120,7 @@
     "version": 1
   },
   "Install_H_Main": {
-    "value": "Vil du åbne hovedmenuen ved kørsel af Nuvole AI?",
+    "value": "Vil du åbne hovedmenuen, når du kører Nuvole AI?",
     "original": {
       "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
@@ -1150,9 +1150,9 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Luk søgning",
+    "value": "Beskriv detaljeret det problem, du er stødt på, sammen med eventuelle spørgsmål eller ideer, du har til forbedring af Nuvole AI",
     "original": {
-      "value": "Close Search",
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1160,9 +1160,9 @@
     "version": 1
   },
   "Settings_T_Stop": {
-    "value": "Luk søgning",
+    "value": "Vil du ikke ændre indstillingerne for denne parameter?",
     "original": {
-      "value": "Close Search",
+      "value": "Don’t want to change the settings of this parameter?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1170,9 +1170,9 @@
     "version": 1
   },
   "Settings_T_ID-Summary-2": {
-    "value": "Luk søgning",
+    "value": "Mellem",
     "original": {
-      "value": "Close Search",
+      "value": "Medium",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1180,9 +1180,9 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Luk søgning",
+    "value": "Søg automatisk efter information på internettet",
     "original": {
-      "value": "Close Search",
+      "value": "Automatically Search for Information on the Internet",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1190,9 +1190,9 @@
     "version": 1
   },
   "Update_T_21Changes": {
-    "value": "Luk søgning",
+    "value": "21 ændringer",
     "original": {
-      "value": "Close Search",
+      "value": "21 changes",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1200,9 +1200,9 @@
     "version": 1
   },
   "History_H_SearchDeletion": {
-    "value": "Luk søgning",
+    "value": "Er du sikker på, at du vil slette ${Count} fundne ${Chats}? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet fundne chats” i den tidligere menu. Ved at klikke på knappen “Slet alle fundne chats” accepterer du, at alle fundne chats vil blive slettet uden mulighed for genoprettelse.",
     "original": {
-      "value": "Close Search",
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1210,9 +1210,9 @@
     "version": 1
   },
   "Share_H_Pages": {
-    "value": "Luk søgning",
+    "value": "Vælg de sider, du vil bruge",
     "original": {
-      "value": "Close Search",
+      "value": "Select the pages you want to use",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1230,9 +1230,9 @@
     "version": 1
   },
   "Install_ORG_YesUpdates": {
-    "value": "Serverstatus for ${Name}",
+    "value": "Anbefales for en bedre oplevelse af Nuvole AI-brug",
     "original": {
-      "value": "Server status of ${Name}",
+      "value": "Recommended for a better experience of Nuvole AI usage",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1240,7 +1240,7 @@
     "version": 1
   },
   "Text_T_Hide": {
-    "value": "Skjul hele beskeden",
+    "value": "Skjul fuld besked",
     "original": {
       "value": "Hide Full Message",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "Vælg, om du vil forbedre prompt til generering af billeder med AI",
+    "value": "Vælg om du vil forbedre prompt til at generere billeder med AI",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1270,7 +1270,7 @@
     "version": 1
   },
   "Chat_ORG_Rename": {
-    "value": "Skift chatnavnet “${Text}” til et andet",
+    "value": "Skift chat-navnet “${Text}” til et andet",
     "original": {
       "value": "Change the chat name “${Text}” to any other",
       "version": 1
@@ -1280,9 +1280,9 @@
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Skift chatnavnet “${Text}” til et andet",
+    "value": "Skift søgeforespørgsel",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Change Search Query",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1300,9 +1300,9 @@
     "version": 1
   },
   "Error_H_Error": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Fejl",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Error",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1310,9 +1310,9 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Lav en opsummering",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Make a Summarization",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1320,9 +1320,9 @@
     "version": 1
   },
   "Chat_H_Renaming": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Hvilket navn vil du give denne chat?",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "What name do you want to give this chat?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1330,9 +1330,9 @@
     "version": 1
   },
   "Text_T_History": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Historien for “${Name}” chat er indlæst.",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "The history of “${Name}” chat is loaded.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1340,9 +1340,9 @@
     "version": 1
   },
   "Feedback_ORG_YesConfig": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Dette kan give en bedre forståelse af dit problem, hvis du har et",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1350,9 +1350,9 @@
     "version": 1
   },
   "History_N_SearchSelect": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Vælg og slet fundne chats",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Select and Delete Found Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1360,9 +1360,9 @@
     "version": 1
   },
   "Share_H_Input": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Hvad vil du spørge om?",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "What do you want to ask?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1370,9 +1370,9 @@
     "version": 1
   },
   "Install_H_Learn": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Installationsprocessen er fuldført!\nVil du lære mere om Nuvole AI og dens funktioner?",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1380,9 +1380,9 @@
     "version": 1
   },
   "Settings_T_ID-Share-1": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Opsummering",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Summarization",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1390,9 +1390,9 @@
     "version": 1
   },
   "Main_ORG_NewChat": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Start fra bunden",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Start from scratch",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1400,9 +1400,9 @@
     "version": 1
   },
   "Settings_H_Settings": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Indstillinger",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Settings",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1410,9 +1410,9 @@
     "version": 1
   },
   "Settings_T_C-More": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Yderligere",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "Additional",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1420,9 +1420,9 @@
     "version": 1
   },
   "Update_T_Hidden": {
-    "value": "Tak for din feedback! Dette vil hjælpe med at forbedre Nuvole AI!",
+    "value": "Du kan senere installere denne opdatering via RoutineHub",
     "original": {
-      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "value": "You can later install this update via the RoutineHub",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1450,7 +1450,7 @@
     "version": 1
   },
   "Chat_ORG_Icon": {
-    "value": "Skift chatikon “${Text}” til et andet",
+    "value": "Skift chat-ikonet “${Text}” til et andet",
     "original": {
       "value": "Change the chat icon “${Text}” to any other",
       "version": 1
@@ -1470,9 +1470,9 @@
     "version": 1
   },
   "Error_ORG_RestartLoad": {
-    "value": "Indstillingen er ikke blevet ændret",
+    "value": "Denne chat vil blive indlæst automatisk",
     "original": {
-      "value": "The setting has not been changed",
+      "value": "This chat will load automatically",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1480,9 +1480,9 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Indstillingen er ikke blevet ændret",
+    "value": "Skriv teksten, hvormed du vil finde chats. Navnene på chats og deres indhold vil blive tjekket (ikke følsom over for store og små bogstaver, understøtter regex).",
     "original": {
-      "value": "The setting has not been changed",
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1500,7 +1500,7 @@
     "version": 1
   },
   "Error_ORG_Change": {
-    "value": "Nuvole AI vil bruge modellen, du vælger",
+    "value": "Nuvole AI vil bruge den model, du vælger",
     "original": {
       "value": "Nuvole AI will use the model that you will select",
       "version": 1
@@ -1600,7 +1600,7 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Fortæt chattingen med Nuvole AI",
+    "value": "Fortsæt med at chatte med Nuvole AI",
     "original": {
       "value": "Continue Chatting with Nuvole AI",
       "version": 1
@@ -1620,7 +1620,7 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Vælg skrifttype-størrelse til visning af svaret (48 pixels som standard)",
+    "value": "Vælg skriftstørrelsen til visning af svaret (48 pixels som standard)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
@@ -1640,7 +1640,7 @@
     "version": 1
   },
   "Settings_N_Lite": {
-    "value": "Lysere version af Nuvole AI",
+    "value": "Lette version af Nuvole AI",
     "original": {
       "value": "Lighter Version of Nuvole AI",
       "version": 1
@@ -1660,7 +1660,7 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Vil du ikke ændre modellen?",
+    "value": "Vil du ikke skifte modellen?",
     "original": {
       "value": "Don’t want to change the model?",
       "version": 1
@@ -1670,7 +1670,7 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Chatgemning",
+    "value": "Gemning af chat",
     "original": {
       "value": "Chat Saving",
       "version": 1
@@ -1690,7 +1690,7 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Slet disse chatter uden mulighed for genoprettelse",
+    "value": "Slet disse chats uden mulighed for genoprettelse",
     "original": {
       "value": "Delete this chats without the possibility of recovery",
       "version": 1
@@ -1730,7 +1730,7 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Der opstod en fejl under notegenerering.",
+    "value": "Der opstod en fejl under note-generering.",
     "original": {
       "value": "An error occurred during note generation.",
       "version": 1
@@ -1850,7 +1850,7 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Vælg, hvad du vil gøre med elementerne fra “Delingsark”-menuen",
     "original": {
       "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
@@ -1860,9 +1860,9 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Slet alle fundne chats",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Delete All Found Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1870,9 +1870,9 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Brug hele filen? Eller visse sider?",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Use the whole file? Or certain pages?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1880,9 +1880,9 @@
     "version": 1
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Filtrer NSFW-indhold ved generering af billeder",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1890,9 +1890,9 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "NSFW-indholdsfiltrering",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1900,9 +1900,9 @@
     "version": 1
   },
   "Main_ORG_Settings": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Tilpas og tilpas Nuvole AI til perfekt at passe til dine behov",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1910,9 +1910,9 @@
     "version": 1
   },
   "Settings_ORG_Lite": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Du vil blive omdirigeret til RoutineHub-siden for Nuvole AI Lite",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1920,9 +1920,9 @@
     "version": 1
   },
   "Text_T_ShowNote": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Vis fuld note",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Show Full Note",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1930,9 +1930,9 @@
     "version": 1
   },
   "History_T_21Chats": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "21 chats",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "21 chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1940,9 +1940,9 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Er du sikker på, at du vil slette ${Count} valgte ${Chats}? Ved at klikke på knappen “Slet valgte chats” accepterer du, at de chats, du har valgt, vil blive slettet uden mulighed for genoprettelse.",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1950,9 +1950,9 @@
     "version": 1
   },
   "Settings_N_Close": {
-    "value": "Vælg, hvad du vil gøre med elementerne fra “Del ark”-menuen",
+    "value": "Luk indstillinger",
     "original": {
-      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "value": "Close Settings",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1960,7 +1960,7 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Slet alle fundne chatter uden mulighed for genoprettelse",
+    "value": "Slet alle fundne chats uden mulighed for genoprettelse",
     "original": {
       "value": "Delete all found chats without the possibility of recovery",
       "version": 1
@@ -1990,7 +1990,7 @@
     "version": 1
   },
   "Share_N_Slides": {
-    "value": "Vælg de slides, der skal bruges",
+    "value": "Vælg de dias, der skal bruges",
     "original": {
       "value": "Select the Slides to be Used",
       "version": 1
@@ -2020,9 +2020,9 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Lys",
+    "value": "Slet ikke",
     "original": {
-      "value": "Light",
+      "value": "Do Not Delete",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2030,9 +2030,9 @@
     "version": 1
   },
   "Main_ORG_5Messages": {
-    "value": "Lys",
+    "value": "5 beskeder",
     "original": {
-      "value": "Light",
+      "value": "5 messages",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2050,7 +2050,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Tilby ikke denne opdatering",
+    "value": "Tilbyder ikke denne opdatering",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
@@ -2070,7 +2070,7 @@
     "version": 1
   },
   "N_Exit": {
-    "value": "Forlad Nuvole AI",
+    "value": "Afslut Nuvole AI",
     "original": {
       "value": "Exit the Nuvole AI",
       "version": 1
@@ -2080,7 +2080,7 @@
     "version": 1
   },
   "History_H_Deletion": {
-    "value": "Er du sikker på, at du vil slette historien? Du kan kun slette de nødvendige chatter ved at vælge “Vælg og slet chatter” i det foregående menu. Ved at klikke på knappen “Slet alle chatter” accepterer du, at alle chatter vil blive slettet uden mulighed for genoprettelse.",
+    "value": "Er du sikker på, at du vil slette historien? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet chats” i den tidligere menu. Ved at klikke på knappen “Slet alle chats” accepterer du, at alle chats vil blive slettet uden mulighed for genoprettelse.",
     "original": {
       "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "For øjeblikket vil Nuvole AI bruge modellen, du vælger, men næste gang vil den ${Name}",
+    "value": "Lige nu vil Nuvole AI bruge den model, du vælger, men næste gang ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Gem nye chatter kun på anmodning",
+    "value": "Gem kun nye chats på anmodning",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2160,7 +2160,7 @@
     "version": 1
   },
   "History_T_Found": {
-    "value": "${Count chatter} fundet på anmodning “${Text}”",
+    "value": "${Count chats} fundet på anmodning “${Text}”",
     "original": {
       "value": "${Count chats} found on request “${Text}”",
       "version": 1
@@ -2180,7 +2180,7 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Ja, Send min Nuvole AI-konfiguration",
+    "value": "Ja, send min Nuvole AI-konfiguration",
     "original": {
       "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
@@ -2190,7 +2190,7 @@
     "version": 1
   },
   "Error_N_Report": {
-    "value": "Gentages fejlen for ofte?",
+    "value": "Gentager fejlen for ofte?",
     "original": {
       "value": "Is the Error Repeating Too Often?",
       "version": 1
@@ -2210,7 +2210,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMax": {
-    "value": "Du har sat værdien for høj",
+    "value": "Du har indstillet værdien for høj",
     "original": {
       "value": "You have set the value too high",
       "version": 1
@@ -2240,7 +2240,7 @@
     "version": 1
   },
   "History_N_SelectionDelete": {
-    "value": "Slet ${Count} valgte ${Chatter}",
+    "value": "Slet ${Count} valgte ${Chats}",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
@@ -2270,7 +2270,7 @@
     "version": 1
   },
   "Settings_H_NAME-Saving": {
-    "value": "Hvordan vil du gemme nye chatter?",
+    "value": "Hvordan vil du gemme nye chats?",
     "original": {
       "value": "How do you want to save new chats?",
       "version": 1
@@ -2280,7 +2280,7 @@
     "version": 1
   },
   "Settings_N_NAME-Font": {
-    "value": "Skrifttype-størrelse",
+    "value": "Skriftstørrelse",
     "original": {
       "value": "Font Size",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Du har sat værdien for lille",
+    "value": "Du har indstillet værdien for lav",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2330,7 +2330,7 @@
     "version": 1
   },
   "Error_T_Type-Error-5": {
-    "value": "Der opstod en fejl under behandling af billede.",
+    "value": "Der opstod en fejl under behandling af billedet.",
     "original": {
       "value": "An error occurred during processing the image.",
       "version": 1
@@ -2340,7 +2340,7 @@
     "version": 1
   },
   "Share_H_SummarySize": {
-    "value": "Vælg størrelsen på opsummeringen, du vil få",
+    "value": "Vælg størrelsen på opsummeringen, du vil have",
     "original": {
       "value": "Select the size of summarization you want to get",
       "version": 1
@@ -2360,7 +2360,7 @@
     "version": 1
   },
   "Install_H_Updates": {
-    "value": "Vælg, om du vil modtage notifikationer om opdateringer",
+    "value": "Vælg om du vil modtage meddelelser om opdateringer",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "Nej, Send ikke konfiguration",
+    "value": "Nej, send ikke konfiguration",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2420,7 +2420,7 @@
     "version": 1
   },
   "Chat_T_RenamingError": {
-    "value": "Chatnavnet kan ikke være en tom streng",
+    "value": "Chat-navnet kan ikke være en tom streng",
     "original": {
       "value": "The chat name cannot be an empty string",
       "version": 1
@@ -2440,9 +2440,9 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Vis chat-historie",
+    "value": "Før du vælger, vil du blive vist din fil",
     "original": {
-      "value": "Display Chat History ",
+      "value": "Before selecting, you will be shown your file",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2450,7 +2450,7 @@
     "version": 1
   },
   "History_T_5Chats": {
-    "value": "5 chatter",
+    "value": "5 chats",
     "original": {
       "value": "5 chats",
       "version": 1
@@ -2510,7 +2510,7 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "Søg blandt dine chatter",
+    "value": "Søg blandt dine chats",
     "original": {
       "value": "Search among your chats",
       "version": 1
@@ -2520,7 +2520,7 @@
     "version": 1
   },
   "Text_T_ShowThink": {
-    "value": "Vis hele tanker",
+    "value": "Vis fulde tanker",
     "original": {
       "value": "Show Full Throghts",
       "version": 1
@@ -2530,7 +2530,7 @@
     "version": 1
   },
   "History_T_SearchError": {
-    "value": "Der blev ikke fundet noget for din anmodning",
+    "value": "Intet blev fundet for din anmodning",
     "original": {
       "value": "Nothing was found for your request",
       "version": 1
@@ -2540,7 +2540,7 @@
     "version": 1
   },
   "Text_T_Exit": {
-    "value": "Nuvole AI vil afslutte sit arbejde",
+    "value": "Nuvole AI vil fuldføre sit arbejde",
     "original": {
       "value": "Nuvole AI will complete its work",
       "version": 1

@@ -1,6 +1,6 @@
 {
   "Settings_N_NAME-Search": {
-    "value": "İnternet Araması",
+    "value": "İnternet Arama",
     "original": {
       "value": "Internet Search",
       "version": 1
@@ -10,7 +10,7 @@
     "version": 1
   },
   "Error_T_Problem": {
-    "value": "Ana hatalı çalışıyor.",
+    "value": "Büyük kesinti.",
     "original": {
       "value": "Major outage.",
       "version": 1
@@ -30,7 +30,7 @@
     "version": 1
   },
   "Share_T_ErrorFile": {
-    "value": "Maalesef, Nuvole AI bu dosyayla çalışamıyor",
+    "value": "Maalesef, Nuvole AI bu dosya ile çalışamaz",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
@@ -50,7 +50,7 @@
     "version": 1
   },
   "Feedback_ORG_Email": {
-    "value": "Geliştiriciden geri bildirim alabilirsiniz",
+    "value": "Geliştiriciden geri bildirim alabileceksiniz",
     "original": {
       "value": "You will be able to get feedback from developer",
       "version": 1
@@ -60,7 +60,7 @@
     "version": 1
   },
   "Text_T_Seconds": {
-    "value": "${Num} saniye düşünüyor",
+    "value": "${Num} saniye düşündü",
     "original": {
       "value": "Thought for ${Num} seconds",
       "version": 1
@@ -70,7 +70,7 @@
     "version": 1
   },
   "Feedback_H_Type": {
-    "value": "Geri bildirim nasıl göndermek istersiniz?",
+    "value": "Geri bildirimi nasıl göndermek istiyorsunuz?",
     "original": {
       "value": "How you want to send feedback?",
       "version": 1
@@ -90,7 +90,7 @@
     "version": 1
   },
   "Settings_H_NAME-Theme": {
-    "value": "Cevapların görüntülenmesi için uygulanacak görünümü seçin",
+    "value": "Yanıtların görüntülenmesi için uygulanacak görünümü seçin",
     "original": {
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
@@ -100,7 +100,7 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Evet, Bu Sohbetin Tarihçesini Gönder",
+    "value": "Evet, Bu Sohbetin Tarihini İlet",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
@@ -130,7 +130,7 @@
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Nuvole AI ayarlarını geliştiriciyle paylaşmak ister misiniz?",
+    "value": "Geliştirici ile bir Nuvole AI yapılandırması iletmek ister misiniz?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
@@ -180,7 +180,7 @@
     "version": 1
   },
   "Settings_T_ID-Save-False": {
-    "value": "Sadece İstek Üzerinde",
+    "value": "Sadece İstek Üzerine",
     "original": {
       "value": "Only on Request",
       "version": 1
@@ -200,7 +200,7 @@
     "version": 1
   },
   "Update_H_VersionCount": {
-    "value": "${Num} sürümünden beri ${Count} sürüm yayınlandı",
+    "value": "${Count} sürüm ${Num} sürümünden bu yana yayınlandı",
     "original": {
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
@@ -230,7 +230,7 @@
     "version": 1
   },
   "Generation_H_H": {
-    "value": "Cihaz yönetim uyarısı!",
+    "value": "Cihaz yönetimi uyarısı!",
     "original": {
       "value": "Device management alert!",
       "version": 1
@@ -240,9 +240,9 @@
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Cihaz yönetim uyarısı!",
+    "value": "Nuvole AI ile tüm sohbet geçmişini geri getirme olanağı olmadan sil",
     "original": {
-      "value": "Device management alert!",
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -260,7 +260,7 @@
     "version": 1
   },
   "Update_N_Details": {
-    "value": "Daha Detaylı Değişiklik Kaydı Görüntüle",
+    "value": "Daha Ayrıntılı Değişiklik Günlüğünü Görüntüle",
     "original": {
       "value": "View More Detailed Changelog",
       "version": 1
@@ -270,7 +270,7 @@
     "version": 1
   },
   "Install_N_YesMenu": {
-    "value": "Her Yeni Çalıştırmada Ana Menüyü Aç",
+    "value": "Her Yeni Çalıştırma ile Ana Menüyü Aç",
     "original": {
       "value": "Open the Main Menu with Each New Running",
       "version": 1
@@ -300,7 +300,7 @@
     "version": 1
   },
   "Share_H_Slides": {
-    "value": "Kullanmak istediğiniz sunumları seçin",
+    "value": "Kullanmak istediğiniz slaytları seçin",
     "original": {
       "value": "Select the slides you want to use",
       "version": 1
@@ -360,7 +360,7 @@
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Yeni Bir Sohbet Oluştur",
+    "value": "Yeni Sohbet Oluştur",
     "original": {
       "value": "Create a New Chat",
       "version": 1
@@ -380,7 +380,7 @@
     "version": 1
   },
   "Share_T_ErrorVideo": {
-    "value": "Maalesef, Nuvole AI bu videoyla çalışamıyor",
+    "value": "Maalesef, Nuvole AI bu video ile çalışamaz",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
@@ -400,7 +400,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Bu sohbeti geri alınamaz şekilde sil",
+    "value": "Bu sohbeti geri getirme olanağı olmadan sil",
     "original": {
       "value": "Delete this chat without the possibility of recovery",
       "version": 1
@@ -420,7 +420,7 @@
     "version": 1
   },
   "Settings_H_NAME-Search": {
-    "value": "Nuvole AI’nin gerektiğinde İnternet’ten bilgi araması yapmasını ister misiniz?",
+    "value": "Nuvole AI'nin gerekirse internetten bilgi aramasını ister misiniz?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
       "version": 1
@@ -430,7 +430,7 @@
     "version": 1
   },
   "Settings_N_ImagwSFW-False": {
-    "value": "Resim Oluştururken NSFW İçeriği Filtreleme",
+    "value": "Resim Oluştururken NSFW İçeriğini Filtreleme",
     "original": {
       "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
@@ -460,7 +460,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Nuvole AI ile konuşmayı devam ettir",
+    "value": "Nuvole AI ile konuşmaya devam et",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -470,7 +470,7 @@
     "version": 1
   },
   "Share_H_SiteType": {
-    "value": "Bu sitesi nasıl kullanmak istersiniz?",
+    "value": "Bu site ile ne yapmak istiyorsunuz?",
     "original": {
       "value": "What do you want to do with this site?",
       "version": 1
@@ -550,7 +550,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "AI ile İstekleri İyileştirme",
+    "value": "AI ile İstemi Geliştirme",
     "original": {
       "value": "Do Not Improve Prompt with AI",
       "version": 1
@@ -560,7 +560,7 @@
     "version": 1
   },
   "Settings_T_C-Next": {
-    "value": "Ne yapmak istersiniz?",
+    "value": "Sonra ne yapmak istiyorsunuz?",
     "original": {
       "value": "What do you want to do next?",
       "version": 1
@@ -580,7 +580,7 @@
     "version": 1
   },
   "Settings_T_C-Share": {
-    "value": "Paylaşma Listesi",
+    "value": "Paylaşım Sayfası",
     "original": {
       "value": "Share Sheet",
       "version": 1
@@ -590,7 +590,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Nuvole AI ile sohbetlerinizi tarayın, arayın, görüntüleyin ve devam ettirin",
+    "value": "Nuvole AI ile sohbetlerinizi gözden geçirin, arayın, görüntüleyin ve devam ettirin",
     "original": {
       "value": "Browse, search, view and continue your chats with Nuvole AI",
       "version": 1
@@ -600,7 +600,7 @@
     "version": 1
   },
   "History_ORG_BackHistory": {
-    "value": "Tarihçe'ye Dön",
+    "value": "Geçmişe Dön",
     "original": {
       "value": "Return to History",
       "version": 1
@@ -610,7 +610,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionStop": {
-    "value": "Sohbeti Kaydet ve Geri Dön",
+    "value": "Sohbeti kaydet ve geri dön",
     "original": {
       "value": "Save chat and go back",
       "version": 1
@@ -630,7 +630,7 @@
     "version": 1
   },
   "Share_H_FileType": {
-    "value": "Bu dosyayı nasıl kullanmak istersiniz?",
+    "value": "Bu dosya ile ne yapmak istiyorsunuz?",
     "original": {
       "value": "What do you want to do with this file?",
       "version": 1
@@ -650,7 +650,7 @@
     "version": 1
   },
   "Share_T_ErrorSite": {
-    "value": "Maalesef, Nuvole AI bu site ile çalışamıyor",
+    "value": "Maalesef, Nuvole AI bu site ile çalışamaz",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
@@ -660,7 +660,7 @@
     "version": 1
   },
   "History_N_Search": {
-    "value": "Arama",
+    "value": "Ara",
     "original": {
       "value": "Search",
       "version": 1
@@ -690,9 +690,9 @@
     "version": 1
   },
   "Share_T_SiteSize": {
-    "value": "${Seconds} önce",
+    "value": "Siteyi ${Size} özetle",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Make a ${Size} summarization of the site",
       "version": 1
     },
     "translatedBy": "ai",
@@ -700,9 +700,9 @@
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "${Seconds} önce",
+    "value": "Yeni bir sohbet oluşturulacak",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "New chat will be created",
       "version": 1
     },
     "translatedBy": "ai",
@@ -710,9 +710,9 @@
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "${Seconds} önce",
+    "value": "Bu sohbete hangi simgeyi vermek istiyorsunuz (sadece bir emoji kullanabilirsiniz)?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -720,9 +720,9 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "${Seconds} önce",
+    "value": "Nuvole AI ile ilgili herhangi bir sorun, soru veya fikir?",
     "original": {
-      "value": "${Seconds} ago",
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -740,7 +740,7 @@
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Tüm sunumu kullanmak ister misiniz? Veya belirli sayfalar?",
+    "value": "Tüm sunumu kullanmak mı istiyorsunuz? Yoksa belirli slaytlar mı?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
@@ -750,7 +750,7 @@
     "version": 1
   },
   "Error_N_Restart": {
-    "value": "Nuvole AI’yi Yeniden Başlat",
+    "value": "Nuvole AI'yi Yeniden Başlat",
     "original": {
       "value": "Restart Nuvole AI",
       "version": 1
@@ -770,7 +770,7 @@
     "version": 1
   },
   "Settings_ORG_Telegram": {
-    "value": "Nuvole AI ve diğer projeler hakkında haber almak için resmi MIKL Kanalına abone olun.",
+    "value": "Nuvole AI ve diğer projeler hakkında haberler almak için resmi MIKL kanalına abone olun.",
     "original": {
       "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
@@ -830,7 +830,7 @@
     "version": 1
   },
   "Settings_T_ID-Theme-1": {
-    "value": "Karanlık",
+    "value": "Koyu",
     "original": {
       "value": "Dark",
       "version": 1
@@ -850,7 +850,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Bu Oturumu İçin AI Modelini Değiştir ve İsteği Tekrar Yap",
+    "value": "Bu Oturum İçin AI Modelini Değiştir ve İsteği Tekrarla",
     "original": {
       "value": "Change the AI Model for This Session Only and Repeat Request",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "H_ModelUpdate": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Daha önce seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
@@ -870,9 +870,9 @@
     "version": 1
   },
   "Install_N_NoMenu": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "İsteği Girmek İçin Açmadan",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Without Opening to Enter the Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -880,9 +880,9 @@
     "version": 1
   },
   "Chat_T_ChangingError": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Sadece emojiler simge olarak kullanılabilir",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Only emojis can be used as an icon",
       "version": 1
     },
     "translatedBy": "ai",
@@ -890,9 +890,9 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Hayır, Tarihi İletme",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "No, Not Transmit the History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -900,9 +900,9 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Seç ve Sohbetleri Sil",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Select and Delete Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -910,9 +910,9 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Tüm Sohbetleri Sil",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Delete All Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -920,9 +920,9 @@
     "version": 1
   },
   "History_T_1Chats": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "1 sohbet",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "1 chat",
       "version": 1
     },
     "translatedBy": "ai",
@@ -930,9 +930,9 @@
     "version": 1
   },
   "Error_T_Type-Error-3": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Metin oluşturulurken bir hata oluştu.",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "An error occurred during text generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -940,9 +940,9 @@
     "version": 1
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "AI ile İstemi Geliştirme",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Improving the Prompt Using AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -950,9 +950,9 @@
     "version": 1
   },
   "Settings_H_NAME-Loading": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Nuvole AI çalıştırıldığında yeni bir sohbet oluşturmak mı yoksa sonuncusunu yüklemek ve devam etmek mi istiyorsunuz?",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -960,9 +960,9 @@
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Sohbetleri kaydet ve geri dön",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Save chats and go back",
       "version": 1
     },
     "translatedBy": "ai",
@@ -970,9 +970,9 @@
     "version": 1
   },
   "Chat_N_Icon": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Sohbet Simgesini Değiştir",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Change Chat Icon",
       "version": 1
     },
     "translatedBy": "ai",
@@ -980,9 +980,9 @@
     "version": 1
   },
   "Text_T_Show": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Tam Mesajı Göster",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Show Full Message",
       "version": 1
     },
     "translatedBy": "ai",
@@ -990,9 +990,9 @@
     "version": 1
   },
   "Update_N_Install": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Yeni ${Num} Sürümünü Yükle",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Install a New ${Num} Version",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1000,9 +1000,9 @@
     "version": 1
   },
   "Install_H_Model": {
-    "value": "Seçtiğiniz ${Name} modeli artık mevcut değil. Hangi AI modelini kullanmak istersiniz?",
+    "value": "Hangi AI modelini kullanmak istersiniz?",
     "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1020,7 +1020,7 @@
     "version": 1
   },
   "Settings_N_NAME-Loading": {
-    "value": "Çalıştırırken Son Sohbeti Yükle",
+    "value": "Son Sohbeti Çalıştırırken Yükle",
     "original": {
       "value": "Last Chat Load When Running",
       "version": 1
@@ -1050,7 +1050,7 @@
     "version": 1
   },
   "Generation_H_Note": {
-    "value": "Nuvole AI ile bir not oluşturup kaydetmek ister misiniz “${Title}”?",
+    "value": "Nuvole AI ile “${Title}” adlı bir not oluşturmak ve kaydetmek ister misiniz?",
     "original": {
       "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
       "version": 1
@@ -1060,7 +1060,7 @@
     "version": 1
   },
   "Settings_H_NAME-History": {
-    "value": "Oturum geçmişini görüntülemek ister misiniz?",
+    "value": "Oturum geçmişini görüntülemek istediğinizi seçin",
     "original": {
       "value": "Select whether you want to display the session history",
       "version": 1
@@ -1070,7 +1070,7 @@
     "version": 1
   },
   "Settings_H_NAME-Lang": {
-    "value": "Nuvole AI ile çalışmak için sizin için rahat olan bir dil seçin",
+    "value": "Nuvole AI ile çalışmak için size uygun bir dil seçin",
     "original": {
       "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
       "version": 1
@@ -1080,7 +1080,7 @@
     "version": 1
   },
   "Settings_T_C-Request": {
-    "value": "İstek İşleniyor",
+    "value": "İsteğin İşlenmesi",
     "original": {
       "value": "Processing of the Request",
       "version": 1
@@ -1120,7 +1120,7 @@
     "version": 1
   },
   "Install_H_Main": {
-    "value": "Nuvole AI’yi çalıştırırken Ana Menüyü açmak ister misiniz?",
+    "value": "Nuvole AI çalıştırıldığında Ana Menüyü açmak ister misiniz?",
     "original": {
       "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
@@ -1150,7 +1150,7 @@
     "version": 1
   },
   "Feedback_H_Input": {
-    "value": "Karşılaştığınız sorunu ayrıntılı olarak açıklayın, Nuvole AI’yi nasıl iyileştirebileceğiniz konusunda sorularınız veya fikirlerinizi de ekleyin",
+    "value": "Karşılaştığınız sorunu, sorularınızı veya Nuvole AI'yi iyileştirmek için fikirlerinizi ayrıntılı olarak açıklayın",
     "original": {
       "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
       "version": 1
@@ -1160,7 +1160,7 @@
     "version": 1
   },
   "Settings_T_Stop": {
-    "value": "Bu parametrenin ayarlarını değiştirmek istemiyorsunuz?",
+    "value": "Bu parametrenin ayarlarını değiştirmek istemiyor musunuz?",
     "original": {
       "value": "Don’t want to change the settings of this parameter?",
       "version": 1
@@ -1180,7 +1180,7 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "İnternet’ten Otomatik Olarak Bilgi Ara",
+    "value": "İnternetten Bilgi Aramayı Otomatikleştir",
     "original": {
       "value": "Automatically Search for Information on the Internet",
       "version": 1
@@ -1200,7 +1200,7 @@
     "version": 1
   },
   "History_H_SearchDeletion": {
-    "value": "${Chats} bulunan ${Count}’yi silmek istediğinizden emin misiniz? Önceki menüde “Bulunan sohbetleri seç ve sil” seçeneğini seçerek sadece gerekli sohbetleri silebilirsiniz. “Bulunan tüm sohbetleri sil” düğmesine tıklayarak, tüm bulunan sohbetlerin geri alınamaz şekilde silineceğini kabul edersiniz.",
+    "value": "${Count} bulunan ${Chats} silmek istediğinizden emin misiniz? Sadece gerekli sohbetleri silmek için önceki menüde “Seç ve bulunan sohbetleri sil” seçeneğini seçebilirsiniz. “Tüm bulunan sohbetleri sil” düğmesine tıkladığınızda, tüm bulunan sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -1230,7 +1230,7 @@
     "version": 1
   },
   "Install_ORG_YesUpdates": {
-    "value": "Nuvole AI kullanım deneyiminizi iyileştirmek için önerilir",
+    "value": "Nuvole AI kullanım deneyimi için önerilir",
     "original": {
       "value": "Recommended for a better experience of Nuvole AI usage",
       "version": 1
@@ -1250,7 +1250,7 @@
     "version": 1
   },
   "Settings_H_NAME-ImagePlus": {
-    "value": "AI ile resim oluşturmak için istediğinizi iyileştirmek ister misiniz?",
+    "value": "Resim oluştururken istemi geliştirmek istediğinizi seçin",
     "original": {
       "value": "Select whether you want to improve prompt to generate images with AI",
       "version": 1
@@ -1270,7 +1270,7 @@
     "version": 1
   },
   "Chat_ORG_Rename": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "“${Text}” sohbet adını başka bir adla değiştir",
     "original": {
       "value": "Change the chat name “${Text}” to any other",
       "version": 1
@@ -1280,9 +1280,9 @@
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Arama Sorgusunu Değiştir",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Change Search Query",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1290,9 +1290,9 @@
     "version": 1
   },
   "Feedback_T_End": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Geri bildiriminiz için teşekkürler! Bu, Nuvole AI'yi iyileştirmeye yardımcı olacak!",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1300,9 +1300,9 @@
     "version": 1
   },
   "Error_H_Error": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Hata",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Error",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1310,9 +1310,9 @@
     "version": 1
   },
   "Share_N_Summary": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Özet Oluştur",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "Make a Summarization",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1320,9 +1320,9 @@
     "version": 1
   },
   "Chat_H_Renaming": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Bu sohbete hangi adı vermek istiyorsunuz?",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "What name do you want to give this chat?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1330,9 +1330,9 @@
     "version": 1
   },
   "Text_T_History": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "“${Name}” sohbetinin geçmişi yüklendi.",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "The history of “${Name}” chat is loaded.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1340,9 +1340,9 @@
     "version": 1
   },
   "Feedback_ORG_YesConfig": {
-    "value": "Sohbet adını “${Text}”’den başka bir ada değiştir",
+    "value": "Bu, sorununuz varsa daha iyi bir anlayış sağlayabilir",
     "original": {
-      "value": "Change the chat name “${Text}” to any other",
+      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1350,7 +1350,7 @@
     "version": 1
   },
   "History_N_SearchSelect": {
-    "value": "Bulunan Sohbetleri Seç ve Sil",
+    "value": "Seç ve Bulunan Sohbetleri Sil",
     "original": {
       "value": "Select and Delete Found Chats",
       "version": 1
@@ -1360,7 +1360,7 @@
     "version": 1
   },
   "Share_H_Input": {
-    "value": "Ne sormak istersiniz?",
+    "value": "Ne sormak istiyorsunuz?",
     "original": {
       "value": "What do you want to ask?",
       "version": 1
@@ -1370,7 +1370,7 @@
     "version": 1
   },
   "Install_H_Learn": {
-    "value": "Yükleme işlemi tamamlandı!\nNuvole AI ve özellikleri hakkında daha fazla bilgi almak ister misiniz?",
+    "value": "Kurulum işlemi tamamlandı!\nNuvole AI ve özellikleri hakkında daha fazla bilgi edinmek ister misiniz?",
     "original": {
       "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
       "version": 1
@@ -1380,7 +1380,7 @@
     "version": 1
   },
   "Settings_T_ID-Share-1": {
-    "value": "Özetleme",
+    "value": "Özet",
     "original": {
       "value": "Summarization",
       "version": 1
@@ -1390,7 +1390,7 @@
     "version": 1
   },
   "Main_ORG_NewChat": {
-    "value": "Başlangıçtan başla",
+    "value": "Sıfırdan Başla",
     "original": {
       "value": "Start from scratch",
       "version": 1
@@ -1430,7 +1430,7 @@
     "version": 1
   },
   "Error_ORG_ChangeStop": {
-    "value": "${Name} kullanarak isteği tekrar yap",
+    "value": "${Name} kullanarak isteği tekrarla",
     "original": {
       "value": "Repeat request using ${Name}",
       "version": 1
@@ -1440,7 +1440,7 @@
     "version": 1
   },
   "Error_T_Type-Error-2": {
-    "value": "Düşünme işlemi sırasında bir hata oluştu.",
+    "value": "Düşünme süreci sırasında bir hata oluştu.",
     "original": {
       "value": "An error occurred during the thinking process.",
       "version": 1
@@ -1450,7 +1450,7 @@
     "version": 1
   },
   "Chat_ORG_Icon": {
-    "value": "Sohbet ikonunu “${Text}”’den başka bir ikona değiştir",
+    "value": "“${Text}” sohbet simgesini başka bir simge ile değiştir",
     "original": {
       "value": "Change the chat icon “${Text}” to any other",
       "version": 1
@@ -1480,7 +1480,7 @@
     "version": 1
   },
   "History_H_Search": {
-    "value": "Sohbetleri bulmak için yazdığınız metni yazın. Sohbet adları ve içeriği kontrol edilecek (büyük/küçük harf duyarsız, regex destekli).",
+    "value": "Sohbetleri bulmak için metni yazın. Sohbetlerin adları ve içeriği kontrol edilecek (büyük/küçük harf duyarlı değil, regex destekler).",
     "original": {
       "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
       "version": 1
@@ -1490,7 +1490,7 @@
     "version": 1
   },
   "Feedback_N_Server": {
-    "value": "Anonim",
+    "value": "Anonim olarak",
     "original": {
       "value": "Anonymously",
       "version": 1
@@ -1500,7 +1500,7 @@
     "version": 1
   },
   "Error_ORG_Change": {
-    "value": "Nuvole AI seçtiğiniz modeli kullanacak",
+    "value": "Nuvole AI, seçeceğiniz modeli kullanacak",
     "original": {
       "value": "Nuvole AI will use the model that you will select",
       "version": 1
@@ -1510,7 +1510,7 @@
     "version": 1
   },
   "Text_T_New": {
-    "value": "Merhaba! Nasıl yardımcı olabilirim?",
+    "value": "Merhaba! Size nasıl yardımcı olabilirim?",
     "original": {
       "value": "Hello! How can I help you?",
       "version": 1
@@ -1530,7 +1530,7 @@
     "version": 1
   },
   "Settings_H_NAME-Summary": {
-    "value": "Almak istediğiniz özetleme boyutunu seçin",
+    "value": "Almak istediğiniz özetin boyutunu seçin",
     "original": {
       "value": "Select the size of summarization you want to receive",
       "version": 1
@@ -1550,7 +1550,7 @@
     "version": 1
   },
   "Share_ORG_Slides": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Seçmeden önce sunumunuz gösterilecek",
     "original": {
       "value": "Before selecting, you will be shown your presentation",
       "version": 1
@@ -1560,9 +1560,9 @@
     "version": 1
   },
   "Main_N_History": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Geçmiş",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1570,9 +1570,9 @@
     "version": 1
   },
   "Settings_N_NAME-Summary": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Özet Boyutu",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Summarization Size",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1580,9 +1580,9 @@
     "version": 1
   },
   "Settings_T_C-Html": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Yanıtı Görüntüleme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Displaying the Answer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1590,9 +1590,9 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Sohbet Geçmişini Görüntüleme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Do Not Display Chat History",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1600,9 +1600,9 @@
     "version": 1
   },
   "Main_N_Continue": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Nuvole AI ile Sohbete Devam Et",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Continue Chatting with Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1610,9 +1610,9 @@
     "version": 1
   },
   "Settings_N_NAME-Voice": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "İsteği Girme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Entering a Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1620,9 +1620,9 @@
     "version": 1
   },
   "Settings_H_NAME-Font": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Yanıtı görüntülemek için yazı tipi boyutunu seçin (varsayılan olarak 48 piksel)",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the font size to display the response (48 pixels by default)",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1630,9 +1630,9 @@
     "version": 1
   },
   "Settings_N_NAME-Lang": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Nuvole AI Dili",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Nuvole AI Language",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1640,9 +1640,9 @@
     "version": 1
   },
   "Settings_N_Lite": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Nuvole AI'nin Daha Hafif Sürümü",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1650,9 +1650,9 @@
     "version": 1
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "AI ile İstemi Geliştir",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1660,9 +1660,9 @@
     "version": 1
   },
   "Error_T_Changing": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Modeli değiştirmek istemiyor musunuz?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t want to change the model?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1670,9 +1670,9 @@
     "version": 1
   },
   "Settings_N_NAME-Saving": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Sohbet Kaydetme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Chat Saving",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1680,9 +1680,9 @@
     "version": 1
   },
   "Install_H_Input": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "AI için isteği girmek için en uygun yolu seçin",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1690,9 +1690,9 @@
     "version": 1
   },
   "History_ORG_SelectionDelete": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Bu sohbetleri geri getirme olanağı olmadan sil",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1700,9 +1700,9 @@
     "version": 1
   },
   "Install_T_Model": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Önerilen",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Recomended",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1710,9 +1710,9 @@
     "version": 1
   },
   "Settings_T_ID-Voice-True": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Sesle",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "With Voice",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1720,9 +1720,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-False": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Çalıştırırken Açma",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Don’t Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1730,9 +1730,9 @@
     "version": 1
   },
   "Error_T_Type-Error-6": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Not oluşturulurken bir hata oluştu.",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1740,9 +1740,9 @@
     "version": 1
   },
   "Share_N_AllPre": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Tüm Sunumu Kullan",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Use the Whole Presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1750,9 +1750,9 @@
     "version": 1
   },
   "Error_N_Repeat": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "İsteği Tekrarla",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Repeat Request",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1760,9 +1760,9 @@
     "version": 1
   },
   "Update_T_2Updates": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "2 güncelleme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "2 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1770,9 +1770,9 @@
     "version": 1
   },
   "Settings_T_ID-Main-True": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Çalıştırırken Aç",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Open When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1780,9 +1780,9 @@
     "version": 1
   },
   "Update_H_Hidden": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "${Num} güncellemesi gizli",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Update ${Num} is hidden",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1790,9 +1790,9 @@
     "version": 1
   },
   "Feedback_N_Email": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "E-posta Kullanarak",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Using Email",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1800,9 +1800,9 @@
     "version": 1
   },
   "ORG_Exit": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Hoşçakal!",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Goodbye!",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1810,9 +1810,9 @@
     "version": 1
   },
   "Settings_T_C-General": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Genel Ayarlar",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "General Settings",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1820,9 +1820,9 @@
     "version": 1
   },
   "Update_T_2Changes": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "2 değişiklik",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "2 changes",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1830,9 +1830,9 @@
     "version": 1
   },
   "Update_T_21Updates": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "21 güncelleme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "21 updates",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1840,9 +1840,9 @@
     "version": 1
   },
   "Chat_H_Deletion": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "“${Text}” sohbetini silmek istediğinizden emin misiniz? “Sohbeti sil” düğmesine tıkladığınızda, bu sohbetin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1850,9 +1850,9 @@
     "version": 1
   },
   "Settings_H_NAME-Share": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "“Paylaşım Sayfası” menüsünden öğelerle ne yapmak istediğinizi seçin",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1860,9 +1860,9 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Tüm Bulunan Sohbetleri Sil",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Delete All Found Chats",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1870,9 +1870,9 @@
     "version": 1
   },
   "Share_H_BigFile": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Tüm dosyayı kullanmak mı istiyorsunuz? Yoksa belirli sayfalar mı?",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Use the whole file? Or certain pages?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1880,9 +1880,9 @@
     "version": 1
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "Resim Oluştururken NSFW İçeriğini Filtrele",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1890,9 +1890,9 @@
     "version": 1
   },
   "Settings_N_NAME-ImageSFW": {
-    "value": "Seçmeden önce sunumunuz gösterilecektir",
+    "value": "NSFW İçeriği Filtreleme",
     "original": {
-      "value": "Before selecting, you will be shown your presentation",
+      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1900,7 +1900,7 @@
     "version": 1
   },
   "Main_ORG_Settings": {
-    "value": "Nuvole AI’yi mükemmel bir şekilde sizin için uyarlayın ve özelleştirin",
+    "value": "Nuvole AI'yi ihtiyaçlarınıza mükemmel uyacak şekilde değiştirin ve özelleştirin",
     "original": {
       "value": "Modify and customize Nuvole AI to perfectly fit your needs",
       "version": 1
@@ -1940,7 +1940,7 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "${Chats} seçilen ${Count}’yi silmek istediğinizden emin misiniz? “Seçilen sohbetleri sil” düğmesine tıklayarak, seçtiğiniz sohbetlerin geri alınamaz şekilde silineceğini kabul edersiniz.",
+    "value": "${Count} seçilen ${Chats} silmek istediğinizden emin misiniz? “Seçilen sohbetleri sil” düğmesine tıkladığınızda, seçtiğiniz sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
     "original": {
       "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
       "version": 1
@@ -1960,7 +1960,7 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Geri alınamaz şekilde tüm bulunan sohbetleri sil",
+    "value": "Tüm bulunan sohbetleri geri getirme olanağı olmadan sil",
     "original": {
       "value": "Delete all found chats without the possibility of recovery",
       "version": 1
@@ -1980,7 +1980,7 @@
     "version": 1
   },
   "Error_N_Change": {
-    "value": "AI Modelini Değiştir ve İsteği Tekrar Yap",
+    "value": "AI Modelini Değiştir ve İsteği Tekrarla",
     "original": {
       "value": "Change the AI Model and Repeat Request",
       "version": 1
@@ -1990,7 +1990,7 @@
     "version": 1
   },
   "Share_N_Slides": {
-    "value": "Kullanılacak Sunumları Seç",
+    "value": "Kullanılacak Slaytları Seç",
     "original": {
       "value": "Select the Slides to be Used",
       "version": 1
@@ -2000,7 +2000,7 @@
     "version": 1
   },
   "Settings_N_Telegram": {
-    "value": "MIKL’nin Telegram Kanalına Abone Ol",
+    "value": "MIKL'in Telegram Kanalına Abone Ol",
     "original": {
       "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
@@ -2020,9 +2020,9 @@
     "version": 1
   },
   "History_N_DeletionStop": {
-    "value": "Açık",
+    "value": "Silme",
     "original": {
-      "value": "Light",
+      "value": "Do Not Delete",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2040,7 +2040,7 @@
     "version": 1
   },
   "Text_T_Else": {
-    "value": "Belki de başka bir şey?",
+    "value": "Belki başka bir şey?",
     "original": {
       "value": "Maybe something else?",
       "version": 1
@@ -2050,7 +2050,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Bu Güncellemeyi Sunma",
+    "value": "Bu Güncellemeyi Önerme",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
@@ -2070,7 +2070,7 @@
     "version": 1
   },
   "N_Exit": {
-    "value": "Nuvole AI’den Çıkış Yap",
+    "value": "Nuvole AI'den Çık",
     "original": {
       "value": "Exit the Nuvole AI",
       "version": 1
@@ -2080,7 +2080,7 @@
     "version": 1
   },
   "History_H_Deletion": {
-    "value": "Tarihçeyi silmek istediğinizden emin misiniz? Önceki menüde “Sohbetleri seç ve sil” seçeneğini seçerek sadece gerekli sohbetleri silebilirsiniz. “Tüm sohbetleri sil” düğmesine tıklayarak, tüm sohbetlerin geri alınamaz şekilde silineceğini kabul edersiniz.",
+    "value": "Geçmişi silmek istediğinizden emin misiniz? Sadece gerekli sohbetleri silmek için önceki menüde “Seç ve sohbetleri sil” seçeneğini seçebilirsiniz. “Tüm sohbetleri sil” düğmesine tıkladığınızda, tüm sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
     "original": {
       "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
@@ -2110,7 +2110,7 @@
     "version": 1
   },
   "Share_H_VideoType": {
-    "value": "Bu videoyu nasıl kullanmak istersiniz?",
+    "value": "Bu video ile ne yapmak istiyorsunuz?",
     "original": {
       "value": "What do you want to do with this video?",
       "version": 1
@@ -2120,7 +2120,7 @@
     "version": 1
   },
   "Error_ORG_Replace": {
-    "value": "Şu anda Nuvole AI seçtiğiniz modeli kullanacak, ancak sonraki sefer ${Name}",
+    "value": "Şu anda Nuvole AI, seçeceğiniz modeli kullanacak, ancak bir sonraki ${Name}",
     "original": {
       "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
@@ -2130,7 +2130,7 @@
     "version": 1
   },
   "Error_T_Type-Error-1": {
-    "value": "İsteği işlerken bir hata oluştu.",
+    "value": "İsteğin işlenmesi sırasında bir hata oluştu.",
     "original": {
       "value": "An error occurred during processing the request.",
       "version": 1
@@ -2140,7 +2140,7 @@
     "version": 1
   },
   "Settings_N_Saving-False": {
-    "value": "Yeni Sohbetleri Sadece İstek Üzerinde Kaydet",
+    "value": "Sadece İstek Üzerine Yeni Sohbetleri Kaydet",
     "original": {
       "value": "Save New Chats Only on Request",
       "version": 1
@@ -2160,7 +2160,7 @@
     "version": 1
   },
   "History_T_Found": {
-    "value": "“${Text}” isteği için ${Count chats} bulundu",
+    "value": "${Count} sohbet “${Text}” isteği üzerine bulundu",
     "original": {
       "value": "${Count chats} found on request “${Text}”",
       "version": 1
@@ -2170,7 +2170,7 @@
     "version": 1
   },
   "Feedback_H_History": {
-    "value": "Bu sohbeti, mesajlarınız ve AI yanıtlarınız içeren geliştiriciyle paylaşmak ister misiniz?",
+    "value": "Bu sohbeti geliştirici ile paylaşmak ister misiniz?",
     "original": {
       "value": "Do you want to share this chat containing your messages and AI responses with developer?",
       "version": 1
@@ -2180,7 +2180,7 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Evet, Nuvole AI Ayarlarımı Gönder",
+    "value": "Evet, Nuvole AI Yapılandırmamı İlet",
     "original": {
       "value": "Yes, Transmit My Nuvole AI Config",
       "version": 1
@@ -2190,7 +2190,7 @@
     "version": 1
   },
   "Error_N_Report": {
-    "value": "Hata çok sık tekrar ediyor mu?",
+    "value": "Hata Çok Sık Tekrar Ediyor mu?",
     "original": {
       "value": "Is the Error Repeating Too Often?",
       "version": 1
@@ -2240,7 +2240,7 @@
     "version": 1
   },
   "History_N_SelectionDelete": {
-    "value": "${Chats} seçilen ${Count}’yi sil",
+    "value": "${Count} Seçilen ${Chats} Sil",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
@@ -2260,7 +2260,7 @@
     "version": 1
   },
   "History_N_Back": {
-    "value": "Tarihçeyi Kapat",
+    "value": "Geçmişi Kapat",
     "original": {
       "value": "Close History",
       "version": 1
@@ -2270,7 +2270,7 @@
     "version": 1
   },
   "Settings_H_NAME-Saving": {
-    "value": "Yeni sohbetleri nasıl kaydetmek istersiniz?",
+    "value": "Yeni sohbetleri nasıl kaydetmek istiyorsunuz?",
     "original": {
       "value": "How do you want to save new chats?",
       "version": 1
@@ -2290,7 +2290,7 @@
     "version": 1
   },
   "Share_T_ErrorExtension": {
-    "value": "Maalesef, Nuvole AI .{Extension} uzantılı dosyalarla çalışamıyor",
+    "value": "Maalesef, Nuvole AI .{Extension} dosyaları ile çalışamaz",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
       "version": 1
@@ -2300,7 +2300,7 @@
     "version": 1
   },
   "Settings_T_FontErrorMin": {
-    "value": "Değeri çok küçük ayarladınız",
+    "value": "Değeri çok düşük ayarladınız",
     "original": {
       "value": "You have set the value too small",
       "version": 1
@@ -2320,7 +2320,7 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "Aynı modeli kullanarak isteği tekrar yap",
+    "value": "Aynı Modeli Kullanarak İsteği Tekrarla",
     "original": {
       "value": "Repeat Request Using the Same Model",
       "version": 1
@@ -2330,7 +2330,7 @@
     "version": 1
   },
   "Error_T_Type-Error-5": {
-    "value": "Resmi işlerken bir hata oluştu.",
+    "value": "Resim işlenirken bir hata oluştu.",
     "original": {
       "value": "An error occurred during processing the image.",
       "version": 1
@@ -2340,7 +2340,7 @@
     "version": 1
   },
   "Share_H_SummarySize": {
-    "value": "Almak istediğiniz özetleme boyutunu seçin",
+    "value": "Almak istediğiniz özetin boyutunu seçin",
     "original": {
       "value": "Select the size of summarization you want to get",
       "version": 1
@@ -2360,7 +2360,7 @@
     "version": 1
   },
   "Install_H_Updates": {
-    "value": "Güncelleme bildirimlerini almak ister misiniz?",
+    "value": "Güncellemeler hakkında bildirim almak istediğinizi seçin",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
       "version": 1
@@ -2370,7 +2370,7 @@
     "version": 1
   },
   "Feedback_ORG_YesHistory": {
-    "value": "Bu, sorununuzu daha iyi anlamanıza yardımcı olabilir",
+    "value": "Bu, sorununuz varsa daha iyi bir anlayış sağlayabilir",
     "original": {
       "value": "This may give a better understanding of your problem",
       "version": 1
@@ -2390,7 +2390,7 @@
     "version": 1
   },
   "Feedback_N_NoConfig": {
-    "value": "Hayır, Ayarları Gönderme",
+    "value": "Hayır, Yapılandırmayı İletme",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
@@ -2440,7 +2440,7 @@
     "version": 1
   },
   "Share_ORG_Pages": {
-    "value": "Seçmeden önce dosyanız gösterilecektir",
+    "value": "Seçmeden önce dosyanız gösterilecek",
     "original": {
       "value": "Before selecting, you will be shown your file",
       "version": 1
@@ -2490,7 +2490,7 @@
     "version": 1
   },
   "Share_T_ErrorPre": {
-    "value": "Maalesef, Nuvole AI bu sunumla çalışamıyor",
+    "value": "Maalesef, Nuvole AI bu sunum ile çalışamaz",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
       "version": 1
@@ -2500,7 +2500,7 @@
     "version": 1
   },
   "Settings_N_Search-False": {
-    "value": "İnternet’ten Bilgi Ara",
+    "value": "İnternetten Bilgi Arama",
     "original": {
       "value": "Do Not Look for Information on the Internet",
       "version": 1
@@ -2510,9 +2510,9 @@
     "version": 1
   },
   "History_ORG_Search": {
-    "value": "İnternet’ten Bilgi Ara",
+    "value": "Sohbetleriniz arasında ara",
     "original": {
-      "value": "Do Not Look for Information on the Internet",
+      "value": "Search among your chats",
       "version": 1
     },
     "translatedBy": "ai",
