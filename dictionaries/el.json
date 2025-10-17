@@ -1,0 +1,2572 @@
+{
+  "Settings_N_NAME-Search": {
+    "value": "Αναζήτηση στο Διαδίκτυο",
+    "original": {
+      "value": "Internet Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "Σοβαρή διακοπή.",
+    "original": {
+      "value": "Major outage.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "Έλεγχος για Ενημερώσεις",
+    "original": {
+      "value": "Checking for Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "Δυστυχώς, το Nuvole AI δεν μπορεί να εργαστεί με αυτό το αρχείο",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 συνομιλίες",
+    "original": {
+      "value": "2 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "Θα μπορείτε να λάβετε ανατροφοδότηση από τον προγραμματιστή",
+    "original": {
+      "value": "You will be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "Σκέψη για ${Num} δευτερόλεπτα",
+    "original": {
+      "value": "Thought for ${Num} seconds",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "Πώς θέλετε να στείλετε ανατροφοδότηση;",
+    "original": {
+      "value": "How you want to send feedback?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "Διαγραφή Όλων των Συνομιλιών",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "Επιλέξτε την εμφάνιση που θα εφαρμοστεί στην οθόνη των απαντήσεων",
+    "original": {
+      "value": "Select the appearance to be applied to the display of responses",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "Ναι, Μεταφορά του Ιστορικού αυτής της Συνομιλίας",
+    "original": {
+      "value": "Yes, Transmit the History of This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "Το μήνυμα στάλθηκε!",
+    "original": {
+      "value": "Message sent!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "Με Κείμενο",
+    "original": {
+      "value": "With Text",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "Θέλετε να μεταφέρετε μια διαμόρφωση Nuvole AI με τον προγραμματιστή;",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "Επιλέξτε ποιες συνομιλίες θέλετε να διαγράψετε",
+    "original": {
+      "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "Σύστημα",
+    "original": {
+      "value": "System",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "Διαγραφή Συνομιλίας",
+    "original": {
+      "value": "Delete Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 μηνύματα",
+    "original": {
+      "value": "2 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "Μόνο κατόπιν Αίτησης",
+    "original": {
+      "value": "Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 ενημερώσεις",
+    "original": {
+      "value": "5 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "Έχουν κυκλοφορήσει ${Count versions} από την έκδοση ${Num}",
+    "original": {
+      "value": "${Count versions} have been released since version ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "Ενεργοποιημένο",
+    "original": {
+      "value": "Turned On",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "Κύριο Μενού",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "Ειδοποίηση διαχείρισης συσκευής!",
+    "original": {
+      "value": "Device management alert!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Διαγραφή ολόκληρου του ιστορικού συνομιλιών με το Nuvole AI χωρίς δυνατότητα ανάκτησης",
+    "original": {
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "Ερώτηση",
+    "original": {
+      "value": "Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Προβολή Πιο Λεπτομερούς Καταγραφής Αλλαγών",
+    "original": {
+      "value": "View More Detailed Changelog",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "Άνοιγμα του Κύριου Μενού με Κάθε Νέα Εκτέλεση",
+    "original": {
+      "value": "Open the Main Menu with Each New Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "Γράψτε Ανατροφοδότηση",
+    "original": {
+      "value": "Write a Feedback",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "Κύριο Μενού",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "Επιλέξτε τις διαφάνειες που θέλετε να χρησιμοποιήσετε",
+    "original": {
+      "value": "Select the slides you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία εικόνας.",
+    "original": {
+      "value": "An error occurred during image generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 εκδόσεις",
+    "original": {
+      "value": "2 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "Περισσότερα",
+    "original": {
+      "value": "More",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "Απόκρυψη Πλήρους Σημείωσης",
+    "original": {
+      "value": "Hide Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "Όλα τα συστήματα λειτουργούν σωστά.",
+    "original": {
+      "value": "All systems are working properly.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "Δημιουργία Νέας Συνομιλίας",
+    "original": {
+      "value": "Create a New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "Δημιουργία Νέας Συνομιλίας",
+    "original": {
+      "value": "Create New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "Δυστυχώς, το Nuvole AI δεν μπορεί να εργαστεί με αυτό το βίντεο",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "Περισσότερες Πληροφορίες για το Nuvole AI",
+    "original": {
+      "value": "More Information about Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Διαγραφή αυτής της συνομιλίας χωρίς δυνατότητα ανάκτησης",
+    "original": {
+      "value": "Delete this chat without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "Μη Λήψη Ενημερώσεων",
+    "original": {
+      "value": "Do Not Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "Θέλετε το Nuvole AI να αναζητά πληροφορίες στο Διαδίκτυο, εάν είναι απαραίτητο;",
+    "original": {
+      "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "Μη Φιλτράρισμα Περιεχομένου NSFW κατά τη Δημιουργία Εικόνων",
+    "original": {
+      "value": "Do Not Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "Η συνομιλία θα αποθηκευτεί",
+    "original": {
+      "value": "Chat will be saved",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 αλλαγές",
+    "original": {
+      "value": "5 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "Συνέχεια της συνομιλίας με το Nuvole AI",
+    "original": {
+      "value": "Continue the conversation with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "Τι θέλετε να κάνετε με αυτόν τον ιστότοπο;",
+    "original": {
+      "value": "What do you want to do with this site?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "Εμφάνιση",
+    "original": {
+      "value": "Appearance",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 ενημέρωση",
+    "original": {
+      "value": "1 update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "Πάντα",
+    "original": {
+      "value": "Always",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "Φόρτωση και Συνέχεια Συνομιλίας",
+    "original": {
+      "value": "Load and Continue Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "Απόκρυψη Πλήρους Σκέψης",
+    "original": {
+      "value": "Hide Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "Αναφορά σφάλματος",
+    "original": {
+      "value": "Report a bug",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "Δεν είναι διαθέσιμο αυτή τη στιγμή",
+    "original": {
+      "value": "Not available at the moment",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Μη Βελτίωση Προτροπής με AI",
+    "original": {
+      "value": "Do Not Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "Τι θέλετε να κάνετε στη συνέχεια;",
+    "original": {
+      "value": "What do you want to do next?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "Περιγράψτε λεπτομερώς το πρόβλημα που αντιμετωπίσατε",
+    "original": {
+      "value": "Describe in detail the problem you have encountered",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "Κοινόχρηστο Φύλλο",
+    "original": {
+      "value": "Share Sheet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "Περιήγηση, αναζήτηση, προβολή και συνέχεια των συνομιλιών σας με το Nuvole AI",
+    "original": {
+      "value": "Browse, search, view and continue your chats with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "Επιστροφή στο Ιστορικό",
+    "original": {
+      "value": "Return to History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "Αποθήκευση συνομιλίας και επιστροφή",
+    "original": {
+      "value": "Save chat and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "Λήψη Ενημερώσεων",
+    "original": {
+      "value": "Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "Τι θέλετε να κάνετε με αυτό το αρχείο;",
+    "original": {
+      "value": "What do you want to do with this file?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 αλλαγή",
+    "original": {
+      "value": "1 change",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "Δυστυχώς, το Nuvole AI δεν μπορεί να εργαστεί με αυτόν τον ιστότοπο",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "Αναζήτηση",
+    "original": {
+      "value": "Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "Συνέχεια με Φόρτωση της Τελευταίας Συνομιλίας",
+    "original": {
+      "value": "Continue by Loading the Last Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "πριν από ${Seconds}",
+    "original": {
+      "value": "${Seconds} ago",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "Δημιουργία ${Size} περίληψης του ιστότοπου",
+    "original": {
+      "value": "Make a ${Size} summarization of the site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "Θα δημιουργηθεί νέα συνομιλία",
+    "original": {
+      "value": "New chat will be created",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "Ποιο εικονίδιο θέλετε να δώσετε σε αυτήν τη συνομιλία (μπορείτε να χρησιμοποιήσετε μόνο ένα emoji);",
+    "original": {
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Οποιαδήποτε προβλήματα, ερωτήσεις ή ιδέες για τη βελτίωση του Nuvole AI;",
+    "original": {
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "Δημιουργία ${Size} περίληψης του βίντεο",
+    "original": {
+      "value": "Make a ${Size} summarization of the video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "Χρήση ολόκληρης της παρουσίασης; Ή ορισμένων διαφανειών;",
+    "original": {
+      "value": "Use the whole presentation? Or certain slides?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "Επανεκκίνηση του Nuvole AI",
+    "original": {
+      "value": "Restart Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "Βρέθηκαν ${Num} αποτελέσματα",
+    "original": {
+      "value": "Found ${Num} results",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "Ακολουθήστε το επίσημο κανάλι MIKL για να λαμβάνετε ειδήσεις για το Nuvole AI και άλλα έργα.",
+    "original": {
+      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "Μια νέα ενημέρωση για το Nuvole AI είναι διαθέσιμη!",
+    "original": {
+      "value": "A new update for Nuvole AI is available!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "Μοντέλο AI",
+    "original": {
+      "value": "AI Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "Πάντα Αποθήκευση Νέων Συνομιλιών",
+    "original": {
+      "value": "Always Save New Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "Δημιουργία ${Size} περίληψης του αρχείου",
+    "original": {
+      "value": "Make a ${Size} summarization of the file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "Μικρό",
+    "original": {
+      "value": "Small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "Σκοτεινό",
+    "original": {
+      "value": "Dark",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "Ρώτησε Κάθε Φορά",
+    "original": {
+      "value": "Ask Every Time",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "Αλλαγή του Μοντέλου AI για Αυτήν την Συνεδρία Μόνο και Επανάληψη Αίτησης",
+    "original": {
+      "value": "Change the AI Model for This Session Only and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "Φαίνεται ότι το μοντέλο ${Name} που επιλέξατε νωρίτερα δεν είναι πλέον διαθέσιμο. Ποιο μοντέλο AI θέλετε να χρησιμοποιήσετε;",
+    "original": {
+      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "Χωρίς Άνοιγμα για Εισαγωγή Αίτησης",
+    "original": {
+      "value": "Without Opening to Enter the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "Μόνο emojis μπορούν να χρησιμοποιηθούν ως εικονίδιο",
+    "original": {
+      "value": "Only emojis can be used as an icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "Όχι, Μη Μεταφορά Ιστορικού",
+    "original": {
+      "value": "No, Not Transmit the History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "Επιλογή και Διαγραφή Συνομιλιών",
+    "original": {
+      "value": "Select and Delete Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "Διαγραφή Όλων των Συνομιλιών",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 συνομιλία",
+    "original": {
+      "value": "1 chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία κειμένου.",
+    "original": {
+      "value": "An error occurred during text generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Βελτίωση της Προτροπής Χρησιμοποιώντας AI",
+    "original": {
+      "value": "Improving the Prompt Using AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "Θέλετε να δημιουργήσετε μια νέα συνομιλία ή να φορτώσετε και να συνεχίσετε την τελευταία κατά την εκτέλεση του Nuvole AI;",
+    "original": {
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "Αποθήκευση συνομιλιών και επιστροφή",
+    "original": {
+      "value": "Save chats and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "Αλλαγή Εικονιδίου Συνομιλίας",
+    "original": {
+      "value": "Change Chat Icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "Εμφάνιση Πλήρους Μηνύματος",
+    "original": {
+      "value": "Show Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "Εγκατάσταση Νέας Έκδοσης ${Num}",
+    "original": {
+      "value": "Install a New ${Num} Version",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Ποιο μοντέλο AI θέλετε να χρησιμοποιήσετε;",
+    "original": {
+      "value": "Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "Παράβλεψη και Έναρξη Εργασίας με το Nuvole AI",
+    "original": {
+      "value": "Skip and Start Working with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Φόρτωση Τελευταίας Συνομιλίας κατά την Εκτέλεση",
+    "original": {
+      "value": "Last Chat Load When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "Απενεργοποιημένο",
+    "original": {
+      "value": "Turned Off",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "Όχι, Παράβλεψη αυτής της Ενέργειας",
+    "original": {
+      "value": "No, Skip This Action",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "Θέλετε να δημιουργήσετε και να αποθηκεύσετε μια σημείωση “${Title}” με το Nuvole AI;",
+    "original": {
+      "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "Επιλέξτε εάν θέλετε να εμφανίζεται το ιστορικό της συνεδρίας",
+    "original": {
+      "value": "Select whether you want to display the session history",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "Επιλέξτε μια γλώσσα στην οποία θα είναι βολικό για εσάς να εργάζεστε με το Nuvole AI",
+    "original": {
+      "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "Επεξεργασία Αίτησης",
+    "original": {
+      "value": "Processing of the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "Η τιμή σας: ${Num}",
+    "original": {
+      "value": "Your value: ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "Αυτόματη Φόρτωση και Συνέχεια Τελευταίας Συνομιλίας κατά την Εκτέλεση",
+    "original": {
+      "value": "Automatically Load and Continue Last Chat When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "Εμφάνιση Ιστορικού Συνομιλίας",
+    "original": {
+      "value": "Chat History Displaying",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "Θέλετε να ανοίξει το Κύριο Μενού κατά την εκτέλεση του Nuvole AI;",
+    "original": {
+      "value": "Do you want to open the Main Menu when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "Η ρύθμιση έχει αλλάξει",
+    "original": {
+      "value": "The setting has been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "Κλείσιμο Αναζήτησης",
+    "original": {
+      "value": "Close Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "Περιγράψτε λεπτομερώς το πρόβλημα που αντιμετωπίσατε, μαζί με οποιεσδήποτε ερωτήσεις ή ιδέες που έχετε για τη βελτίωση του Nuvole AI",
+    "original": {
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "Δεν θέλετε να αλλάξετε τις ρυθμίσεις αυτής της παραμέτρου;",
+    "original": {
+      "value": "Don’t want to change the settings of this parameter?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "Μεσαίο",
+    "original": {
+      "value": "Medium",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "Αυτόματη Αναζήτηση Πληροφοριών στο Διαδίκτυο",
+    "original": {
+      "value": "Automatically Search for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 αλλαγές",
+    "original": {
+      "value": "21 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε τα ${Count} βρέθηκαν ${Chats}; Μπορείτε να διαγράψετε μόνο τις απαραίτητες συνομιλίες επιλέγοντας «Επιλογή και διαγραφή βρέθηκαν συνομιλίες» στο προηγούμενο μενού. Πατώντας το κουμπί «Διαγραφή όλων των βρέθηκαν συνομιλιών», συμφωνείτε ότι όλες οι βρέθηκαν συνομιλίες θα διαγραφούν χωρίς δυνατότητα ανάκτησης.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "Επιλέξτε τις σελίδες που θέλετε να χρησιμοποιήσετε",
+    "original": {
+      "value": "Select the pages you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "Κατάσταση διακομιστή του ${Name}",
+    "original": {
+      "value": "Server status of ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Συνιστάται για καλύτερη εμπειρία χρήσης του Nuvole AI",
+    "original": {
+      "value": "Recommended for a better experience of Nuvole AI usage",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "Απόκρυψη Πλήρους Μηνύματος",
+    "original": {
+      "value": "Hide Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "Επιλέξτε εάν θέλετε να βελτιώσετε την προτροπή για τη δημιουργία εικόνων με AI",
+    "original": {
+      "value": "Select whether you want to improve prompt to generate images with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "Ρωτήστε την Ερώτησή σας",
+    "original": {
+      "value": "Ask Your Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "Αλλαγή του ονόματος της συνομιλίας “${Text}” σε οποιοδήποτε άλλο",
+    "original": {
+      "value": "Change the chat name “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "Αλλαγή Ερώτησης Αναζήτησης",
+    "original": {
+      "value": "Change Search Query",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "Σας ευχαριστούμε για την ανατροφοδότησή σας! Αυτό θα βοηθήσει στη βελτίωση του Nuvole AI!",
+    "original": {
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "Σφάλμα",
+    "original": {
+      "value": "Error",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "Δημιουργία Περίληψης",
+    "original": {
+      "value": "Make a Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "Ποιο όνομα θέλετε να δώσετε σε αυτήν τη συνομιλία;",
+    "original": {
+      "value": "What name do you want to give this chat?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "Το ιστορικό της συνομιλίας “${Name}” έχει φορτωθεί.",
+    "original": {
+      "value": "The history of “${Name}” chat is loaded.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "Αυτό μπορεί να δώσει μια καλύτερη κατανόηση του προβλήματός σας, εάν έχετε κάποιο",
+    "original": {
+      "value": "This may give a better understanding of your problem, if you have one",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "Επιλογή και Διαγραφή Βρέθηκαν Συνομιλιών",
+    "original": {
+      "value": "Select and Delete Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "Τι θέλετε να ρωτήσετε;",
+    "original": {
+      "value": "What do you want to ask?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "Η διαδικασία εγκατάστασης έχει ολοκληρωθεί!\nΘέλετε να μάθετε περισσότερα για το Nuvole AI και τις λειτουργίες του;",
+    "original": {
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "Περίληψη",
+    "original": {
+      "value": "Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "Έναρξη από την αρχή",
+    "original": {
+      "value": "Start from scratch",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "Ρυθμίσεις",
+    "original": {
+      "value": "Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "Πρόσθετα",
+    "original": {
+      "value": "Additional",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "Μπορείτε αργότερα να εγκαταστήσετε αυτήν την ενημέρωση μέσω του RoutineHub",
+    "original": {
+      "value": "You can later install this update via the RoutineHub",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "Επανάληψη αίτησης χρησιμοποιώντας ${Name}",
+    "original": {
+      "value": "Repeat request using ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "Συνέβη σφάλμα κατά τη διαδικασία σκέψης.",
+    "original": {
+      "value": "An error occurred during the thinking process.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "Αλλαγή του εικονιδίου της συνομιλίας “${Text}” σε οποιοδήποτε άλλο",
+    "original": {
+      "value": "Change the chat icon “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "Η ρύθμιση δεν έχει αλλάξει",
+    "original": {
+      "value": "The setting has not been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "Αυτή η συνομιλία θα φορτωθεί αυτόματα",
+    "original": {
+      "value": "This chat will load automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "Γράψτε το κείμενο με το οποίο θέλετε να βρείτε συνομιλίες. Θα ελεγχθούν τα ονόματα των συνομιλιών και το περιεχόμενό τους (ανεξάρτητα από πεζά-κεφαλαία, υποστηρίζει regex).",
+    "original": {
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "Ανώνυμα",
+    "original": {
+      "value": "Anonymously",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Το Nuvole AI θα χρησιμοποιήσει το μοντέλο που θα επιλέξετε",
+    "original": {
+      "value": "Nuvole AI will use the model that you will select",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "Γεια σας! Πώς μπορώ να σας βοηθήσω;",
+    "original": {
+      "value": "Hello! How can I help you?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "Μεγάλο",
+    "original": {
+      "value": "Big",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "Επιλέξτε το μέγεθος της περίληψης που θέλετε να λάβετε",
+    "original": {
+      "value": "Select the size of summarization you want to receive",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "Επιστροφή στο Κύριο Μενού",
+    "original": {
+      "value": "Return to Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Πριν από την επιλογή, θα σας εμφανιστεί η παρουσίασή σας",
+    "original": {
+      "value": "Before selecting, you will be shown your presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "Ιστορικό",
+    "original": {
+      "value": "History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "Μέγεθος Περίληψης",
+    "original": {
+      "value": "Summarization Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "Εμφάνιση της Απάντησης",
+    "original": {
+      "value": "Displaying the Answer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "Μη Εμφάνιση Ιστορικού Συνομιλίας",
+    "original": {
+      "value": "Do Not Display Chat History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "Συνέχεια Συνομιλίας με το Nuvole AI",
+    "original": {
+      "value": "Continue Chatting with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "Εισαγωγή Αίτησης",
+    "original": {
+      "value": "Entering a Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "Επιλέξτε το μέγεθος γραμματοσειράς για την εμφάνιση της απάντησης (48 pixels από προεπιλογή)",
+    "original": {
+      "value": "Select the font size to display the response (48 pixels by default)",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Γλώσσα Nuvole AI",
+    "original": {
+      "value": "Nuvole AI Language",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "Ελαφρύτερη Έκδοση του Nuvole AI",
+    "original": {
+      "value": "Lighter Version of Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "Βελτίωση Προτροπής με AI",
+    "original": {
+      "value": "Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "Δεν θέλετε να αλλάξετε το μοντέλο;",
+    "original": {
+      "value": "Don’t want to change the model?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "Αποθήκευση Συνομιλίας",
+    "original": {
+      "value": "Chat Saving",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "Επιλέξτε τον πιο βολικό τρόπο για να εισάγετε μια αίτηση για AI",
+    "original": {
+      "value": "Select the most convenient way for you to enter a request for AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Διαγραφή αυτών των συνομιλιών χωρίς δυνατότητα ανάκτησης",
+    "original": {
+      "value": "Delete this chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "Συνιστάται",
+    "original": {
+      "value": "Recomended",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "Με Φωνή",
+    "original": {
+      "value": "With Voice",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "Μη Άνοιγμα κατά την Εκτέλεση",
+    "original": {
+      "value": "Don’t Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία σημείωσης.",
+    "original": {
+      "value": "An error occurred during note generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "Χρήση Ολόκληρης της Παρουσίασης",
+    "original": {
+      "value": "Use the Whole Presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "Επανάληψη Αίτησης",
+    "original": {
+      "value": "Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 ενημερώσεις",
+    "original": {
+      "value": "2 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "Άνοιγμα κατά την Εκτέλεση",
+    "original": {
+      "value": "Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "Η ενημέρωση ${Num} είναι κρυφή",
+    "original": {
+      "value": "Update ${Num} is hidden",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "Χρήση Email",
+    "original": {
+      "value": "Using Email",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "Αντίο!",
+    "original": {
+      "value": "Goodbye!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "Γενικές Ρυθμίσεις",
+    "original": {
+      "value": "General Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 αλλαγές",
+    "original": {
+      "value": "2 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 ενημερώσεις",
+    "original": {
+      "value": "21 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε τη συνομιλία “${Text}”; Πατώντας το κουμπί «Διαγραφή συνομιλίας», συμφωνείτε ότι αυτή η συνομιλία θα διαγραφεί χωρίς δυνατότητα ανάκτησης.",
+    "original": {
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "Επιλέξτε τι θέλετε να κάνετε με τα στοιχεία από το μενού «Κοινόχρηστο Φύλλο»",
+    "original": {
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "Διαγραφή Όλων των Βρέθηκαν Συνομιλιών",
+    "original": {
+      "value": "Delete All Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "Χρήση ολόκληρου του αρχείου; Ή ορισμένων σελίδων;",
+    "original": {
+      "value": "Use the whole file? Or certain pages?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "Φιλτράρισμα Περιεχομένου NSFW κατά τη Δημιουργία Εικόνων",
+    "original": {
+      "value": "Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "Φιλτράρισμα Περιεχομένου NSFW",
+    "original": {
+      "value": "NSFW Content Filtering",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "Τροποποίηση και εξατομίκευση του Nuvole AI για να ταιριάζει τέλεια στις ανάγκες σας",
+    "original": {
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "Θα ανακατευθυνθείτε στη σελίδα του RoutineHub για το Nuvole AI Lite",
+    "original": {
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "Εμφάνιση Πλήρους Σημείωσης",
+    "original": {
+      "value": "Show Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 συνομιλίες",
+    "original": {
+      "value": "21 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε τα ${Count} επιλεγμένα ${Chats}; Πατώντας το κουμπί «Διαγραφή επιλεγμένων συνομιλιών», συμφωνείτε ότι οι συνομιλίες που έχετε επιλέξει θα διαγραφούν χωρίς δυνατότητα ανάκτησης.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "Κλείσιμο Ρυθμίσεων",
+    "original": {
+      "value": "Close Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Διαγραφή όλων των βρέθηκαν συνομιλιών χωρίς δυνατότητα ανάκτησης",
+    "original": {
+      "value": "Delete all found chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "Χρήση Ολόκληρου του Αρχείου",
+    "original": {
+      "value": "Use the Whole File",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "Αλλαγή του Μοντέλου AI και Επανάληψη Αίτησης",
+    "original": {
+      "value": "Change the AI Model and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "Επιλογή των Διαφανειών που θα Χρησιμοποιηθούν",
+    "original": {
+      "value": "Select the Slides to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "Εγγραφή στο Κανάλι Telegram του MIKL",
+    "original": {
+      "value": "Subscribe to MIKL’s Telegram Channel",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "Φωτεινό",
+    "original": {
+      "value": "Light",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "Μη Διαγραφή",
+    "original": {
+      "value": "Do Not Delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 μηνύματα",
+    "original": {
+      "value": "5 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "Ίσως κάτι άλλο;",
+    "original": {
+      "value": "Maybe something else?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "Μη Προσφορά αυτής της Ενημέρωσης",
+    "original": {
+      "value": "Do Not Offer This Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "Μετονομασία Συνομιλίας",
+    "original": {
+      "value": "Rename Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "Έξοδος από το Nuvole AI",
+    "original": {
+      "value": "Exit the Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε το ιστορικό; Μπορείτε να διαγράψετε μόνο τις απαραίτητες συνομιλίες επιλέγοντας «Επιλογή και διαγραφή συνομιλιών» στο προηγούμενο μενού. Πατώντας το κουμπί «Διαγραφή όλων των συνομιλιών», συμφωνείτε ότι όλες οι συνομιλίες θα διαγραφούν χωρίς δυνατότητα ανάκτησης.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "Δημιουργία Εικόνας",
+    "original": {
+      "value": "Image Generation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "Μη Εγκατάσταση της Ενημέρωσης",
+    "original": {
+      "value": "Do Not Install the Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "Τι θέλετε να κάνετε με αυτό το βίντεο;",
+    "original": {
+      "value": "What do you want to do with this video?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "Αυτή τη στιγμή, το Nuvole AI θα χρησιμοποιήσει το μοντέλο που θα επιλέξετε, αλλά την επόμενη φορά το ${Name}",
+    "original": {
+      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία της αίτησης.",
+    "original": {
+      "value": "An error occurred during processing the request.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "Αποθήκευση Νέων Συνομιλιών Μόνο κατόπιν Αίτησης",
+    "original": {
+      "value": "Save New Chats Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "Ελάχιστη τιμή: 22",
+    "original": {
+      "value": "Minimum value: 22",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "Βρέθηκαν ${Count chats} στην αίτηση “${Text}”",
+    "original": {
+      "value": "${Count chats} found on request “${Text}”",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "Θέλετε να μοιραστείτε αυτήν τη συνομιλία που περιέχει τα μηνύματά σας και τις απαντήσεις AI με τον προγραμματιστή;",
+    "original": {
+      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "Ναι, Μεταφορά της Διαμόρφωσής μου στο Nuvole AI",
+    "original": {
+      "value": "Yes, Transmit My Nuvole AI Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "Επαναλαμβάνεται το Σφάλμα Πολύ Συχνά;",
+    "original": {
+      "value": "Is the Error Repeating Too Often?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "Επιλογή των Σελίδων που θα Χρησιμοποιηθούν",
+    "original": {
+      "value": "Select the Pages to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "Έχετε ορίσει την τιμή πολύ υψηλή",
+    "original": {
+      "value": "You have set the value too high",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "Δεν θα μπορείτε να λάβετε ανατροφοδότηση από τον προγραμματιστή",
+    "original": {
+      "value": "You won’t be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "Θα ανακατευθυνθείτε στη σελίδα περιγραφής του RoutineHub για το Nuvole AI",
+    "original": {
+      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "Διαγραφή ${Count} Επιλεγμένων ${Chats}",
+    "original": {
+      "value": "Delete ${Count} Selected ${Chats}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 εκδόσεις",
+    "original": {
+      "value": "5 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "Κλείσιμο Ιστορικού",
+    "original": {
+      "value": "Close History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "Πώς θέλετε να αποθηκεύετε νέες συνομιλίες;",
+    "original": {
+      "value": "How do you want to save new chats?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "Μέγεθος Γραμματοσειράς",
+    "original": {
+      "value": "Font Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "Δυστυχώς, το Nuvole AI δεν μπορεί να εργαστεί με αρχεία .{Extension}",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "Έχετε ορίσει την τιμή πολύ μικρή",
+    "original": {
+      "value": "You have set the value too small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "Αυτόματα",
+    "original": {
+      "value": "Automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "Επανάληψη Αίτησης Χρησιμοποιώντας το Ίδιο Μοντέλο",
+    "original": {
+      "value": "Repeat Request Using the Same Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία της εικόνας.",
+    "original": {
+      "value": "An error occurred during processing the image.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "Επιλέξτε το μέγεθος της περίληψης που θέλετε να λάβετε",
+    "original": {
+      "value": "Select the size of summarization you want to get",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 εκδόσεις",
+    "original": {
+      "value": "21 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "Επιλέξτε εάν θέλετε να λαμβάνετε ειδοποιήσεις για ενημερώσεις",
+    "original": {
+      "value": "Select whether you want to receive notifications about updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "Αυτό μπορεί να δώσει μια καλύτερη κατανόηση του προβλήματός σας",
+    "original": {
+      "value": "This may give a better understanding of your problem",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "Ναι, Δημιουργία και Αποθήκευση Σημείωσης στη Συσκευή μου",
+    "original": {
+      "value": "Yes, Generate and Save a Note on My Device",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "Όχι, Μη Μεταφορά Διαμόρφωσης",
+    "original": {
+      "value": "No, Not Transmit Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "Προβολή Συνομιλίας",
+    "original": {
+      "value": "View Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "Διαγραφή αυτής της Συνομιλίας",
+    "original": {
+      "value": "Delete This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "Το όνομα της συνομιλίας δεν μπορεί να είναι κενή συμβολοσειρά",
+    "original": {
+      "value": "The chat name cannot be an empty string",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "Εμφάνιση Ιστορικού Συνομιλίας",
+    "original": {
+      "value": "Display Chat History ",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "Πριν από την επιλογή, θα σας εμφανιστεί το αρχείο σας",
+    "original": {
+      "value": "Before selecting, you will be shown your file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 συνομιλίες",
+    "original": {
+      "value": "5 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "Τύπος Αίτησης",
+    "original": {
+      "value": "Request Type",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "Πίσω",
+    "original": {
+      "value": "Back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "Μέγιστη τιμή: 62",
+    "original": {
+      "value": "Maximum value: 62",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "Δυστυχώς, το Nuvole AI δεν μπορεί να εργαστεί με αυτήν την παρουσίαση",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "Μη Αναζήτηση Πληροφοριών στο Διαδίκτυο",
+    "original": {
+      "value": "Do Not Look for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "Αναζήτηση μεταξύ των συνομιλιών σας",
+    "original": {
+      "value": "Search among your chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "Εμφάνιση Πλήρους Σκέψης",
+    "original": {
+      "value": "Show Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "Δεν βρέθηκε τίποτα για την αίτησή σας",
+    "original": {
+      "value": "Nothing was found for your request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "Το Nuvole AI θα ολοκληρώσει την εργασία του",
+    "original": {
+      "value": "Nuvole AI will complete its work",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "Μερικά προβλήματα.",
+    "original": {
+      "value": "Partial problems.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "Επιλεγμένη ρύθμιση",
+    "original": {
+      "value": "Selected setting",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  }
+}

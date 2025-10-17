@@ -1,0 +1,2572 @@
+{
+  "Settings_N_NAME-Search": {
+    "value": "ఇంటర్నెట్ శోధన",
+    "original": {
+      "value": "Internet Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "ముఖ్యమైన అవుటేజ్.",
+    "original": {
+      "value": "Major outage.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "అప్‌డేట్‌ల కోసం తనిఖీ చేస్తోంది",
+    "original": {
+      "value": "Checking for Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "దురదృష్టవశాత్తు, నువోల్ AI ఈ ఫైల్‌తో పని చేయలేదు",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 చాట్‌లు",
+    "original": {
+      "value": "2 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "డెవలపర్ నుండి ఫీడ్‌బ్యాక్ పొందగలరు",
+    "original": {
+      "value": "You will be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "${Num} సెకన్లకు ఆలోచించండి",
+    "original": {
+      "value": "Thought for ${Num} seconds",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "ఫీడ్‌బ్యాక్‌ను ఎలా పంపాలనుకుంటున్నారు?",
+    "original": {
+      "value": "How you want to send feedback?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "అన్ని చాట్‌లను తొలగించండి",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "ప్రతిస్పందనల ప్రదర్శనకు వర్తించే రూపాన్ని ఎంచుకోండి",
+    "original": {
+      "value": "Select the appearance to be applied to the display of responses",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "అవును, ఈ చాట్ చరిత్రను పంపండి",
+    "original": {
+      "value": "Yes, Transmit the History of This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "సందేశం పంపబడింది!",
+    "original": {
+      "value": "Message sent!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "టెక్స్ట్‌తో",
+    "original": {
+      "value": "With Text",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "డెవలపర్‌తో నువోల్ AI కాన్ఫిగ్‌ను పంపాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "మీరు తొలగించాలనుకుంటున్న చాట్‌లను ఎంచుకోండి",
+    "original": {
+      "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "సిస్టమ్",
+    "original": {
+      "value": "System",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "చాట్‌ను తొలగించండి",
+    "original": {
+      "value": "Delete Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 సందేశాలు",
+    "original": {
+      "value": "2 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "అడిగినప్పుడు మాత్రమే",
+    "original": {
+      "value": "Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 అప్‌డేట్‌లు",
+    "original": {
+      "value": "5 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "${Num} వెర్షన్ నుండి ${Count versions} విడుదలయ్యాయి",
+    "original": {
+      "value": "${Count versions} have been released since version ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "ఆన్ చేయబడింది",
+    "original": {
+      "value": "Turned On",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "మెయిన్ మెనూ",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "పరికరం నిర్వహణ హెచ్చరిక!",
+    "original": {
+      "value": "Device management alert!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "నువోల్ AIతో చాట్ చరిత్రను పూర్తిగా తొలగించండి, పునరుద్ధరణ సాధ్యం కాదు",
+    "original": {
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "ప్రశ్న",
+    "original": {
+      "value": "Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "మరింత వివరమైన మార్పుల జాబితాను చూడండి",
+    "original": {
+      "value": "View More Detailed Changelog",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "ప్రతి కొత్త రన్‌తో మెయిన్ మెనూను తెరవండి",
+    "original": {
+      "value": "Open the Main Menu with Each New Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "ఫీడ్‌బ్యాక్ రాయండి",
+    "original": {
+      "value": "Write a Feedback",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "మెయిన్ మెనూ",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "మీరు ఉపయోగించాలనుకుంటున్న స్లైడ్‌లను ఎంచుకోండి",
+    "original": {
+      "value": "Select the slides you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "చిత్రం ఉత్పత్తి సమయంలో లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during image generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 వెర్షన్లు",
+    "original": {
+      "value": "2 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "మరిన్ని",
+    "original": {
+      "value": "More",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "పూర్తి నోట్‌ను దాచండి",
+    "original": {
+      "value": "Hide Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "అన్ని వ్యవస్థలు సరిగ్గా పనిచేస్తున్నాయి.",
+    "original": {
+      "value": "All systems are working properly.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "కొత్త చాట్ సృష్టించండి",
+    "original": {
+      "value": "Create a New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "కొత్త చాట్ సృష్టించండి",
+    "original": {
+      "value": "Create New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "దురదృష్టవశాత్తు, నువోల్ AI ఈ వీడియోతో పని చేయలేదు",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "నువోల్ AI గురించి మరింత సమాచారం",
+    "original": {
+      "value": "More Information about Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "ఈ చాట్‌ను పునరుద్ధరణ సాధ్యం కాకుండా తొలగించండి",
+    "original": {
+      "value": "Delete this chat without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "అప్‌డేట్‌లు పొందవద్దు",
+    "original": {
+      "value": "Do Not Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "నువోల్ AI ఇంటర్నెట్‌లో సమాచారం కోసం శోధించాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "చిత్రాలు ఉత్పత్తి చేసేటప్పుడు NSFW కంటెంట్‌ను ఫిల్టర్ చేయవద్దు",
+    "original": {
+      "value": "Do Not Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "చాట్ సేవ్ చేయబడుతుంది",
+    "original": {
+      "value": "Chat will be saved",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 మార్పులు",
+    "original": {
+      "value": "5 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "నువోల్ AIతో సంభాషణ కొనసాగించండి",
+    "original": {
+      "value": "Continue the conversation with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "ఈ సైట్‌తో మీరు ఏమి చేయాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What do you want to do with this site?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "రూపం",
+    "original": {
+      "value": "Appearance",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 అప్‌డేట్",
+    "original": {
+      "value": "1 update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "ఎల్లప్పుడూ",
+    "original": {
+      "value": "Always",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "చాట్‌ను లోడ్ చేసి కొనసాగించండి",
+    "original": {
+      "value": "Load and Continue Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "పూర్తి ఆలోచనలను దాచండి",
+    "original": {
+      "value": "Hide Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "బగ్ నివేదించండి",
+    "original": {
+      "value": "Report a bug",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "ప్రస్తుతం అందుబాటులో లేదు",
+    "original": {
+      "value": "Not available at the moment",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "AIతో ప్రోంప్ట్‌ను మెరుగుపరచవద్దు",
+    "original": {
+      "value": "Do Not Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "తర్వాత మీరు ఏమి చేయాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What do you want to do next?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "మీరు ఎదుర్కొన్న సమస్యను వివరంగా వివరించండి",
+    "original": {
+      "value": "Describe in detail the problem you have encountered",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "షేర్ షీట్",
+    "original": {
+      "value": "Share Sheet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "నువోల్ AIతో మీ చాట్‌లను బ్రౌజ్ చేయండి, శోధించండి, చూడండి మరియు కొనసాగించండి",
+    "original": {
+      "value": "Browse, search, view and continue your chats with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "చరిత్రకు తిరిగి రండి",
+    "original": {
+      "value": "Return to History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "చాట్‌ను సేవ్ చేసి తిరిగి రండి",
+    "original": {
+      "value": "Save chat and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "అప్‌డేట్‌లు పొందండి",
+    "original": {
+      "value": "Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "ఈ ఫైల్‌తో మీరు ఏమి చేయాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What do you want to do with this file?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 మార్పు",
+    "original": {
+      "value": "1 change",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "దురదృష్టవశాత్తు, నువోల్ AI ఈ సైట్‌తో పని చేయలేదు",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "శోధించండి",
+    "original": {
+      "value": "Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "చివరి చాట్‌ను లోడ్ చేసి కొనసాగించండి",
+    "original": {
+      "value": "Continue by Loading the Last Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "${Seconds} క్రితం",
+    "original": {
+      "value": "${Seconds} ago",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "సైట్ యొక్క ${Size} సారాంశం చేయండి",
+    "original": {
+      "value": "Make a ${Size} summarization of the site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "కొత్త చాట్ సృష్టించబడుతుంది",
+    "original": {
+      "value": "New chat will be created",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "ఈ చాట్‌కు మీరు ఏ ఐకాన్ ఇవ్వాలనుకుంటున్నారు (మీరు ఒకే ఒక ఎమోజీని మాత్రమే ఉపయోగించవచ్చు)?",
+    "original": {
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "నువోల్ AIని మెరుగుపరచడానికి ఏవైనా సమస్యలు, ప్రశ్నలు లేదా ఆలోచనలు ఉన్నాయా?",
+    "original": {
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "వీడియో యొక్క ${Size} సారాంశం చేయండి",
+    "original": {
+      "value": "Make a ${Size} summarization of the video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "పూర్తి ప్రెజెంటేషన్‌ను ఉపయోగించాలా? లేదా నిర్దిష్ట స్లైడ్‌లను?",
+    "original": {
+      "value": "Use the whole presentation? Or certain slides?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "నువోల్ AIని రీస్టార్ట్ చేయండి",
+    "original": {
+      "value": "Restart Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "${Num} ఫలితాలు కనుగొనబడ్డాయి",
+    "original": {
+      "value": "Found ${Num} results",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "నువోల్ AI మరియు ఇతర ప్రాజెక్టుల గురించి వార్తలను పొందడానికి అధికారిక MIKL యొక్క ఛానెల్‌ను అనుసరించండి.",
+    "original": {
+      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "నువోల్ AI కోసం కొత్త అప్‌డేట్ అందుబాటులో ఉంది!",
+    "original": {
+      "value": "A new update for Nuvole AI is available!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "AI మోడల్",
+    "original": {
+      "value": "AI Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "ఎల్లప్పుడూ కొత్త చాట్‌లను సేవ్ చేయండి",
+    "original": {
+      "value": "Always Save New Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "ఫైల్ యొక్క ${Size} సారాంశం చేయండి",
+    "original": {
+      "value": "Make a ${Size} summarization of the file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "చిన్నది",
+    "original": {
+      "value": "Small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "డార్క్",
+    "original": {
+      "value": "Dark",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "ప్రతి సారి అడగండి",
+    "original": {
+      "value": "Ask Every Time",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "ఈ సెషన్ కోసం మాత్రమే AI మోడల్‌ను మార్చండి మరియు అభ్యర్థనను పునరావృతం చేయండి",
+    "original": {
+      "value": "Change the AI Model for This Session Only and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "మీరు ముందుగా ఎంచుకున్న ${Name} మోడల్ ఇకపై అందుబాటులో లేదు. మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
+    "original": {
+      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "అభ్యర్థనను నమోదు చేయడానికి తెరవకుండా",
+    "original": {
+      "value": "Without Opening to Enter the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "ఐకాన్‌గా ఎమోజీలు మాత్రమే ఉపయోగించవచ్చు",
+    "original": {
+      "value": "Only emojis can be used as an icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "కాదు, చరిత్రను పంపవద్దు",
+    "original": {
+      "value": "No, Not Transmit the History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "చాట్‌లను ఎంచుకోండి మరియు తొలగించండి",
+    "original": {
+      "value": "Select and Delete Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "అన్ని చాట్‌లను తొలగించండి",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 చాట్",
+    "original": {
+      "value": "1 chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "టెక్స్ట్ ఉత్పత్తి సమయంలో లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during text generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "AI ఉపయోగించి ప్రోంప్ట్‌ను మెరుగుపరచడం",
+    "original": {
+      "value": "Improving the Prompt Using AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "నువోల్ AIని రన్ చేసేటప్పుడు కొత్త చాట్ సృష్టించాలనుకుంటున్నారా లేదా చివరి చాట్‌ను లోడ్ చేసి కొనసాగించాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "చాట్‌లను సేవ్ చేసి తిరిగి రండి",
+    "original": {
+      "value": "Save chats and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "చాట్ ఐకాన్ మార్చండి",
+    "original": {
+      "value": "Change Chat Icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "పూర్తి సందేశాన్ని చూపించండి",
+    "original": {
+      "value": "Show Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "కొత్త ${Num} వెర్షన్‌ను ఇన్స్టాల్ చేయండి",
+    "original": {
+      "value": "Install a New ${Num} Version",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
+    "original": {
+      "value": "Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "నువోల్ AIతో పని ప్రారంభించడానికి దాటవేయండి",
+    "original": {
+      "value": "Skip and Start Working with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "రన్ చేసేటప్పుడు చివరి చాట్ లోడ్ చేయండి",
+    "original": {
+      "value": "Last Chat Load When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "ఆఫ్ చేయబడింది",
+    "original": {
+      "value": "Turned Off",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "కాదు, ఈ చర్యను దాటవేయండి",
+    "original": {
+      "value": "No, Skip This Action",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "నువోల్ AIతో “${Title}” అనే నోట్‌ను సృష్టించి సేవ్ చేయాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "సెషన్ చరిత్రను ప్రదర్శించాలనుకుంటున్నారా",
+    "original": {
+      "value": "Select whether you want to display the session history",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "నువోల్ AIతో పని చేయడానికి మీకు సౌకర్యంగా ఉండే భాషను ఎంచుకోండి",
+    "original": {
+      "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "అభ్యర్థన ప్రక్రియ",
+    "original": {
+      "value": "Processing of the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "మీ విలువ: ${Num}",
+    "original": {
+      "value": "Your value: ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "రన్ చేసేటప్పుడు చివరి చాట్‌ను ఆటోమేటిక్‌గా లోడ్ చేసి కొనసాగించండి",
+    "original": {
+      "value": "Automatically Load and Continue Last Chat When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "చాట్ చరిత్ర ప్రదర్శన",
+    "original": {
+      "value": "Chat History Displaying",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "నువోల్ AIని రన్ చేసేటప్పుడు మెయిన్ మెనూను తెరవాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Do you want to open the Main Menu when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "సెట్టింగ్ మార్చబడింది",
+    "original": {
+      "value": "The setting has been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "శోధనను మూసివేయండి",
+    "original": {
+      "value": "Close Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "మీరు ఎదుర్కొన్న సమస్యను వివరంగా వివరించండి, నువోల్ AIని మెరుగుపరచడానికి మీకు ఉన్న ఏవైనా ప్రశ్నలు లేదా ఆలోచనలతో పాటు",
+    "original": {
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "ఈ పారామితి యొక్క సెట్టింగ్‌లను మార్చాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Don’t want to change the settings of this parameter?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "మధ్యస్థం",
+    "original": {
+      "value": "Medium",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "ఇంటర్నెట్‌లో సమాచారం కోసం ఆటోమేటిక్‌గా శోధించండి",
+    "original": {
+      "value": "Automatically Search for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 మార్పులు",
+    "original": {
+      "value": "21 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "మీరు ${Count} కనుగొన్న ${Chats}లను తొలగించాలనుకుంటున్నారా? మీరు “కనుగొన్న చాట్‌లను తొలగించండి” ఎంచుకోవడం ద్వారా మాత్రమే అవసరమైన చాట్‌లను తొలగించవచ్చు. “అన్ని కనుగొన్న చాట్‌లను తొలగించండి” బటన్‌పై క్లిక్ చేయడం ద్వారా, అన్ని కనుగొన్న చాట్‌లు పునరుద్ధరణ సాధ్యం కాకుండా తొలగించబడతాయని మీరు అంగీకరిస్తున్నారు.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "మీరు ఉపయోగించాలనుకుంటున్న పేజీలను ఎంచుకోండి",
+    "original": {
+      "value": "Select the pages you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "${Name} సర్వర్ స్థితి",
+    "original": {
+      "value": "Server status of ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "నువోల్ AI ఉపయోగం కోసం మెరుగైన అనుభవం కోసం సిఫార్సు చేయబడింది",
+    "original": {
+      "value": "Recommended for a better experience of Nuvole AI usage",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "పూర్తి సందేశాన్ని దాచండి",
+    "original": {
+      "value": "Hide Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "చిత్రాలు ఉత్పత్తి చేసేటప్పుడు ప్రోంప్ట్‌ను మెరుగుపరచాలనుకుంటున్నారా",
+    "original": {
+      "value": "Select whether you want to improve prompt to generate images with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "మీ ప్రశ్న అడగండి",
+    "original": {
+      "value": "Ask Your Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "చాట్ పేరును “${Text}” నుండి మరొకదానికి మార్చండి",
+    "original": {
+      "value": "Change the chat name “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "శోధన ప్రశ్నను మార్చండి",
+    "original": {
+      "value": "Change Search Query",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "మీ ఫీడ్‌బ్యాక్‌కు ధన్యవాదాలు! ఇది నువోల్ AIని మెరుగుపరచడంలో సహాయపడుతుంది!",
+    "original": {
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "లోపం",
+    "original": {
+      "value": "Error",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "సారాంశం చేయండి",
+    "original": {
+      "value": "Make a Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "ఈ చాట్‌కు మీరు ఏ పేరు ఇవ్వాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What name do you want to give this chat?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "“${Name}” చాట్ చరిత్ర లోడ్ చేయబడింది.",
+    "original": {
+      "value": "The history of “${Name}” chat is loaded.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "ఇది మీ సమస్యను మెరుగ్గా అర్థం చేసుకోవడంలో సహాయపడవచ్చు",
+    "original": {
+      "value": "This may give a better understanding of your problem, if you have one",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "కనుగొన్న చాట్‌లను ఎంచుకోండి మరియు తొలగించండి",
+    "original": {
+      "value": "Select and Delete Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "మీరు ఏమి అడగాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What do you want to ask?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "ఇన్స్టాలేషన్ ప్రక్రియ పూర్తయింది!\nనువోల్ AI మరియు దాని ఫీచర్ల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా?",
+    "original": {
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "సారాంశం",
+    "original": {
+      "value": "Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "స్క్రాచ్ నుండి ప్రారంభించండి",
+    "original": {
+      "value": "Start from scratch",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "సెట్టింగ్‌లు",
+    "original": {
+      "value": "Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "అదనపు",
+    "original": {
+      "value": "Additional",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "మీరు ఈ అప్‌డేట్‌ను తర్వాత రౌటిన్‌హబ్ ద్వారా ఇన్స్టాల్ చేయవచ్చు",
+    "original": {
+      "value": "You can later install this update via the RoutineHub",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "${Name} ఉపయోగించి అభ్యర్థనను పునరావృతం చేయండి",
+    "original": {
+      "value": "Repeat request using ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "ఆలోచన ప్రక్రియ సమయంలో లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during the thinking process.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "చాట్ ఐకాన్ “${Text}” నుండి మరొకదానికి మార్చండి",
+    "original": {
+      "value": "Change the chat icon “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "సెట్టింగ్ మార్చబడలేదు",
+    "original": {
+      "value": "The setting has not been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "ఈ చాట్ ఆటోమేటిక్‌గా లోడ్ చేయబడుతుంది",
+    "original": {
+      "value": "This chat will load automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "చాట్‌లను కనుగొనడానికి మీరు శోధించాలనుకుంటున్న టెక్స్ట్‌ను రాయండి. చాట్‌ల పేర్లు మరియు వాటి కంటెంట్ తనిఖీ చేయబడతాయి (కేస్ సెన్సిటివ్ కాదు, రెగ్యులర్ ఎక్స్‌ప్రెషన్‌లను మద్దతు ఇస్తుంది).",
+    "original": {
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "అనామకంగా",
+    "original": {
+      "value": "Anonymously",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "నువోల్ AI మీరు ఎంచుకున్న మోడల్‌ను ఉపయోగిస్తుంది",
+    "original": {
+      "value": "Nuvole AI will use the model that you will select",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "హలో! నేను మీకు ఎలా సహాయం చేయగలను?",
+    "original": {
+      "value": "Hello! How can I help you?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "పెద్దది",
+    "original": {
+      "value": "Big",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "మీరు పొందాలనుకుంటున్న సారాంశం యొక్క పరిమాణాన్ని ఎంచుకోండి",
+    "original": {
+      "value": "Select the size of summarization you want to receive",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "మెయిన్ మెనూకు తిరిగి రండి",
+    "original": {
+      "value": "Return to Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "మీ ప్రెజెంటేషన్ మీకు చూపబడుతుంది",
+    "original": {
+      "value": "Before selecting, you will be shown your presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "చరిత్ర",
+    "original": {
+      "value": "History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "సారాంశం పరిమాణం",
+    "original": {
+      "value": "Summarization Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "సమాధానాన్ని ప్రదర్శించడం",
+    "original": {
+      "value": "Displaying the Answer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "చాట్ చరిత్రను ప్రదర్శించవద్దు",
+    "original": {
+      "value": "Do Not Display Chat History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "నువోల్ AIతో చాటింగ్ కొనసాగించండి",
+    "original": {
+      "value": "Continue Chatting with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "అభ్యర్థనను నమోదు చేయడం",
+    "original": {
+      "value": "Entering a Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "ప్రతిస్పందనను ప్రదర్శించడానికి ఫాంట్ పరిమాణాన్ని ఎంచుకోండి (డిఫాల్ట్‌గా 48 పిక్సెల్స్)",
+    "original": {
+      "value": "Select the font size to display the response (48 pixels by default)",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "నువోల్ AI భాష",
+    "original": {
+      "value": "Nuvole AI Language",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "నువోల్ AI యొక్క లైట్ వెర్షన్",
+    "original": {
+      "value": "Lighter Version of Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "AIతో ప్రోంప్ట్‌ను మెరుగుపరచండి",
+    "original": {
+      "value": "Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "మోడల్‌ను మార్చాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Don’t want to change the model?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "చాట్ సేవింగ్",
+    "original": {
+      "value": "Chat Saving",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "AI కోసం అభ్యర్థనను నమోదు చేయడానికి మీకు సౌకర్యంగా ఉండే మార్గాన్ని ఎంచుకోండి",
+    "original": {
+      "value": "Select the most convenient way for you to enter a request for AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "ఈ చాట్‌లను పునరుద్ధరణ సాధ్యం కాకుండా తొలగించండి",
+    "original": {
+      "value": "Delete this chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "సిఫార్సు చేయబడింది",
+    "original": {
+      "value": "Recomended",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "వాయిస్‌తో",
+    "original": {
+      "value": "With Voice",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "రన్ చేసేటప్పుడు తెరవవద్దు",
+    "original": {
+      "value": "Don’t Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "నోట్ ఉత్పత్తి సమయంలో లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during note generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "పూర్తి ప్రెజెంటేషన్‌ను ఉపయోగించండి",
+    "original": {
+      "value": "Use the Whole Presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "అభ్యర్థనను పునరావృతం చేయండి",
+    "original": {
+      "value": "Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 అప్‌డేట్‌లు",
+    "original": {
+      "value": "2 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "రన్ చేసేటప్పుడు తెరవండి",
+    "original": {
+      "value": "Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "అప్‌డేట్ ${Num} దాచబడింది",
+    "original": {
+      "value": "Update ${Num} is hidden",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "ఇమెయిల్ ఉపయోగించి",
+    "original": {
+      "value": "Using Email",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "విదాయకం!",
+    "original": {
+      "value": "Goodbye!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "జనరల్ సెట్టింగ్‌లు",
+    "original": {
+      "value": "General Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 మార్పులు",
+    "original": {
+      "value": "2 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 అప్‌డేట్‌లు",
+    "original": {
+      "value": "21 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "మీరు “${Text}” చాట్‌ను తొలగించాలనుకుంటున్నారా? “చాట్‌ను తొలగించండి” బటన్‌పై క్లిక్ చేయడం ద్వారా, ఈ చాట్ పునరుద్ధరణ సాధ్యం కాకుండా తొలగించబడుతుందని మీరు అంగీకరిస్తున్నారు.",
+    "original": {
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "“షేర్ షీట్” మెనూ నుండి అంశాలతో మీరు ఏమి చేయాలనుకుంటున్నారో ఎంచుకోండి",
+    "original": {
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "అన్ని కనుగొన్న చాట్‌లను తొలగించండి",
+    "original": {
+      "value": "Delete All Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "పూర్తి ఫైల్‌ను ఉపయోగించాలా? లేదా నిర్దిష్ట పేజీలను?",
+    "original": {
+      "value": "Use the whole file? Or certain pages?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "చిత్రాలు ఉత్పత్తి చేసేటప్పుడు NSFW కంటెంట్‌ను ఫిల్టర్ చేయండి",
+    "original": {
+      "value": "Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "NSFW కంటెంట్ ఫిల్టరింగ్",
+    "original": {
+      "value": "NSFW Content Filtering",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "నువోల్ AIని మీ అవసరాలకు సరిగ్గా సరిపోయేలా సవరించండి మరియు అనుకూలీకరించండి",
+    "original": {
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "నువోల్ AI లైట్ కోసం రౌటిన్‌హబ్ పేజీకి మీరు రిడైరెక్ట్ చేయబడతారు",
+    "original": {
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "పూర్తి నోట్‌ను చూపించండి",
+    "original": {
+      "value": "Show Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 చాట్‌లు",
+    "original": {
+      "value": "21 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "మీరు ${Count} ఎంచుకున్న ${Chats}లను తొలగించాలనుకుంటున్నారా? “ఎంచుకున్న చాట్‌లను తొలగించండి” బటన్‌పై క్లిక్ చేయడం ద్వారా, మీరు ఎంచుకున్న చాట్‌లు పునరుద్ధరణ సాధ్యం కాకుండా తొలగించబడతాయని మీరు అంగీకరిస్తున్నారు.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "సెట్టింగ్‌లను మూసివేయండి",
+    "original": {
+      "value": "Close Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "పునరుద్ధరణ సాధ్యం కాకుండా అన్ని కనుగొన్న చాట్‌లను తొలగించండి",
+    "original": {
+      "value": "Delete all found chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "పూర్తి ఫైల్‌ను ఉపయోగించండి",
+    "original": {
+      "value": "Use the Whole File",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "AI మోడల్‌ను మార్చండి మరియు అభ్యర్థనను పునరావృతం చేయండి",
+    "original": {
+      "value": "Change the AI Model and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "ఉపయోగించాలనుకుంటున్న స్లైడ్‌లను ఎంచుకోండి",
+    "original": {
+      "value": "Select the Slides to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL యొక్క టెలిగ్రామ్ ఛానెల్‌కు సబ్స్క్రైబ్ చేయండి",
+    "original": {
+      "value": "Subscribe to MIKL’s Telegram Channel",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "లైట్",
+    "original": {
+      "value": "Light",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "తొలగించవద్దు",
+    "original": {
+      "value": "Do Not Delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 సందేశాలు",
+    "original": {
+      "value": "5 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "మరేదైనా మరొకటి?",
+    "original": {
+      "value": "Maybe something else?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "ఈ అప్‌డేట్‌ను ఆఫర్ చేయవద్దు",
+    "original": {
+      "value": "Do Not Offer This Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "చాట్ పేరును మార్చండి",
+    "original": {
+      "value": "Rename Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "నువోల్ AI నుండి నిష్క్రమించండి",
+    "original": {
+      "value": "Exit the Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "చరిత్రను తొలగించాలనుకుంటున్నారా? మీరు “చాట్‌లను ఎంచుకోండి మరియు తొలగించండి” ఎంచుకోవడం ద్వారా మాత్రమే అవసరమైన చాట్‌లను తొలగించవచ్చు. “అన్ని చాట్‌లను తొలగించండి” బటన్‌పై క్లిక్ చేయడం ద్వారా, అన్ని చాట్‌లు పునరుద్ధరణ సాధ్యం కాకుండా తొలగించబడతాయని మీరు అంగీకరిస్తున్నారు.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "చిత్రం ఉత్పత్తి",
+    "original": {
+      "value": "Image Generation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "అప్‌డేట్‌ను ఇన్స్టాల్ చేయవద్దు",
+    "original": {
+      "value": "Do Not Install the Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "ఈ వీడియోతో మీరు ఏమి చేయాలనుకుంటున్నారు?",
+    "original": {
+      "value": "What do you want to do with this video?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "ప్రస్తుతం, నువోల్ AI మీరు ఎంచుకున్న మోడల్‌ను ఉపయోగిస్తుంది, కానీ తదుపరి ${Name}",
+    "original": {
+      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "అభ్యర్థనను ప్రక్రియ చేసేటప్పుడు లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during processing the request.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "అభ్యర్థనపై మాత్రమే కొత్త చాట్‌లను సేవ్ చేయండి",
+    "original": {
+      "value": "Save New Chats Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "కనిష్ట విలువ: 22",
+    "original": {
+      "value": "Minimum value: 22",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "${Text} అభ్యర్థనపై ${Count chats} కనుగొనబడ్డాయి",
+    "original": {
+      "value": "${Count chats} found on request “${Text}”",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "మీ సందేశాలు మరియు AI ప్రతిస్పందనలను కలిగి ఉన్న ఈ చాట్‌ను డెవలపర్‌తో పంచుకోవాలనుకుంటున్నారా?",
+    "original": {
+      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "అవును, నా నువోల్ AI కాన్ఫిగ్‌ను పంపండి",
+    "original": {
+      "value": "Yes, Transmit My Nuvole AI Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "లోపం చాలా తరచుగా పునరావృతం అవుతుందా?",
+    "original": {
+      "value": "Is the Error Repeating Too Often?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "ఉపయోగించాలనుకుంటున్న పేజీలను ఎంచుకోండి",
+    "original": {
+      "value": "Select the Pages to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "మీరు విలువను చాలా ఎక్కువగా సెట్ చేసారు",
+    "original": {
+      "value": "You have set the value too high",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "డెవలపర్ నుండి ఫీడ్‌బ్యాక్ పొందలేరు",
+    "original": {
+      "value": "You won’t be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "నువోల్ AI కోసం రౌటిన్‌హబ్ వివరణ పేజీకి మీరు రిడైరెక్ట్ చేయబడతారు",
+    "original": {
+      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "${Count} ఎంచుకున్న ${Chats}లను తొలగించండి",
+    "original": {
+      "value": "Delete ${Count} Selected ${Chats}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 వెర్షన్లు",
+    "original": {
+      "value": "5 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "చరిత్రను మూసివేయండి",
+    "original": {
+      "value": "Close History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "కొత్త చాట్‌లను ఎలా సేవ్ చేయాలనుకుంటున్నారు?",
+    "original": {
+      "value": "How do you want to save new chats?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "ఫాంట్ పరిమాణం",
+    "original": {
+      "value": "Font Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "దురదృష్టవశాత్తు, నువోల్ AI .{Extension} ఫైల్‌లతో పని చేయలేదు",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "మీరు విలువను చాలా తక్కువగా సెట్ చేసారు",
+    "original": {
+      "value": "You have set the value too small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "ఆటోమేటిక్‌గా",
+    "original": {
+      "value": "Automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "అదే మోడల్‌ను ఉపయోగించి అభ్యర్థనను పునరావృతం చేయండి",
+    "original": {
+      "value": "Repeat Request Using the Same Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "చిత్రాన్ని ప్రక్రియ చేసేటప్పుడు లోపం సంభవించింది.",
+    "original": {
+      "value": "An error occurred during processing the image.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "మీరు పొందాలనుకుంటున్న సారాంశం యొక్క పరిమాణాన్ని ఎంచుకోండి",
+    "original": {
+      "value": "Select the size of summarization you want to get",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 వెర్షన్లు",
+    "original": {
+      "value": "21 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "అప్‌డేట్‌ల గురించి నోటిఫికేషన్‌లు పొందాలనుకుంటున్నారా",
+    "original": {
+      "value": "Select whether you want to receive notifications about updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "ఇది మీ సమస్యను మెరుగ్గా అర్థం చేసుకోవడంలో సహాయపడవచ్చు",
+    "original": {
+      "value": "This may give a better understanding of your problem",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "అవును, నా పరికరంలో నోట్‌ను సృష్టించి సేవ్ చేయండి",
+    "original": {
+      "value": "Yes, Generate and Save a Note on My Device",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "కాదు, కాన్ఫిగ్‌ను పంపవద్దు",
+    "original": {
+      "value": "No, Not Transmit Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "చాట్‌ను చూడండి",
+    "original": {
+      "value": "View Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "ఈ చాట్‌ను తొలగించండి",
+    "original": {
+      "value": "Delete This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "చాట్ పేరు ఖాళీ స్ట్రింగ్ కాదు",
+    "original": {
+      "value": "The chat name cannot be an empty string",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "చాట్ చరిత్రను ప్రదర్శించండి",
+    "original": {
+      "value": "Display Chat History ",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "మీ ఫైల్ మీకు చూపబడుతుంది",
+    "original": {
+      "value": "Before selecting, you will be shown your file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 చాట్‌లు",
+    "original": {
+      "value": "5 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "అభ్యర్థన రకం",
+    "original": {
+      "value": "Request Type",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "వెనక్కి",
+    "original": {
+      "value": "Back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "గరిష్ట విలువ: 62",
+    "original": {
+      "value": "Maximum value: 62",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "దురదృష్టవశాత్తు, నువోల్ AI ఈ ప్రెజెంటేషన్‌తో పని చేయలేదు",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "ఇంటర్నెట్‌లో సమాచారం కోసం శోధించవద్దు",
+    "original": {
+      "value": "Do Not Look for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "మీ చాట్‌లలో శోధించండి",
+    "original": {
+      "value": "Search among your chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "పూర్తి ఆలోచనలను చూపించండి",
+    "original": {
+      "value": "Show Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "మీ అభ్యర్థనకు ఏమీ కనుగొనబడలేదు",
+    "original": {
+      "value": "Nothing was found for your request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "నువోల్ AI దాని పనిని పూర్తి చేస్తుంది",
+    "original": {
+      "value": "Nuvole AI will complete its work",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "పాక్షిక సమస్యలు.",
+    "original": {
+      "value": "Partial problems.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "ఎంచుకున్న సెట్టింగ్",
+    "original": {
+      "value": "Selected setting",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  }
+}

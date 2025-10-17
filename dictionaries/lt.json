@@ -1,0 +1,2572 @@
+{
+  "Settings_N_NAME-Search": {
+    "value": "Interneto paieška",
+    "original": {
+      "value": "Internet Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "Didžioji gedimo priežastis.",
+    "original": {
+      "value": "Major outage.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "Tikrinama ar yra atnaujinimų",
+    "original": {
+      "value": "Checking for Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "Deja, Nuvole AI negali dirbti su šiuo failu",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 pokalbiai",
+    "original": {
+      "value": "2 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "Galėsite gauti atsiliepimą iš kūrėjo",
+    "original": {
+      "value": "You will be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "Mąstymas ${Num} sekundžių",
+    "original": {
+      "value": "Thought for ${Num} seconds",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "Kaip norite siųsti atsiliepimą?",
+    "original": {
+      "value": "How you want to send feedback?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "Ištrinti visus pokalbius",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "Pasirinkite išvaizdą, kurią norite taikyti atsakymų rodymui",
+    "original": {
+      "value": "Select the appearance to be applied to the display of responses",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "{\"value\":\"Yes, Transmit the History of This Chat\",\"translatedBy\":\"human\",\"isTranslated\":true,\"version\":1}",
+    "original": {
+      "value": "Yes, Transmit the History of This Chat",
+      "version": 1
+    },
+    "translatedBy": "none",
+    "isTranslated": false,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "Žinutė išsiųsta!",
+    "original": {
+      "value": "Message sent!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "Su tekstu",
+    "original": {
+      "value": "With Text",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "Ar norite siųsti Nuvole AI konfigūraciją kūrėjui?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "Pasirinkite, kuriuos pokalbius norite ištrinti",
+    "original": {
+      "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "Sistema",
+    "original": {
+      "value": "System",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "Ištrinti pokalbį",
+    "original": {
+      "value": "Delete Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 žinutės",
+    "original": {
+      "value": "2 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "Tik pagal prašymą",
+    "original": {
+      "value": "Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 atnaujinimai",
+    "original": {
+      "value": "5 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "Nuo versijos ${Num} buvo išleista ${Count} versijų",
+    "original": {
+      "value": "${Count versions} have been released since version ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "Įjungta",
+    "original": {
+      "value": "Turned On",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "Pagrindinis meniu",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "Įrenginio valdymo įspėjimas!",
+    "original": {
+      "value": "Device management alert!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Ištrinti visą pokalbių istoriją su Nuvole AI be galimybės atkurti",
+    "original": {
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "Klausimas",
+    "original": {
+      "value": "Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Žiūrėti išsamesnį keitimų sąrašą",
+    "original": {
+      "value": "View More Detailed Changelog",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "Atidaryti pagrindinį meniu su kiekvienu nauju paleidimu",
+    "original": {
+      "value": "Open the Main Menu with Each New Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "Parašyti atsiliepimą",
+    "original": {
+      "value": "Write a Feedback",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "Pagrindinis meniu",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "Pasirinkite slaidus, kuriuos norite naudoti",
+    "original": {
+      "value": "Select the slides you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Įvyko klaida generuojant vaizdą.",
+    "original": {
+      "value": "An error occurred during image generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 versijos",
+    "original": {
+      "value": "2 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "Daugiau",
+    "original": {
+      "value": "More",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "Slėpti visą pastabą",
+    "original": {
+      "value": "Hide Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "Visi sistemų veikia normaliai.",
+    "original": {
+      "value": "All systems are working properly.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "Sukurti naują pokalbį",
+    "original": {
+      "value": "Create a New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "Sukurti naują pokalbį",
+    "original": {
+      "value": "Create New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "Deja, Nuvole AI negali dirbti su šiuo vaizdo įrašu",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "Daugiau informacijos apie Nuvole AI",
+    "original": {
+      "value": "More Information about Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Ištrinti šį pokalbį be galimybės atkurti",
+    "original": {
+      "value": "Delete this chat without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "Negauti atnaujinimų",
+    "original": {
+      "value": "Do Not Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "Ar norite, kad Nuvole AI ieškotų informacijos internete, jei reikia?",
+    "original": {
+      "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "Nefiltruoti NSFW turinio generuojant vaizdus",
+    "original": {
+      "value": "Do Not Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "Pokalbis bus išsaugotas",
+    "original": {
+      "value": "Chat will be saved",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 pakeitimai",
+    "original": {
+      "value": "5 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "Tęsti pokalbį su Nuvole AI",
+    "original": {
+      "value": "Continue the conversation with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "Ką norite daryti su šiuo tinklalapiu?",
+    "original": {
+      "value": "What do you want to do with this site?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "Išvaizda",
+    "original": {
+      "value": "Appearance",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 atnaujinimas",
+    "original": {
+      "value": "1 update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "Visada",
+    "original": {
+      "value": "Always",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "Įkelti ir tęsti pokalbį",
+    "original": {
+      "value": "Load and Continue Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "Slėpti visą mąstymą",
+    "original": {
+      "value": "Hide Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "Pranešti apie klaidą",
+    "original": {
+      "value": "Report a bug",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "Šiuo metu nepasiekiama",
+    "original": {
+      "value": "Not available at the moment",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Nepagerinti užklausos su AI",
+    "original": {
+      "value": "Do Not Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "Ką norite daryti toliau?",
+    "original": {
+      "value": "What do you want to do next?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "Aprašykite išsamią problemą, su kuria susidūrėte",
+    "original": {
+      "value": "Describe in detail the problem you have encountered",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "Dalintis lapeliu",
+    "original": {
+      "value": "Share Sheet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "Naršyti, ieškoti, žiūrėti ir tęsti savo pokalbius su Nuvole AI",
+    "original": {
+      "value": "Browse, search, view and continue your chats with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "Grįžti į istoriją",
+    "original": {
+      "value": "Return to History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "Išsaugoti pokalbį ir grįžti",
+    "original": {
+      "value": "Save chat and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "Gauti atnaujinimus",
+    "original": {
+      "value": "Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "Ką norite daryti su šiuo failu?",
+    "original": {
+      "value": "What do you want to do with this file?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 pakeitimas",
+    "original": {
+      "value": "1 change",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "Deja, Nuvole AI negali dirbti su šiuo tinklalapiu",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "Paieška",
+    "original": {
+      "value": "Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "Tęsti įkėlus paskutinį pokalbį",
+    "original": {
+      "value": "Continue by Loading the Last Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "Prieš ${Seconds}",
+    "original": {
+      "value": "${Seconds} ago",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "Padaryti ${Size} tinklalapio santrauką",
+    "original": {
+      "value": "Make a ${Size} summarization of the site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "Bus sukurtas naujas pokalbis",
+    "original": {
+      "value": "New chat will be created",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "Kokį piktogramą norite suteikti šiam pokalbiui (galite naudoti tik vieną emoji)?",
+    "original": {
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Ar yra kokių nors problemų, klausimų ar idėjų, kaip pagerinti Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "Padaryti ${Size} vaizdo įrašo santrauką",
+    "original": {
+      "value": "Make a ${Size} summarization of the video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "Naudoti visą pranešimą? Arba tam tikrus slaidus?",
+    "original": {
+      "value": "Use the whole presentation? Or certain slides?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "Paleisti iš naujo Nuvole AI",
+    "original": {
+      "value": "Restart Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "Rasta ${Num} rezultatų",
+    "original": {
+      "value": "Found ${Num} results",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "Sekite oficialų MIKL kanalą, kad gautumėte naujienas apie Nuvole AI ir kitus projektus.",
+    "original": {
+      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "Yra naujas Nuvole AI atnaujinimas!",
+    "original": {
+      "value": "A new update for Nuvole AI is available!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "AI modelis",
+    "original": {
+      "value": "AI Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "Visada išsaugoti naujus pokalbius",
+    "original": {
+      "value": "Always Save New Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "Padaryti ${Size} failo santrauką",
+    "original": {
+      "value": "Make a ${Size} summarization of the file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "Mažas",
+    "original": {
+      "value": "Small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "Tamsus",
+    "original": {
+      "value": "Dark",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "Klausti kiekvieną kartą",
+    "original": {
+      "value": "Ask Every Time",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "Pakeisti AI modelį šiai sesijai ir pakartoti prašymą",
+    "original": {
+      "value": "Change the AI Model for This Session Only and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "Atrodo, kad modelis ${Name}, kurį pasirinkote anksčiau, dabar nebeprieinamas. Kurį AI modelį norite naudoti?",
+    "original": {
+      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "Be atidarymo įvedimui prašymą",
+    "original": {
+      "value": "Without Opening to Enter the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "Kai piktogramos gali būti naudojamos tik emoji",
+    "original": {
+      "value": "Only emojis can be used as an icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "Ne, nesiuosti istorijos",
+    "original": {
+      "value": "No, Not Transmit the History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "Pasirinkti ir ištrinti pokalbius",
+    "original": {
+      "value": "Select and Delete Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "Ištrinti visus pokalbius",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 pokalbis",
+    "original": {
+      "value": "1 chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Įvyko klaida generuojant tekstą.",
+    "original": {
+      "value": "An error occurred during text generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Pagerinti užklausą naudojant AI",
+    "original": {
+      "value": "Improving the Prompt Using AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "Ar norite sukurti naują pokalbį arba įkelti ir tęsti paskutinį, kai paleidžiate Nuvole AI?",
+    "original": {
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "Išsaugoti pokalbius ir grįžti",
+    "original": {
+      "value": "Save chats and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "Pakeisti pokalbio piktogramą",
+    "original": {
+      "value": "Change Chat Icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "Rodyti visą žinutę",
+    "original": {
+      "value": "Show Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "Įdiegti naują ${Num} versiją",
+    "original": {
+      "value": "Install a New ${Num} Version",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Kurį AI modelį norite naudoti?",
+    "original": {
+      "value": "Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "Praleisti ir pradėti dirbti su Nuvole AI",
+    "original": {
+      "value": "Skip and Start Working with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Įkelti paskutinį pokalbį paleidžiant",
+    "original": {
+      "value": "Last Chat Load When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "Išjungta",
+    "original": {
+      "value": "Turned Off",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "Ne, praleisti šį veiksmą",
+    "original": {
+      "value": "No, Skip This Action",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "Ar norite sukurti ir išsaugoti pastabą „${Title}“ su Nuvole AI?",
+    "original": {
+      "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "Pasirinkite, ar norite rodyti sesijos istoriją",
+    "original": {
+      "value": "Select whether you want to display the session history",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "Pasirinkite kalbą, kuria jums bus patogu dirbti su Nuvole AI",
+    "original": {
+      "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "Prašymo apdorojimas",
+    "original": {
+      "value": "Processing of the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "Jūsų reikšmė: ${Num}",
+    "original": {
+      "value": "Your value: ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "Automatiškai įkelti ir tęsti paskutinį pokalbį paleidžiant",
+    "original": {
+      "value": "Automatically Load and Continue Last Chat When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "Pokalbių istorijos rodymas",
+    "original": {
+      "value": "Chat History Displaying",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "Ar norite atidaryti pagrindinį meniu paleidžiant Nuvole AI?",
+    "original": {
+      "value": "Do you want to open the Main Menu when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "Nustatymas buvo pakeistas",
+    "original": {
+      "value": "The setting has been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "Uždaryti paiešką",
+    "original": {
+      "value": "Close Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "Aprašykite išsamią problemą, su kuria susidūrėte, kartu su bet kokiais klausimais ar idėjomis, kaip pagerinti Nuvole AI",
+    "original": {
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "Nenorite keisti šio parametro nustatymų?",
+    "original": {
+      "value": "Don’t want to change the settings of this parameter?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "Vidutinis",
+    "original": {
+      "value": "Medium",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "Automatiškai ieškoti informacijos internete",
+    "original": {
+      "value": "Automatically Search for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 pakeitimai",
+    "original": {
+      "value": "21 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "Ar tikrai norite ištrinti ${Count} rastus ${Chats}? Galite ištrinti tik reikalingus pokalbius pasirinkę „Pasirinkti ir ištrinti rastus pokalbius“ ankstesniame meniu. Paspaudę „Ištrinti visus rastus pokalbius“ mygtuką, sutinkate, kad visi rasti pokalbiai bus ištrinti be galimybės atkurti.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "Pasirinkite puslapius, kuriuos norite naudoti",
+    "original": {
+      "value": "Select the pages you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "Serverio būsena ${Name}",
+    "original": {
+      "value": "Server status of ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Rekomenduojama geriau patirti Nuvole AI naudojimą",
+    "original": {
+      "value": "Recommended for a better experience of Nuvole AI usage",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "Slėpti visą žinutę",
+    "original": {
+      "value": "Hide Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "Pasirinkite, ar norite pagerinti užklausą generuojant vaizdus su AI",
+    "original": {
+      "value": "Select whether you want to improve prompt to generate images with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "Užduokite savo klausimą",
+    "original": {
+      "value": "Ask Your Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "Pakeisti pokalbio pavadinimą „${Text}“ į kitą",
+    "original": {
+      "value": "Change the chat name “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "Pakeisti paieškos užklausą",
+    "original": {
+      "value": "Change Search Query",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "Ačiū už jūsų atsiliepimą! Tai padės pagerinti Nuvole AI!",
+    "original": {
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "Klaida",
+    "original": {
+      "value": "Error",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "Padaryti santrauką",
+    "original": {
+      "value": "Make a Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "Kokį pavadinimą norite suteikti šiam pokalbiui?",
+    "original": {
+      "value": "What name do you want to give this chat?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "Įkelta „${Name}“ pokalbio istorija.",
+    "original": {
+      "value": "The history of “${Name}” chat is loaded.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "Tai gali suteikti geresnį jūsų problemos supratimą, jei ją turite",
+    "original": {
+      "value": "This may give a better understanding of your problem, if you have one",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "Pasirinkti ir ištrinti rastus pokalbius",
+    "original": {
+      "value": "Select and Delete Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "Ką norite klausyti?",
+    "original": {
+      "value": "What do you want to ask?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "Įdiegimo procesas baigtas!\nAr norite sužinoti daugiau apie Nuvole AI ir jos funkcijas?",
+    "original": {
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "Santrauka",
+    "original": {
+      "value": "Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "Pradėti iš naujo",
+    "original": {
+      "value": "Start from scratch",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "Nustatymai",
+    "original": {
+      "value": "Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "Papildomi",
+    "original": {
+      "value": "Additional",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "Vėliau galite įdiegti šį atnaujinimą per RoutineHub",
+    "original": {
+      "value": "You can later install this update via the RoutineHub",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "Pakartoti prašymą naudojant ${Name}",
+    "original": {
+      "value": "Repeat request using ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "Įvyko klaida mąstymo proceso metu.",
+    "original": {
+      "value": "An error occurred during the thinking process.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "Pakeisti pokalbio piktogramą „${Text}“ į kitą",
+    "original": {
+      "value": "Change the chat icon “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "Nustatymas nebuvo pakeistas",
+    "original": {
+      "value": "The setting has not been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "Šis pokalbis bus įkeltas automatiškai",
+    "original": {
+      "value": "This chat will load automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "Parašykite tekstą, pagal kurį norite rasti pokalbius. Bus tikrinami pokalbių pavadinimai ir jų turinys (nereikalinga didžiųjų raidžių, palaiko regex).",
+    "original": {
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "Anonimiškai",
+    "original": {
+      "value": "Anonymously",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Nuvole AI naudos modelį, kurį pasirinksite",
+    "original": {
+      "value": "Nuvole AI will use the model that you will select",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "Sveiki! Kaip galiu jums padėti?",
+    "original": {
+      "value": "Hello! How can I help you?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "Didelis",
+    "original": {
+      "value": "Big",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "Pasirinkite santraukos dydį, kurį norite gauti",
+    "original": {
+      "value": "Select the size of summarization you want to receive",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "Grįžti į pagrindinį meniu",
+    "original": {
+      "value": "Return to Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Prieš pasirinkimą, jums bus parodyta jūsų pranešimas",
+    "original": {
+      "value": "Before selecting, you will be shown your presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "Istorija",
+    "original": {
+      "value": "History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "Santraukos dydis",
+    "original": {
+      "value": "Summarization Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "Atsakymo rodymas",
+    "original": {
+      "value": "Displaying the Answer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "Nerodyti pokalbių istorijos",
+    "original": {
+      "value": "Do Not Display Chat History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "Tęsti pokalbį su Nuvole AI",
+    "original": {
+      "value": "Continue Chatting with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "Prašymo įvedimas",
+    "original": {
+      "value": "Entering a Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "Pasirinkite šrifto dydį atsakymo rodymui (numatyta 48 pikseliai)",
+    "original": {
+      "value": "Select the font size to display the response (48 pixels by default)",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Nuvole AI kalba",
+    "original": {
+      "value": "Nuvole AI Language",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "Lengvesnė Nuvole AI versija",
+    "original": {
+      "value": "Lighter Version of Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "Pagerinti užklausą su AI",
+    "original": {
+      "value": "Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "Nenorite keisti modelio?",
+    "original": {
+      "value": "Don’t want to change the model?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "Pokalbių išsaugojimas",
+    "original": {
+      "value": "Chat Saving",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "Pasirinkite jums patogiausią būdą įvedimui prašymą AI",
+    "original": {
+      "value": "Select the most convenient way for you to enter a request for AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Ištrinti šiuos pokalbius be galimybės atkurti",
+    "original": {
+      "value": "Delete this chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "Rekomenduojama",
+    "original": {
+      "value": "Recomended",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "Su balsu",
+    "original": {
+      "value": "With Voice",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "Neatidaryti paleidžiant",
+    "original": {
+      "value": "Don’t Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Įvyko klaida generuojant pastabą.",
+    "original": {
+      "value": "An error occurred during note generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "Naudoti visą pranešimą",
+    "original": {
+      "value": "Use the Whole Presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "Pakartoti prašymą",
+    "original": {
+      "value": "Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 atnaujinimai",
+    "original": {
+      "value": "2 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "Atidaryti paleidžiant",
+    "original": {
+      "value": "Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "Atnaujinimas ${Num} yra paslėptas",
+    "original": {
+      "value": "Update ${Num} is hidden",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "Naudojant el. paštą",
+    "original": {
+      "value": "Using Email",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "Viso gero!",
+    "original": {
+      "value": "Goodbye!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "Bendri nustatymai",
+    "original": {
+      "value": "General Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 pakeitimai",
+    "original": {
+      "value": "2 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 atnaujinimai",
+    "original": {
+      "value": "21 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "Ar tikrai norite ištrinti „${Text}“ pokalbį? Paspaudę „Ištrinti pokalbį“ mygtuką, sutinkate, kad šis pokalbis bus ištrintas be galimybės atkurti.",
+    "original": {
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "Pasirinkite, ką norite daryti su elementais iš „Dalintis lapeliu“ meniu",
+    "original": {
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "Ištrinti visus rastus pokalbius",
+    "original": {
+      "value": "Delete All Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "Naudoti visą failą? Arba tam tikrus puslapius?",
+    "original": {
+      "value": "Use the whole file? Or certain pages?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "Filtruoti NSFW turinį generuojant vaizdus",
+    "original": {
+      "value": "Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "NSFW turinio filtravimas",
+    "original": {
+      "value": "NSFW Content Filtering",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "Modifikuoti ir pritaikyti Nuvole AI, kad jums tiktų idealiai",
+    "original": {
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "Bus nukreipiami į RoutineHub puslapį Nuvole AI Lite",
+    "original": {
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "Rodyti visą pastabą",
+    "original": {
+      "value": "Show Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 pokalbis",
+    "original": {
+      "value": "21 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Ar tikrai norite ištrinti ${Count} pasirinktus ${Chats}? Paspaudę „Ištrinti pasirinktus pokalbius“ mygtuką, sutinkate, kad pokalbiai, kuriuos pasirinkote, bus ištrinti be galimybės atkurti.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "Uždaryti nustatymus",
+    "original": {
+      "value": "Close Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Ištrinti visus rastus pokalbius be galimybės atkurti",
+    "original": {
+      "value": "Delete all found chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "Naudoti visą failą",
+    "original": {
+      "value": "Use the Whole File",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "Pakeisti AI modelį ir pakartoti prašymą",
+    "original": {
+      "value": "Change the AI Model and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "Pasirinkite slaidus, kuriuos norite naudoti",
+    "original": {
+      "value": "Select the Slides to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "Prenumeruoti MIKL Telegram kanalą",
+    "original": {
+      "value": "Subscribe to MIKL’s Telegram Channel",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "Šviesus",
+    "original": {
+      "value": "Light",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "Neištrinti",
+    "original": {
+      "value": "Do Not Delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 žinutės",
+    "original": {
+      "value": "5 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "Galbūt kažkas kito?",
+    "original": {
+      "value": "Maybe something else?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "Nesiūlyti šio atnaujinimo",
+    "original": {
+      "value": "Do Not Offer This Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "Pervadinti pokalbį",
+    "original": {
+      "value": "Rename Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "Išeiti iš Nuvole AI",
+    "original": {
+      "value": "Exit the Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Ar tikrai norite ištrinti istoriją? Galite ištrinti tik reikalingus pokalbius pasirinkę „Pasirinkti ir ištrinti pokalbius“ ankstesniame meniu. Paspaudę „Ištrinti visus pokalbius“ mygtuką, sutinkate, kad visi pokalbiai bus ištrinti be galimybės atkurti.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "Vaizdo generavimas",
+    "original": {
+      "value": "Image Generation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "Neįdiegti atnaujinimo",
+    "original": {
+      "value": "Do Not Install the Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "Ką norite daryti su šiuo vaizdo įrašu?",
+    "original": {
+      "value": "What do you want to do with this video?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "Šiuo metu Nuvole AI naudos modelį, kurį pasirinksite, bet kitą kartą ${Name}",
+    "original": {
+      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "Įvyko klaida apdorojant prašymą.",
+    "original": {
+      "value": "An error occurred during processing the request.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "Išsaugoti naujus pokalbius tik pagal prašymą",
+    "original": {
+      "value": "Save New Chats Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "Minimalus dydis: 22",
+    "original": {
+      "value": "Minimum value: 22",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "Rasta ${Count} pokalbių pagal prašymą „${Text}“",
+    "original": {
+      "value": "${Count chats} found on request “${Text}”",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "Ar norite pasidalinti šiuo pokalbiu, kuriame yra jūsų žinutės ir AI atsakymai, su kūrėju?",
+    "original": {
+      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "Taip, siųsti mano Nuvole AI konfigūraciją",
+    "original": {
+      "value": "Yes, Transmit My Nuvole AI Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "Ar klaida pasikartoja per dažnai?",
+    "original": {
+      "value": "Is the Error Repeating Too Often?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "Pasirinkite puslapius, kuriuos norite naudoti",
+    "original": {
+      "value": "Select the Pages to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "Jūs nustatėte per didelę reikšmę",
+    "original": {
+      "value": "You have set the value too high",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "Negausite atsiliepimo iš kūrėjo",
+    "original": {
+      "value": "You won’t be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "Bus nukreipiami į RoutineHub aprašymo puslapį Nuvole AI",
+    "original": {
+      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "Ištrinti ${Count} pasirinktus ${Chats}",
+    "original": {
+      "value": "Delete ${Count} Selected ${Chats}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 versijos",
+    "original": {
+      "value": "5 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "Uždaryti istoriją",
+    "original": {
+      "value": "Close History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "Kaip norite išsaugoti naujus pokalbius?",
+    "original": {
+      "value": "How do you want to save new chats?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "Šrifto dydis",
+    "original": {
+      "value": "Font Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "Deja, Nuvole AI negali dirbti su failais .{Extension}",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "Jūs nustatėte per mažą reikšmę",
+    "original": {
+      "value": "You have set the value too small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "Automatiškai",
+    "original": {
+      "value": "Automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "Pakartoti prašymą naudojant tą patį modelį",
+    "original": {
+      "value": "Repeat Request Using the Same Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "Įvyko klaida apdorojant vaizdą.",
+    "original": {
+      "value": "An error occurred during processing the image.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "Pasirinkite santraukos dydį, kurį norite gauti",
+    "original": {
+      "value": "Select the size of summarization you want to get",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 versijos",
+    "original": {
+      "value": "21 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "Pasirinkite, ar norite gauti pranešimus apie atnaujinimus",
+    "original": {
+      "value": "Select whether you want to receive notifications about updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "Tai gali suteikti geresnį jūsų problemos supratimą",
+    "original": {
+      "value": "This may give a better understanding of your problem",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "Taip, sukurti ir išsaugoti pastabą savo įrenginyje",
+    "original": {
+      "value": "Yes, Generate and Save a Note on My Device",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "Ne, nesiuosti konfigūracijos",
+    "original": {
+      "value": "No, Not Transmit Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "Žiūrėti pokalbį",
+    "original": {
+      "value": "View Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "Ištrinti šį pokalbį",
+    "original": {
+      "value": "Delete This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "Pokalbio pavadinimas negali būti tuščias",
+    "original": {
+      "value": "The chat name cannot be an empty string",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "Rodyti pokalbių istoriją",
+    "original": {
+      "value": "Display Chat History ",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "Prieš pasirinkimą, jums bus parodytas jūsų failas",
+    "original": {
+      "value": "Before selecting, you will be shown your file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 pokalbiai",
+    "original": {
+      "value": "5 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "Prašymo tipas",
+    "original": {
+      "value": "Request Type",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "Atgal",
+    "original": {
+      "value": "Back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "Maksimalus dydis: 62",
+    "original": {
+      "value": "Maximum value: 62",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "Deja, Nuvole AI negali dirbti su šia pranešimu",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "Nesiekti informacijos internete",
+    "original": {
+      "value": "Do Not Look for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "Ieškoti savo pokalbių",
+    "original": {
+      "value": "Search among your chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "Rodyti visą mąstymą",
+    "original": {
+      "value": "Show Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "Niekas nebuvo rasta pagal jūsų prašymą",
+    "original": {
+      "value": "Nothing was found for your request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "Nuvole AI baigs savo darbą",
+    "original": {
+      "value": "Nuvole AI will complete its work",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "Dalinės problemos.",
+    "original": {
+      "value": "Partial problems.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "Pasirinktas nustatymas",
+    "original": {
+      "value": "Selected setting",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  }
+}

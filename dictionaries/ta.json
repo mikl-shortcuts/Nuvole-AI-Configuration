@@ -1,0 +1,2572 @@
+{
+  "Settings_N_NAME-Search": {
+    "value": "இணைய தேடல்",
+    "original": {
+      "value": "Internet Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "முக்கிய இடைநிறுத்தம்.",
+    "original": {
+      "value": "Major outage.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "புதுப்பிப்புகளை சரிபார்த்தல்",
+    "original": {
+      "value": "Checking for Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "இந்த கோப்புடன் Nuvole AI வேலை செய்ய முடியாது",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 உரையாடல்கள்",
+    "original": {
+      "value": "2 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "நீங்கள் டெவலப்பரிடமிருந்து கருத்துக்களை பெற முடியும்",
+    "original": {
+      "value": "You will be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "${Num} வினாடிகள் சிந்தித்தல்",
+    "original": {
+      "value": "Thought for ${Num} seconds",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "கருத்துக்களை எப்படி அனுப்ப விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "How you want to send feedback?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "அனைத்து உரையாடல்களையும் நீக்கவும்",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "பதில்களை காட்சிப்படுத்துவதற்கு தோற்றத்தை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the appearance to be applied to the display of responses",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "ஆம், இந்த உரையாடலின் வரலாற்றை அனுப்பவும்",
+    "original": {
+      "value": "Yes, Transmit the History of This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "செய்தி அனுப்பப்பட்டது!",
+    "original": {
+      "value": "Message sent!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "உரையுடன்",
+    "original": {
+      "value": "With Text",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "நீங்கள் டெவலப்பரிடம் Nuvole AI கட்டமைப்பை அனுப்ப விரும்புகிறீர்களா?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "நீங்கள் நீக்க விரும்பும் உரையாடல்களை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "முறை",
+    "original": {
+      "value": "System",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "உரையாடலை நீக்கவும்",
+    "original": {
+      "value": "Delete Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 செய்திகள்",
+    "original": {
+      "value": "2 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "கேட்டபோதெல்லாம்",
+    "original": {
+      "value": "Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 புதுப்பிப்புகள்",
+    "original": {
+      "value": "5 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "${Count versions} பதிப்பு ${Num} முதல் வெளியிடப்பட்டுள்ளது",
+    "original": {
+      "value": "${Count versions} have been released since version ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "இயக்கப்பட்டது",
+    "original": {
+      "value": "Turned On",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "முக்கிய மெனு",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "சாதன மேலாண்மை எச்சரிக்கை!",
+    "original": {
+      "value": "Device management alert!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Nuvole AI உடன் அனைத்து உரையாடல்களின் வரலாற்றையும் மீட்க முடியாமல் நீக்கவும்",
+    "original": {
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "கேள்வி",
+    "original": {
+      "value": "Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "மேலும் விவரமான மாற்றங்கள் பட்டியலை பார்க்கவும்",
+    "original": {
+      "value": "View More Detailed Changelog",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "ஒவ்வொரு புதிய இயக்கத்துடனும் முக்கிய மெனுவை திறக்கவும்",
+    "original": {
+      "value": "Open the Main Menu with Each New Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "கருத்துக்களை எழுதவும்",
+    "original": {
+      "value": "Write a Feedback",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "முக்கிய மெனு",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "நீங்கள் பயன்படுத்த விரும்பும் ஸ்லைடுகளை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the slides you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "படத்தை உருவாக்கும் போது பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during image generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 பதிப்புகள்",
+    "original": {
+      "value": "2 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "மேலும்",
+    "original": {
+      "value": "More",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "முழு குறிப்பை மறைக்கவும்",
+    "original": {
+      "value": "Hide Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "அனைத்து முறைமைகளும் சரியாக வேலை செய்கின்றன.",
+    "original": {
+      "value": "All systems are working properly.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "புதிய உரையாடலை உருவாக்கவும்",
+    "original": {
+      "value": "Create a New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "புதிய உரையாடலை உருவாக்கவும்",
+    "original": {
+      "value": "Create New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "இந்த வீடியோவுடன் Nuvole AI வேலை செய்ய முடியாது",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "Nuvole AI பற்றி மேலும் தகவல்",
+    "original": {
+      "value": "More Information about Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "இந்த உரையாடலை மீட்க முடியாமல் நீக்கவும்",
+    "original": {
+      "value": "Delete this chat without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "புதுப்பிப்புகளை பெற வேண்டாம்",
+    "original": {
+      "value": "Do Not Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "Nuvole AI இணையத்தில் தகவல்களை தேட வேண்டுமா?",
+    "original": {
+      "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "படங்களை உருவாக்கும் போது NSFW உள்ளடக்கத்தை வடிகட்ட வேண்டாம்",
+    "original": {
+      "value": "Do Not Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "உரையாடல் சேமிக்கப்படும்",
+    "original": {
+      "value": "Chat will be saved",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 மாற்றங்கள்",
+    "original": {
+      "value": "5 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "Nuvole AI உடன் உரையாடலை தொடரவும்",
+    "original": {
+      "value": "Continue the conversation with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "இந்த தளத்துடன் நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What do you want to do with this site?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "தோற்றம்",
+    "original": {
+      "value": "Appearance",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 புதுப்பிப்பு",
+    "original": {
+      "value": "1 update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "எப்போதும்",
+    "original": {
+      "value": "Always",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "உரையாடலை ஏற்றி தொடரவும்",
+    "original": {
+      "value": "Load and Continue Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "முழு சிந்தனைகளை மறைக்கவும்",
+    "original": {
+      "value": "Hide Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "பிழையை அறிக்கை செய்யவும்",
+    "original": {
+      "value": "Report a bug",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "இப்போது கிடைக்கவில்லை",
+    "original": {
+      "value": "Not available at the moment",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "AI உடன் உரையாடலை மேம்படுத்த வேண்டாம்",
+    "original": {
+      "value": "Do Not Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "அடுத்து என்ன செய்ய விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What do you want to do next?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "நீங்கள் எதிர்கொண்ட பிரச்சனையை விவரமாக விளக்கவும்",
+    "original": {
+      "value": "Describe in detail the problem you have encountered",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "பகிர்வு தாள்",
+    "original": {
+      "value": "Share Sheet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "Nuvole AI உடன் உங்கள் உரையாடல்களை உலாவவும், தேடவும், பார்க்கவும் மற்றும் தொடரவும்",
+    "original": {
+      "value": "Browse, search, view and continue your chats with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "வரலாற்றிற்கு திரும்பவும்",
+    "original": {
+      "value": "Return to History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "உரையாடலை சேமித்து திரும்பவும்",
+    "original": {
+      "value": "Save chat and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "புதுப்பிப்புகளை பெறவும்",
+    "original": {
+      "value": "Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "இந்த கோப்புடன் நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What do you want to do with this file?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 மாற்றம்",
+    "original": {
+      "value": "1 change",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "இந்த தளத்துடன் Nuvole AI வேலை செய்ய முடியாது",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "தேடல்",
+    "original": {
+      "value": "Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "கடைசி உரையாடலை ஏற்றி தொடரவும்",
+    "original": {
+      "value": "Continue by Loading the Last Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "${Seconds} முன்பு",
+    "original": {
+      "value": "${Seconds} ago",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "தளத்தின் ${Size} சுருக்கத்தை உருவாக்கவும்",
+    "original": {
+      "value": "Make a ${Size} summarization of the site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "புதிய உரையாடல் உருவாக்கப்படும்",
+    "original": {
+      "value": "New chat will be created",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "இந்த உரையாடலுக்கு நீங்கள் எந்த ஐகானை கொடுக்க விரும்புகிறீர்கள் (ஒரு எமோஜி மட்டுமே பயன்படுத்தலாம்)?",
+    "original": {
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Nuvole AI பற்றி எந்த பிரச்சனைகள், கேள்விகள் அல்லது மேம்படுத்துவதற்கான யோசனைகள் உள்ளனவா?",
+    "original": {
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "வீடியோவின் ${Size} சுருக்கத்தை உருவாக்கவும்",
+    "original": {
+      "value": "Make a ${Size} summarization of the video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "முழு பிரசன்டேஷனையும் பயன்படுத்த வேண்டுமா? அல்லது குறிப்பிட்ட ஸ்லைடுகளை?",
+    "original": {
+      "value": "Use the whole presentation? Or certain slides?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "Nuvole AI ஐ மீண்டும் தொடங்கவும்",
+    "original": {
+      "value": "Restart Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "${Num} முடிவுகள் கண்டுபிடிக்கப்பட்டன",
+    "original": {
+      "value": "Found ${Num} results",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "Nuvole AI மற்றும் பிற திட்டங்களின் செய்திகளை பெற MIKL இன் அதிகாரப்பூர்வ சேனலை பின்தொடரவும்.",
+    "original": {
+      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "Nuvole AI க்கான புதிய புதுப்பிப்பு கிடைக்கிறது!",
+    "original": {
+      "value": "A new update for Nuvole AI is available!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "AI மாதிரி",
+    "original": {
+      "value": "AI Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "எப்போதும் புதிய உரையாடல்களை சேமிக்கவும்",
+    "original": {
+      "value": "Always Save New Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "கோப்பின் ${Size} சுருக்கத்தை உருவாக்கவும்",
+    "original": {
+      "value": "Make a ${Size} summarization of the file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "சிறியது",
+    "original": {
+      "value": "Small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "இருண்ட",
+    "original": {
+      "value": "Dark",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "எப்போதும் கேளுங்கள்",
+    "original": {
+      "value": "Ask Every Time",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "இந்த அமர்வுக்கு மட்டும் AI மாதிரியை மாற்றி கோரிக்கையை மீண்டும் செய்யவும்",
+    "original": {
+      "value": "Change the AI Model for This Session Only and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த ${Name} மாதிரி இனி கிடைக்கவில்லை. எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "கேட்டபோதெல்லாம் திறக்காமல்",
+    "original": {
+      "value": "Without Opening to Enter the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "ஐகானாக எமோஜிகள் மட்டுமே பயன்படுத்த முடியும்",
+    "original": {
+      "value": "Only emojis can be used as an icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "இல்லை, வரலாற்றை அனுப்ப வேண்டாம்",
+    "original": {
+      "value": "No, Not Transmit the History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "உரையாடல்களை தேர்ந்தெடுத்து நீக்கவும்",
+    "original": {
+      "value": "Select and Delete Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "அனைத்து உரையாடல்களையும் நீக்கவும்",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 உரையாடல்",
+    "original": {
+      "value": "1 chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "உரையை உருவாக்கும் போது பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during text generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "AI உடன் உரையாடலை மேம்படுத்துதல்",
+    "original": {
+      "value": "Improving the Prompt Using AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "Nuvole AI ஐ இயக்கும் போது புதிய உரையாடலை உருவாக்க விரும்புகிறீர்களா அல்லது கடைசி உரையாடலை ஏற்றி தொடர விரும்புகிறீர்களா?",
+    "original": {
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "உரையாடல்களை சேமித்து திரும்பவும்",
+    "original": {
+      "value": "Save chats and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "உரையாடல் ஐகானை மாற்றவும்",
+    "original": {
+      "value": "Change Chat Icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "முழு செய்தியை காட்டவும்",
+    "original": {
+      "value": "Show Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "புதிய ${Num} பதிப்பை நிறுவவும்",
+    "original": {
+      "value": "Install a New ${Num} Version",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "Nuvole AI உடன் வேலை செய்யத் தொடங்கவும்",
+    "original": {
+      "value": "Skip and Start Working with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "இயக்கும் போது கடைசி உரையாடலை ஏற்றவும்",
+    "original": {
+      "value": "Last Chat Load When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "நிறுத்தப்பட்டது",
+    "original": {
+      "value": "Turned Off",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "இல்லை, இந்த செயலை தவிர்க்கவும்",
+    "original": {
+      "value": "No, Skip This Action",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "Nuvole AI உடன் “${Title}” என்ற குறிப்பை உருவாக்கி சேமிக்க விரும்புகிறீர்களா?",
+    "original": {
+      "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "அமர்வு வரலாற்றை காட்சிப்படுத்த விரும்புகிறீர்களா தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select whether you want to display the session history",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "Nuvole AI உடன் வேலை செய்ய உங்களுக்கு வசதியான மொழியை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "கோரிக்கையின் செயலாக்கம்",
+    "original": {
+      "value": "Processing of the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "உங்கள் மதிப்பு: ${Num}",
+    "original": {
+      "value": "Your value: ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "இயக்கும் போது கடைசி உரையாடலை தானாக ஏற்றி தொடரவும்",
+    "original": {
+      "value": "Automatically Load and Continue Last Chat When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "உரையாடல் வரலாற்றை காட்சிப்படுத்துதல்",
+    "original": {
+      "value": "Chat History Displaying",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "Nuvole AI ஐ இயக்கும் போது முக்கிய மெனுவை திறக்க விரும்புகிறீர்களா?",
+    "original": {
+      "value": "Do you want to open the Main Menu when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "அமைப்பு மாற்றப்பட்டது",
+    "original": {
+      "value": "The setting has been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "தேடலை மூடவும்",
+    "original": {
+      "value": "Close Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "நீங்கள் எதிர்கொண்ட பிரச்சனையை விவரமாக விளக்கவும், Nuvole AI ஐ மேம்படுத்துவதற்கான எந்த கேள்விகள் அல்லது யோசனைகளையும் சேர்த்து",
+    "original": {
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "இந்த அளவுருவின் அமைப்புகளை மாற்ற விரும்பவில்லையா?",
+    "original": {
+      "value": "Don’t want to change the settings of this parameter?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "நடுநிலை",
+    "original": {
+      "value": "Medium",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "இணையத்தில் தகவல்களை தானாக தேடவும்",
+    "original": {
+      "value": "Automatically Search for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 மாற்றங்கள்",
+    "original": {
+      "value": "21 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "நீங்கள் கண்டுபிடித்த ${Count} ${Chats} ஐ நீக்க விரும்புகிறீர்களா? நீங்கள் “தேர்ந்தெடுத்து கண்டுபிடித்த உரையாடல்களை நீக்கவும்” என்பதை முந்தைய மெனுவில் தேர்ந்தெடுத்து, “அனைத்து கண்டுபிடித்த உரையாடல்களையும் நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், கண்டுபிடித்த அனைத்து உரையாடல்களும் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "நீங்கள் பயன்படுத்த விரும்பும் பக்கங்களை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the pages you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "${Name} இன் சர்வர் நிலை",
+    "original": {
+      "value": "Server status of ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Nuvole AI பயன்பாட்டின் சிறந்த அனுபவத்திற்கு பரிந்துரைக்கப்படுகிறது",
+    "original": {
+      "value": "Recommended for a better experience of Nuvole AI usage",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "முழு செய்தியை மறைக்கவும்",
+    "original": {
+      "value": "Hide Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "படங்களை உருவாக்க AI உடன் உரையாடலை மேம்படுத்த விரும்புகிறீர்களா தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select whether you want to improve prompt to generate images with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "உங்கள் கேள்வியை கேளுங்கள்",
+    "original": {
+      "value": "Ask Your Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "“${Text}” என்ற உரையாடல் பெயரை வேறு எதுவாகவும் மாற்றவும்",
+    "original": {
+      "value": "Change the chat name “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "தேடல் கோரிக்கையை மாற்றவும்",
+    "original": {
+      "value": "Change Search Query",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "உங்கள் கருத்துக்களுக்கு நன்றி! இது Nuvole AI ஐ மேம்படுத்த உதவும்!",
+    "original": {
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "பிழை",
+    "original": {
+      "value": "Error",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "சுருக்கத்தை உருவாக்கவும்",
+    "original": {
+      "value": "Make a Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "இந்த உரையாடலுக்கு நீங்கள் எந்த பெயரை கொடுக்க விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What name do you want to give this chat?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "“${Name}” உரையாடலின் வரலாறு ஏற்றப்பட்டது.",
+    "original": {
+      "value": "The history of “${Name}” chat is loaded.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "இது உங்கள் பிரச்சனையை சிறப்பாக புரிந்துகொள்ள உதவும்",
+    "original": {
+      "value": "This may give a better understanding of your problem, if you have one",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "கண்டுபிடித்த உரையாடல்களை தேர்ந்தெடுத்து நீக்கவும்",
+    "original": {
+      "value": "Select and Delete Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "நீங்கள் என்ன கேட்க விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What do you want to ask?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "நிறுவல் செயல்முறை முடிந்தது!\nNuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
+    "original": {
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "சுருக்கம்",
+    "original": {
+      "value": "Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "தொடக்கத்திலிருந்து தொடங்கவும்",
+    "original": {
+      "value": "Start from scratch",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "அமைப்புகள்",
+    "original": {
+      "value": "Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "கூடுதல்",
+    "original": {
+      "value": "Additional",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "இந்த புதுப்பிப்பை பின்னர் RoutineHub மூலம் நிறுவலாம்",
+    "original": {
+      "value": "You can later install this update via the RoutineHub",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "${Name} ஐ பயன்படுத்தி கோரிக்கையை மீண்டும் செய்யவும்",
+    "original": {
+      "value": "Repeat request using ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "சிந்தனைப் செயல்முறையில் பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during the thinking process.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "“${Text}” என்ற உரையாடல் ஐகானை வேறு எதுவாகவும் மாற்றவும்",
+    "original": {
+      "value": "Change the chat icon “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "அமைப்பு மாற்றப்படவில்லை",
+    "original": {
+      "value": "The setting has not been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "இந்த உரையாடல் தானாக ஏற்றப்படும்",
+    "original": {
+      "value": "This chat will load automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "நீங்கள் உரையாடல்களை கண்டுபிடிக்க விரும்பும் உரையை எழுதவும். உரையாடல்களின் பெயர்கள் மற்றும் அவற்றின் உள்ளடக்கம் சரிபார்க்கப்படும் (கேஸ் சென்சிடிவ், ரெக்ஸெக்ஸ் ஆதரவு).",
+    "original": {
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "அநாமதேயமாக",
+    "original": {
+      "value": "Anonymously",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Nuvole AI நீங்கள் தேர்ந்தெடுக்கும் மாதிரியை பயன்படுத்தும்",
+    "original": {
+      "value": "Nuvole AI will use the model that you will select",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "வணக்கம்! உங்களுக்கு எப்படி உதவ முடியும்?",
+    "original": {
+      "value": "Hello! How can I help you?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "பெரியது",
+    "original": {
+      "value": "Big",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "நீங்கள் பெற விரும்பும் சுருக்கத்தின் அளவை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the size of summarization you want to receive",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "முக்கிய மெனுவிற்கு திரும்பவும்",
+    "original": {
+      "value": "Return to Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "தேர்ந்தெடுப்பதற்கு முன், உங்கள் பிரசன்டேஷன் காட்டப்படும்",
+    "original": {
+      "value": "Before selecting, you will be shown your presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "வரலாறு",
+    "original": {
+      "value": "History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "சுருக்கத்தின் அளவு",
+    "original": {
+      "value": "Summarization Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "பதிலை காட்சிப்படுத்துதல்",
+    "original": {
+      "value": "Displaying the Answer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "உரையாடல் வரலாற்றை காட்சிப்படுத்த வேண்டாம்",
+    "original": {
+      "value": "Do Not Display Chat History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "Nuvole AI உடன் உரையாடலை தொடரவும்",
+    "original": {
+      "value": "Continue Chatting with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "கோரிக்கையை உள்ளிடுதல்",
+    "original": {
+      "value": "Entering a Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "பதிலை காட்சிப்படுத்துவதற்கு எழுத்துரு அளவை தேர்ந்தெடுக்கவும் (48 பிக்சல்கள் இயல்பாக)",
+    "original": {
+      "value": "Select the font size to display the response (48 pixels by default)",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Nuvole AI மொழி",
+    "original": {
+      "value": "Nuvole AI Language",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "Nuvole AI இன் லைட் பதிப்பு",
+    "original": {
+      "value": "Lighter Version of Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "AI உடன் உரையாடலை மேம்படுத்தவும்",
+    "original": {
+      "value": "Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "மாதிரியை மாற்ற விரும்பவில்லையா?",
+    "original": {
+      "value": "Don’t want to change the model?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "உரையாடல் சேமித்தல்",
+    "original": {
+      "value": "Chat Saving",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "AI க்கான கோரிக்கையை உள்ளிடுவதற்கு உங்களுக்கு வசதியான வழியை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the most convenient way for you to enter a request for AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "இந்த உரையாடல்களை மீட்க முடியாமல் நீக்கவும்",
+    "original": {
+      "value": "Delete this chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "பரிந்துரைக்கப்பட்டது",
+    "original": {
+      "value": "Recomended",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "குரலுடன்",
+    "original": {
+      "value": "With Voice",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "இயக்கும் போது திறக்க வேண்டாம்",
+    "original": {
+      "value": "Don’t Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "குறிப்பை உருவாக்கும் போது பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during note generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "முழு பிரசன்டேஷனையும் பயன்படுத்தவும்",
+    "original": {
+      "value": "Use the Whole Presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "கோரிக்கையை மீண்டும் செய்யவும்",
+    "original": {
+      "value": "Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 புதுப்பிப்புகள்",
+    "original": {
+      "value": "2 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "இயக்கும் போது திறக்கவும்",
+    "original": {
+      "value": "Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "${Num} புதுப்பிப்பு மறைக்கப்பட்டுள்ளது",
+    "original": {
+      "value": "Update ${Num} is hidden",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "மின்னஞ்சல் பயன்படுத்தி",
+    "original": {
+      "value": "Using Email",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "விடை பெறுக!",
+    "original": {
+      "value": "Goodbye!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "பொது அமைப்புகள்",
+    "original": {
+      "value": "General Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 மாற்றங்கள்",
+    "original": {
+      "value": "2 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 புதுப்பிப்புகள்",
+    "original": {
+      "value": "21 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "நீங்கள் “${Text}” உரையாடலை நீக்க விரும்புகிறீர்களா? “உரையாடலை நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், இந்த உரையாடல் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+    "original": {
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "“பகிர்வு தாள்” மெனுவிலிருந்து நீங்கள் என்ன செய்ய விரும்புகிறீர்கள் தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "கண்டுபிடித்த அனைத்து உரையாடல்களையும் நீக்கவும்",
+    "original": {
+      "value": "Delete All Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "முழு கோப்பையும் பயன்படுத்த வேண்டுமா? அல்லது குறிப்பிட்ட பக்கங்களை?",
+    "original": {
+      "value": "Use the whole file? Or certain pages?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "படங்களை உருவாக்கும் போது NSFW உள்ளடக்கத்தை வடிகட்டவும்",
+    "original": {
+      "value": "Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "NSFW உள்ளடக்க வடிகட்டுதல்",
+    "original": {
+      "value": "NSFW Content Filtering",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "Nuvole AI ஐ உங்கள் தேவைகளுக்கு சரியானதாக மாற்றி அமைக்கவும்",
+    "original": {
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "Nuvole AI Lite க்கான RoutineHub பக்கத்திற்கு நீங்கள் திருப்பி அனுப்பப்படுவீர்கள்",
+    "original": {
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "முழு குறிப்பை காட்டவும்",
+    "original": {
+      "value": "Show Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 உரையாடல்கள்",
+    "original": {
+      "value": "21 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "நீங்கள் தேர்ந்தெடுத்த ${Count} ${Chats} ஐ நீக்க விரும்புகிறீர்களா? “தேர்ந்தெடுத்த உரையாடல்களை நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், நீங்கள் தேர்ந்தெடுத்த உரையாடல்கள் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "அமைப்புகளை மூடவும்",
+    "original": {
+      "value": "Close Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "கண்டுபிடித்த அனைத்து உரையாடல்களையும் மீட்க முடியாமல் நீக்கவும்",
+    "original": {
+      "value": "Delete all found chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "முழு கோப்பையும் பயன்படுத்தவும்",
+    "original": {
+      "value": "Use the Whole File",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "AI மாதிரியை மாற்றி கோரிக்கையை மீண்டும் செய்யவும்",
+    "original": {
+      "value": "Change the AI Model and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "பயன்படுத்தப்பட வேண்டிய ஸ்லைடுகளை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the Slides to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL இன் டெலிகிராம் சேனலை சந்தா செய்யவும்",
+    "original": {
+      "value": "Subscribe to MIKL’s Telegram Channel",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "ஒளி",
+    "original": {
+      "value": "Light",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "நீக்க வேண்டாம்",
+    "original": {
+      "value": "Do Not Delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 செய்திகள்",
+    "original": {
+      "value": "5 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "மற்றொன்று இருக்கலாம்?",
+    "original": {
+      "value": "Maybe something else?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "இந்த புதுப்பிப்பை பரிந்துரைக்க வேண்டாம்",
+    "original": {
+      "value": "Do Not Offer This Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "உரையாடலை பெயர் மாற்றவும்",
+    "original": {
+      "value": "Rename Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "Nuvole AI ஐ விட்டு வெளியேறவும்",
+    "original": {
+      "value": "Exit the Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "நீங்கள் வரலாற்றை நீக்க விரும்புகிறீர்களா? நீங்கள் “தேர்ந்தெடுத்து உரையாடல்களை நீக்கவும்” என்பதை முந்தைய மெனுவில் தேர்ந்தெடுத்து, “அனைத்து உரையாடல்களையும் நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், அனைத்து உரையாடல்களும் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "பட உருவாக்கம்",
+    "original": {
+      "value": "Image Generation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "புதுப்பிப்பை நிறுவ வேண்டாம்",
+    "original": {
+      "value": "Do Not Install the Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "இந்த வீடியோவுடன் நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "What do you want to do with this video?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "இப்போது, Nuvole AI நீங்கள் தேர்ந்தெடுக்கும் மாதிரியை பயன்படுத்தும், ஆனால் அடுத்த முறை ${Name}",
+    "original": {
+      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "கோரிக்கையை செயலாக்கும் போது பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during processing the request.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "கேட்டபோதெல்லாம் புதிய உரையாடல்களை சேமிக்கவும்",
+    "original": {
+      "value": "Save New Chats Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "குறைந்தபட்ச மதிப்பு: 22",
+    "original": {
+      "value": "Minimum value: 22",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "${Count chats} கோரிக்கை “${Text}” க்கு கண்டுபிடிக்கப்பட்டன",
+    "original": {
+      "value": "${Count chats} found on request “${Text}”",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "இந்த உரையாடலில் உங்கள் செய்திகள் மற்றும் AI பதில்களை கொண்டு இந்த உரையாடலை டெவலப்பரிடம் பகிர விரும்புகிறீர்களா?",
+    "original": {
+      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "ஆம், எனது Nuvole AI கட்டமைப்பை அனுப்பவும்",
+    "original": {
+      "value": "Yes, Transmit My Nuvole AI Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "பிழை மிக அடிக்கடி மீண்டும் வருகிறதா?",
+    "original": {
+      "value": "Is the Error Repeating Too Often?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "பயன்படுத்தப்பட வேண்டிய பக்கங்களை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the Pages to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "நீங்கள் மதிப்பை மிக அதிகமாக அமைத்துள்ளீர்கள்",
+    "original": {
+      "value": "You have set the value too high",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "நீங்கள் டெவலப்பரிடமிருந்து கருத்துக்களை பெற முடியாது",
+    "original": {
+      "value": "You won’t be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "Nuvole AI க்கான RoutineHub விளக்க பக்கத்திற்கு நீங்கள் திருப்பி அனுப்பப்படுவீர்கள்",
+    "original": {
+      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "${Count} தேர்ந்தெடுத்த ${Chats} ஐ நீக்கவும்",
+    "original": {
+      "value": "Delete ${Count} Selected ${Chats}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 பதிப்புகள்",
+    "original": {
+      "value": "5 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "வரலாற்றை மூடவும்",
+    "original": {
+      "value": "Close History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "புதிய உரையாடல்களை எப்படி சேமிக்க விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "How do you want to save new chats?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "எழுத்துரு அளவு",
+    "original": {
+      "value": "Font Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "Nuvole AI .{Extension} கோப்புகளுடன் வேலை செய்ய முடியாது",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "நீங்கள் மதிப்பை மிக குறைவாக அமைத்துள்ளீர்கள்",
+    "original": {
+      "value": "You have set the value too small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "தானாக",
+    "original": {
+      "value": "Automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "அதே மாதிரியை பயன்படுத்தி கோரிக்கையை மீண்டும் செய்யவும்",
+    "original": {
+      "value": "Repeat Request Using the Same Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "படத்தை செயலாக்கும் போது பிழை ஏற்பட்டது.",
+    "original": {
+      "value": "An error occurred during processing the image.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "நீங்கள் பெற விரும்பும் சுருக்கத்தின் அளவை தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select the size of summarization you want to get",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 பதிப்புகள்",
+    "original": {
+      "value": "21 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "புதுப்பிப்புகள் பற்றிய அறிவிப்புகளை பெற விரும்புகிறீர்களா தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select whether you want to receive notifications about updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "இது உங்கள் பிரச்சனையை சிறப்பாக புரிந்துகொள்ள உதவும்",
+    "original": {
+      "value": "This may give a better understanding of your problem",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "ஆம், எனது சாதனத்தில் குறிப்பை உருவாக்கி சேமிக்கவும்",
+    "original": {
+      "value": "Yes, Generate and Save a Note on My Device",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "இல்லை, கட்டமைப்பை அனுப்ப வேண்டாம்",
+    "original": {
+      "value": "No, Not Transmit Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "உரையாடலை பார்க்கவும்",
+    "original": {
+      "value": "View Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "இந்த உரையாடலை நீக்கவும்",
+    "original": {
+      "value": "Delete This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "உரையாடல் பெயர் காலியான சரம் ஆக இருக்க முடியாது",
+    "original": {
+      "value": "The chat name cannot be an empty string",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "உரையாடல் வரலாற்றை காட்சிப்படுத்தவும்",
+    "original": {
+      "value": "Display Chat History ",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "தேர்ந்தெடுப்பதற்கு முன், உங்கள் கோப்பு காட்டப்படும்",
+    "original": {
+      "value": "Before selecting, you will be shown your file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 உரையாடல்கள்",
+    "original": {
+      "value": "5 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "கோரிக்கை வகை",
+    "original": {
+      "value": "Request Type",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "திரும்பவும்",
+    "original": {
+      "value": "Back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "அதிகபட்ச மதிப்பு: 62",
+    "original": {
+      "value": "Maximum value: 62",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "Nuvole AI இந்த பிரசன்டேஷனுடன் வேலை செய்ய முடியாது",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "இணையத்தில் தகவல்களை தேட வேண்டாம்",
+    "original": {
+      "value": "Do Not Look for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "உங்கள் உரையாடல்களில் தேடவும்",
+    "original": {
+      "value": "Search among your chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "முழு சிந்தனைகளை காட்டவும்",
+    "original": {
+      "value": "Show Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "உங்கள் கோரிக்கைக்கு எதுவும் கண்டுபிடிக்கப்படவில்லை",
+    "original": {
+      "value": "Nothing was found for your request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "Nuvole AI அதன் வேலையை முடிக்கும்",
+    "original": {
+      "value": "Nuvole AI will complete its work",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "பகுதி பிரச்சனைகள்.",
+    "original": {
+      "value": "Partial problems.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "தேர்ந்தெடுக்கப்பட்ட அமைப்பு",
+    "original": {
+      "value": "Selected setting",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  }
+}

@@ -1,0 +1,2572 @@
+{
+  "Settings_N_NAME-Search": {
+    "value": "بحث الإنترنت",
+    "original": {
+      "value": "Internet Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Problem": {
+    "value": "انقطاع كبير.",
+    "original": {
+      "value": "Major outage.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Upd": {
+    "value": "التحقق من التحديثات",
+    "original": {
+      "value": "Checking for Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorFile": {
+    "value": "للأسف، لا يمكن لـ Nuvole AI العمل مع هذا الملف",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_2Chats": {
+    "value": "2 محادثات",
+    "original": {
+      "value": "2 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "ستتمكن من الحصول على ردود فعل من المطور",
+    "original": {
+      "value": "You will be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Seconds": {
+    "value": "فكر لمدة ${Num} ثواني",
+    "original": {
+      "value": "Thought for ${Num} seconds",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Type": {
+    "value": "كيف تريد إرسال ردود الفعل؟",
+    "original": {
+      "value": "How you want to send feedback?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionDelete": {
+    "value": "حذف جميع المحادثات",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Theme": {
+    "value": "اختر المظهر الذي سيتم تطبيقه على عرض الردود",
+    "original": {
+      "value": "Select the appearance to be applied to the display of responses",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesHistory": {
+    "value": "نعم، إرسال تاريخ هذه المحادثة",
+    "original": {
+      "value": "Yes, Transmit the History of This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_End": {
+    "value": "تم إرسال الرسالة!",
+    "original": {
+      "value": "Message sent!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-False": {
+    "value": "مع النص",
+    "original": {
+      "value": "With Text",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "هل ترغب في إرسال إعدادات Nuvole AI مع المطور؟",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI config with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Selection": {
+    "value": "اختر المحادثات التي تريد حذفها",
+    "original": {
+      "value": "Choose which chats you want to delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-Auto": {
+    "value": "النظام",
+    "original": {
+      "value": "System",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Delete": {
+    "value": "حذف المحادثة",
+    "original": {
+      "value": "Delete Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_2Messages": {
+    "value": "2 رسائل",
+    "original": {
+      "value": "2 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-False": {
+    "value": "فقط عند الطلب",
+    "original": {
+      "value": "Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Updates": {
+    "value": "5 تحديثات",
+    "original": {
+      "value": "5 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_VersionCount": {
+    "value": "تم إصدار ${Count versions} منذ الإصدار ${Num}",
+    "original": {
+      "value": "${Count versions} have been released since version ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-True": {
+    "value": "مفتوح",
+    "original": {
+      "value": "Turned On",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Main": {
+    "value": "القائمة الرئيسية",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_H": {
+    "value": "تنبيه إدارة الجهاز!",
+    "original": {
+      "value": "Device management alert!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "حذف تاريخ المحادثات بالكامل مع Nuvole AI دون إمكانية الاسترداد",
+    "original": {
+      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-2": {
+    "value": "سؤال",
+    "original": {
+      "value": "Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Details": {
+    "value": "عرض سجل التغييرات المفصل",
+    "original": {
+      "value": "View More Detailed Changelog",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "فتح القائمة الرئيسية مع كل تشغيل جديد",
+    "original": {
+      "value": "Open the Main Menu with Each New Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Feedback": {
+    "value": "اكتب رد فعل",
+    "original": {
+      "value": "Write a Feedback",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_H_Main": {
+    "value": "القائمة الرئيسية",
+    "original": {
+      "value": "Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Slides": {
+    "value": "اختر الشرائح التي تريد استخدامها",
+    "original": {
+      "value": "Select the slides you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "حدث خطأ أثناء توليد الصورة.",
+    "original": {
+      "value": "An error occurred during image generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_2Versions": {
+    "value": "2 إصدارات",
+    "original": {
+      "value": "2 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_More": {
+    "value": "المزيد",
+    "original": {
+      "value": "More",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideNote": {
+    "value": "إخفاء الملاحظة الكاملة",
+    "original": {
+      "value": "Hide Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Normal": {
+    "value": "جميع الأنظمة تعمل بشكل صحيح.",
+    "original": {
+      "value": "All systems are working properly.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_NewChat": {
+    "value": "إنشاء محادثة جديدة",
+    "original": {
+      "value": "Create a New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-False": {
+    "value": "إنشاء محادثة جديدة",
+    "original": {
+      "value": "Create New Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorVideo": {
+    "value": "للأسف، لا يمكن لـ Nuvole AI العمل مع هذا الفيديو",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_Learn": {
+    "value": "مزيد من المعلومات حول Nuvole AI",
+    "original": {
+      "value": "More Information about Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "حذف هذه المحادثة دون إمكانية الاسترداد",
+    "original": {
+      "value": "Delete this chat without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoUpdates": {
+    "value": "لا تتلقى التحديثات",
+    "original": {
+      "value": "Do Not Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Search": {
+    "value": "هل تريد أن يبحث Nuvole AI عن معلومات على الإنترنت إذا لزم الأمر؟",
+    "original": {
+      "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagwSFW-False": {
+    "value": "لا تصفية محتوى NSFW عند توليد الصور",
+    "original": {
+      "value": "Do Not Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Save": {
+    "value": "سيتم حفظ المحادثة",
+    "original": {
+      "value": "Chat will be saved",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_5Changes": {
+    "value": "5 تغييرات",
+    "original": {
+      "value": "5 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Close": {
+    "value": "استمر في المحادثة مع Nuvole AI",
+    "original": {
+      "value": "Continue the conversation with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SiteType": {
+    "value": "ماذا تريد أن تفعل مع هذا الموقع؟",
+    "original": {
+      "value": "What do you want to do with this site?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Theme": {
+    "value": "المظهر",
+    "original": {
+      "value": "Appearance",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Updates": {
+    "value": "1 تحديث",
+    "original": {
+      "value": "1 update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Save-True": {
+    "value": "دائمًا",
+    "original": {
+      "value": "Always",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Load": {
+    "value": "تحميل واستمرار المحادثة",
+    "original": {
+      "value": "Load and Continue Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_HideThink": {
+    "value": "إخفاء الأفكار الكاملة",
+    "original": {
+      "value": "Hide Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Report": {
+    "value": "الإبلاغ عن خطأ",
+    "original": {
+      "value": "Report a bug",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_ModelNotAvaiable": {
+    "value": "غير متاح حاليًا",
+    "original": {
+      "value": "Not available at the moment",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "لا تحسين المطالبة باستخدام الذكاء الاصطناعي",
+    "original": {
+      "value": "Do Not Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Next": {
+    "value": "ماذا تريد أن تفعل بعد ذلك؟",
+    "original": {
+      "value": "What do you want to do next?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_ReportInput": {
+    "value": "صف المشكلة التي واجهتها بالتفصيل",
+    "original": {
+      "value": "Describe in detail the problem you have encountered",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Share": {
+    "value": "ورقة المشاركة",
+    "original": {
+      "value": "Share Sheet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_History": {
+    "value": "تصفح، ابحث، شاهد واستمر في محادثاتك مع Nuvole AI",
+    "original": {
+      "value": "Browse, search, view and continue your chats with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackHistory": {
+    "value": "العودة إلى التاريخ",
+    "original": {
+      "value": "Return to History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_DeletionStop": {
+    "value": "حفظ المحادثة والعودة",
+    "original": {
+      "value": "Save chat and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_YesUpdates": {
+    "value": "تلقي التحديثات",
+    "original": {
+      "value": "Receive Updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_FileType": {
+    "value": "ماذا تريد أن تفعل مع هذا الملف؟",
+    "original": {
+      "value": "What do you want to do with this file?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_1Changes": {
+    "value": "1 تغيير",
+    "original": {
+      "value": "1 change",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorSite": {
+    "value": "للأسف، لا يمكن لـ Nuvole AI العمل مع هذا الموقع",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Search": {
+    "value": "بحث",
+    "original": {
+      "value": "Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_LastLoad": {
+    "value": "استمرار بتحميل آخر محادثة",
+    "original": {
+      "value": "Continue by Loading the Last Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Ago": {
+    "value": "منذ ${Seconds}",
+    "original": {
+      "value": "${Seconds} ago",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_SiteSize": {
+    "value": "إجراء تلخيص ${Size} للموقع",
+    "original": {
+      "value": "Make a ${Size} summarization of the site",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartNew": {
+    "value": "سيتم إنشاء محادثة جديدة",
+    "original": {
+      "value": "New chat will be created",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Changing": {
+    "value": "ما هو الرمز الذي تريد أن تعطيه لهذه المحادثة (يمكنك استخدام رمز تعبيري واحد فقط)؟",
+    "original": {
+      "value": "What icon do you want to give this chat (you can use only one emoji)?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "أي مشاكل، أسئلة أو أفكار حول كيفية تحسين Nuvole AI؟",
+    "original": {
+      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_VideoSize": {
+    "value": "إجراء تلخيص ${Size} للفيديو",
+    "original": {
+      "value": "Make a ${Size} summarization of the video",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigPre": {
+    "value": "استخدام العرض بأكمله؟ أو شرائح معينة؟",
+    "original": {
+      "value": "Use the whole presentation? Or certain slides?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Restart": {
+    "value": "إعادة تشغيل Nuvole AI",
+    "original": {
+      "value": "Restart Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Search": {
+    "value": "تم العثور على ${Num} نتائج",
+    "original": {
+      "value": "Found ${Num} results",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Telegram": {
+    "value": "اتبع القناة الرسمية لـ MIKL للحصول على أخبار حول Nuvole AI ومشاريع أخرى.",
+    "original": {
+      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Update": {
+    "value": "تحديث جديد لـ Nuvole AI متاح!",
+    "original": {
+      "value": "A new update for Nuvole AI is available!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Model": {
+    "value": "نموذج الذكاء الاصطناعي",
+    "original": {
+      "value": "AI Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-True": {
+    "value": "حفظ المحادثات الجديدة دائمًا",
+    "original": {
+      "value": "Always Save New Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_FileSize": {
+    "value": "إجراء تلخيص ${Size} للملف",
+    "original": {
+      "value": "Make a ${Size} summarization of the file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-1": {
+    "value": "صغير",
+    "original": {
+      "value": "Small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-1": {
+    "value": "داكن",
+    "original": {
+      "value": "Dark",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-Ask": {
+    "value": "اسأل في كل مرة",
+    "original": {
+      "value": "Ask Every Time",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Replace": {
+    "value": "تغيير نموذج الذكاء الاصطناعي لهذا الجلسة فقط وإعادة الطلب",
+    "original": {
+      "value": "Change the AI Model for This Session Only and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "H_ModelUpdate": {
+    "value": "يبدو أن النموذج ${Name} الذي اخترته سابقًا لم يعد متاحًا. أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
+    "original": {
+      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "بدون فتح للدخول إلى الطلب",
+    "original": {
+      "value": "Without Opening to Enter the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_ChangingError": {
+    "value": "يمكن استخدام الرموز التعبيرية فقط كرمز",
+    "original": {
+      "value": "Only emojis can be used as an icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoHistory": {
+    "value": "لا، لا ترسل التاريخ",
+    "original": {
+      "value": "No, Not Transmit the History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Select": {
+    "value": "اختر وحذف المحادثات",
+    "original": {
+      "value": "Select and Delete Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Delete": {
+    "value": "حذف جميع المحادثات",
+    "original": {
+      "value": "Delete All Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_1Chats": {
+    "value": "1 محادثة",
+    "original": {
+      "value": "1 chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "حدث خطأ أثناء توليد النص.",
+    "original": {
+      "value": "An error occurred during text generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "تحسين المطالبة باستخدام الذكاء الاصطناعي",
+    "original": {
+      "value": "Improving the Prompt Using AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Loading": {
+    "value": "هل تريد إنشاء محادثة جديدة أو تحميل واستمرار آخر محادثة عند تشغيل Nuvole AI؟",
+    "original": {
+      "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_DeletionStop": {
+    "value": "حفظ المحادثات والعودة",
+    "original": {
+      "value": "Save chats and go back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Icon": {
+    "value": "تغيير رمز المحادثة",
+    "original": {
+      "value": "Change Chat Icon",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Show": {
+    "value": "عرض الرسالة الكاملة",
+    "original": {
+      "value": "Show Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Install": {
+    "value": "تثبيت إصدار جديد ${Num}",
+    "original": {
+      "value": "Install a New ${Num} Version",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Model": {
+    "value": "أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
+    "original": {
+      "value": "Which AI model would you like to use?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_N_SkipLearn": {
+    "value": "تخطي وبدء العمل مع Nuvole AI",
+    "original": {
+      "value": "Skip and Start Working with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "تحميل آخر محادثة عند التشغيل",
+    "original": {
+      "value": "Last Chat Load When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Upd-False": {
+    "value": "مغلق",
+    "original": {
+      "value": "Turned Off",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Skip": {
+    "value": "لا، تخطي هذا الإجراء",
+    "original": {
+      "value": "No, Skip This Action",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_H_Note": {
+    "value": "هل تريد إنشاء وحفظ ملاحظة “${Title}” مع Nuvole AI؟",
+    "original": {
+      "value": "Do you want to create and save a note “${Title}” with Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-History": {
+    "value": "اختر ما إذا كنت تريد عرض تاريخ الجلسة",
+    "original": {
+      "value": "Select whether you want to display the session history",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Lang": {
+    "value": "اختر لغة مريحة للعمل مع Nuvole AI",
+    "original": {
+      "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Request": {
+    "value": "معالجة الطلب",
+    "original": {
+      "value": "Processing of the Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Font": {
+    "value": "قيمتك: ${Num}",
+    "original": {
+      "value": "Your value: ${Num}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Loading-True": {
+    "value": "تحميل واستمرار آخر محادثة تلقائيًا عند التشغيل",
+    "original": {
+      "value": "Automatically Load and Continue Last Chat When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-History": {
+    "value": "عرض تاريخ المحادثة",
+    "original": {
+      "value": "Chat History Displaying",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Main": {
+    "value": "هل تريد فتح القائمة الرئيسية عند تشغيل Nuvole AI؟",
+    "original": {
+      "value": "Do you want to open the Main Menu when running Nuvole AI?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Success": {
+    "value": "تم تغيير الإعداد",
+    "original": {
+      "value": "The setting has been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchBack": {
+    "value": "إغلاق البحث",
+    "original": {
+      "value": "Close Search",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_Input": {
+    "value": "صف المشكلة التي واجهتها بالتفصيل، مع أي أسئلة أو أفكار لديك لتحسين Nuvole AI",
+    "original": {
+      "value": "Describe in detail the problem you have encountered, along with any questions or ideas you have for improving Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_Stop": {
+    "value": "لا تريد تغيير إعدادات هذا المعامل؟",
+    "original": {
+      "value": "Don’t want to change the settings of this parameter?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-2": {
+    "value": "متوسط",
+    "original": {
+      "value": "Medium",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-True": {
+    "value": "البحث تلقائيًا عن معلومات على الإنترنت",
+    "original": {
+      "value": "Automatically Search for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Changes": {
+    "value": "21 تغييرًا",
+    "original": {
+      "value": "21 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SearchDeletion": {
+    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} التي تم العثور عليها؟ يمكنك فقط حذف المحادثات الضرورية عن طريق اختيار “اختر وحذف المحادثات التي تم العثور عليها” في القائمة السابقة. بالنقر على زر “حذف جميع المحادثات التي تم العثور عليها”، فإنك توافق على أن جميع المحادثات التي تم العثور عليها سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Pages": {
+    "value": "اختر الصفحات التي تريد استخدامها",
+    "original": {
+      "value": "Select the pages you want to use",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Status": {
+    "value": "حالة الخادم لـ ${Name}",
+    "original": {
+      "value": "Server status of ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "موصى به لتحسين تجربة استخدام Nuvole AI",
+    "original": {
+      "value": "Recommended for a better experience of Nuvole AI usage",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Hide": {
+    "value": "إخفاء الرسالة الكاملة",
+    "original": {
+      "value": "Hide Full Message",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-ImagePlus": {
+    "value": "اختر ما إذا كنت تريد تحسين المطالبة لتوليد الصور باستخدام الذكاء الاصطناعي",
+    "original": {
+      "value": "Select whether you want to improve prompt to generate images with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Question": {
+    "value": "اطرح سؤالك",
+    "original": {
+      "value": "Ask Your Question",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Rename": {
+    "value": "تغيير اسم المحادثة “${Text}” إلى أي اسم آخر",
+    "original": {
+      "value": "Change the chat name “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchChange": {
+    "value": "تغيير استعلام البحث",
+    "original": {
+      "value": "Change Search Query",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_T_End": {
+    "value": "شكرًا على ردود فعلك! هذا سيساعد في تحسين Nuvole AI!",
+    "original": {
+      "value": "Thank you for your feedback! This will help improve the Nuvole AI!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_H_Error": {
+    "value": "خطأ",
+    "original": {
+      "value": "Error",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Summary": {
+    "value": "إجراء تلخيص",
+    "original": {
+      "value": "Make a Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Renaming": {
+    "value": "ما هو الاسم الذي تريد أن تعطيه لهذه المحادثة؟",
+    "original": {
+      "value": "What name do you want to give this chat?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_History": {
+    "value": "تم تحميل تاريخ محادثة “${Name}”.",
+    "original": {
+      "value": "The history of “${Name}” chat is loaded.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "هذا قد يعطي فهمًا أفضل لمشكلتك، إذا كان لديك واحدة",
+    "original": {
+      "value": "This may give a better understanding of your problem, if you have one",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchSelect": {
+    "value": "اختر وحذف المحادثات التي تم العثور عليها",
+    "original": {
+      "value": "Select and Delete Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_Input": {
+    "value": "ماذا تريد أن تسأل؟",
+    "original": {
+      "value": "What do you want to ask?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Learn": {
+    "value": "تمت عملية التثبيت!\nهل تريد معرفة المزيد عن Nuvole AI وميزاته؟",
+    "original": {
+      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Share-1": {
+    "value": "تلخيص",
+    "original": {
+      "value": "Summarization",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_NewChat": {
+    "value": "البدء من الصفر",
+    "original": {
+      "value": "Start from scratch",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Settings": {
+    "value": "الإعدادات",
+    "original": {
+      "value": "Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-More": {
+    "value": "إضافي",
+    "original": {
+      "value": "Additional",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_Hidden": {
+    "value": "يمكنك لاحقًا تثبيت هذا التحديث عبر RoutineHub",
+    "original": {
+      "value": "You can later install this update via the RoutineHub",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_ChangeStop": {
+    "value": "إعادة الطلب باستخدام ${Name}",
+    "original": {
+      "value": "Repeat request using ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-2": {
+    "value": "حدث خطأ أثناء عملية التفكير.",
+    "original": {
+      "value": "An error occurred during the thinking process.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_ORG_Icon": {
+    "value": "تغيير رمز المحادثة “${Text}” إلى أي رمز آخر",
+    "original": {
+      "value": "Change the chat icon “${Text}” to any other",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_Error": {
+    "value": "لم يتم تغيير الإعداد",
+    "original": {
+      "value": "The setting has not been changed",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_RestartLoad": {
+    "value": "سيتم تحميل هذه المحادثة تلقائيًا",
+    "original": {
+      "value": "This chat will load automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Search": {
+    "value": "اكتب النص الذي تريد البحث عنه في المحادثات. سيتم التحقق من أسماء المحادثات ومحتواها (غير حساس لحالة الأحرف، يدعم regex).",
+    "original": {
+      "value": "Write the text by which you want to find chats. The names of the chats and their content will be checked (case insensitive, supports regex).",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Server": {
+    "value": "بشكل مجهول",
+    "original": {
+      "value": "Anonymously",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "سيستخدم Nuvole AI النموذج الذي ستختاره",
+    "original": {
+      "value": "Nuvole AI will use the model that you will select",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_New": {
+    "value": "مرحبًا! كيف يمكنني مساعدتك؟",
+    "original": {
+      "value": "Hello! How can I help you?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Summary-3": {
+    "value": "كبير",
+    "original": {
+      "value": "Big",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Summary": {
+    "value": "اختر حجم التلخيص الذي تريد الحصول عليه",
+    "original": {
+      "value": "Select the size of summarization you want to receive",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_BackMain": {
+    "value": "العودة إلى القائمة الرئيسية",
+    "original": {
+      "value": "Return to Main Menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "قبل الاختيار، سيتم عرض عرضك التقديمي",
+    "original": {
+      "value": "Before selecting, you will be shown your presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_History": {
+    "value": "التاريخ",
+    "original": {
+      "value": "History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Summary": {
+    "value": "حجم التلخيص",
+    "original": {
+      "value": "Summarization Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Html": {
+    "value": "عرض الإجابة",
+    "original": {
+      "value": "Displaying the Answer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-False": {
+    "value": "لا تعرض تاريخ المحادثة",
+    "original": {
+      "value": "Do Not Display Chat History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_N_Continue": {
+    "value": "استمرار المحادثة مع Nuvole AI",
+    "original": {
+      "value": "Continue Chatting with Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Voice": {
+    "value": "إدخال الطلب",
+    "original": {
+      "value": "Entering a Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Font": {
+    "value": "اختر حجم الخط لعرض الرد (48 بكسل افتراضيًا)",
+    "original": {
+      "value": "Select the font size to display the response (48 pixels by default)",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "لغة Nuvole AI",
+    "original": {
+      "value": "Nuvole AI Language",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Lite": {
+    "value": "إصدار أخف من Nuvole AI",
+    "original": {
+      "value": "Lighter Version of Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "تحسين المطالبة باستخدام الذكاء الاصطناعي",
+    "original": {
+      "value": "Improve Prompt with AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Changing": {
+    "value": "لا تريد تغيير النموذج؟",
+    "original": {
+      "value": "Don’t want to change the model?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Saving": {
+    "value": "حفظ المحادثة",
+    "original": {
+      "value": "Chat Saving",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Input": {
+    "value": "اختر الطريقة الأكثر ملاءمة لك لإدخال طلب للذكاء الاصطناعي",
+    "original": {
+      "value": "Select the most convenient way for you to enter a request for AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "حذف هذه المحادثات دون إمكانية الاسترداد",
+    "original": {
+      "value": "Delete this chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_T_Model": {
+    "value": "موصى به",
+    "original": {
+      "value": "Recomended",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Voice-True": {
+    "value": "مع الصوت",
+    "original": {
+      "value": "With Voice",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-False": {
+    "value": "لا تفتح عند التشغيل",
+    "original": {
+      "value": "Don’t Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "حدث خطأ أثناء توليد الملاحظة.",
+    "original": {
+      "value": "An error occurred during note generation.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllPre": {
+    "value": "استخدام العرض بأكمله",
+    "original": {
+      "value": "Use the Whole Presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Repeat": {
+    "value": "إعادة الطلب",
+    "original": {
+      "value": "Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Updates": {
+    "value": "2 تحديثات",
+    "original": {
+      "value": "2 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Main-True": {
+    "value": "افتح عند التشغيل",
+    "original": {
+      "value": "Open When Running",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_Hidden": {
+    "value": "التحديث ${Num} مخفي",
+    "original": {
+      "value": "Update ${Num} is hidden",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_Email": {
+    "value": "باستخدام البريد الإلكتروني",
+    "original": {
+      "value": "Using Email",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "ORG_Exit": {
+    "value": "وداعًا!",
+    "original": {
+      "value": "Goodbye!",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-General": {
+    "value": "الإعدادات العامة",
+    "original": {
+      "value": "General Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_2Changes": {
+    "value": "2 تغييرات",
+    "original": {
+      "value": "2 changes",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_T_21Updates": {
+    "value": "21 تحديثًا",
+    "original": {
+      "value": "21 updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_H_Deletion": {
+    "value": "هل أنت متأكد أنك تريد حذف محادثة “${Text}”؟ بالنقر على زر “حذف المحادثة”، فإنك توافق على أن هذه المحادثة سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete “${Text}” chat? By clicking on the “Delete chat” button, you agree that this chat will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Share": {
+    "value": "اختر ما تريد فعله مع العناصر من قائمة “ورقة المشاركة”",
+    "original": {
+      "value": "Select what you want to do with the items from the “Share Sheet” menu",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SearchDelete": {
+    "value": "حذف جميع المحادثات التي تم العثور عليها",
+    "original": {
+      "value": "Delete All Found Chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_BigFile": {
+    "value": "استخدام الملف بأكمله؟ أو صفحات معينة؟",
+    "original": {
+      "value": "Use the whole file? Or certain pages?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "تصفية محتوى NSFW عند توليد الصور",
+    "original": {
+      "value": "Filter NSFW Content When Generating Images",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-ImageSFW": {
+    "value": "تصفية محتوى NSFW",
+    "original": {
+      "value": "NSFW Content Filtering",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_Settings": {
+    "value": "تعديل وتخصيص Nuvole AI ليناسب احتياجاتك تمامًا",
+    "original": {
+      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Lite": {
+    "value": "ستتم إعادة توجيهك إلى صفحة RoutineHub لـ Nuvole AI Lite",
+    "original": {
+      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowNote": {
+    "value": "عرض الملاحظة الكاملة",
+    "original": {
+      "value": "Show Full Note",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_21Chats": {
+    "value": "21 محادثة",
+    "original": {
+      "value": "21 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} التي تم اختيارها؟ بالنقر على زر “حذف المحادثات التي تم اختيارها”، فإنك توافق على أن المحادثات التي اخترتها سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Close": {
+    "value": "إغلاق الإعدادات",
+    "original": {
+      "value": "Close Settings",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "حذف جميع المحادثات التي تم العثور عليها دون إمكانية الاسترداد",
+    "original": {
+      "value": "Delete all found chats without the possibility of recovery",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_AllFile": {
+    "value": "استخدام الملف بأكمله",
+    "original": {
+      "value": "Use the Whole File",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Change": {
+    "value": "تغيير نموذج الذكاء الاصطناعي وإعادة الطلب",
+    "original": {
+      "value": "Change the AI Model and Repeat Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Slides": {
+    "value": "اختر الشرائح التي سيتم استخدامها",
+    "original": {
+      "value": "Select the Slides to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "اشترك في قناة MIKL على Telegram",
+    "original": {
+      "value": "Subscribe to MIKL’s Telegram Channel",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Theme-0": {
+    "value": "فاتح",
+    "original": {
+      "value": "Light",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_DeletionStop": {
+    "value": "لا تحذف",
+    "original": {
+      "value": "Do Not Delete",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Main_ORG_5Messages": {
+    "value": "5 رسائل",
+    "original": {
+      "value": "5 messages",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Else": {
+    "value": "ربما شيء آخر؟",
+    "original": {
+      "value": "Maybe something else?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_Hide": {
+    "value": "لا تقدم هذا التحديث",
+    "original": {
+      "value": "Do Not Offer This Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_Rename": {
+    "value": "إعادة تسمية المحادثة",
+    "original": {
+      "value": "Rename Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Exit": {
+    "value": "الخروج من Nuvole AI",
+    "original": {
+      "value": "Exit the Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "هل أنت متأكد أنك تريد حذف التاريخ؟ يمكنك فقط حذف المحادثات الضرورية عن طريق اختيار “اختر وحذف المحادثات” في القائمة السابقة. بالنقر على زر “حذف جميع المحادثات”، فإنك توافق على أن جميع المحادثات سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_C-Image": {
+    "value": "توليد الصورة",
+    "original": {
+      "value": "Image Generation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_N_NotInstall": {
+    "value": "لا تثبت التحديث",
+    "original": {
+      "value": "Do Not Install the Update",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_VideoType": {
+    "value": "ماذا تريد أن تفعل مع هذا الفيديو؟",
+    "original": {
+      "value": "What do you want to do with this video?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_ORG_Replace": {
+    "value": "في الوقت الحالي، سيستخدم Nuvole AI النموذج الذي ستختاره، ولكن في المرة القادمة ${Name}",
+    "original": {
+      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-1": {
+    "value": "حدث خطأ أثناء معالجة الطلب.",
+    "original": {
+      "value": "An error occurred during processing the request.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Saving-False": {
+    "value": "حفظ المحادثات الجديدة فقط عند الطلب",
+    "original": {
+      "value": "Save New Chats Only on Request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMin": {
+    "value": "الحد الأدنى: 22",
+    "original": {
+      "value": "Minimum value: 22",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_Found": {
+    "value": "تم العثور على ${Count chats} على طلب “${Text}”",
+    "original": {
+      "value": "${Count chats} found on request “${Text}”",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_H_History": {
+    "value": "هل تريد مشاركة هذه المحادثة التي تحتوي على رسائلك وردود الذكاء الاصطناعي مع المطور؟",
+    "original": {
+      "value": "Do you want to share this chat containing your messages and AI responses with developer?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_YesConfig": {
+    "value": "نعم، إرسال إعدادات Nuvole AI الخاصة بي",
+    "original": {
+      "value": "Yes, Transmit My Nuvole AI Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_Report": {
+    "value": "هل يتكرر الخطأ كثيرًا؟",
+    "original": {
+      "value": "Is the Error Repeating Too Often?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_N_Pages": {
+    "value": "اختر الصفحات التي سيتم استخدامها",
+    "original": {
+      "value": "Select the Pages to be Used",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMax": {
+    "value": "لقد قمت بتعيين القيمة عالية جدًا",
+    "original": {
+      "value": "You have set the value too high",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "لن تتمكن من الحصول على ردود فعل من المطور",
+    "original": {
+      "value": "You won’t be able to get feedback from developer",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "ستتم إعادة توجيهك إلى صفحة وصف RoutineHub لـ Nuvole AI",
+    "original": {
+      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_SelectionDelete": {
+    "value": "حذف ${Count} ${Chats} التي تم اختيارها",
+    "original": {
+      "value": "Delete ${Count} Selected ${Chats}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_5Versions": {
+    "value": "5 إصدارات",
+    "original": {
+      "value": "5 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_N_Back": {
+    "value": "إغلاق التاريخ",
+    "original": {
+      "value": "Close History",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_H_NAME-Saving": {
+    "value": "كيف تريد حفظ المحادثات الجديدة؟",
+    "original": {
+      "value": "How do you want to save new chats?",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Font": {
+    "value": "حجم الخط",
+    "original": {
+      "value": "Font Size",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorExtension": {
+    "value": "للأسف، لا يمكن لـ Nuvole AI العمل مع ملفات .{Extension}",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with files .{Extension}",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontErrorMin": {
+    "value": "لقد قمت بتعيين القيمة منخفضة جدًا",
+    "original": {
+      "value": "You have set the value too small",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_ID-Search-True": {
+    "value": "تلقائيًا",
+    "original": {
+      "value": "Automatically",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_N_ChangeStop": {
+    "value": "إعادة الطلب باستخدام نفس النموذج",
+    "original": {
+      "value": "Repeat Request Using the Same Model",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Type-Error-5": {
+    "value": "حدث خطأ أثناء معالجة الصورة.",
+    "original": {
+      "value": "An error occurred during processing the image.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_H_SummarySize": {
+    "value": "اختر حجم التلخيص الذي تريد الحصول عليه",
+    "original": {
+      "value": "Select the size of summarization you want to get",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Update_H_21Versions": {
+    "value": "21 إصدارًا",
+    "original": {
+      "value": "21 versions",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Install_H_Updates": {
+    "value": "اختر ما إذا كنت تريد تلقي إشعارات حول التحديثات",
+    "original": {
+      "value": "Select whether you want to receive notifications about updates",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_ORG_YesHistory": {
+    "value": "هذا قد يعطي فهمًا أفضل لمشكلتك",
+    "original": {
+      "value": "This may give a better understanding of your problem",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Generation_N_Note": {
+    "value": "نعم، إنشاء وحفظ ملاحظة على جهازي",
+    "original": {
+      "value": "Yes, Generate and Save a Note on My Device",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Feedback_N_NoConfig": {
+    "value": "لا، لا ترسل الإعدادات",
+    "original": {
+      "value": "No, Not Transmit Config",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_View": {
+    "value": "عرض المحادثة",
+    "original": {
+      "value": "View Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_N_DeletionDelete": {
+    "value": "حذف هذه المحادثة",
+    "original": {
+      "value": "Delete This Chat",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Chat_T_RenamingError": {
+    "value": "لا يمكن أن يكون اسم المحادثة سلسلة فارغة",
+    "original": {
+      "value": "The chat name cannot be an empty string",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_History-True": {
+    "value": "عرض تاريخ المحادثة",
+    "original": {
+      "value": "Display Chat History ",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_ORG_Pages": {
+    "value": "قبل الاختيار، سيتم عرض ملفك",
+    "original": {
+      "value": "Before selecting, you will be shown your file",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_5Chats": {
+    "value": "5 محادثات",
+    "original": {
+      "value": "5 chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_NAME-Share": {
+    "value": "نوع الطلب",
+    "original": {
+      "value": "Request Type",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "N_Back": {
+    "value": "العودة",
+    "original": {
+      "value": "Back",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_T_FontMax": {
+    "value": "الحد الأقصى: 62",
+    "original": {
+      "value": "Maximum value: 62",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Share_T_ErrorPre": {
+    "value": "للأسف، لا يمكن لـ Nuvole AI العمل مع هذا العرض",
+    "original": {
+      "value": "Unfortunately, Nuvole AI cannot work with this presentation",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "لا تبحث عن معلومات على الإنترنت",
+    "original": {
+      "value": "Do Not Look for Information on the Internet",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_ORG_Search": {
+    "value": "البحث بين محادثاتك",
+    "original": {
+      "value": "Search among your chats",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_ShowThink": {
+    "value": "عرض الأفكار الكاملة",
+    "original": {
+      "value": "Show Full Throghts",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "History_T_SearchError": {
+    "value": "لم يتم العثور على شيء لطلبك",
+    "original": {
+      "value": "Nothing was found for your request",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Text_T_Exit": {
+    "value": "سيكمل Nuvole AI عمله",
+    "original": {
+      "value": "Nuvole AI will complete its work",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Error_T_Outage": {
+    "value": "مشاكل جزئية.",
+    "original": {
+      "value": "Partial problems.",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  },
+  "Settings_ORG_Selected": {
+    "value": "الإعداد المختار",
+    "original": {
+      "value": "Selected setting",
+      "version": 1
+    },
+    "translatedBy": "ai",
+    "isTranslated": true,
+    "version": 1
+  }
+}
