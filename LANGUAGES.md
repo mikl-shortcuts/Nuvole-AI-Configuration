@@ -42,4 +42,5 @@
 - th - Thai;
 - tr - Turkish;
 - ur - Urdu;
-- vi - Vietnamese.
+- vi - Vietnamese;
+- zh - Chinese.
