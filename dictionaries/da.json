@@ -1,4 +1,100 @@
 {
+  "Notification_Response": {
+    "value": "Svaret på din anmodning er klar!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Telegram": {
+    "value": "Tilmeld dig MIKL’s Telegram-kanal",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Settings": {
+    "value": "Tilpas og tilpas Nuvole AI",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Prøv Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Sprog",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_Continue": {
+    "value": "Genoptag denne chat",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Automatisk indlæsning af sidste chat",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Forbedre prompten",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Har du problemer, spørgsmål eller ideer om Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_LastLoad": {
+    "value": "Genoptag sidste chat",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_History": {
+    "value": "Gennemse, se og fortsæt dine chats",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_Learn": {
+    "value": "Om Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Internetsøgning",
     "original": {
@@ -389,16 +485,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_Learn": {
-    "value": "Mere information om Nuvole AI",
-    "original": {
-      "value": "More Information about Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_DeletionDelete": {
     "value": "Slet denne chat uden mulighed for genoprettelse",
     "original": {
@@ -589,16 +675,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_History": {
-    "value": "Gennemse, søg, se og fortsæt dine chats med Nuvole AI",
-    "original": {
-      "value": "Browse, search, view and continue your chats with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_ORG_BackHistory": {
     "value": "Gå tilbage til historie",
     "original": {
@@ -669,16 +745,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_LastLoad": {
-    "value": "Fortsæt ved at indlæse den sidste chat",
-    "original": {
-      "value": "Continue by Loading the Last Chat",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_ORG_Ago": {
     "value": "${Seconds} siden",
     "original": {
@@ -713,16 +779,6 @@
     "value": "Hvilket ikon vil du give denne chat (du kan kun bruge et emoji)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nogen problemer, spørgsmål eller ideer til, hvordan man kan forbedre Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -939,16 +995,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "Forbedring af prompt ved hjælp af AI",
-    "original": {
-      "value": "Improving the Prompt Using AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_H_NAME-Loading": {
     "value": "Vil du oprette en ny chat eller indlæse og fortsætte den sidste, når du kører Nuvole AI?",
     "original": {
@@ -1013,16 +1059,6 @@
     "value": "Spring over og begynd at arbejde med Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "Indlæs sidste chat ved kørsel",
-    "original": {
-      "value": "Last Chat Load When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1599,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_Continue": {
-    "value": "Fortsæt med at chatte med Nuvole AI",
-    "original": {
-      "value": "Continue Chatting with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Voice": {
     "value": "Indtastning af en anmodning",
     "original": {
@@ -1623,26 +1649,6 @@
     "value": "Vælg skriftstørrelsen til visning af svaret (48 pixels som standard)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Nuvole AI-sprog",
-    "original": {
-      "value": "Nuvole AI Language",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Lite": {
-    "value": "Lette version af Nuvole AI",
-    "original": {
-      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1899,16 +1905,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Settings": {
-    "value": "Tilpas og tilpas Nuvole AI til perfekt at passe til dine behov",
-    "original": {
-      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_ORG_Lite": {
     "value": "Du vil blive omdirigeret til RoutineHub-siden for Nuvole AI Lite",
     "original": {
@@ -1993,16 +1989,6 @@
     "value": "Vælg de dias, der skal bruges",
     "original": {
       "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Abonner på MIKL’s Telegram-kanal",
-    "original": {
-      "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
     },
     "translatedBy": "ai",

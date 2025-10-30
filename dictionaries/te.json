@@ -1,4 +1,100 @@
 {
+  "Notification_Response": {
+    "value": "మీ అభ్యర్థనకు స్పందన సిద్ధంగా ఉంది!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL యొక్క టెలిగ్రామ్ ఛానెల్‌లో చేరండి",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Settings": {
+    "value": "నువోలే AIని సవరించండి మరియు అనుకూలీకరించండి",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "నువోలే AI లైట్‌ను ప్రయత్నించండి",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "భాష",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_Continue": {
+    "value": "ఈ చాట్‌ను కొనసాగించండి",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "చివరి చాట్‌ను ఆటో-లోడ్ చేయండి",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "ప్రోంప్ట్‌ను మెరుగుపరచండి",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "నువోలే AI గురించి ఏవైనా సమస్యలు, ప్రశ్నలు లేదా ఆలోచనలు ఉన్నాయా?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_LastLoad": {
+    "value": "చివరి చాట్‌ను కొనసాగించండి",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_History": {
+    "value": "మీ చాట్లను బ్రౌజ్ చేయండి, వీక్షించండి మరియు కొనసాగించండి",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_Learn": {
+    "value": "నువోలే AI గురించి",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "ఇంటర్నెట్ శోధన",
     "original": {
@@ -389,16 +485,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_Learn": {
-    "value": "నువోల్ AI గురించి మరింత సమాచారం",
-    "original": {
-      "value": "More Information about Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_DeletionDelete": {
     "value": "ఈ చాట్‌ను పునరుద్ధరణ సాధ్యం కాకుండా తొలగించండి",
     "original": {
@@ -589,16 +675,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_History": {
-    "value": "నువోల్ AIతో మీ చాట్‌లను బ్రౌజ్ చేయండి, శోధించండి, చూడండి మరియు కొనసాగించండి",
-    "original": {
-      "value": "Browse, search, view and continue your chats with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_ORG_BackHistory": {
     "value": "చరిత్రకు తిరిగి రండి",
     "original": {
@@ -669,16 +745,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_LastLoad": {
-    "value": "చివరి చాట్‌ను లోడ్ చేసి కొనసాగించండి",
-    "original": {
-      "value": "Continue by Loading the Last Chat",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_ORG_Ago": {
     "value": "${Seconds} క్రితం",
     "original": {
@@ -713,16 +779,6 @@
     "value": "ఈ చాట్‌కు మీరు ఏ ఐకాన్ ఇవ్వాలనుకుంటున్నారు (మీరు ఒకే ఒక ఎమోజీని మాత్రమే ఉపయోగించవచ్చు)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Main_ORG_Feedback": {
-    "value": "నువోల్ AIని మెరుగుపరచడానికి ఏవైనా సమస్యలు, ప్రశ్నలు లేదా ఆలోచనలు ఉన్నాయా?",
-    "original": {
-      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -939,16 +995,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "AI ఉపయోగించి ప్రోంప్ట్‌ను మెరుగుపరచడం",
-    "original": {
-      "value": "Improving the Prompt Using AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_H_NAME-Loading": {
     "value": "నువోల్ AIని రన్ చేసేటప్పుడు కొత్త చాట్ సృష్టించాలనుకుంటున్నారా లేదా చివరి చాట్‌ను లోడ్ చేసి కొనసాగించాలనుకుంటున్నారా?",
     "original": {
@@ -1013,16 +1059,6 @@
     "value": "నువోల్ AIతో పని ప్రారంభించడానికి దాటవేయండి",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "రన్ చేసేటప్పుడు చివరి చాట్ లోడ్ చేయండి",
-    "original": {
-      "value": "Last Chat Load When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1599,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_Continue": {
-    "value": "నువోల్ AIతో చాటింగ్ కొనసాగించండి",
-    "original": {
-      "value": "Continue Chatting with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Voice": {
     "value": "అభ్యర్థనను నమోదు చేయడం",
     "original": {
@@ -1623,26 +1649,6 @@
     "value": "ప్రతిస్పందనను ప్రదర్శించడానికి ఫాంట్ పరిమాణాన్ని ఎంచుకోండి (డిఫాల్ట్‌గా 48 పిక్సెల్స్)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "నువోల్ AI భాష",
-    "original": {
-      "value": "Nuvole AI Language",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Lite": {
-    "value": "నువోల్ AI యొక్క లైట్ వెర్షన్",
-    "original": {
-      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1899,16 +1905,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Settings": {
-    "value": "నువోల్ AIని మీ అవసరాలకు సరిగ్గా సరిపోయేలా సవరించండి మరియు అనుకూలీకరించండి",
-    "original": {
-      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_ORG_Lite": {
     "value": "నువోల్ AI లైట్ కోసం రౌటిన్‌హబ్ పేజీకి మీరు రిడైరెక్ట్ చేయబడతారు",
     "original": {
@@ -1993,16 +1989,6 @@
     "value": "ఉపయోగించాలనుకుంటున్న స్లైడ్‌లను ఎంచుకోండి",
     "original": {
       "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL యొక్క టెలిగ్రామ్ ఛానెల్‌కు సబ్స్క్రైబ్ చేయండి",
-    "original": {
-      "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
     },
     "translatedBy": "ai",

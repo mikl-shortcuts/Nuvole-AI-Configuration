@@ -1,4 +1,100 @@
 {
+  "Notification_Response": {
+    "value": "Ответ на ваш запрос готов!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Telegram": {
+    "value": "Присоединяйтесь к Telegram-каналу MIKL",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Settings": {
+    "value": "Изменить и настроить Nuvole AI",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Попробуйте Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Язык",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_Continue": {
+    "value": "Возобновить этот чат",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Автозагрузка последнего чата",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Улучшить запрос",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Есть проблемы, вопросы или идеи о Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_LastLoad": {
+    "value": "Возобновить последний чат",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_History": {
+    "value": "Просмотр и продолжение ваших чатов",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_Learn": {
+    "value": "О Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Поиск в Интернете",
     "original": {
@@ -389,16 +485,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_Learn": {
-    "value": "Больше информации о Nuvole AI",
-    "original": {
-      "value": "More Information about Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_DeletionDelete": {
     "value": "Удалить этот чат без возможности восстановления",
     "original": {
@@ -589,16 +675,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_History": {
-    "value": "Просматривайте, ищите, просматривайте и продолжайте свои чаты с Nuvole AI",
-    "original": {
-      "value": "Browse, search, view and continue your chats with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_ORG_BackHistory": {
     "value": "Вернуться к истории",
     "original": {
@@ -669,16 +745,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_LastLoad": {
-    "value": "Продолжить, загрузив последний чат",
-    "original": {
-      "value": "Continue by Loading the Last Chat",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_ORG_Ago": {
     "value": "${Seconds} назад",
     "original": {
@@ -713,16 +779,6 @@
     "value": "Какой значок вы хотите дать этому чату (можно использовать только один эмодзи)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Main_ORG_Feedback": {
-    "value": "Есть ли проблемы, вопросы или идеи по улучшению Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -939,16 +995,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "Улучшение запроса с помощью ИИ",
-    "original": {
-      "value": "Improving the Prompt Using AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_H_NAME-Loading": {
     "value": "Хотите создать новый чат или загрузить и продолжить последний при запуске Nuvole AI?",
     "original": {
@@ -1013,16 +1059,6 @@
     "value": "Пропустить и начать работу с Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "Загрузка последнего чата при запуске",
-    "original": {
-      "value": "Last Chat Load When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1599,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_Continue": {
-    "value": "Продолжить общение с Nuvole AI",
-    "original": {
-      "value": "Continue Chatting with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Voice": {
     "value": "Ввод запроса",
     "original": {
@@ -1623,26 +1649,6 @@
     "value": "Выберите размер шрифта для отображения ответа (по умолчанию 48 пикселей)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Язык Nuvole AI",
-    "original": {
-      "value": "Nuvole AI Language",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Lite": {
-    "value": "Облегченная версия Nuvole AI",
-    "original": {
-      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1899,16 +1905,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Settings": {
-    "value": "Измените и настройте Nuvole AI в соответствии с вашими потребностями",
-    "original": {
-      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_ORG_Lite": {
     "value": "Вы будете перенаправлены на страницу RoutineHub для Nuvole AI Lite",
     "original": {
@@ -1993,16 +1989,6 @@
     "value": "Выбрать слайды для использования",
     "original": {
       "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Подписаться на канал MIKL в Telegram",
-    "original": {
-      "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
     },
     "translatedBy": "ai",

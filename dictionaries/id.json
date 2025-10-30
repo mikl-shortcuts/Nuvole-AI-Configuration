@@ -1,4 +1,100 @@
 {
+  "Notification_Response": {
+    "value": "Respon atas permintaan Anda sudah siap!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Telegram": {
+    "value": "Bergabung dengan Saluran Telegram MIKL",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Settings": {
+    "value": "Ubah dan sesuaikan Nuvole AI",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Coba Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Bahasa",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_Continue": {
+    "value": "Lanjutkan Obrolan Ini",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Muat Otomatis Obrolan Terakhir",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Tingkatkan Prompt",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Ada masalah, pertanyaan, atau ide tentang Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_LastLoad": {
+    "value": "Lanjutkan Obrolan Terakhir",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_History": {
+    "value": "Jelajahi, lihat, dan lanjutkan obrolan Anda",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_Learn": {
+    "value": "Tentang Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Pencarian Internet",
     "original": {
@@ -389,16 +485,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_Learn": {
-    "value": "Informasi Lebih Lanjut tentang Nuvole AI",
-    "original": {
-      "value": "More Information about Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_DeletionDelete": {
     "value": "Hapus obrolan ini tanpa kemungkinan pemulihan",
     "original": {
@@ -589,16 +675,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_History": {
-    "value": "Jelajahi, cari, lihat, dan lanjutkan obrolan Anda dengan Nuvole AI",
-    "original": {
-      "value": "Browse, search, view and continue your chats with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_ORG_BackHistory": {
     "value": "Kembali ke Riwayat",
     "original": {
@@ -669,16 +745,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_LastLoad": {
-    "value": "Lanjutkan dengan Memuat Obrolan Terakhir",
-    "original": {
-      "value": "Continue by Loading the Last Chat",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_ORG_Ago": {
     "value": "${Seconds} yang lalu",
     "original": {
@@ -713,16 +779,6 @@
     "value": "Ikon apa yang ingin Anda berikan pada obrolan ini (Anda hanya dapat menggunakan satu emoji)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Main_ORG_Feedback": {
-    "value": "Ada masalah, pertanyaan, atau ide tentang cara meningkatkan Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -939,16 +995,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "Meningkatkan Prompt Menggunakan AI",
-    "original": {
-      "value": "Improving the Prompt Using AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_H_NAME-Loading": {
     "value": "Apakah Anda ingin membuat obrolan baru atau memuat dan melanjutkan yang terakhir saat menjalankan Nuvole AI?",
     "original": {
@@ -1013,16 +1059,6 @@
     "value": "Lewati dan Mulai Bekerja dengan Nuvole AI",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "Muat Obrolan Terakhir Saat Menjalankan",
-    "original": {
-      "value": "Last Chat Load When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1599,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_Continue": {
-    "value": "Lanjutkan Mengobrol dengan Nuvole AI",
-    "original": {
-      "value": "Continue Chatting with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Voice": {
     "value": "Memasukkan Permintaan",
     "original": {
@@ -1623,26 +1649,6 @@
     "value": "Pilih ukuran font untuk menampilkan respons (48 piksel secara default)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Bahasa Nuvole AI",
-    "original": {
-      "value": "Nuvole AI Language",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Lite": {
-    "value": "Versi Lebih Ringan dari Nuvole AI",
-    "original": {
-      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1899,16 +1905,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Settings": {
-    "value": "Modifikasi dan sesuaikan Nuvole AI agar sesuai dengan kebutuhan Anda",
-    "original": {
-      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_ORG_Lite": {
     "value": "Anda akan dialihkan ke halaman RoutineHub untuk Nuvole AI Lite",
     "original": {
@@ -1993,16 +1989,6 @@
     "value": "Pilih Slide yang Akan Digunakan",
     "original": {
       "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Berlangganan Saluran Telegram MIKL",
-    "original": {
-      "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
     },
     "translatedBy": "ai",

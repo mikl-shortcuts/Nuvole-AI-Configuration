@@ -1,4 +1,100 @@
 {
+  "Notification_Response": {
+    "value": "ನಿಮ್ಮ ವಿನಂತಿಗೆ ಪ್ರತಿಕ್ರಿಯೆ ಸಿದ್ಧವಾಗಿದೆ!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL ನ ಟೆಲಿಗ್ರಾಂ ಚಾನೆಲ್‌ಗೆ ಸೇರಿ",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Settings": {
+    "value": "ನುವೋಲೆ AI ಅನ್ನು ಮಾರ್ಪಡಿಸಿ ಮತ್ತು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "ನುವೋಲೆ AI ಲೈಟ್ ಅನ್ನು ಪ್ರಯತ್ನಿಸಿ",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "ಭಾಷೆ",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_Continue": {
+    "value": "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಿ",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಲೋಡ್ ಮಾಡಿ",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಹೆಚ್ಚಿಸಿ",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "ನುವೋಲೆ AI ಬಗ್ಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು, ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಐಡಿಯಾಗಳಿದ್ದರೆ?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_N_LastLoad": {
+    "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಿ",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_History": {
+    "value": "ನಿಮ್ಮ ಚಾಟ್‌ಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ, ವೀಕ್ಷಿಸಿ ಮತ್ತು ಮುಂದುವರಿಸಿ",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_Learn": {
+    "value": "ನುವೋಲೆ AI ಬಗ್ಗೆ",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "ಇಂಟರ್ನೆಟ್ ಹುಡುಕಾಟ",
     "original": {
@@ -389,16 +485,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_Learn": {
-    "value": "Nuvole AI ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ",
-    "original": {
-      "value": "More Information about Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_DeletionDelete": {
     "value": "ಪುನಃಪಡೆಯುವ ಸಾಧ್ಯತೆಯಿಲ್ಲದೆ ಈ ಚಾಟ್ ಅಳಿಸಿ",
     "original": {
@@ -589,16 +675,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_History": {
-    "value": "Nuvole AI ನೊಂದಿಗೆ ನಿಮ್ಮ ಚಾಟ್ಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ, ಹುಡುಕಿ, ವೀಕ್ಷಿಸಿ ಮತ್ತು ಮುಂದುವರಿಸಿ",
-    "original": {
-      "value": "Browse, search, view and continue your chats with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_ORG_BackHistory": {
     "value": "ಇತಿಹಾಸಕ್ಕೆ ಹಿಂತಿರುಗಿ",
     "original": {
@@ -669,16 +745,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_LastLoad": {
-    "value": "ಕೊನೆಯ ಚಾಟ್ ಲೋಡ್ ಮಾಡುವ ಮೂಲಕ ಮುಂದುವರಿಸಿ",
-    "original": {
-      "value": "Continue by Loading the Last Chat",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_ORG_Ago": {
     "value": "${Seconds} ಹಿಂದೆ",
     "original": {
@@ -713,16 +779,6 @@
     "value": "ನೀವು ಈ ಚಾಟ್ಗೆ ಯಾವ ಐಕಾನ್ ನೀಡಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ (ನೀವು ಕೇವಲ ಒಂದು ಎಮೋಜಿ ಬಳಸಬಹುದು)?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nuvole AI ಅನ್ನು ಸುಧಾರಿಸಲು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು, ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಐಡಿಯಾಗಳಿವೆ?",
-    "original": {
-      "value": "Any problems, questions or ideas on how to improve Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -939,16 +995,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "AI ಬಳಸಿ ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸುವುದು",
-    "original": {
-      "value": "Improving the Prompt Using AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_H_NAME-Loading": {
     "value": "ನೀವು ಹೊಸ ಚಾಟ್ ರಚಿಸಬೇಕೆ ಅಥವಾ ಕೊನೆಯದನ್ನು ಲೋಡ್ ಮಾಡಿ ಮತ್ತು Nuvole AI ಅನ್ನು ರನ್ ಮಾಡುವಾಗ ಮುಂದುವರಿಸಬೇಕೆ?",
     "original": {
@@ -1013,16 +1059,6 @@
     "value": "Nuvole AI ನೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ಸ್ಕಿಪ್ ಮಾಡಿ ಮತ್ತು ಪ್ರಾರಂಭಿಸಿ",
     "original": {
       "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "ಕೊನೆಯ ಚಾಟ್ ಲೋಡ್ ಮಾಡಿ ರನ್ ಮಾಡುವಾಗ",
-    "original": {
-      "value": "Last Chat Load When Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1599,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_N_Continue": {
-    "value": "Nuvole AI ಜೊತೆ ಚಾಟ್ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಿ",
-    "original": {
-      "value": "Continue Chatting with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Voice": {
     "value": "ವಿನಂತಿಯನ್ನು ನಮೂದಿಸುವುದು",
     "original": {
@@ -1623,26 +1649,6 @@
     "value": "ಉತ್ತರವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಫಾಂಟ್ ಗಾತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ (ಡೀಫಾಲ್ಟ್ 48 ಪಿಕ್ಸೆಲ್‌ಗಳು)",
     "original": {
       "value": "Select the font size to display the response (48 pixels by default)",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Nuvole AI ಭಾಷೆ",
-    "original": {
-      "value": "Nuvole AI Language",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Lite": {
-    "value": "Nuvole AI ನ ಹಗುರ ಆವೃತ್ತಿ",
-    "original": {
-      "value": "Lighter Version of Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1899,16 +1905,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Settings": {
-    "value": "Nuvole AI ಅನ್ನು ನಿಮ್ಮ ಅಗತ್ಯಗಳಿಗೆ ಸರಿಯಾಗಿ ಹೊಂದಿಸಲು ಮಾರ್ಪಡಿಸಿ ಮತ್ತು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ",
-    "original": {
-      "value": "Modify and customize Nuvole AI to perfectly fit your needs",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_ORG_Lite": {
     "value": "ನೀವು Nuvole AI Lite ಗಾಗಿ ರೂಟಿನ್‌ಹಬ್ ಪುಟಕ್ಕೆ ರಿಡೈರೆಕ್ಟ್ ಆಗುತ್ತೀರಿ",
     "original": {
@@ -1993,16 +1989,6 @@
     "value": "ಬಳಸಲು ಬಯಸುವ ಸ್ಲೈಡ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
     "original": {
       "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL ನ ಟೆಲಿಗ್ರಾಂ ಚಾನೆಲ್‌ಗೆ ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ",
-    "original": {
-      "value": "Subscribe to MIKL’s Telegram Channel",
       "version": 1
     },
     "translatedBy": "ai",
