@@ -1,96 +1,8 @@
 {
-  "Notification_Response": {
-    "value": "Het antwoord op je verzoek is klaar!",
+  "Error_H_Rate": {
+    "value": "Foutpercentage voor het laatste uur",
     "original": {
-      "value": "The response to your request is ready!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Telegram": {
-    "value": "Sluit je aan bij MIKL’s Telegram Kanaal",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Settings": {
-    "value": "Wijzig en pas Nuvole AI aan",
-    "original": {
-      "value": "Modify and customize Nuvole AI"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Lite": {
-    "value": "Probeer Nuvole AI Lite",
-    "original": {
-      "value": "Try Nuvole AI Lite"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Taal",
-    "original": {
-      "value": "Language"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_Continue": {
-    "value": "Hervat Deze Chat",
-    "original": {
-      "value": "Resume This Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "Automatisch Laatste Chat Laden",
-    "original": {
-      "value": "Auto-load Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "Verbeter de Prompt",
-    "original": {
-      "value": "Enchance the Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Problemen, vragen of ideeën over Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_LastLoad": {
-    "value": "Hervat Laatste Chat",
-    "original": {
-      "value": "Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_History": {
-    "value": "Blader, bekijk en ga verder met je chats",
-    "original": {
-      "value": "Browse, view and continue your chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_Learn": {
-    "value": "Over Nuvole AI",
-    "original": {
-      "value": "About Nuvole AI"
+      "value": "Error rate for last hour"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -485,6 +397,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_Learn": {
+    "value": "Over Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_DeletionDelete": {
     "value": "Verwijder deze chat zonder mogelijkheid tot herstel",
     "original": {
@@ -675,6 +595,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_History": {
+    "value": "Blader, bekijk en ga verder met je chats",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_ORG_BackHistory": {
     "value": "Terug naar geschiedenis",
     "original": {
@@ -745,6 +673,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_LastLoad": {
+    "value": "Hervat Laatste Chat",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_ORG_Ago": {
     "value": "${Seconden} geleden",
     "original": {
@@ -785,6 +721,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Feedback": {
+    "value": "Problemen, vragen of ideeën over Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_T_VideoSize": {
     "value": "Maak een ${Size} samenvatting van de video",
     "original": {
@@ -809,16 +753,6 @@
     "value": "Nuvole AI opnieuw starten",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Text_T_Search": {
-    "value": "${Num} resultaten gevonden",
-    "original": {
-      "value": "Found ${Num} results",
       "version": 1
     },
     "translatedBy": "ai",
@@ -995,6 +929,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Verbeter de Prompt",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_H_NAME-Loading": {
     "value": "Wil je een nieuwe chat maken of de laatste laden en voortzetten bij het starten van Nuvole AI?",
     "original": {
@@ -1064,6 +1006,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Automatisch Laatste Chat Laden",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
     "value": "Uitgeschakeld",
@@ -1635,6 +1585,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_Continue": {
+    "value": "Hervat Deze Chat",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Voice": {
     "value": "Verzoek invoeren",
     "original": {
@@ -1654,6 +1612,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Taal",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Probeer Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
     "value": "Verbeter prompt met AI",
@@ -1774,6 +1748,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Notification_Response": {
+    "value": "Het antwoord op je verzoek is klaar!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Main-True": {
     "value": "Openen bij starten",
@@ -1905,6 +1887,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Settings": {
+    "value": "Wijzig en pas Nuvole AI aan",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_ORG_Lite": {
     "value": "Je wordt doorgestuurd naar de RoutineHub-pagina voor Nuvole AI Lite",
     "original": {
@@ -1994,6 +1984,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "Sluit je aan bij MIKL’s Telegram Kanaal",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "Licht",

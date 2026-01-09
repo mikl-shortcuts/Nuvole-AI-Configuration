@@ -1,96 +1,8 @@
 {
-  "Notification_Response": {
-    "value": "Atsakymas į jūsų užklausą yra pasirengęs!",
+  "Error_H_Rate": {
+    "value": "Klaidos rodiklis per paskutinį valandą",
     "original": {
-      "value": "The response to your request is ready!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Telegram": {
-    "value": "Prisijunkite prie MIKL Telegram kanalo",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Settings": {
-    "value": "Keisti ir pritaikyti Nuvole AI",
-    "original": {
-      "value": "Modify and customize Nuvole AI"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Lite": {
-    "value": "Išbandykite Nuvole AI Lite",
-    "original": {
-      "value": "Try Nuvole AI Lite"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "Kalba",
-    "original": {
-      "value": "Language"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_Continue": {
-    "value": "Tęsti šį pokalbį",
-    "original": {
-      "value": "Resume This Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "Automatiškai įkelti paskutinį pokalbį",
-    "original": {
-      "value": "Auto-load Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "Pagerinti užklausą",
-    "original": {
-      "value": "Enchance the Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Ar turite problemų, klausimų ar idėjų apie Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_LastLoad": {
-    "value": "Tęsti paskutinį pokalbį",
-    "original": {
-      "value": "Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_History": {
-    "value": "Naršykite, žiūrėkite ir tęskite savo pokalbius",
-    "original": {
-      "value": "Browse, view and continue your chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_Learn": {
-    "value": "Apie Nuvole AI",
-    "original": {
-      "value": "About Nuvole AI"
+      "value": "Error rate for last hour"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -485,6 +397,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_Learn": {
+    "value": "Apie Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_DeletionDelete": {
     "value": "Ištrinti šį pokalbį be galimybės atkurti",
     "original": {
@@ -675,6 +595,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_History": {
+    "value": "Naršykite, žiūrėkite ir tęskite savo pokalbius",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_ORG_BackHistory": {
     "value": "Grįžti į istoriją",
     "original": {
@@ -745,6 +673,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_LastLoad": {
+    "value": "Tęsti paskutinį pokalbį",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_ORG_Ago": {
     "value": "Prieš ${Seconds}",
     "original": {
@@ -785,6 +721,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Feedback": {
+    "value": "Ar turite problemų, klausimų ar idėjų apie Nuvole AI?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_T_VideoSize": {
     "value": "Padaryti ${Size} vaizdo įrašo santrauką",
     "original": {
@@ -809,16 +753,6 @@
     "value": "Paleisti iš naujo Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Text_T_Search": {
-    "value": "Rasta ${Num} rezultatų",
-    "original": {
-      "value": "Found ${Num} results",
       "version": 1
     },
     "translatedBy": "ai",
@@ -995,6 +929,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "Pagerinti užklausą",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_H_NAME-Loading": {
     "value": "Ar norite sukurti naują pokalbį arba įkelti ir tęsti paskutinį, kai paleidžiate Nuvole AI?",
     "original": {
@@ -1064,6 +1006,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "Automatiškai įkelti paskutinį pokalbį",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
     "value": "Išjungta",
@@ -1635,6 +1585,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_Continue": {
+    "value": "Tęsti šį pokalbį",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Voice": {
     "value": "Prašymo įvedimas",
     "original": {
@@ -1654,6 +1612,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "Kalba",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Išbandykite Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
     "value": "Pagerinti užklausą su AI",
@@ -1774,6 +1748,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Notification_Response": {
+    "value": "Atsakymas į jūsų užklausą yra pasirengęs!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Main-True": {
     "value": "Atidaryti paleidžiant",
@@ -1905,6 +1887,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Settings": {
+    "value": "Keisti ir pritaikyti Nuvole AI",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_ORG_Lite": {
     "value": "Bus nukreipiami į RoutineHub puslapį Nuvole AI Lite",
     "original": {
@@ -1994,6 +1984,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "Prisijunkite prie MIKL Telegram kanalo",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "Šviesus",

@@ -1,96 +1,8 @@
 {
-  "Notification_Response": {
-    "value": "您的请求回复已准备好！",
+  "Error_H_Rate": {
+    "value": "上小时的错误率",
     "original": {
-      "value": "The response to your request is ready!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Telegram": {
-    "value": "加入 MIKL 的 Telegram 频道",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Settings": {
-    "value": "修改和自定义 Nuvole AI",
-    "original": {
-      "value": "Modify and customize Nuvole AI"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Lite": {
-    "value": "尝试 Nuvole AI Lite",
-    "original": {
-      "value": "Try Nuvole AI Lite"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "语言",
-    "original": {
-      "value": "Language"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_Continue": {
-    "value": "恢复此聊天",
-    "original": {
-      "value": "Resume This Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "自动加载上次聊天",
-    "original": {
-      "value": "Auto-load Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "增强提示",
-    "original": {
-      "value": "Enchance the Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "关于 Nuvole AI 有任何问题、疑问或建议吗？",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_LastLoad": {
-    "value": "恢复上次聊天",
-    "original": {
-      "value": "Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_History": {
-    "value": "浏览、查看并继续您的聊天",
-    "original": {
-      "value": "Browse, view and continue your chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_Learn": {
-    "value": "关于 Nuvole AI",
-    "original": {
-      "value": "About Nuvole AI"
+      "value": "Error rate for last hour"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -485,6 +397,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_Learn": {
+    "value": "关于 Nuvole AI",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_DeletionDelete": {
     "value": "删除此聊天，无法恢复",
     "original": {
@@ -675,6 +595,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_History": {
+    "value": "浏览、查看并继续您的聊天",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_ORG_BackHistory": {
     "value": "返回历史记录",
     "original": {
@@ -745,6 +673,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_LastLoad": {
+    "value": "恢复上次聊天",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_ORG_Ago": {
     "value": "${Seconds} 前",
     "original": {
@@ -785,6 +721,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Feedback": {
+    "value": "关于 Nuvole AI 有任何问题、疑问或建议吗？",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_T_VideoSize": {
     "value": "制作视频的 ${Size} 摘要",
     "original": {
@@ -809,16 +753,6 @@
     "value": "重新启动 Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Text_T_Search": {
-    "value": "找到 ${Num} 个结果",
-    "original": {
-      "value": "Found ${Num} results",
       "version": 1
     },
     "translatedBy": "ai",
@@ -995,6 +929,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "增强提示",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_H_NAME-Loading": {
     "value": "您希望在运行 Nuvole AI 时创建新聊天还是加载并继续最后一个聊天？",
     "original": {
@@ -1064,6 +1006,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "自动加载上次聊天",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
     "value": "已关闭",
@@ -1635,6 +1585,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_Continue": {
+    "value": "恢复此聊天",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Voice": {
     "value": "输入请求",
     "original": {
@@ -1654,6 +1612,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "语言",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "尝试 Nuvole AI Lite",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
     "value": "使用 AI 改进提示",
@@ -1774,6 +1748,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Notification_Response": {
+    "value": "您的请求回复已准备好！",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Main-True": {
     "value": "运行时打开",
@@ -1905,6 +1887,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Settings": {
+    "value": "修改和自定义 Nuvole AI",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_ORG_Lite": {
     "value": "您将被重定向到 Nuvole AI Lite 的 RoutineHub 页面",
     "original": {
@@ -1994,6 +1984,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "加入 MIKL 的 Telegram 频道",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "浅色",

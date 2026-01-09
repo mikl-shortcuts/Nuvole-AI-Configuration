@@ -1,96 +1,8 @@
 {
-  "Notification_Response": {
-    "value": "요청에 대한 응답이 준비되었습니다!",
+  "Error_H_Rate": {
+    "value": "지난 시간의 오류율",
     "original": {
-      "value": "The response to your request is ready!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL의 텔레그램 채널에 가입하세요",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Settings": {
-    "value": "Nuvole AI 수정 및 사용자 지정",
-    "original": {
-      "value": "Modify and customize Nuvole AI"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Lite": {
-    "value": "Nuvole AI Lite 사용해보기",
-    "original": {
-      "value": "Try Nuvole AI Lite"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "언어",
-    "original": {
-      "value": "Language"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_Continue": {
-    "value": "이 채팅 다시 시작",
-    "original": {
-      "value": "Resume This Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "마지막 채팅 자동 로드",
-    "original": {
-      "value": "Auto-load Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "프롬프트 강화",
-    "original": {
-      "value": "Enchance the Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nuvole AI에 대한 문제, 질문 또는 아이디어가 있나요?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_LastLoad": {
-    "value": "마지막 채팅 다시 시작",
-    "original": {
-      "value": "Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_History": {
-    "value": "채팅을 찾아보고 계속 진행하세요",
-    "original": {
-      "value": "Browse, view and continue your chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_Learn": {
-    "value": "Nuvole AI에 대해",
-    "original": {
-      "value": "About Nuvole AI"
+      "value": "Error rate for last hour"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -485,6 +397,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_Learn": {
+    "value": "Nuvole AI에 대해",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_DeletionDelete": {
     "value": "이 채팅을 복구할 수 없이 삭제합니다",
     "original": {
@@ -675,6 +595,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_History": {
+    "value": "채팅을 찾아보고 계속 진행하세요",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_ORG_BackHistory": {
     "value": "기록으로 돌아가기",
     "original": {
@@ -745,6 +673,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_LastLoad": {
+    "value": "마지막 채팅 다시 시작",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_ORG_Ago": {
     "value": "${Seconds} 전",
     "original": {
@@ -785,6 +721,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Feedback": {
+    "value": "Nuvole AI에 대한 문제, 질문 또는 아이디어가 있나요?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_T_VideoSize": {
     "value": "비디오의 ${Size} 요약 생성",
     "original": {
@@ -809,16 +753,6 @@
     "value": "Nuvole AI 다시 시작",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Text_T_Search": {
-    "value": "${Num}개의 결과 찾음",
-    "original": {
-      "value": "Found ${Num} results",
       "version": 1
     },
     "translatedBy": "ai",
@@ -995,6 +929,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "프롬프트 강화",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_H_NAME-Loading": {
     "value": "Nuvole AI를 실행할 때 새 채팅을 생성하거나 마지막 채팅을 불러오고 계속하시겠습니까?",
     "original": {
@@ -1064,6 +1006,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "마지막 채팅 자동 로드",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
     "value": "꺼짐",
@@ -1635,6 +1585,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_Continue": {
+    "value": "이 채팅 다시 시작",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Voice": {
     "value": "요청 입력",
     "original": {
@@ -1654,6 +1612,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "언어",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Nuvole AI Lite 사용해보기",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
     "value": "AI로 프롬프트 개선",
@@ -1774,6 +1748,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Notification_Response": {
+    "value": "요청에 대한 응답이 준비되었습니다!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Main-True": {
     "value": "실행 시 열기",
@@ -1905,6 +1887,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Settings": {
+    "value": "Nuvole AI 수정 및 사용자 지정",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_ORG_Lite": {
     "value": "Nuvole AI Lite의 RoutineHub 페이지로 이동합니다",
     "original": {
@@ -1994,6 +1984,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL의 텔레그램 채널에 가입하세요",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "밝음",

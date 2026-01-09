@@ -1,96 +1,8 @@
 {
-  "Notification_Response": {
-    "value": "तुमच्या विनंतीचा प्रतिसाद तयार आहे!",
+  "Error_H_Rate": {
+    "value": "शेवटच्या तासासाठी त्रुटी दर",
     "original": {
-      "value": "The response to your request is ready!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL च्या टेलीग्राम चॅनेलमध्ये सामील व्हा",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Settings": {
-    "value": "Nuvole AI सानुकूलित आणि बदल करा",
-    "original": {
-      "value": "Modify and customize Nuvole AI"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Lite": {
-    "value": "Nuvole AI Lite चा प्रयत्न करा",
-    "original": {
-      "value": "Try Nuvole AI Lite"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Lang": {
-    "value": "भाषा",
-    "original": {
-      "value": "Language"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_Continue": {
-    "value": "हा चॅट पुन्हा सुरू करा",
-    "original": {
-      "value": "Resume This Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-Loading": {
-    "value": "शेवटचा चॅट स्वयंचलितपणे लोड करा",
-    "original": {
-      "value": "Auto-load Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImagePlus": {
-    "value": "प्रॉम्प्ट वाढवा",
-    "original": {
-      "value": "Enchance the Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nuvole AI बद्दल कोणतीही समस्या, प्रश्न किंवा कल्पना आहेत का?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_N_LastLoad": {
-    "value": "शेवटचा चॅट पुन्हा सुरू करा",
-    "original": {
-      "value": "Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_History": {
-    "value": "तुमचे चॅट ब्राउझ करा, पाहा आणि सुरू ठेवा",
-    "original": {
-      "value": "Browse, view and continue your chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_Learn": {
-    "value": "Nuvole AI बद्दल",
-    "original": {
-      "value": "About Nuvole AI"
+      "value": "Error rate for last hour"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -485,6 +397,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_Learn": {
+    "value": "Nuvole AI बद्दल",
+    "original": {
+      "value": "About Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_DeletionDelete": {
     "value": "पुनर्प्राप्तीशिवाय ही चॅट हटवा",
     "original": {
@@ -675,6 +595,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_History": {
+    "value": "तुमचे चॅट ब्राउझ करा, पाहा आणि सुरू ठेवा",
+    "original": {
+      "value": "Browse, view and continue your chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_ORG_BackHistory": {
     "value": "इतिहासात परत जा",
     "original": {
@@ -745,6 +673,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_LastLoad": {
+    "value": "शेवटचा चॅट पुन्हा सुरू करा",
+    "original": {
+      "value": "Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_ORG_Ago": {
     "value": "${Seconds} पूर्वी",
     "original": {
@@ -785,6 +721,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Feedback": {
+    "value": "Nuvole AI बद्दल कोणतीही समस्या, प्रश्न किंवा कल्पना आहेत का?",
+    "original": {
+      "value": "Any problems, questions or ideas about Nuvole AI?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_T_VideoSize": {
     "value": "व्हिडिओचा ${Size} सारांश तयार करा",
     "original": {
@@ -809,16 +753,6 @@
     "value": "Nuvole AI पुनरारंभ करा",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Text_T_Search": {
-    "value": "${Num} परिणाम सापडले",
-    "original": {
-      "value": "Found ${Num} results",
       "version": 1
     },
     "translatedBy": "ai",
@@ -995,6 +929,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_NAME-ImagePlus": {
+    "value": "प्रॉम्प्ट वाढवा",
+    "original": {
+      "value": "Enchance the Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_H_NAME-Loading": {
     "value": "तुम्ही नवीन चॅट तयार करू इच्छिता किंवा Nuvole AI चालवताना शेवटची लोड करून सुरू ठेवू इच्छिता?",
     "original": {
@@ -1064,6 +1006,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Loading": {
+    "value": "शेवटचा चॅट स्वयंचलितपणे लोड करा",
+    "original": {
+      "value": "Auto-load Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
     "value": "बंद केले",
@@ -1635,6 +1585,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_N_Continue": {
+    "value": "हा चॅट पुन्हा सुरू करा",
+    "original": {
+      "value": "Resume This Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Voice": {
     "value": "विनंती प्रविष्ट करणे",
     "original": {
@@ -1654,6 +1612,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_NAME-Lang": {
+    "value": "भाषा",
+    "original": {
+      "value": "Language"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Lite": {
+    "value": "Nuvole AI Lite चा प्रयत्न करा",
+    "original": {
+      "value": "Try Nuvole AI Lite"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_ImagePlus-True": {
     "value": "AI सह प्रॉम्प्ट सुधारा",
@@ -1774,6 +1748,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Notification_Response": {
+    "value": "तुमच्या विनंतीचा प्रतिसाद तयार आहे!",
+    "original": {
+      "value": "The response to your request is ready!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Main-True": {
     "value": "चालवताना उघडा",
@@ -1905,6 +1887,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Main_ORG_Settings": {
+    "value": "Nuvole AI सानुकूलित आणि बदल करा",
+    "original": {
+      "value": "Modify and customize Nuvole AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_ORG_Lite": {
     "value": "तुम्हाला Nuvole AI Lite साठी RoutineHub पृष्ठावर पुनर्निर्देशित केले जाईल",
     "original": {
@@ -1994,6 +1984,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Telegram": {
+    "value": "MIKL च्या टेलीग्राम चॅनेलमध्ये सामील व्हा",
+    "original": {
+      "value": "Join MIKL’s Telegram Channel"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "लाइट",
