@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "شما به RoutineHub هدایت خواهید شد",
+  "Text_T_Info": {
+    "value": "اطلاعات یافت شد",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "هر مشکلی، سوالی یا ایده‌ای دارید؟",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "تمام تاریخچه چت Nuvole AI را به طور دائم حذف کنید",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "تمام تاریخچه چت Nuvole AI را به طور دائم حذف کنید",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "سؤال",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "هر مشکلی، سوالی یا ایده‌ای دارید؟",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "خلاصه ${Size} از ویدیو",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "شما به RoutineHub هدایت خواهید شد",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "حذف ${Count} انتخاب شده ${Chats}",

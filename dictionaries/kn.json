@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "ನೀವು RoutineHub ಗೆ ಮರುನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತೀರಿ",
+  "Text_T_Info": {
+    "value": "ಮಾಹಿತಿ ಕಂಡುಬಂದಿದೆ",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು, ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಐಡಿಯಾಗಳೇ?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "ಶಾಶ್ವತವಾಗಿ ಎಲ್ಲಾ Nuvole AI ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "ಶಾಶ್ವತವಾಗಿ ಎಲ್ಲಾ Nuvole AI ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "ಪ್ರಶ್ನೆ",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು, ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಐಡಿಯಾಗಳೇ?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "ವೀಡಿಯೊದ ${Size} ಸಾರಾಂಶವನ್ನು ಮಾಡಿ",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "ನೀವು RoutineHub ಗೆ ಮರುನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತೀರಿ",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "${Count} ಆಯ್ಕೆ ಮಾಡಿದ ${Chats} ಅನ್ನು ಅಳಿಸಿ",

@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "Budete přesměrováni na RoutineHub",
+  "Text_T_Info": {
+    "value": "Nalezené informace",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nějaké problémy, otázky nebo nápady?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Trvale smazat celou historii chatu Nuvole AI",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Trvale smazat celou historii chatu Nuvole AI",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "Otázka",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Nějaké problémy, otázky nebo nápady?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "Vytvořit ${Size} souhrn videa",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "Budete přesměrováni na RoutineHub",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "Smazat ${Count} vybraných ${Chats}",

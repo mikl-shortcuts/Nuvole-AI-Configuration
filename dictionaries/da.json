@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "Du vil blive omdirigeret til RoutineHub",
+  "Text_T_Info": {
+    "value": "Fundet information",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "Nogen problemer, spørgsmål eller ideer?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Slet permanent alle Nuvole AI chat-historik",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Slet permanent alle Nuvole AI chat-historik",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "Spørgsmål",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "Nogen problemer, spørgsmål eller ideer?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "Lav en ${Size} opsummering af videoen",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "Du vil blive omdirigeret til RoutineHub",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "Slet ${Count} valgte ${Chats}",

@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "ரூட்டின் ஹப்-க்கு மீண்டும் அனுப்பப்படுவீர்கள்",
+  "Text_T_Info": {
+    "value": "கண்ட தகவல்",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "எந்த பிரச்சனைகள், கேள்விகள் அல்லது யோசனைகள்?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "நிரந்தரமாக அனைத்து Nuvole AI சாட் வரலாற்றையும் நீக்கவும்",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "நிரந்தரமாக அனைத்து Nuvole AI சாட் வரலாற்றையும் நீக்கவும்",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "கேள்வி",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "எந்த பிரச்சனைகள், கேள்விகள் அல்லது யோசனைகள்?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "வீடியோவின் ${Size} சுருக்கத்தை உருவாக்கவும்",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "ரூட்டின் ஹப்-க்கு மீண்டும் அனுப்பப்படுவீர்கள்",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "${Count} தேர்ந்தெடுத்த ${Chats} ஐ நீக்கவும்",

@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "તમને RoutineHub પર રીડાયરેક્ટ કરવામાં આવશે",
+  "Text_T_Info": {
+    "value": "માહિતી મળી",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "કોઈ સમસ્યા, પ્રશ્નો અથવા વિચારો?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "સ્થાયી રીતે બધી Nuvole AI ચેટ ઇતિહાસ કાઢી નાખો",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "સ્થાયી રીતે બધી Nuvole AI ચેટ ઇતિહાસ કાઢી નાખો",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "પ્રશ્ન",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "કોઈ સમસ્યા, પ્રશ્નો અથવા વિચારો?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "વિડિયોનું ${Size} સારાંશ બનાવો",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "તમને RoutineHub પર રીડાયરેક્ટ કરવામાં આવશે",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "${Count} પસંદ કરેલા ${Chats} કાઢી નાખો",

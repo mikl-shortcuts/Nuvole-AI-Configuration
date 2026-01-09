@@ -1,24 +1,8 @@
 {
-  "Install_ORG_Learn": {
-    "value": "നിങ്ങൾക്ക് റൂട്ടീൻഹബിലേക്ക് റീഡയറക്റ്റ് ചെയ്യപ്പെടും",
+  "Text_T_Info": {
+    "value": "കണ്ടെത്തിയ വിവരങ്ങൾ",
     "original": {
-      "value": "You will be redirected to RoutineHub"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Main_ORG_Feedback": {
-    "value": "ഏതെങ്കിലും പ്രശ്നങ്ങൾ, ചോദ്യങ്ങൾ അല്ലെങ്കിൽ ആശയങ്ങൾ?",
-    "original": {
-      "value": "Any problems, questions or ideas?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "നുവോലെ എഐ ചാറ്റ് ചരിത്രം സ്ഥിരമായി ഇല്ലാതാക്കുക",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
+      "value": "Found information"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -262,6 +246,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "നുവോലെ എഐ ചാറ്റ് ചരിത്രം സ്ഥിരമായി ഇല്ലാതാക്കുക",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
     "value": "ചോദ്യം",
@@ -726,6 +718,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Main_ORG_Feedback": {
+    "value": "ഏതെങ്കിലും പ്രശ്നങ്ങൾ, ചോദ്യങ്ങൾ അല്ലെങ്കിൽ ആശയങ്ങൾ?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_VideoSize": {
     "value": "വീഡിയോയുടെ ${Size} സംഗ്രഹം സൃഷ്ടിക്കുക",
@@ -2190,6 +2190,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_ORG_Learn": {
+    "value": "നിങ്ങൾക്ക് റൂട്ടീൻഹബിലേക്ക് റീഡയറക്റ്റ് ചെയ്യപ്പെടും",
+    "original": {
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SelectionDelete": {
     "value": "തിരഞ്ഞെടുത്ത ${Count} ${Chats} നീക്കം ചെയ്യുക",
