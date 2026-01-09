@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "Tỷ lệ lỗi trong giờ qua",
+  "Install_ORG_Learn": {
+    "value": "Bạn sẽ được chuyển hướng đến RoutineHub",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Bất kỳ vấn đề, câu hỏi hoặc ý tưởng nào?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Xóa vĩnh viễn tất cả lịch sử trò chuyện Nuvole AI",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "Cảnh báo quản lý thiết bị!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Xóa toàn bộ lịch sử trò chuyện với Nuvole AI mà không thể khôi phục",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "Bất kỳ vấn đề, câu hỏi hoặc ý tưởng nào về Nuvole AI?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "Tạo bản tóm tắt ${Size} của video",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Khởi động lại Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Theo dõi kênh chính thức của MIKL để nhận tin tức về Nuvole AI và các dự án khác.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "Tỷ lệ lỗi trong giờ qua",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Được khuyến nghị để có trải nghiệm tốt hơn khi sử dụng Nuvole AI",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "Bạn sẽ được chuyển hướng đến trang RoutineHub cho Nuvole AI Lite",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "Hiển thị Ghi chú Đầy đủ",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Tham gia Kênh Telegram của MIKL",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "Sáng",
@@ -2207,16 +2185,6 @@
     "value": "Bạn sẽ không thể nhận phản hồi từ nhà phát triển",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "Bạn sẽ được chuyển hướng đến trang mô tả RoutineHub cho Nuvole AI",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

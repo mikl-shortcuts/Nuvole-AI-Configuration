@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "Taux d'erreur pour la dernière heure",
+  "Install_ORG_Learn": {
+    "value": "Vous serez redirigé vers RoutineHub",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Des problèmes, des questions ou des idées ?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Supprimer définitivement tout l'historique de chat Nuvole AI",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "Alerte de gestion de l'appareil!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Supprimer l'historique complet des chats avec Nuvole AI sans possibilité de récupération",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "Des problèmes, des questions ou des idées sur Nuvole AI ?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "Faire un résumé de ${Size} de la vidéo",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Redémarrer Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Suivez le canal officiel de MIKL pour recevoir des nouvelles sur Nuvole AI et d'autres projets.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "Taux d'erreur pour la dernière heure",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Recommandé pour une meilleure expérience d'utilisation de Nuvole AI",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "Vous serez redirigé vers la page RoutineHub pour Nuvole AI Lite",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "Afficher la Note Complète",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Rejoindre le canal Telegram de MIKL",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "Clair",
@@ -2207,16 +2185,6 @@
     "value": "Vous ne pourrez pas obtenir de retours du développeur",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "Vous serez redirigé vers la page de description RoutineHub pour Nuvole AI",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

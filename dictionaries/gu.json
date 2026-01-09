@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "છેલ્લા કલાક માટે ભૂલ દર",
+  "Install_ORG_Learn": {
+    "value": "તમને RoutineHub પર રીડાયરેક્ટ કરવામાં આવશે",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "કોઈ સમસ્યા, પ્રશ્નો અથવા વિચારો?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "સ્થાયી રીતે બધી Nuvole AI ચેટ ઇતિહાસ કાઢી નાખો",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "ડિવાઇસ મેનેજમેન્ટ એલર્ટ!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Nuvole AI સાથેની બધી ચેટ્સનું ઇતિહાસ કાઢી નાખો, પુનઃપ્રાપ્તિની શક્યતા વિના",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "Nuvole AI વિશે કોઈ સમસ્યા, પ્રશ્નો અથવા વિચારો?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "વિડિયોનું ${Size} સારાંશ બનાવો",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Nuvole AI ને રીસ્ટાર્ટ કરો",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Nuvole AI અને અન્ય પ્રોજેક્ટ્સ પર ન્યૂઝ પ્રાપ્ત કરવા માટે અધિકૃત MIKL ના ચેનલને ફોલો કરો.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "છેલ્લા કલાક માટે ભૂલ દર",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Nuvole AI ના ઉપયોગના વધુ સારા અનુભવ માટે ભલામણ કરવામાં આવે છે",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "તમને Nuvole AI Lite માટે રૂટિનહબ પેજ પર રીડાયરેક્ટ કરવામાં આવશે",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "સંપૂર્ણ નોટ દર્શાવો",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL ના ટેલિગ્રામ ચેનલમાં જોડાઓ",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "હળવું",
@@ -2207,16 +2185,6 @@
     "value": "તમે ડેવલપર પાસેથી પ્રતિભાવ મેળવી શકશો નહીં",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "તમને Nuvole AI માટે રૂટિનહબ વર્ણન પેજ પર રીડાયરેક્ટ કરવામાં આવશે",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

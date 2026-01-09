@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "지난 시간의 오류율",
+  "Install_ORG_Learn": {
+    "value": "RoutineHub로 리디렉션됩니다",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "문제, 질문 또는 아이디어가 있나요?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Nuvole AI 채팅 기록을 영구적으로 삭제합니다",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "기기 관리 알림!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Nuvole AI와 함께한 모든 채팅 기록을 복구할 수 없이 삭제합니다",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "Nuvole AI에 대한 문제, 질문 또는 아이디어가 있나요?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "비디오의 ${Size} 요약 생성",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Nuvole AI 다시 시작",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Nuvole AI 및 기타 프로젝트에 대한 소식을 받을 수 있는 공식 MIKL 채널을 팔로우하세요.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "지난 시간의 오류율",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Nuvole AI 사용 경험을 향상시키기 위해 권장됩니다",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "Nuvole AI Lite의 RoutineHub 페이지로 이동합니다",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "전체 노트 보기",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL의 텔레그램 채널에 가입하세요",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "밝음",
@@ -2207,16 +2185,6 @@
     "value": "개발자로부터 피드백을 받을 수 없습니다",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "Nuvole AI에 대한 RoutineHub 설명 페이지로 이동합니다",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

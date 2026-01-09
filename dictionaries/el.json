@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "Συχνότητα σφαλμάτων για την τελευταία ώρα",
+  "Install_ORG_Learn": {
+    "value": "Θα ανακατευθυνθείτε στο RoutineHub",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "Οποιαδήποτε προβλήματα, ερωτήσεις ή ιδέες;",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Διαγραφή όλων των ιστορικών συνομιλιών Nuvole AI μόνιμα",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "Ειδοποίηση διαχείρισης συσκευής!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Διαγραφή ολόκληρου του ιστορικού συνομιλιών με το Nuvole AI χωρίς δυνατότητα ανάκτησης",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "Όποια προβλήματα, ερωτήσεις ή ιδέες σχετικά με το Nuvole AI;",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "Δημιουργία ${Size} περίληψης του βίντεο",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Επανεκκίνηση του Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Ακολουθήστε το επίσημο κανάλι MIKL για να λαμβάνετε ειδήσεις για το Nuvole AI και άλλα έργα.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "Συχνότητα σφαλμάτων για την τελευταία ώρα",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Συνιστάται για καλύτερη εμπειρία χρήσης του Nuvole AI",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "Θα ανακατευθυνθείτε στη σελίδα του RoutineHub για το Nuvole AI Lite",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "Εμφάνιση Πλήρους Σημείωσης",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "Εγγραφείτε στο κανάλι Telegram του MIKL",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "Φωτεινό",
@@ -2207,16 +2185,6 @@
     "value": "Δεν θα μπορείτε να λάβετε ανατροφοδότηση από τον προγραμματιστή",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "Θα ανακατευθυνθείτε στη σελίδα περιγραφής του RoutineHub για το Nuvole AI",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "గత గంటకు లోపం రేటు",
+  "Install_ORG_Learn": {
+    "value": "మీరు RoutineHubకి రీడైరెక్ట్ చేయబడతారు",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "ఎలాంటి సమస్యలు, ప్రశ్నలు లేదా ఆలోచనలు ఉన్నాయా?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "శాశ్వతంగా అన్ని Nuvole AI చాట్ హిస్టరీని తొలగించండి",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "పరికరం నిర్వహణ హెచ్చరిక!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "నువోల్ AIతో చాట్ చరిత్రను పూర్తిగా తొలగించండి, పునరుద్ధరణ సాధ్యం కాదు",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "నువోలే AI గురించి ఏవైనా సమస్యలు, ప్రశ్నలు లేదా ఆలోచనలు ఉన్నాయా?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "వీడియో యొక్క ${Size} సారాంశం చేయండి",
     "original": {
@@ -753,16 +751,6 @@
     "value": "నువోల్ AIని రీస్టార్ట్ చేయండి",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "నువోల్ AI మరియు ఇతర ప్రాజెక్టుల గురించి వార్తలను పొందడానికి అధికారిక MIKL యొక్క ఛానెల్‌ను అనుసరించండి.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "గత గంటకు లోపం రేటు",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "నువోల్ AI ఉపయోగం కోసం మెరుగైన అనుభవం కోసం సిఫార్సు చేయబడింది",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "నువోల్ AI లైట్ కోసం రౌటిన్‌హబ్ పేజీకి మీరు రిడైరెక్ట్ చేయబడతారు",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "పూర్తి నోట్‌ను చూపించండి",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL యొక్క టెలిగ్రామ్ ఛానెల్‌లో చేరండి",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "లైట్",
@@ -2207,16 +2185,6 @@
     "value": "డెవలపర్ నుండి ఫీడ్‌బ్యాక్ పొందలేరు",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "నువోల్ AI కోసం రౌటిన్‌హబ్ వివరణ పేజీకి మీరు రిడైరెక్ట్ చేయబడతారు",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

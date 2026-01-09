@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "อัตราข้อผิดพลาดในชั่วโมงที่ผ่านมา",
+  "Install_ORG_Learn": {
+    "value": "คุณจะถูกนำไปยัง RoutineHub",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "มีปัญหา คำถาม หรือไอเดียใดๆ หรือไม่?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "ลบประวัติการแชท Nuvole AI ทั้งหมดอย่างถาวร",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "การแจ้งเตือนการจัดการอุปกรณ์!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "ลบประวัติการสนทนาทั้งหมดกับ Nuvole AI โดยไม่มีโอกาสในการกู้คืน",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "มีปัญหา, คำถาม หรือไอเดียเกี่ยวกับ Nuvole AI หรือไม่?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "สร้างสรุป ${Size} ของวิดีโอ",
     "original": {
@@ -753,16 +751,6 @@
     "value": "รีสตาร์ท Nuvole AI",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "ติดตามช่องทางอย่างเป็นทางการของ MIKL เพื่อรับข่าวสารเกี่ยวกับ Nuvole AI และโครงการอื่น ๆ",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "อัตราข้อผิดพลาดในชั่วโมงที่ผ่านมา",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "แนะนำสำหรับประสบการณ์ที่ดีขึ้นในการใช้งาน Nuvole AI",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "คุณจะถูกนำไปยังหน้า RoutineHub สำหรับ Nuvole AI Lite",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "แสดงบันทึกเต็ม",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "เข้าร่วมช่อง Telegram ของ MIKL",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "สว่าง",
@@ -2207,16 +2185,6 @@
     "value": "คุณจะไม่สามารถรับความคิดเห็นจากนักพัฒนา",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "คุณจะถูกนำไปยังหน้าคำอธิบาย RoutineHub สำหรับ Nuvole AI",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",

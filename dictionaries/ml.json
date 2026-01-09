@@ -1,8 +1,24 @@
 {
-  "Error_H_Rate": {
-    "value": "അവസാന മണിക്കൂറിലെ പിഴവ് നിരക്ക്",
+  "Install_ORG_Learn": {
+    "value": "നിങ്ങൾക്ക് റൂട്ടീൻഹബിലേക്ക് റീഡയറക്റ്റ് ചെയ്യപ്പെടും",
     "original": {
-      "value": "Error rate for last hour"
+      "value": "You will be redirected to RoutineHub"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Main_ORG_Feedback": {
+    "value": "ഏതെങ്കിലും പ്രശ്നങ്ങൾ, ചോദ്യങ്ങൾ അല്ലെങ്കിൽ ആശയങ്ങൾ?",
+    "original": {
+      "value": "Any problems, questions or ideas?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "നുവോലെ എഐ ചാറ്റ് ചരിത്രം സ്ഥിരമായി ഇല്ലാതാക്കുക",
+    "original": {
+      "value": "Permanently delete all Nuvole AI chat history"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -241,16 +257,6 @@
     "value": "ഉപകരണ നിയന്ത്രണ അലർട്ട്!",
     "original": {
       "value": "Device management alert!",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Nuvole AI ഉള്ള ചാറ്റ് ചരിത്രം മുഴുവൻ ഇല്ലാതാക്കുക, പുനഃസ്ഥാപന സാധ്യതയില്ലാതെ",
-    "original": {
-      "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -721,14 +727,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Main_ORG_Feedback": {
-    "value": "നുവോലെ എഐ പറ്റി ഏതെങ്കിലും പ്രശ്നങ്ങൾ, ചോദ്യങ്ങൾ അല്ലെങ്കിൽ ആശയങ്ങൾ ഉണ്ട്?",
-    "original": {
-      "value": "Any problems, questions or ideas about Nuvole AI?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_T_VideoSize": {
     "value": "വീഡിയോയുടെ ${Size} സംഗ്രഹം സൃഷ്ടിക്കുക",
     "original": {
@@ -753,16 +751,6 @@
     "value": "Nuvole AI പുനരാരംഭിക്കുക",
     "original": {
       "value": "Restart Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Nuvole AI, മറ്റ് പ്രോജക്ടുകൾ എന്നിവയെക്കുറിച്ചുള്ള വാർത്തകൾ ലഭിക്കാൻ ഔദ്യോഗിക MIKL’s ചാനൽ അനുസരിക്കുക.",
-    "original": {
-      "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1214,6 +1202,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_H_Rate": {
+    "value": "അവസാന മണിക്കൂറിലെ പിഴവ് നിരക്ക്",
+    "original": {
+      "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
     "value": "Nuvole AI ഉപയോഗത്തിന്റെ മെച്ചപ്പെട്ട അനുഭവത്തിന് ശുപാർശ ചെയ്യുന്നു",
@@ -1895,16 +1891,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Lite": {
-    "value": "നിങ്ങൾക്ക് Nuvole AI Lite ന്റെ RoutineHub പേജിലേക്ക് റീഡയറക്റ്റ് ചെയ്യും",
-    "original": {
-      "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Text_T_ShowNote": {
     "value": "മുഴുവൻ നോട്ട് കാണിക്കുക",
     "original": {
@@ -1984,14 +1970,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_N_Telegram": {
-    "value": "MIKL-ന്റെ ടെലിഗ്രാം ചാനലിൽ ചേരുക",
-    "original": {
-      "value": "Join MIKL’s Telegram Channel"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
     "value": "വെളുത്തത്",
@@ -2207,16 +2185,6 @@
     "value": "ഡെവലപ്പറിൽ നിന്ന് അഭിപ്രായം ലഭിക്കാൻ നിങ്ങൾക്ക് കഴിയില്ല",
     "original": {
       "value": "You won’t be able to get feedback from developer",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_ORG_Learn": {
-    "value": "Nuvole AI ന്റെ RoutineHub വിവരണ പേജിലേക്ക് നിങ്ങൾക്ക് റീഡയറക്റ്റ് ചെയ്യും",
-    "original": {
-      "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
       "version": 1
     },
     "translatedBy": "ai",
