@@ -379,11 +379,6 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Text_T_Search": {
-    "value": "Found ${Num} results",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
   "Settings_ORG_Telegram": {
     "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
     "isTranslated": true,
@@ -611,6 +606,11 @@
   },
   "Error_H_Status": {
     "value": "Server status of ${Name}",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Error_H_Rate": {
+    "value": "Error rate for last hour",
     "isTranslated": true,
     "translatedBy": "human"
   },
