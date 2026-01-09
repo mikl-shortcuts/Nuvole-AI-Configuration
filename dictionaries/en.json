@@ -120,7 +120,7 @@
     "translatedBy": "human"
   },
   "History_ORG_DeletionDelete": {
-    "value": "Delete the entire chats history with Nuvole AI without the possibility of recovery",
+    "value": "Permanently delete all Nuvole AI chat history",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -360,7 +360,7 @@
     "translatedBy": "human"
   },
   "Main_ORG_Feedback": {
-    "value": "Any problems, questions or ideas about Nuvole AI?",
+    "value": "Any problems, questions or ideas?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -376,11 +376,6 @@
   },
   "Error_N_Restart": {
     "value": "Restart Nuvole AI",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_ORG_Telegram": {
-    "value": "Follow the official MIKL’s Channel to receive news on Nuvole AI and other projects.",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -959,11 +954,6 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_ORG_Lite": {
-    "value": "You will be redirected to the RoutineHub page for Nuvole AI Lite",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
   "Text_T_ShowNote": {
     "value": "Show Full Note",
     "isTranslated": true,
@@ -1001,11 +991,6 @@
   },
   "Share_N_Slides": {
     "value": "Select the Slides to be Used",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_N_Telegram": {
-    "value": "Join MIKL’s Telegram Channel",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1120,7 +1105,7 @@
     "translatedBy": "human"
   },
   "Install_ORG_Learn": {
-    "value": "You will be redirected to the RoutineHub description page for Nuvole AI",
+    "value": "You will be redirected to RoutineHub",
     "isTranslated": true,
     "translatedBy": "human"
   },
