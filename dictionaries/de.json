@@ -1,8 +1,192 @@
 {
-  "Text_T_Info": {
-    "value": "Information gefunden",
+  "Settings_N_ImageSFW-False": {
+    "value": "NSFW-Inhalte nicht filtern",
     "original": {
-      "value": "Found information"
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "Möchten Sie, dass Nuvole AI NSFW-Inhalte bei der Bildgenerierung filtert?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-False": {
+    "value": "Nicht suchen",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-True": {
+    "value": "Verlauf anzeigen",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Server": {
+    "value": "Sie können kein Entwickler-Feedback erhalten",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_N_YesConfig": {
+    "value": "Ja, meine Konfiguration übertragen",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Saving-False": {
+    "value": "Nur auf Anfrage speichern",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Alle gefundenen Chats dauerhaft löschen",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "NSFW-Inhalte filtern",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Diese Chats dauerhaft löschen",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "Prompt verbessern",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-False": {
+    "value": "Verlauf nicht anzeigen",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "Dies könnte Ihr Problem klären",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Empfohlen für ein besseres Erlebnis",
+    "original": {
+      "value": "Recommended for a better experience"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-True": {
+    "value": "Automatisch suchen",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Loading-True": {
+    "value": "Letzten Chat automatisch fortsetzen",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_SkipLearn": {
+    "value": "Überspringen und mit der Arbeit beginnen",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Anfrage ohne Öffnen eingeben",
+    "original": {
+      "value": "Enter Request Without Opening"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Prompt nicht verbessern",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Diesen Chat dauerhaft löschen",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Hauptmenü öffnen",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Chat-Verlauf dauerhaft löschen",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_H_Config": {
+    "value": "Möchten Sie eine Nuvole AI-Einstellungsdatei mit dem Entwickler übertragen?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "Sie können Entwickler-Feedback erhalten",
+    "original": {
+      "value": "You can get developer feedback"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -51,16 +235,6 @@
     "value": "2 Chats",
     "original": {
       "value": "2 chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Email": {
-    "value": "Sie können Feedback vom Entwickler erhalten",
-    "original": {
-      "value": "You will be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -131,16 +305,6 @@
     "value": "Mit Text",
     "original": {
       "value": "With Text",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_H_Config": {
-    "value": "Möchten Sie eine Nuvole AI-Konfiguration mit dem Entwickler teilen?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -247,14 +411,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_ORG_DeletionDelete": {
-    "value": "Nuvole AI Chatverlauf dauerhaft löschen",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_T_ID-Share-2": {
     "value": "Frage",
     "original": {
@@ -269,16 +425,6 @@
     "value": "Detailliertes Änderungsprotokoll anzeigen",
     "original": {
       "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_N_YesMenu": {
-    "value": "Hauptmenü bei jedem neuen Start öffnen",
-    "original": {
-      "value": "Open the Main Menu with Each New Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -355,6 +501,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Text_T_Info": {
+    "value": "Information gefunden",
+    "original": {
+      "value": "Found information"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Normal": {
     "value": "Alle Systeme arbeiten ordnungsgemäß.",
     "original": {
@@ -403,16 +557,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Chat_ORG_DeletionDelete": {
-    "value": "Diesen Chat ohne Wiederherstellungsmöglichkeit löschen",
-    "original": {
-      "value": "Delete this chat without the possibility of recovery",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoUpdates": {
     "value": "Keine Updates erhalten",
     "original": {
@@ -427,16 +571,6 @@
     "value": "Möchten Sie, dass Nuvole AI bei Bedarf im Internet nach Informationen sucht?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagwSFW-False": {
-    "value": "NSFW-Inhalte beim Generieren von Bildern nicht filtern",
-    "original": {
-      "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -547,16 +681,6 @@
     "value": "Derzeit nicht verfügbar",
     "original": {
       "value": "Not available at the moment",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "Prompt nicht mit AI verbessern",
-    "original": {
-      "value": "Do Not Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -847,16 +971,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_NoMenu": {
-    "value": "Ohne Öffnen, um die Anfrage einzugeben",
-    "original": {
-      "value": "Without Opening to Enter the Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_T_ChangingError": {
     "value": "Nur Emojis können als Symbol verwendet werden",
     "original": {
@@ -985,16 +1099,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_SkipLearn": {
-    "value": "Überspringen und mit Nuvole AI arbeiten",
-    "original": {
-      "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Loading": {
     "value": "Letzten Chat automatisch laden",
     "original": {
@@ -1073,16 +1177,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Loading-True": {
-    "value": "Automatisch den letzten Chat laden und fortsetzen, wenn Nuvole AI ausgeführt wird",
-    "original": {
-      "value": "Automatically Load and Continue Last Chat When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-History": {
     "value": "Chatverlauf anzeigen",
     "original": {
@@ -1153,16 +1247,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Search-True": {
-    "value": "Automatisch im Internet nach Informationen suchen",
-    "original": {
-      "value": "Automatically Search for Information on the Internet",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Update_T_21Changes": {
     "value": "21 Änderungen",
     "original": {
@@ -1210,16 +1294,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "Empfohlen für ein besseres Nuvole AI-Erlebnis",
-    "original": {
-      "value": "Recommended for a better experience of Nuvole AI usage",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Text_T_Hide": {
     "value": "Vollständige Nachricht ausblenden",
@@ -1315,16 +1389,6 @@
     "value": "Der Verlauf des „${Name}“ Chats wird geladen.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "Dies kann ein besseres Verständnis Ihres Problems ermöglichen, falls Sie eines haben",
-    "original": {
-      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1571,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_History-False": {
-    "value": "Chatverlauf nicht anzeigen",
-    "original": {
-      "value": "Do Not Display Chat History",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_N_Continue": {
     "value": "Diesen Chat fortsetzen",
     "original": {
@@ -1625,16 +1679,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ImagePlus-True": {
-    "value": "Prompt mit AI verbessern",
-    "original": {
-      "value": "Improve Prompt with AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_T_Changing": {
     "value": "Möchten Sie das Modell nicht ändern?",
     "original": {
@@ -1659,16 +1703,6 @@
     "value": "Wählen Sie die bequemste Methode zur Eingabe einer Anfrage für AI",
     "original": {
       "value": "Select the most convenient way for you to enter a request for AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "Diesen Chat ohne Wiederherstellungsmöglichkeit löschen",
-    "original": {
-      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1863,16 +1897,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW-Inhalte beim Generieren von Bildern filtern",
-    "original": {
-      "value": "Filter NSFW Content When Generating Images",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFW-Inhaltsfilterung",
     "original": {
@@ -1925,16 +1949,6 @@
     "value": "Einstellungen schließen",
     "original": {
       "value": "Close Settings",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "Alle gefundenen Chats ohne Wiederherstellungsmöglichkeit löschen",
-    "original": {
-      "value": "Delete all found chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2101,16 +2115,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Saving-False": {
-    "value": "Neue Chats nur auf Anfrage speichern",
-    "original": {
-      "value": "Save New Chats Only on Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_FontMin": {
     "value": "Minimalwert: 22",
     "original": {
@@ -2141,16 +2145,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_N_YesConfig": {
-    "value": "Ja, meine Nuvole AI-Konfiguration übertragen",
-    "original": {
-      "value": "Yes, Transmit My Nuvole AI Config",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_N_Report": {
     "value": "Tritt der Fehler zu oft auf?",
     "original": {
@@ -2175,16 +2169,6 @@
     "value": "Sie haben den Wert zu hoch eingestellt",
     "original": {
       "value": "You have set the value too high",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Server": {
-    "value": "Sie können kein Feedback vom Entwickler erhalten",
-    "original": {
-      "value": "You won’t be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2329,16 +2313,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_ORG_YesHistory": {
-    "value": "Dies kann ein besseres Verständnis Ihres Problems ermöglichen",
-    "original": {
-      "value": "This may give a better understanding of your problem",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Generation_N_Note": {
     "value": "Ja, eine Notiz auf meinem Gerät erstellen und speichern",
     "original": {
@@ -2383,16 +2357,6 @@
     "value": "Der Chat-Name darf keine leere Zeichenfolge sein",
     "original": {
       "value": "The chat name cannot be an empty string",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_History-True": {
-    "value": "Chatverlauf anzeigen",
-    "original": {
-      "value": "Display Chat History ",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2453,16 +2417,6 @@
     "value": "Leider kann Nuvole AI nicht mit dieser Präsentation arbeiten",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Search-False": {
-    "value": "Nicht im Internet nach Informationen suchen",
-    "original": {
-      "value": "Do Not Look for Information on the Internet",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,8 +1,192 @@
 {
-  "Text_T_Info": {
-    "value": "情報が見つかりました",
+  "Settings_N_ImageSFW-False": {
+    "value": "NSFWコンテンツをフィルタリングしない",
     "original": {
-      "value": "Found information"
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "画像生成時にNuvole AIがNSFWコンテンツをフィルタリングするようにしますか？",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-False": {
+    "value": "検索しない",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-True": {
+    "value": "履歴を表示",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Server": {
+    "value": "開発者からのフィードバックを受け取ることはできません",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_N_YesConfig": {
+    "value": "はい、私の設定を送信",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Saving-False": {
+    "value": "尋ねられたときだけ保存",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "見つかったすべてのチャットを完全に削除",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "NSFWコンテンツをフィルタリング",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "これらのチャットを完全に削除",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "プロンプトを改善",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-False": {
+    "value": "履歴を表示しない",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "これにより問題が明確になる可能性があります",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "より良い体験のために推奨",
+    "original": {
+      "value": "Recommended for a better experience"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-True": {
+    "value": "自動的に検索",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Loading-True": {
+    "value": "最後のチャットを自動再開",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_SkipLearn": {
+    "value": "スキップして作業を開始",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "メニューを開かずにリクエストを入力",
+    "original": {
+      "value": "Enter Request Without Opening"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "プロンプトを改善しない",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "このチャットを完全に削除",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "メインメニューを開く",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "すべてのチャット履歴を完全に削除",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_H_Config": {
+    "value": "開発者にNuvole AIの設定ファイルを送信しますか？",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "開発者からのフィードバックを受け取ることができます",
+    "original": {
+      "value": "You can get developer feedback"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -51,16 +235,6 @@
     "value": "2つのチャット",
     "original": {
       "value": "2 chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Email": {
-    "value": "開発者からフィードバックを受け取ることができます",
-    "original": {
-      "value": "You will be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -131,16 +305,6 @@
     "value": "テキストで",
     "original": {
       "value": "With Text",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_H_Config": {
-    "value": "開発者にNuvole AIの設定を送信しますか？",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -247,14 +411,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_ORG_DeletionDelete": {
-    "value": "Nuvole AIのチャット履歴を完全に削除する",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_T_ID-Share-2": {
     "value": "質問",
     "original": {
@@ -269,16 +425,6 @@
     "value": "詳細な変更履歴を表示",
     "original": {
       "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_N_YesMenu": {
-    "value": "新しい実行ごとにメインメニューを開く",
-    "original": {
-      "value": "Open the Main Menu with Each New Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -355,6 +501,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Text_T_Info": {
+    "value": "情報が見つかりました",
+    "original": {
+      "value": "Found information"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Normal": {
     "value": "すべてのシステムが正常に動作しています。",
     "original": {
@@ -403,16 +557,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Chat_ORG_DeletionDelete": {
-    "value": "このチャットを削除します。復元はできません。",
-    "original": {
-      "value": "Delete this chat without the possibility of recovery",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoUpdates": {
     "value": "更新を受け取らない",
     "original": {
@@ -427,16 +571,6 @@
     "value": "必要に応じてNuvole AIがインターネットで情報を検索するようにしますか？",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagwSFW-False": {
-    "value": "画像生成時にNSFWコンテンツをフィルタリングしない",
-    "original": {
-      "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -547,16 +681,6 @@
     "value": "現在利用できません",
     "original": {
       "value": "Not available at the moment",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "AIでプロンプトを改善しない",
-    "original": {
-      "value": "Do Not Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -847,16 +971,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_NoMenu": {
-    "value": "リクエストを入力するために開かない",
-    "original": {
-      "value": "Without Opening to Enter the Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_T_ChangingError": {
     "value": "アイコンとして絵文字のみ使用可能",
     "original": {
@@ -985,16 +1099,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_SkipLearn": {
-    "value": "スキップしてNuvole AIで作業を開始",
-    "original": {
-      "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Loading": {
     "value": "最後のチャットを自動読み込み",
     "original": {
@@ -1073,16 +1177,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Loading-True": {
-    "value": "実行時に自動的に最後のチャットを読み込んで続行",
-    "original": {
-      "value": "Automatically Load and Continue Last Chat When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-History": {
     "value": "チャット履歴の表示",
     "original": {
@@ -1153,16 +1247,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Search-True": {
-    "value": "インターネットで自動的に情報を検索",
-    "original": {
-      "value": "Automatically Search for Information on the Internet",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Update_T_21Changes": {
     "value": "21の変更",
     "original": {
@@ -1210,16 +1294,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "Nuvole AIの使用体験を向上させるために推奨",
-    "original": {
-      "value": "Recommended for a better experience of Nuvole AI usage",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Text_T_Hide": {
     "value": "完全なメッセージを非表示",
@@ -1315,16 +1389,6 @@
     "value": "「${Name}」チャットの履歴が読み込まれました。",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "これにより、問題がある場合により良い理解が得られるかもしれません",
-    "original": {
-      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1571,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_History-False": {
-    "value": "チャット履歴を表示しない",
-    "original": {
-      "value": "Do Not Display Chat History",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_N_Continue": {
     "value": "このチャットを再開",
     "original": {
@@ -1625,16 +1679,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ImagePlus-True": {
-    "value": "AIでプロンプトを改善",
-    "original": {
-      "value": "Improve Prompt with AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_T_Changing": {
     "value": "モデルを変更したくないですか？",
     "original": {
@@ -1659,16 +1703,6 @@
     "value": "AIにリクエストを入力する最も便利な方法を選択",
     "original": {
       "value": "Select the most convenient way for you to enter a request for AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "これらのチャットを削除します。復元はできません。",
-    "original": {
-      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1863,16 +1897,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_ImageSFW-True": {
-    "value": "画像生成時にNSFWコンテンツをフィルタリング",
-    "original": {
-      "value": "Filter NSFW Content When Generating Images",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFWコンテンツのフィルタリング",
     "original": {
@@ -1925,16 +1949,6 @@
     "value": "設定を閉じる",
     "original": {
       "value": "Close Settings",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "すべての検索されたチャットを削除します。復元はできません。",
-    "original": {
-      "value": "Delete all found chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2101,16 +2115,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Saving-False": {
-    "value": "リクエスト時のみ新しいチャットを保存",
-    "original": {
-      "value": "Save New Chats Only on Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_FontMin": {
     "value": "最小値: 22",
     "original": {
@@ -2141,16 +2145,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_N_YesConfig": {
-    "value": "はい、私のNuvole AI設定を送信",
-    "original": {
-      "value": "Yes, Transmit My Nuvole AI Config",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_N_Report": {
     "value": "エラーが頻繁に発生しますか？",
     "original": {
@@ -2175,16 +2169,6 @@
     "value": "値が大きすぎます",
     "original": {
       "value": "You have set the value too high",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Server": {
-    "value": "開発者からフィードバックを受け取ることはできません",
-    "original": {
-      "value": "You won’t be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2329,16 +2313,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_ORG_YesHistory": {
-    "value": "これにより、問題がある場合により良い理解が得られるかもしれません",
-    "original": {
-      "value": "This may give a better understanding of your problem",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Generation_N_Note": {
     "value": "はい、デバイスにメモ「${Title}」を作成して保存",
     "original": {
@@ -2383,16 +2357,6 @@
     "value": "チャット名は空白にできません",
     "original": {
       "value": "The chat name cannot be an empty string",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_History-True": {
-    "value": "チャット履歴を表示",
-    "original": {
-      "value": "Display Chat History ",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2453,16 +2417,6 @@
     "value": "残念ながら、Nuvole AIはこのプレゼンテーションを処理できません",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Search-False": {
-    "value": "インターネットで情報を検索しない",
-    "original": {
-      "value": "Do Not Look for Information on the Internet",
       "version": 1
     },
     "translatedBy": "ai",

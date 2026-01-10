@@ -1,8 +1,192 @@
 {
-  "Text_T_Info": {
-    "value": "נמצאה מידע",
+  "Settings_N_ImageSFW-False": {
+    "value": "אל תסנן תוכן NSFW",
     "original": {
-      "value": "Found information"
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "האם אתה רוצה ש-Nuvole AI יסנן תוכן NSFW כאשר יוצר תמונות?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-False": {
+    "value": "אל תחפש",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-True": {
+    "value": "הצג היסטוריה",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Server": {
+    "value": "אתה לא יכול לקבל משוב מפתח",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_N_YesConfig": {
+    "value": "כן, שלח את התצורה שלי",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Saving-False": {
+    "value": "שמור רק כאשר נשאל",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "מחק לצמיתות את כל הצ'אטים שנמצאו",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "סנן תוכן NSFW",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "מחק לצמיתות את הצ'אטים האלה",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "שפר את ההנחיה",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-False": {
+    "value": "אל תציג היסטוריה",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "זה יכול להבהיר את הבעיה שלך",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "מומלץ לחוויה טובה יותר",
+    "original": {
+      "value": "Recommended for a better experience"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-True": {
+    "value": "חפש אוטומטית",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Loading-True": {
+    "value": "המשך אוטומטית את הצ'אט האחרון",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_SkipLearn": {
+    "value": "דלג והתחל לעבוד",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "הכנס בקשה ללא פתיחה",
+    "original": {
+      "value": "Enter Request Without Opening"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "אל תשפר את ההנחיה",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "מחק לצמיתות את הצ'אט הזה",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "פתח את התפריט הראשי",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "מחק לצמיתות את כל היסטוריית הצ'אט",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_H_Config": {
+    "value": "האם אתה רוצה לשלוח קובץ תצורה של Nuvole AI עם המפתח?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "אתה יכול לקבל משוב מפתח",
+    "original": {
+      "value": "You can get developer feedback"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -51,16 +235,6 @@
     "value": "2 צ'אטים",
     "original": {
       "value": "2 chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Email": {
-    "value": "תוכל לקבל משוב מהמפתח",
-    "original": {
-      "value": "You will be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -131,16 +305,6 @@
     "value": "עם טקסט",
     "original": {
       "value": "With Text",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_H_Config": {
-    "value": "האם תרצה להעביר תצורת Nuvole AI עם המפתח?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -247,14 +411,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_ORG_DeletionDelete": {
-    "value": "מחק לצמיתות את כל היסטוריית הצ'אט של Nuvole AI",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_T_ID-Share-2": {
     "value": "שאלה",
     "original": {
@@ -269,16 +425,6 @@
     "value": "צפה ביומן שינויים מפורט יותר",
     "original": {
       "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_N_YesMenu": {
-    "value": "פתח את התפריט הראשי עם כל הפעלה חדשה",
-    "original": {
-      "value": "Open the Main Menu with Each New Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -355,6 +501,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Text_T_Info": {
+    "value": "נמצאה מידע",
+    "original": {
+      "value": "Found information"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Normal": {
     "value": "כל המערכות עובדות כראוי.",
     "original": {
@@ -403,16 +557,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Chat_ORG_DeletionDelete": {
-    "value": "מחק את הצ'אט הזה ללא אפשרות לשחזור",
-    "original": {
-      "value": "Delete this chat without the possibility of recovery",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoUpdates": {
     "value": "אל תקבל עדכונים",
     "original": {
@@ -427,16 +571,6 @@
     "value": "האם אתה רוצה ש-Nuvole AI יחפש מידע באינטרנט, אם נדרש?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagwSFW-False": {
-    "value": "אל תסנן תוכן NSFW בעת יצירת תמונות",
-    "original": {
-      "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -547,16 +681,6 @@
     "value": "לא זמין כרגע",
     "original": {
       "value": "Not available at the moment",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "אל תשפר את ההנחיה עם AI",
-    "original": {
-      "value": "Do Not Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -847,16 +971,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_NoMenu": {
-    "value": "ללא פתיחה כדי להיכנס לבקשה",
-    "original": {
-      "value": "Without Opening to Enter the Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_T_ChangingError": {
     "value": "רק אמוג'ים יכולים לשמש כאייקון",
     "original": {
@@ -985,16 +1099,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_SkipLearn": {
-    "value": "דלג והתחל לעבוד עם Nuvole AI",
-    "original": {
-      "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Loading": {
     "value": "טען אוטומטית את הצ'אט האחרון",
     "original": {
@@ -1073,16 +1177,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Loading-True": {
-    "value": "טען והמשך אוטומטית את הצ'אט האחרון בהפעלה",
-    "original": {
-      "value": "Automatically Load and Continue Last Chat When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-History": {
     "value": "הצגת היסטוריית צ'אט",
     "original": {
@@ -1153,16 +1247,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Search-True": {
-    "value": "חפש אוטומטית מידע באינטרנט",
-    "original": {
-      "value": "Automatically Search for Information on the Internet",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Update_T_21Changes": {
     "value": "21 שינויים",
     "original": {
@@ -1210,16 +1294,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "מומלץ לחוויה טובה יותר של שימוש ב-Nuvole AI",
-    "original": {
-      "value": "Recommended for a better experience of Nuvole AI usage",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Text_T_Hide": {
     "value": "הסתר הודעה מלאה",
@@ -1315,16 +1389,6 @@
     "value": "היסטוריית הצ'אט “${Name}” נטענה.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "זה יכול לתת הבנה טובה יותר של הבעיה שלך, אם יש לך אחת",
-    "original": {
-      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1571,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_History-False": {
-    "value": "אל תציג היסטוריית צ'אט",
-    "original": {
-      "value": "Do Not Display Chat History",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_N_Continue": {
     "value": "המשך צ'אט זה",
     "original": {
@@ -1625,16 +1679,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ImagePlus-True": {
-    "value": "שפר את ההנחיה עם AI",
-    "original": {
-      "value": "Improve Prompt with AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_T_Changing": {
     "value": "לא רוצה לשנות את המודל?",
     "original": {
@@ -1659,16 +1703,6 @@
     "value": "בחר את הדרך הנוחה ביותר עבורך להכניס בקשה ל-AI",
     "original": {
       "value": "Select the most convenient way for you to enter a request for AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "מחק את הצ'אטים האלה ללא אפשרות לשחזור",
-    "original": {
-      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1863,16 +1897,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_ImageSFW-True": {
-    "value": "סנן תוכן NSFW בעת יצירת תמונות",
-    "original": {
-      "value": "Filter NSFW Content When Generating Images",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImageSFW": {
     "value": "סינון תוכן NSFW",
     "original": {
@@ -1925,16 +1949,6 @@
     "value": "סגור הגדרות",
     "original": {
       "value": "Close Settings",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "מחק את כל הצ'אטים שנמצאו ללא אפשרות לשחזור",
-    "original": {
-      "value": "Delete all found chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2101,16 +2115,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Saving-False": {
-    "value": "שמור צ'אטים חדשים רק על פי בקשה",
-    "original": {
-      "value": "Save New Chats Only on Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_FontMin": {
     "value": "ערך מינימלי: 22",
     "original": {
@@ -2141,16 +2145,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_N_YesConfig": {
-    "value": "כן, העבר את תצורת Nuvole AI שלי",
-    "original": {
-      "value": "Yes, Transmit My Nuvole AI Config",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_N_Report": {
     "value": "האם השגיאה חוזרת על עצמה לעתים קרובות מדי?",
     "original": {
@@ -2175,16 +2169,6 @@
     "value": "הערך שהגדרת גבוה מדי",
     "original": {
       "value": "You have set the value too high",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Server": {
-    "value": "לא תוכל לקבל משוב מהמפתח",
-    "original": {
-      "value": "You won’t be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2329,16 +2313,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_ORG_YesHistory": {
-    "value": "זה יכול לתת הבנה טובה יותר של הבעיה שלך",
-    "original": {
-      "value": "This may give a better understanding of your problem",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Generation_N_Note": {
     "value": "כן, צור ושמור הערה במכשיר שלי",
     "original": {
@@ -2383,16 +2357,6 @@
     "value": "שם הצ'אט לא יכול להיות מחרוזת ריקה",
     "original": {
       "value": "The chat name cannot be an empty string",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_History-True": {
-    "value": "הצג היסטוריית צ'אט",
-    "original": {
-      "value": "Display Chat History ",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2453,16 +2417,6 @@
     "value": "לצערנו, Nuvole AI לא יכול לעבוד עם המצגת הזו",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Search-False": {
-    "value": "אל תחפש מידע באינטרנט",
-    "original": {
-      "value": "Do Not Look for Information on the Internet",
       "version": 1
     },
     "translatedBy": "ai",

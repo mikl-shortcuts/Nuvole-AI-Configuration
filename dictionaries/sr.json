@@ -1,8 +1,192 @@
 {
-  "Text_T_Info": {
-    "value": "Pronađene informacije",
+  "Settings_N_ImageSFW-False": {
+    "value": "Ne Filtrirati NSFW Sadržaj",
     "original": {
-      "value": "Found information"
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "Da li želite da Nuvole AI filtrira NSFW sadržaj prilikom generisanja slika?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-False": {
+    "value": "Ne Pretraživati",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-True": {
+    "value": "Prikazati Istoriju",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Server": {
+    "value": "Ne možete dobiti povratne informacije od programera",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_N_YesConfig": {
+    "value": "Da, Pošalji Moja Podešavanja",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Saving-False": {
+    "value": "Sačuvati Samo Kada se Zatraži",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Trajnim brisati sve pronađene četove",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-True": {
+    "value": "Filtrirati NSFW Sadržaj",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Trajnim brisati ove četove",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-True": {
+    "value": "Poboljšati Prompt",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_History-False": {
+    "value": "Ne Prikazivati Istoriju",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "Ovo bi moglo da razjasni vaš problem",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Preporučeno za bolje iskustvo",
+    "original": {
+      "value": "Recommended for a better experience"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Search-True": {
+    "value": "Automatski Pretraži",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Loading-True": {
+    "value": "Automatski Nastavi Poslednji Čet",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_SkipLearn": {
+    "value": "Preskoči i Počni sa Radom",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Unesi Zahtjev Bez Otvaranja",
+    "original": {
+      "value": "Enter Request Without Opening"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Ne Poboljšavati Prompt",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Trajnim brisati ovaj čet",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Otvori Glavni Menij",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "History_ORG_DeletionDelete": {
+    "value": "Trajnim brisati celu istoriju četa",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_H_Config": {
+    "value": "Želite li da pošaljete fajl sa podešavanjima Nuvole AI programeru?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Feedback_ORG_Email": {
+    "value": "Možete dobiti povratne informacije od programera",
+    "original": {
+      "value": "You can get developer feedback"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -51,16 +235,6 @@
     "value": "2 разговора",
     "original": {
       "value": "2 chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Email": {
-    "value": "Можете да добијете повратне информације од програмера",
-    "original": {
-      "value": "You will be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -131,16 +305,6 @@
     "value": "Са текстом",
     "original": {
       "value": "With Text",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_H_Config": {
-    "value": "Да ли желите да пренесете Nuvole AI конфигурацију програмеру?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI config with developer?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -247,14 +411,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_ORG_DeletionDelete": {
-    "value": "Trajno obriši celu istoriju Nuvole AI četa",
-    "original": {
-      "value": "Permanently delete all Nuvole AI chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_T_ID-Share-2": {
     "value": "Питање",
     "original": {
@@ -269,16 +425,6 @@
     "value": "Погледајте детаљнији списак промена",
     "original": {
       "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_N_YesMenu": {
-    "value": "Отворите главни мени са сваким новим покретањем",
-    "original": {
-      "value": "Open the Main Menu with Each New Running",
       "version": 1
     },
     "translatedBy": "ai",
@@ -355,6 +501,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Text_T_Info": {
+    "value": "Pronađene informacije",
+    "original": {
+      "value": "Found information"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Normal": {
     "value": "Сви системи раде исправно.",
     "original": {
@@ -403,16 +557,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Chat_ORG_DeletionDelete": {
-    "value": "Избриши овај разговор без могућности опоравка",
-    "original": {
-      "value": "Delete this chat without the possibility of recovery",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoUpdates": {
     "value": "Не примајте ажурирања",
     "original": {
@@ -427,16 +571,6 @@
     "value": "Да ли желите да Nuvole AI претражује информације на интернету, ако је потребно?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagwSFW-False": {
-    "value": "Не филтрирајте NSFW садржај при генерисању слика",
-    "original": {
-      "value": "Do Not Filter NSFW Content When Generating Images",
       "version": 1
     },
     "translatedBy": "ai",
@@ -547,16 +681,6 @@
     "value": "Тренутно није доступно",
     "original": {
       "value": "Not available at the moment",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "Не побољшајте упит помоћу AI",
-    "original": {
-      "value": "Do Not Improve Prompt with AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -847,16 +971,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_NoMenu": {
-    "value": "Без отварања за унос захтева",
-    "original": {
-      "value": "Without Opening to Enter the Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_T_ChangingError": {
     "value": "Као икону можете користити само емоџије",
     "original": {
@@ -985,16 +1099,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_N_SkipLearn": {
-    "value": "Прескочите и почните да радите са Nuvole AI",
-    "original": {
-      "value": "Skip and Start Working with Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-Loading": {
     "value": "Automatsko učitavanje poslednjeg razgovora",
     "original": {
@@ -1073,16 +1177,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Loading-True": {
-    "value": "Аутоматски учитајте и наставите последњи разговор при покретању",
-    "original": {
-      "value": "Automatically Load and Continue Last Chat When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-History": {
     "value": "Приказ историје разговора",
     "original": {
@@ -1153,16 +1247,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Search-True": {
-    "value": "Аутоматски претражујте информације на интернету",
-    "original": {
-      "value": "Automatically Search for Information on the Internet",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Update_T_21Changes": {
     "value": "21 промена",
     "original": {
@@ -1210,16 +1294,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "Препоручује се за боље искуство коришћења Nuvole AI",
-    "original": {
-      "value": "Recommended for a better experience of Nuvole AI usage",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Text_T_Hide": {
     "value": "Сакриј целу поруку",
@@ -1315,16 +1389,6 @@
     "value": "Istorija „${Name}“ chata je učitana.",
     "original": {
       "value": "The history of “${Name}” chat is loaded.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "Ovo može dati bolje razumevanje vašeg problema, ako ga imate",
-    "original": {
-      "value": "This may give a better understanding of your problem, if you have one",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1571,16 +1635,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_History-False": {
-    "value": "Ne prikazujte istoriju chatova",
-    "original": {
-      "value": "Do Not Display Chat History",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Main_N_Continue": {
     "value": "Nastavite ovaj razgovor",
     "original": {
@@ -1625,16 +1679,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ImagePlus-True": {
-    "value": "Poboljšajte prompt sa AI",
-    "original": {
-      "value": "Improve Prompt with AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_T_Changing": {
     "value": "Ne želite da promenite model?",
     "original": {
@@ -1659,16 +1703,6 @@
     "value": "Izaberite najpogodniji način za unos zahteva za AI",
     "original": {
       "value": "Select the most convenient way for you to enter a request for AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "Obrišite ove chatove bez mogućnosti oporavka",
-    "original": {
-      "value": "Delete this chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1863,16 +1897,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_ImageSFW-True": {
-    "value": "Filtriranje NSFW sadržaja prilikom generisanja slika",
-    "original": {
-      "value": "Filter NSFW Content When Generating Images",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImageSFW": {
     "value": "Filtriranje NSFW sadržaja",
     "original": {
@@ -1925,16 +1949,6 @@
     "value": "Zatvorite podešavanja",
     "original": {
       "value": "Close Settings",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "Obrišite sve pronađene chatove bez mogućnosti oporavka",
-    "original": {
-      "value": "Delete all found chats without the possibility of recovery",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2101,16 +2115,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Settings_N_Saving-False": {
-    "value": "Čuvajte nove chatove samo na zahtev",
-    "original": {
-      "value": "Save New Chats Only on Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_FontMin": {
     "value": "Minimalna vrednost: 22",
     "original": {
@@ -2141,16 +2145,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_N_YesConfig": {
-    "value": "Da, pošaljite moju konfiguraciju Nuvole AI",
-    "original": {
-      "value": "Yes, Transmit My Nuvole AI Config",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Error_N_Report": {
     "value": "Da li se greška prečesto ponavlja?",
     "original": {
@@ -2175,16 +2169,6 @@
     "value": "Postavili ste vrednost previsoko",
     "original": {
       "value": "You have set the value too high",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Feedback_ORG_Server": {
-    "value": "Nećete moći da dobijete povratnu informaciju od developera",
-    "original": {
-      "value": "You won’t be able to get feedback from developer",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2329,16 +2313,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Feedback_ORG_YesHistory": {
-    "value": "Ovo može dati bolje razumevanje vašeg problema",
-    "original": {
-      "value": "This may give a better understanding of your problem",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Generation_N_Note": {
     "value": "Da, generišite i sačuvajte belešku na mom uređaju",
     "original": {
@@ -2383,16 +2357,6 @@
     "value": "Ime chata ne može biti prazan string",
     "original": {
       "value": "The chat name cannot be an empty string",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_History-True": {
-    "value": "Prikažite istoriju chata",
-    "original": {
-      "value": "Display Chat History ",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2453,16 +2417,6 @@
     "value": "Nažalost, Nuvole AI ne može da radi sa ovom prezentacijom",
     "original": {
       "value": "Unfortunately, Nuvole AI cannot work with this presentation",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_Search-False": {
-    "value": "Ne tražite informacije na internetu",
-    "original": {
-      "value": "Do Not Look for Information on the Internet",
       "version": 1
     },
     "translatedBy": "ai",
