@@ -25,7 +25,7 @@
     "translatedBy": "human"
   },
   "Feedback_ORG_Email": {
-    "value": "You will be able to get feedback from developer",
+    "value": "You can get developer feedback",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -65,7 +65,7 @@
     "translatedBy": "human"
   },
   "Feedback_H_Config": {
-    "value": "Would you like to transmit a Nuvole AI config with developer?",
+    "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -120,7 +120,7 @@
     "translatedBy": "human"
   },
   "History_ORG_DeletionDelete": {
-    "value": "Permanently delete all Nuvole AI chat history",
+    "value": "Permanently delete all chat history",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -135,7 +135,7 @@
     "translatedBy": "human"
   },
   "Install_N_YesMenu": {
-    "value": "Open the Main Menu with Each New Running",
+    "value": "Open the Main Menu",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -205,7 +205,7 @@
     "translatedBy": "human"
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Delete this chat without the possibility of recovery",
+    "value": "Permanently delete this chat",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -219,8 +219,13 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_N_ImagwSFW-False": {
-    "value": "Do Not Filter NSFW Content When Generating Images",
+  "Settings_H_NAME-ImageSFW": {
+    "value": "Do you want Nuvole AI to filter NSFW content when image generation?",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_N_ImageSFW-False": {
+    "value": "Do Not Filter NSFW Content",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -280,7 +285,7 @@
     "translatedBy": "human"
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Do Not Improve Prompt with AI",
+    "value": "Do Not Improve Prompt",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -430,7 +435,7 @@
     "translatedBy": "human"
   },
   "Install_N_NoMenu": {
-    "value": "Without Opening to Enter the Request",
+    "value": "Enter Request Without Opening",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -500,7 +505,7 @@
     "translatedBy": "human"
   },
   "Install_N_SkipLearn": {
-    "value": "Skip and Start Working with Nuvole AI",
+    "value": "Skip and Start Working",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -545,7 +550,7 @@
     "translatedBy": "human"
   },
   "Settings_N_Loading-True": {
-    "value": "Automatically Load and Continue Last Chat When Running",
+    "value": "Auto-Resume Last Chat",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -585,7 +590,7 @@
     "translatedBy": "human"
   },
   "Settings_N_Search-True": {
-    "value": "Automatically Search for Information on the Internet",
+    "value": "Automatically Search",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -615,7 +620,7 @@
     "translatedBy": "human"
   },
   "Install_ORG_YesUpdates": {
-    "value": "Recommended for a better experience of Nuvole AI usage",
+    "value": "Recommended for a better experience",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -670,7 +675,7 @@
     "translatedBy": "human"
   },
   "Feedback_ORG_YesConfig": {
-    "value": "This may give a better understanding of your problem, if you have one",
+    "value": "This could clarify your issue",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -795,7 +800,7 @@
     "translatedBy": "human"
   },
   "Settings_N_History-False": {
-    "value": "Do Not Display Chat History",
+    "value": "Do Not Display History",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -825,7 +830,7 @@
     "translatedBy": "human"
   },
   "Settings_N_ImagePlus-True": {
-    "value": "Improve Prompt with AI",
+    "value": "Improve Prompt",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -845,7 +850,7 @@
     "translatedBy": "human"
   },
   "History_ORG_SelectionDelete": {
-    "value": "Delete this chats without the possibility of recovery",
+    "value": "Permanently delete this chats",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -945,7 +950,7 @@
     "translatedBy": "human"
   },
   "Settings_N_ImageSFW-True": {
-    "value": "Filter NSFW Content When Generating Images",
+    "value": "Filter NSFW Content",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -980,7 +985,7 @@
     "translatedBy": "human"
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Delete all found chats without the possibility of recovery",
+    "value": "Permanently delete all found chats",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1065,7 +1070,7 @@
     "translatedBy": "human"
   },
   "Settings_N_Saving-False": {
-    "value": "Save New Chats Only on Request",
+    "value": "Save Only When Asked",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1085,7 +1090,7 @@
     "translatedBy": "human"
   },
   "Feedback_N_YesConfig": {
-    "value": "Yes, Transmit My Nuvole AI Config",
+    "value": "Yes, Transmit My Config",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1105,7 +1110,7 @@
     "translatedBy": "human"
   },
   "Feedback_ORG_Server": {
-    "value": "You won’t be able to get feedback from developer",
+    "value": "You can’t get developer feedback",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1179,11 +1184,6 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Feedback_ORG_YesHistory": {
-    "value": "This may give a better understanding of your problem",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
   "Generation_N_Note": {
     "value": "Yes, Generate and Save a Note on My Device",
     "isTranslated": true,
@@ -1210,7 +1210,7 @@
     "translatedBy": "human"
   },
   "Settings_N_History-True": {
-    "value": "Display Chat History ",
+    "value": "Display History",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1245,7 +1245,7 @@
     "translatedBy": "human"
   },
   "Settings_N_Search-False": {
-    "value": "Do Not Look for Information on the Internet",
+    "value": "Do Not Search",
     "isTranslated": true,
     "translatedBy": "human"
   },
