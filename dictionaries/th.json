@@ -1,32 +1,64 @@
 {
-  "Error_N_Report": {
-    "value": "ข้อผิดพลาดบ่อยเกินไป?",
+  "Error_T_Type-Error-5": {
+    "value": "เกิดข้อผิดพลาดระหว่างการประมวลผลภาพ!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "เฉพาะเซสชัน, รีเซ็ตเป็น ${Name}",
+  "Error_N_ChangeStop": {
+    "value": "ลองใหม่อีกครั้งโดยใช้รุ่นเดียวกัน",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "ใช้กับทุกเซสชัน",
+  "Error_T_Type-Error-1": {
+    "value": "เกิดข้อผิดพลาดระหว่างการประมวลผลคำขอ!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "เกิดข้อผิดพลาดระหว่างการสร้างบันทึก!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "เกิดข้อผิดพลาดระหว่างกระบวนการคิด!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "เกิดข้อผิดพลาดระหว่างการสร้างข้อความ!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "ลองใหม่อีกครั้งด้วยโมเดลชั่วคราว",
+    "value": "ลองใหม่อีกครั้งด้วยรุ่นชั่วคราว",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "เกิดข้อผิดพลาดระหว่างการสร้างภาพ!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "เลือกสไลด์ที่คุณต้องการใช้",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "เกิดข้อผิดพลาดระหว่างการสร้างภาพ",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "เกิดข้อผิดพลาดระหว่างการสร้างข้อความ",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "เพิ่มประสิทธิภาพการส่งเสริม",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "เกิดข้อผิดพลาดระหว่างกระบวนการคิด",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "เปลี่ยนไอคอนการแชท “${Text}” เป็นไอคอนอื่น",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "ใช้กับทุกเซสชัน",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "สวัสดี! เราสามารถช่วยคุณได้อย่างไร?",
@@ -1687,16 +1697,6 @@
     "value": "ไม่เปิดเมื่อรัน",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "เกิดข้อผิดพลาดระหว่างการสร้างบันทึก",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "เกิดข้อผิดพลาดระหว่างการประมวลผลคำขอ",
+  "Error_ORG_Replace": {
+    "value": "เฉพาะเซสชัน, รีเซ็ตเป็น ${Name}",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "บันทึกเฉพาะเมื่อถาม",
@@ -2115,6 +2113,14 @@
     "value": "ใช่ ส่งการตั้งค่าของฉัน",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "ข้อผิดพลาดบ่อยเกินไป?",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "อัตโนมัติ",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "ทำซ้ำคำขอโดยใช้โมเดลเดียวกัน",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "เกิดข้อผิดพลาดระหว่างการประมวลผลภาพ",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,32 +1,64 @@
 {
-  "Error_N_Report": {
-    "value": "बहुत वारंवार त्रुटी?",
+  "Error_T_Type-Error-5": {
+    "value": "छायाचित्र प्रक्रियेदरम्यान एक त्रुटी आली!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "सत्र फक्त, ${Name} वर रीसेट होते",
+  "Error_N_ChangeStop": {
+    "value": "त्याच मॉडेलचा वापर करून पुनः प्रयत्न करा",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "सर्व सत्रांना लागू",
+  "Error_T_Type-Error-1": {
+    "value": "विनंती प्रक्रियेदरम्यान एक त्रुटी आली!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "नोट निर्माणादरम्यान एक त्रुटी आली!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "विचार प्रक्रियेदरम्यान एक त्रुटी आली!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "मजकूर निर्माणादरम्यान एक त्रुटी आली!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "पुनः प्रयत्न करा अस्थायी मॉडेलसह",
+    "value": "टेम्प मॉडेलसह पुनः प्रयत्न करा",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "छायाचित्र निर्माणादरम्यान एक त्रुटी आली!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "तुम्ही कोणत्या स्लाइड्स वापरू इच्छिता ते निवडा",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "छायाचित्र निर्माणादरम्यान एक त्रुटी आली.",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "मजकूर निर्माणादरम्यान एक त्रुटी आली.",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "प्रॉम्प्ट वाढवा",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "विचार प्रक्रियेदरम्यान एक त्रुटी आली.",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "“${Text}” चॅट आयकॉन बदलून कोणतेही दुसरे करा",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "सर्व सत्रांना लागू",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "नमस्कार! मी तुम्हाला कशी मदत करू शकतो?",
@@ -1687,16 +1697,6 @@
     "value": "चालवताना उघडू नका",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "नोट जनरेशन दरम्यान एक त्रुटी आली.",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "विनंती प्रक्रियेदरम्यान एक त्रुटी आली.",
+  "Error_ORG_Replace": {
+    "value": "सत्र फक्त, ${Name} वर रीसेट होते",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "केवळ जेव्हा विचारले जाईल तेव्हाच सेव्ह करा",
@@ -2115,6 +2113,14 @@
     "value": "होय, माझे कॉन्फिगरेशन पाठवा",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "बहुत वारंवार त्रुटी?",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "स्वयंचलितपणे",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "त्याच मॉडेलचा वापर करून विनंती पुनरावृत्ती करा",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "प्रतिमा प्रक्रियेदरम्यान एक त्रुटी आली.",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",

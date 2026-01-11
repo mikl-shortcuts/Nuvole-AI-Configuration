@@ -1,32 +1,64 @@
 {
-  "Error_N_Report": {
-    "value": "Πολύ συχνό σφάλμα;",
+  "Error_T_Type-Error-5": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία της εικόνας!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "Μόνο για τη συνεδρία, επαναρυθμίζεται σε ${Name}",
+  "Error_N_ChangeStop": {
+    "value": "Επαναλάβετε χρησιμοποιώντας το ίδιο μοντέλο",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "Ισχύει για όλες τις συνεδρίες",
+  "Error_T_Type-Error-1": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία του αιτήματος!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία σημειώσεων!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "Συνέβη σφάλμα κατά τη διαδικασία σκέψης!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία κειμένου!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Δοκιμάστε ξανά με προσωρινό μοντέλο",
+    "value": "Επαναλάβετε με το προσωρινό μοντέλο",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία της εικόνας!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "Επιλέξτε τις διαφάνειες που θέλετε να χρησιμοποιήσετε",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία εικόνας.",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία κειμένου.",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "Βελτίωση της προτροπής",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "Συνέβη σφάλμα κατά τη διαδικασία σκέψης.",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "Αλλαγή του εικονιδίου της συνομιλίας “${Text}” σε οποιοδήποτε άλλο",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Ισχύει για όλες τις συνεδρίες",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "Γεια σας! Πώς μπορώ να σας βοηθήσω;",
@@ -1687,16 +1697,6 @@
     "value": "Μη Άνοιγμα κατά την Εκτέλεση",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία σημείωσης.",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "Συνέβη σφάλμα κατά την επεξεργασία της αίτησης.",
+  "Error_ORG_Replace": {
+    "value": "Μόνο για τη συνεδρία, επαναρυθμίζεται σε ${Name}",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "Αποθήκευση μόνο όταν ζητηθεί",
@@ -2115,6 +2113,14 @@
     "value": "Ναι, μεταδώστε τη ρύθμισή μου",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "Πολύ συχνό σφάλμα;",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "Αυτόματα",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "Επανάληψη Αίτησης Χρησιμοποιώντας το Ίδιο Μοντέλο",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "Συνέβη σφάλμα κατά την επεξεργασία της εικόνας.",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",

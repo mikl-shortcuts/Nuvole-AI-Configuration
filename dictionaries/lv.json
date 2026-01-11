@@ -1,24 +1,48 @@
 {
-  "Error_N_Report": {
-    "value": "Pārāk bieži kļūda?",
+  "Error_T_Type-Error-5": {
+    "value": "Kļūda attēla apstrādes laikā!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "Tikai sesija, atiestatīšana uz ${Name}",
+  "Error_N_ChangeStop": {
+    "value": "Mēģināt ar to pašu modeli",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "Attiecas uz visām sesijām",
+  "Error_T_Type-Error-1": {
+    "value": "Kļūda pieprasījuma apstrādes laikā!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Kļūda piezīmes ģenerēšanas laikā!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "Kļūda domāšanas procesa laikā!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Kļūda teksta ģenerēšanas laikā!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -26,7 +50,15 @@
   "Error_N_Replace": {
     "value": "Mēģināt ar pagaidu modeli",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Kļūda attēla ģenerēšanas laikā!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "Izvēlieties slīdes, kuras vēlaties izmantot",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "Kļūda attēla ģenerēšanas laikā.",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "Kļūda teksta ģenerēšanas laikā.",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "Uzlabot uzvedumu",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "Kļūda domāšanas procesā.",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "Mainīt čata ikonu “${Text}” uz jebkuru citu",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "Attiecas uz visām sesijām",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "Sveiki! Kā varu jums palīdzēt?",
@@ -1687,16 +1697,6 @@
     "value": "Neatvērt, kad palaižat",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "Kļūda piezīmes ģenerēšanas laikā.",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "Kļūda pieprasījuma apstrādes laikā.",
+  "Error_ORG_Replace": {
+    "value": "Tikai sesija, atiestatīšana uz ${Name}",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "Saglabāt Tikai Tad, Kad Pieprasīts",
@@ -2115,6 +2113,14 @@
     "value": "Jā, Pārraidiet Mana Konfigurācija",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "Pārāk bieži kļūda?",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "Automātiski",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "Atkārtot pieprasījumu, izmantojot to pašu modeli",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "Kļūda attēla apstrādes laikā.",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",

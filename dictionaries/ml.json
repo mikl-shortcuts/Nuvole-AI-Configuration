@@ -1,32 +1,64 @@
 {
-  "Error_N_Report": {
-    "value": "അമിതമായി പതിവുള്ള പിഴവ്?",
+  "Error_T_Type-Error-5": {
+    "value": "ചിത്രം പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "സെഷന് മാത്രം, ${Name} ലേക്ക് റീസെറ്റ് ചെയ്യുന്നു",
+  "Error_N_ChangeStop": {
+    "value": "അതേ മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "എല്ലാ സെഷനുകളിലും പ്രയോഗിക്കാം",
+  "Error_T_Type-Error-1": {
+    "value": "അഭ്യർത്ഥന പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "കുറിപ്പ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "ചിന്താ പ്രക്രിയയിലൂടെ ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "ടെക്സ്റ്റ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "താൽക്കാലിക മോഡലിനൊപ്പം വീണ്ടും ശ്രമിക്കുക",
+    "value": "ടെമ്പ് മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "ഒരു ചിത്രം സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "നിങ്ങൾ ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്ന സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "ചിത്രം സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു.",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "ടെക്സ്റ്റ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു.",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തുക",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "ചിന്താ പ്രക്രിയയിൽ പിഴവ് സംഭവിച്ചു.",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "“${Text}” ചാറ്റ് ഐക്കൺ മാറ്റുക",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "എല്ലാ സെഷനുകളിലും പ്രയോഗിക്കാം",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "ഹലോ! എങ്ങനെ സഹായിക്കാം?",
@@ -1687,16 +1697,6 @@
     "value": "പ്രവർത്തിപ്പിക്കുമ്പോൾ തുറക്കരുത്",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "നോട്ട് ജനറേഷൻ സമയത്ത് പിഴവ് സംഭവിച്ചു.",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "അഭ്യർത്ഥന പ്രോസസ്സിംഗ് സമയത്ത് പിഴവ് സംഭവിച്ചു.",
+  "Error_ORG_Replace": {
+    "value": "സെഷന് മാത്രം, ${Name} ലേക്ക് റീസെറ്റ് ചെയ്യുന്നു",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "അഭ്യർത്ഥിച്ചപ്പോൾ മാത്രം സൂക്ഷിക്കുക",
@@ -2115,6 +2113,14 @@
     "value": "അതെ, എന്റെ കൺഫിഗറേഷൻ കൈമാറുക",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "അമിതമായി പതിവുള്ള പിഴവ്?",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "സ്വയമേവ",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "അതേ മോഡൽ ഉപയോഗിച്ച് ആവർത്തിക്കുക",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "ചിത്രം പ്രോസസ്സിംഗ് സമയത്ത് പിഴവ് സംഭവിച്ചു.",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",

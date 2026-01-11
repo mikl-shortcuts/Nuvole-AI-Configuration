@@ -1,32 +1,64 @@
 {
-  "Error_N_Report": {
-    "value": "بہت زیادہ غلطی؟",
+  "Error_T_Type-Error-5": {
+    "value": "تصویر کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
     "original": {
-      "value": "Too Frequent Error?"
+      "value": "An error occurred during processing the image!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Replace": {
-    "value": "صرف سیشن، ${Name} پر ری سیٹ ہوتا ہے",
+  "Error_N_ChangeStop": {
+    "value": "اسی ماڈل کا استعمال کرتے ہوئے دوبارہ کوشش کریں",
     "original": {
-      "value": "Session only, resets to ${Name}"
+      "value": "Retry Using the Same Model"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_ORG_Change": {
-    "value": "تمام سیشنوں پر لاگو ہوتا ہے",
+  "Error_T_Type-Error-1": {
+    "value": "درخواست کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
     "original": {
-      "value": "Applies to all sessions"
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-6": {
+    "value": "نوٹ کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-2": {
+    "value": "سوچ کے عمل کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-3": {
+    "value": "متن کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during text generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "دوبارہ عارضی ماڈل کے ساتھ کوشش کریں",
+    "value": "عارضی ماڈل کے ساتھ دوبارہ کوشش کریں",
     "original": {
-      "value": "Retry With Temporary model"
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-4": {
+    "value": "تصویر کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during image generation!"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -327,16 +359,6 @@
     "value": "وہ سلیڈز منتخب کریں جنہیں آپ استعمال کرنا چاہتے ہیں",
     "original": {
       "value": "Select the slides you want to use",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-4": {
-    "value": "تصویر کی تخلیق کے دوران ایک خرابی ہوئی۔",
-    "original": {
-      "value": "An error occurred during image generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -923,16 +945,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-3": {
-    "value": "ٹیکسٹ کی تخلیق کے دوران ایک خرابی ہوئی۔",
-    "original": {
-      "value": "An error occurred during text generation.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_NAME-ImagePlus": {
     "value": "پرمپٹ کو بہتر بنائیں",
     "original": {
@@ -1425,16 +1437,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-2": {
-    "value": "سوچنے کے عمل کے دوران ایک غلطی ہو گئی۔",
-    "original": {
-      "value": "An error occurred during the thinking process.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Chat_ORG_Icon": {
     "value": "چٹ آئیکن “${Text}” کو کسی اور میں تبدیل کریں",
     "original": {
@@ -1484,6 +1486,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_ORG_Change": {
+    "value": "تمام سیشنوں پر لاگو ہوتا ہے",
+    "original": {
+      "value": "Applies to all sessions"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_New": {
     "value": "ہیلو! میں آپ کی کس طرح مدد کر سکتا ہوں؟",
@@ -1687,16 +1697,6 @@
     "value": "چلانے پر نہ کھولیں",
     "original": {
       "value": "Don’t Open When Running",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-6": {
-    "value": "نوٹ بنانے کے دوران ایک غلطی ہو گئی۔",
-    "original": {
-      "value": "An error occurred during note generation.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2063,15 +2063,13 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_T_Type-Error-1": {
-    "value": "درخواست پر عمل کرنے کے دوران ایک غلطی ہو گئی۔",
+  "Error_ORG_Replace": {
+    "value": "صرف سیشن، ${Name} پر ری سیٹ ہوتا ہے",
     "original": {
-      "value": "An error occurred during processing the request.",
-      "version": 1
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
+    "isTranslated": true
   },
   "Settings_N_Saving-False": {
     "value": "صرف جب پوچھا جائے تو محفوظ کریں",
@@ -2115,6 +2113,14 @@
     "value": "ہاں، میری ترتیبات بھیجیں",
     "original": {
       "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Report": {
+    "value": "بہت زیادہ غلطی؟",
+    "original": {
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2229,26 +2235,6 @@
     "value": "خود بخود",
     "original": {
       "value": "Automatically",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_N_ChangeStop": {
-    "value": "ایک ہی ماڈل استعمال کرتے ہوئے درخواست دوبارہ کریں",
-    "original": {
-      "value": "Repeat Request Using the Same Model",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_T_Type-Error-5": {
-    "value": "تصویر پر عمل کرنے کے دوران ایک غلطی ہو گئی۔",
-    "original": {
-      "value": "An error occurred during processing the image.",
       "version": 1
     },
     "translatedBy": "ai",
