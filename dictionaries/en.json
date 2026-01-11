@@ -155,7 +155,7 @@
     "translatedBy": "human"
   },
   "Error_T_Type-Error-4": {
-    "value": "An error occurred during image generation.",
+    "value": "An error occurred during image generation!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -425,7 +425,7 @@
     "translatedBy": "human"
   },
   "Error_N_Replace": {
-    "value": "Retry With Temporary model",
+    "value": "Retry With Temp Model",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -465,7 +465,7 @@
     "translatedBy": "human"
   },
   "Error_T_Type-Error-3": {
-    "value": "An error occurred during text generation.",
+    "value": "An error occurred during text generation!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -725,7 +725,7 @@
     "translatedBy": "human"
   },
   "Error_T_Type-Error-2": {
-    "value": "An error occurred during the thinking process.",
+    "value": "An error occurred during the thinking process!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -870,7 +870,7 @@
     "translatedBy": "human"
   },
   "Error_T_Type-Error-6": {
-    "value": "An error occurred during note generation.",
+    "value": "An error occurred during note generation!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1065,7 +1065,7 @@
     "translatedBy": "human"
   },
   "Error_T_Type-Error-1": {
-    "value": "An error occurred during processing the request.",
+    "value": "An error occurred during processing the request!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1160,12 +1160,12 @@
     "translatedBy": "human"
   },
   "Error_N_ChangeStop": {
-    "value": "Repeat Request Using the Same Model",
+    "value": "Retry Using the Same Model",
     "isTranslated": true,
     "translatedBy": "human"
   },
   "Error_T_Type-Error-5": {
-    "value": "An error occurred during processing the image.",
+    "value": "An error occurred during processing the image!",
     "isTranslated": true,
     "translatedBy": "human"
   },
