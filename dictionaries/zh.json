@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "不要打开主菜单",
+  "Error_ORG_Replace": {
+    "value": "仅适用于此会话，重置为 ${Name}",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "更改模型并重试",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "适用于所有请求",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "安装过程已完成！您是否想了解更多关于 Nuvole AI 及其功能的信息？",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "更改会话模型并重试",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "仅更改此会话的 AI 模型并重复请求",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "您之前选择的模型 ${Name} 似乎不再可用。您想使用哪个 AI 模型？",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "不要打开主菜单",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "只能使用表情符号作为图标",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "安装过程已完成！\n您是否希望了解更多关于 Nuvole AI 及其功能的信息？",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "摘要",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "匿名",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AI 将使用您选择的模型",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "更改 AI 模型并重复请求",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "选择要使用的幻灯片",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "您想用这个视频做什么？",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "现在，Nuvole AI 将使用您选择的模型，但下次将使用 ${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",

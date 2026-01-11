@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "メインメニューを開かない",
+  "Error_ORG_Replace": {
+    "value": "このセッションのみに適用、${Name}にリセット",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "モデルを変更して再試行",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "すべてのリクエストに適用",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "インストールが完了しました！Nuvole AIとその機能についてもっと知りたいですか？",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "モデルを変更して再試行",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "このセッションのみAIモデルを変更してリクエストを繰り返す",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "以前に選択したモデル${Name}は利用できなくなりました。どのAIモデルを使用しますか？",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "メインメニューを開かない",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "アイコンとして絵文字のみ使用可能",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "インストールプロセスが完了しました！\nNuvole AIとその機能についてもっと知りたいですか？",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "要約",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "匿名で",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AIはあなたが選択するモデルを使用します",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "AIモデルを変更してリクエストを繰り返す",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "使用するスライドを選択",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "この動画で何をしますか？",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "現在、Nuvole AIはあなたが選択するモデルを使用しますが、次回は${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "முதன்மை மெனுவைத் திறக்க வேண்டாம்",
+  "Error_ORG_Replace": {
+    "value": "இந்த அமர்வுக்கு மட்டுமே பொருந்தும், ${Name} க்கு மீட்டமைக்கிறது",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "மாதிரியை மாற்றி மீண்டும் முயற்சிக்கவும்",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "அனைத்து கோரிக்கைகளுக்கும் பொருந்தும்",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "நிறுவல் செயல்முறை முடிந்துவிட்டது! Nuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "மாதிரியை மாற்றி மீண்டும் முயற்சிக்கவும்",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "இந்த அமர்வுக்கு மட்டும் AI மாதிரியை மாற்றி கோரிக்கையை மீண்டும் செய்யவும்",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த ${Name} மாதிரி இனி கிடைக்கவில்லை. எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "முதன்மை மெனுவைத் திறக்க வேண்டாம்",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "ஐகானாக எமோஜிகள் மட்டுமே பயன்படுத்த முடியும்",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "நிறுவல் செயல்முறை முடிந்தது!\nNuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "சுருக்கம்",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "அநாமதேயமாக",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AI நீங்கள் தேர்ந்தெடுக்கும் மாதிரியை பயன்படுத்தும்",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "AI மாதிரியை மாற்றி கோரிக்கையை மீண்டும் செய்யவும்",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "பயன்படுத்தப்பட வேண்டிய ஸ்லைடுகளை தேர்ந்தெடுக்கவும்",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "இந்த வீடியோவுடன் நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "இப்போது, Nuvole AI நீங்கள் தேர்ந்தெடுக்கும் மாதிரியை பயன்படுத்தும், ஆனால் அடுத்த முறை ${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",

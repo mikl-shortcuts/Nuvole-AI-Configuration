@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "മുഖ്യ മെനു തുറക്കരുത്",
+  "Error_ORG_Replace": {
+    "value": "ഈ സെഷനിൽ മാത്രം ബാധകമാണ്, ${Name} എന്നതിലേക്ക് റീസെറ്റ് ചെയ്യുന്നു",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "മോഡൽ മാറ്റി വീണ്ടും ശ്രമിക്കുക",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "എല്ലാ അഭ്യർത്ഥനകളിലും ബാധകമാണ്",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "ഇൻസ്റ്റാളേഷൻ പ്രക്രിയ പൂർത്തിയായി! നുവോലെ എഐയെക്കുറിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "മോഡൽ മാറ്റി വീണ്ടും ശ്രമിക്കുക",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "ഈ സെഷന് മാത്രം AI മോഡൽ മാറ്റുക, അഭ്യർത്ഥന പുനരാവർത്തിക്കുക",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "നിങ്ങൾ മുമ്പ് തിരഞ്ഞെടുത്ത ${Name} മോഡൽ ഇപ്പോൾ ലഭ്യമല്ല. ഏത് AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ട്?",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "മുഖ്യ മെനു തുറക്കരുത്",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "അയോണായി എമോജികൾ മാത്രം ഉപയോഗിക്കാം",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "ഇൻസ്റ്റാളേഷൻ പ്രക്രിയ പൂർത്തിയായി!\nNuvole AI യെക്കുറിച്ച് കൂടുതൽ അറിയാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "സംഗ്രഹണം",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "അജ്ഞാതമായി",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AI നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന മോഡൽ ഉപയോഗിക്കും",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "AI മോഡൽ മാറ്റി ആവർത്തിക്കുക",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "ഉപയോഗിക്കേണ്ട സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "ഈ വീഡിയോയുമായി നിങ്ങൾ എന്ത് ചെയ്യാൻ ആഗ്രഹിക്കുന്നുവെന്ന്?",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "ഇപ്പോൾ, Nuvole AI നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന മോഡൽ ഉപയോഗിക്കും, പക്ഷേ അടുത്ത തവണ ${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",

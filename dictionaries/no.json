@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "Ikke åpne hovedmenyen",
+  "Error_ORG_Replace": {
+    "value": "Gjelder kun for denne økten, tilbakestilles til ${Name}",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "Endre modell og prøv igjen",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "Gjelder for alle forespørsler",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "Installasjonsprosessen er fullført! Vil du lære mer om Nuvole AI og dens funksjoner?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "Endre modell for økt og prøv igjen",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "Endre AI-modellen for denne økten og gjenta forespørselen",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "Det ser ut til at modellen ${Name} du valgte tidligere ikke lenger er tilgjengelig. Hvilken AI-modell vil du bruke?",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "Ikke åpne hovedmenyen",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "Bare emojier kan brukes som et ikon",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "Installasjonsprosessen er fullført!\nVil du lære mer om Nuvole AI og dens funksjoner?",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "Oppsummering",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "Anonymt",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AI vil bruke modellen du velger",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "Endre AI-modellen og gjenta forespørselen",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "Velg lysbildene som skal brukes",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "Hva vil du gjøre med denne videoen?",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "For øyeblikket vil Nuvole AI bruke modellen du velger, men neste gang ${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",

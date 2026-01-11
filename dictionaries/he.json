@@ -1,8 +1,40 @@
 {
-  "Install_N_NoMenu": {
-    "value": "אַל תִּפְתַּח אֶת הַתַּפְרִיט הָרָאשִׁי",
+  "Error_ORG_Replace": {
+    "value": "חל על הפגישה הזו בלבד, מאפס ל-${Name}",
     "original": {
-      "value": "Don’t Open the Main Menu"
+      "value": "Applies for this session only, resets to ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Change": {
+    "value": "שנה מודל ונסה שוב",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_ORG_Change": {
+    "value": "חל על כל הבקשות",
+    "original": {
+      "value": "Applies to all requests"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Learn": {
+    "value": "תהליך ההתקנה הושלם! האם אתה רוצה ללמוד עוד על Nuvole AI ותכונותיו?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_N_Replace": {
+    "value": "שנה מודל עבור הפגישה ונסה שוב",
+    "original": {
+      "value": "Change Model for Session and Retry"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -831,16 +863,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Replace": {
-    "value": "שנה את מודל ה-AI עבור הפעלה זו בלבד וחזור על הבקשה",
-    "original": {
-      "value": "Change the AI Model for This Session Only and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "H_ModelUpdate": {
     "value": "נראה שמודל ${Name} שבחרת קודם לכן כבר לא זמין. איזה מודל AI אתה רוצה להשתמש?",
     "original": {
@@ -850,6 +872,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_NoMenu": {
+    "value": "אַל תִּפְתַּח אֶת הַתַּפְרִיט הָרָאשִׁי",
+    "original": {
+      "value": "Don’t Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Chat_T_ChangingError": {
     "value": "רק אמוג'ים יכולים לשמש כאייקון",
@@ -1335,16 +1365,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Install_H_Learn": {
-    "value": "תהליך ההתקנה הושלם!\nהאם אתה רוצה ללמוד עוד על Nuvole AI ותכונותיו?",
-    "original": {
-      "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Share-1": {
     "value": "סיכום",
     "original": {
@@ -1459,16 +1479,6 @@
     "value": "באנונימיות",
     "original": {
       "value": "Anonymously",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Change": {
-    "value": "Nuvole AI ישתמש במודל שאתה תבחר",
-    "original": {
-      "value": "Nuvole AI will use the model that you will select",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1925,16 +1935,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Error_N_Change": {
-    "value": "שנה את מודל ה-AI וחזור על הבקשה",
-    "original": {
-      "value": "Change the AI Model and Repeat Request",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_N_Slides": {
     "value": "בחר את השקופיות לשימוש",
     "original": {
@@ -2049,16 +2049,6 @@
     "value": "מה אתה רוצה לעשות עם הווידאו הזה?",
     "original": {
       "value": "What do you want to do with this video?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Error_ORG_Replace": {
-    "value": "כרגע, Nuvole AI ישתמש במודל שאתה תבחר, אבל בפעם הבאה ה-${Name}",
-    "original": {
-      "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
       "version": 1
     },
     "translatedBy": "ai",
