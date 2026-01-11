@@ -425,7 +425,7 @@
     "translatedBy": "human"
   },
   "Error_N_Replace": {
-    "value": "Change the AI Model for This Session Only and Repeat Request",
+    "value": "Change Model for Session and Retry",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -690,7 +690,7 @@
     "translatedBy": "human"
   },
   "Install_H_Learn": {
-    "value": "The installation process is complete!\nDo you want to learn more about Nuvole AI and its features?",
+    "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -755,7 +755,7 @@
     "translatedBy": "human"
   },
   "Error_ORG_Change": {
-    "value": "Nuvole AI will use the model that you will select",
+    "value": "Applies to all requests",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -995,7 +995,7 @@
     "translatedBy": "human"
   },
   "Error_N_Change": {
-    "value": "Change the AI Model and Repeat Request",
+    "value": "Change Model and Retry",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1060,7 +1060,7 @@
     "translatedBy": "human"
   },
   "Error_ORG_Replace": {
-    "value": "Right now, Nuvole AI will use the model that you will select, but next time the ${Name}",
+    "value": "Applies for this session only, resets to ${Name}",
     "isTranslated": true,
     "translatedBy": "human"
   },
