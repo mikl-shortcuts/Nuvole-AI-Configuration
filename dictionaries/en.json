@@ -425,7 +425,7 @@
     "translatedBy": "human"
   },
   "Error_N_Replace": {
-    "value": "Change Model for Session and Retry",
+    "value": "Retry With Temporary model",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -755,7 +755,7 @@
     "translatedBy": "human"
   },
   "Error_ORG_Change": {
-    "value": "Applies to all requests",
+    "value": "Applies to all sessions",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1060,7 +1060,7 @@
     "translatedBy": "human"
   },
   "Error_ORG_Replace": {
-    "value": "Applies for this session only, resets to ${Name}",
+    "value": "Session only, resets to ${Name}",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1095,7 +1095,7 @@
     "translatedBy": "human"
   },
   "Error_N_Report": {
-    "value": "Is the Error Repeating Too Often?",
+    "value": "Too Frequent Error?",
     "isTranslated": true,
     "translatedBy": "human"
   },
