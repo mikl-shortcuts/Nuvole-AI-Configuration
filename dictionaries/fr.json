@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "S'applique uniquement à cette session, réinitialise à ${Name}",
+  "Error_N_Report": {
+    "value": "Erreur trop fréquente ?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Changer le modèle et réessayer",
+  "Error_ORG_Replace": {
+    "value": "Session uniquement, réinitialise à ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "S'applique à toutes les demandes",
+    "value": "S'applique à toutes les sessions",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Le processus d'installation est terminé ! Souhaitez-vous en savoir plus sur Nuvole AI et ses fonctionnalités ?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Changer le modèle pour la session et réessayer",
+    "value": "Réessayer avec le modèle temporaire",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Le processus d'installation est terminé ! Souhaitez-vous en savoir plus sur Nuvole AI et ses fonctionnalités ?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Résumé",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Changer le modèle et réessayer",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Sélectionner les Diapositives à Utiliser",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "L'Erreur se Répète-T-Elle Trop Souvent?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Sélectionner les Pages à Utiliser",

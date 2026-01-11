@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Прилага се само за тази сесия, нулира се до ${Name}",
+  "Error_N_Report": {
+    "value": "Твърде честа грешка?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Променете модела и опитайте отново",
+  "Error_ORG_Replace": {
+    "value": "Само за сесията, нулира се на ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Прилага се за всички заявки",
+    "value": "Прилага се за всички сесии",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Процесът на инсталация е завършен! Искате ли да научите повече за Nuvole AI и неговите функции?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Променете модела за сесията и опитайте отново",
+    "value": "Опитайте отново с временен модел",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Процесът на инсталация е завършен! Искате ли да научите повече за Nuvole AI и неговите функции?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Резюме",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Променете модела и опитайте отново",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Изберете слайдовете, които да се използват",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Повтаря ли се грешката твърде често?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Изберете страниците, които да се използват",

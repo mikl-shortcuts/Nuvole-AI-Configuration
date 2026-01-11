@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Gjelder kun for denne økten, tilbakestilles til ${Name}",
+  "Error_N_Report": {
+    "value": "For hyppig feil?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Endre modell og prøv igjen",
+  "Error_ORG_Replace": {
+    "value": "Økt bare, tilbakestiller til ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Gjelder for alle forespørsler",
+    "value": "Gjelder for alle økter",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Installasjonsprosessen er fullført! Vil du lære mer om Nuvole AI og dens funksjoner?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Endre modell for økt og prøv igjen",
+    "value": "Prøv igjen med midlertidig modell",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Installasjonsprosessen er fullført! Vil du lære mer om Nuvole AI og dens funksjoner?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Oppsummering",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Endre modell og prøv igjen",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Velg lysbildene som skal brukes",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Gjentar feilen for ofte?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Velg sidene som skal brukes",

@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Berlaku untuk sesi ini saja, reset ke ${Name}",
+  "Error_N_Report": {
+    "value": "Terlalu sering error?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Ganti Model dan Coba Lagi",
+  "Error_ORG_Replace": {
+    "value": "Hanya sesi, reset ke ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Berlaku untuk semua permintaan",
+    "value": "Berlaku untuk semua sesi",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Proses instalasi selesai! Apakah Anda ingin mempelajari lebih lanjut tentang Nuvole AI dan fitur-fiturnya?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Ganti Model untuk Sesi dan Coba Lagi",
+    "value": "Coba lagi dengan model sementara",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Proses instalasi selesai! Apakah Anda ingin mempelajari lebih lanjut tentang Nuvole AI dan fitur-fiturnya?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Ringkasan",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Ganti Model dan Coba Lagi",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Pilih Slide yang Akan Digunakan",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Apakah Kesalahan Terlalu Sering Terulang?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Pilih Halaman yang Akan Digunakan",

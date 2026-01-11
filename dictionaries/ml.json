@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "ഈ സെഷനിൽ മാത്രം ബാധകമാണ്, ${Name} എന്നതിലേക്ക് റീസെറ്റ് ചെയ്യുന്നു",
+  "Error_N_Report": {
+    "value": "അമിതമായി പതിവുള്ള പിഴവ്?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "മോഡൽ മാറ്റി വീണ്ടും ശ്രമിക്കുക",
+  "Error_ORG_Replace": {
+    "value": "സെഷന് മാത്രം, ${Name} ലേക്ക് റീസെറ്റ് ചെയ്യുന്നു",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "എല്ലാ അഭ്യർത്ഥനകളിലും ബാധകമാണ്",
+    "value": "എല്ലാ സെഷനുകളിലും പ്രയോഗിക്കാം",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "ഇൻസ്റ്റാളേഷൻ പ്രക്രിയ പൂർത്തിയായി! നുവോലെ എഐയെക്കുറിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "മോഡൽ മാറ്റി വീണ്ടും ശ്രമിക്കുക",
+    "value": "താൽക്കാലിക മോഡലിനൊപ്പം വീണ്ടും ശ്രമിക്കുക",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "ഇൻസ്റ്റാളേഷൻ പ്രക്രിയ പൂർത്തിയായി! നുവോലെ എഐയെക്കുറിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "സംഗ്രഹണം",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "മോഡൽ മാറ്റി വീണ്ടും ശ്രമിക്കുക",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "ഉപയോഗിക്കേണ്ട സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "പിഴവ് വളരെ അധികം ആവർത്തിക്കുന്നുണ്ടോ?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "ഉപയോഗിക്കേണ്ട പേജുകൾ തിരഞ്ഞെടുക്കുക",

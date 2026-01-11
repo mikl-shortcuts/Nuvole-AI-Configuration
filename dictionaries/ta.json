@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "இந்த அமர்வுக்கு மட்டுமே பொருந்தும், ${Name} க்கு மீட்டமைக்கிறது",
+  "Error_N_Report": {
+    "value": "அதிக அடிக்கடி பிழை?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "மாதிரியை மாற்றி மீண்டும் முயற்சிக்கவும்",
+  "Error_ORG_Replace": {
+    "value": "அமர்வு மட்டும், ${Name} க்கு மீட்டமைக்கப்படும்",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "அனைத்து கோரிக்கைகளுக்கும் பொருந்தும்",
+    "value": "அனைத்து அமர்வுகளுக்கும் பொருந்தும்",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "நிறுவல் செயல்முறை முடிந்துவிட்டது! Nuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "மாதிரியை மாற்றி மீண்டும் முயற்சிக்கவும்",
+    "value": "தற்காலிக மாதிரியுடன் மீண்டும் முயற்சிக்கவும்",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "நிறுவல் செயல்முறை முடிந்துவிட்டது! Nuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "சுருக்கம்",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "மாதிரியை மாற்றி மீண்டும் முயற்சிக்கவும்",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "பயன்படுத்தப்பட வேண்டிய ஸ்லைடுகளை தேர்ந்தெடுக்கவும்",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "பிழை மிக அடிக்கடி மீண்டும் வருகிறதா?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "பயன்படுத்தப்பட வேண்டிய பக்கங்களை தேர்ந்தெடுக்கவும்",

@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "ಈ ಸೆಷನ್‌ಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ, ${Name} ಗೆ ರಿಸೆಟ್ ಆಗುತ್ತದೆ",
+  "Error_N_Report": {
+    "value": "ತುಂಬಾ ಆಗಾಗ್ಗೆ ದೋಷ?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "ಮಾದರಿಯನ್ನು ಬದಲಿಸಿ ಮತ್ತು ಮರುಪ್ರಯತ್ನಿಸಿ",
+  "Error_ORG_Replace": {
+    "value": "ಸತ್ರ ಮಾತ್ರ, ${Name} ಗೆ ರಿಸೆಟ್ ಆಗುತ್ತದೆ",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "ಎಲ್ಲಾ ವಿನಂತಿಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ",
+    "value": "ಎಲ್ಲಾ ಸत्रಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "ಸ್ಥಾಪನೆ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡಿದೆ! ನುವೋಲೆ AI ಮತ್ತು ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುವಿರಾ?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "ಮಾದರಿಯನ್ನು ಬದಲಿಸಿ ಮತ್ತು ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "value": "ತಾತ್ಕಾಲಿಕ ಮಾದರಿಯೊಂದಿಗೆ ಮರುಪ್ರಯತ್ನಿಸಿ",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "ಸ್ಥಾಪನೆ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡಿದೆ! ನುವೋಲೆ AI ಮತ್ತು ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುವಿರಾ?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "ಸಾರಾಂಶ",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "ಮಾದರಿಯನ್ನು ಬದಲಿಸಿ ಮತ್ತು ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "ಬಳಸಲು ಬಯಸುವ ಸ್ಲೈಡ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "ದೋಷವು ತುಂಬಾ ಆಗಾಗ್ಗೆ ಪುನರಾವರ್ತಿಸುತ್ತಿದೆಯೇ?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "ಬಳಸಲು ಬಯಸುವ ಪುಟಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",

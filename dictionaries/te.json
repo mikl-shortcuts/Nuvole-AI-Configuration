@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "ఈ సెషన్‌కు మాత్రమే వర్తిస్తుంది, ${Name}కి రీసెట్ అవుతుంది",
+  "Error_N_Report": {
+    "value": "చాలా తరచుగా లోపం?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "మోడల్‌ను మార్చండి మరియు రిట్రై చేయండి",
+  "Error_ORG_Replace": {
+    "value": "సెషన్ మాత్రమే, ${Name}కి రీసెట్ అవుతుంది",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "అన్ని అభ్యర్థనలకు వర్తిస్తుంది",
+    "value": "అన్ని సెషన్లకు వర్తిస్తుంది",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "ఇన్స్టాలేషన్ ప్రక్రియ పూర్తయింది! మీరు Nuvole AI మరియు దాని ఫీచర్ల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "మోడల్‌ను మార్చండి మరియు రిట్రై చేయండి",
+    "value": "తాత్కాలిక మోడల్‌తో మళ్లీ ప్రయత్నించండి",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "ఇన్స్టాలేషన్ ప్రక్రియ పూర్తయింది! మీరు Nuvole AI మరియు దాని ఫీచర్ల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "సారాంశం",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "మోడల్‌ను మార్చండి మరియు రిట్రై చేయండి",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "ఉపయోగించాలనుకుంటున్న స్లైడ్‌లను ఎంచుకోండి",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "లోపం చాలా తరచుగా పునరావృతం అవుతుందా?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "ఉపయోగించాలనుకుంటున్న పేజీలను ఎంచుకోండి",

@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Attiecas tikai uz šo sesiju, atiestatās uz ${Name}",
+  "Error_N_Report": {
+    "value": "Pārāk bieži kļūda?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Mainiet modeli un mēģināt vēlreiz",
+  "Error_ORG_Replace": {
+    "value": "Tikai sesija, atiestatīšana uz ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Attiecas uz visiem pieprasījumiem",
+    "value": "Attiecas uz visām sesijām",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Instalācijas process ir pabeigts! Vai vēlaties uzzināt vairāk par Nuvole AI un tās funkcijām?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Mainiet modeli sesijai un mēģināt vēlreiz",
+    "value": "Mēģināt ar pagaidu modeli",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Instalācijas process ir pabeigts! Vai vēlaties uzzināt vairāk par Nuvole AI un tās funkcijām?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Kopsavilkums",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Mainiet modeli un mēģināt vēlreiz",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Izvēlieties slīdes, kuras tiks izmantotas",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Vai kļūda atkārtojas pārāk bieži?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Izvēlieties lapas, kuras tiks izmantotas",

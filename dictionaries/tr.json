@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Sadece bu oturum için geçerlidir, ${Name} olarak sıfırlanır",
+  "Error_N_Report": {
+    "value": "Çok Sık Hata mı?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Modeli Değiştir ve Yeniden Dene",
+  "Error_ORG_Replace": {
+    "value": "Sadece oturum, ${Name} olarak sıfırlanır",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Tüm istekler için geçerlidir",
+    "value": "Tüm oturumlara uygulanır",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Kurulum işlemi tamamlandı! Nuvole AI ve özellikleri hakkında daha fazla bilgi edinmek ister misiniz?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Modeli Değiştir ve Yeniden Dene",
+    "value": "Geçici model ile tekrar deneyin",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Kurulum işlemi tamamlandı! Nuvole AI ve özellikleri hakkında daha fazla bilgi edinmek ister misiniz?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Özet",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Modeli Değiştir ve Yeniden Dene",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Kullanılacak Slaytları Seç",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Hata Çok Sık Tekrar Ediyor mu?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Kullanılacak Sayfaları Seç",

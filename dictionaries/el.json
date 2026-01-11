@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Ισχύει μόνο για αυτήν τη συνεδρία, επαναρυθμίζεται σε ${Name}",
+  "Error_N_Report": {
+    "value": "Πολύ συχνό σφάλμα;",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Αλλάξτε το μοντέλο και δοκιμάστε ξανά",
+  "Error_ORG_Replace": {
+    "value": "Μόνο για τη συνεδρία, επαναρυθμίζεται σε ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Ισχύει για όλα τα αιτήματα",
+    "value": "Ισχύει για όλες τις συνεδρίες",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Η διαδικασία εγκατάστασης ολοκληρώθηκε! Θέλετε να μάθετε περισσότερα για το Nuvole AI και τα χαρακτηριστικά του;",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Αλλάξτε το μοντέλο για τη συνεδρία και δοκιμάστε ξανά",
+    "value": "Δοκιμάστε ξανά με προσωρινό μοντέλο",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Η διαδικασία εγκατάστασης ολοκληρώθηκε! Θέλετε να μάθετε περισσότερα για το Nuvole AI και τα χαρακτηριστικά του;",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Περίληψη",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Αλλάξτε το μοντέλο και δοκιμάστε ξανά",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Επιλογή των Διαφανειών που θα Χρησιμοποιηθούν",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Επαναλαμβάνεται το Σφάλμα Πολύ Συχνά;",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Επιλογή των Σελίδων που θα Χρησιμοποιηθούν",

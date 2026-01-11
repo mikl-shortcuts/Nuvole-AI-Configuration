@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "فقط برای این جلسه اعمال می‌شود، به ${Name} بازمی‌گردد",
+  "Error_N_Report": {
+    "value": "خطای بیش از حد مکرر؟",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "مدل را تغییر دهید و دوباره امتحان کنید",
+  "Error_ORG_Replace": {
+    "value": "فقط جلسه، به ${Name} بازنشانی می‌شود",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "برای تمام درخواست‌ها اعمال می‌شود",
+    "value": "برای همه جلسات اعمال می‌شود",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "فرایند نصب کامل شده است! آیا می‌خواهید بیشتر درباره Nuvole AI و ویژگی‌های آن بدانید؟",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "مدل جلسه را تغییر دهید و دوباره امتحان کنید",
+    "value": "با مدل موقت دوباره امتحان کنید",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "فرایند نصب کامل شده است! آیا می‌خواهید بیشتر درباره Nuvole AI و ویژگی‌های آن بدانید؟",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "خلاصه سازی",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "مدل را تغییر دهید و دوباره امتحان کنید",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "اسلایدهایی که می خواهید استفاده کنید را انتخاب کنید",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "آیا خطا خیلی زیاد تکرار می شود؟",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "صفحه هایی که می خواهید استفاده کنید را انتخاب کنید",

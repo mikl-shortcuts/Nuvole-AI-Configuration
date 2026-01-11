@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Csak erre a munkamenetre vonatkozik, visszaállítva ${Name}-re",
+  "Error_N_Report": {
+    "value": "Túl gyakori hiba?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Váltson modellt és próbálja újra",
+  "Error_ORG_Replace": {
+    "value": "Csak a munkamenetre, visszaállít ${Name}-re",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Minden kérelemre vonatkozik",
+    "value": "Minden munkamenetre vonatkozik",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "A telepítési folyamat befejeződött! Szeretne többet megtudni a Nuvole AI-ról és funkcióiról?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Váltson modellt a munkamenethez és próbálja újra",
+    "value": "Próbálja újra az ideiglenes modellel",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "A telepítési folyamat befejeződött! Szeretne többet megtudni a Nuvole AI-ról és funkcióiról?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Összefoglaló",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Váltson modellt és próbálja újra",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Válassza ki a használni kívánt diákat",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Túl gyakran ismétlődik a hiba?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Válassza ki a használni kívánt oldalakat",

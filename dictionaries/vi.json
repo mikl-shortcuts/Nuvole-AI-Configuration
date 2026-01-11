@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "Áp dụng cho phiên này, đặt lại thành ${Name}",
+  "Error_N_Report": {
+    "value": "Lỗi quá thường xuyên?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "Thay đổi Mô hình và Thử lại",
+  "Error_ORG_Replace": {
+    "value": "Chỉ phiên, đặt lại thành ${Name}",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "Áp dụng cho tất cả các yêu cầu",
+    "value": "Áp dụng cho tất cả các phiên",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "Quá trình cài đặt đã hoàn tất! Bạn có muốn tìm hiểu thêm về Nuvole AI và các tính năng của nó không?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "Thay đổi Mô hình cho Phiên và Thử lại",
+    "value": "Thử lại với mô hình tạm thời",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "Quá trình cài đặt đã hoàn tất! Bạn có muốn tìm hiểu thêm về Nuvole AI và các tính năng của nó không?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "Tóm tắt",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "Thay đổi Mô hình và Thử lại",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "Chọn Các Slide Để Sử dụng",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "Lỗi Có Xảy Ra Quá Thường?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "Chọn Các Trang Để Sử dụng",

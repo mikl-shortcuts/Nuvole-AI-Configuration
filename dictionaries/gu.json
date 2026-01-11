@@ -1,40 +1,32 @@
 {
-  "Error_ORG_Replace": {
-    "value": "આ સત્ર માટે જ લાગુ પડે છે, ${Name} પર રીસેટ થાય છે",
+  "Error_N_Report": {
+    "value": "ખૂબ વારંવાર ભૂલ?",
     "original": {
-      "value": "Applies for this session only, resets to ${Name}"
+      "value": "Too Frequent Error?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_Change": {
-    "value": "મોડલ બદલો અને ફરીથી પ્રયાસ કરો",
+  "Error_ORG_Replace": {
+    "value": "સત્ર માત્ર, ${Name} પર રીસેટ થાય છે",
     "original": {
-      "value": "Change Model and Retry"
+      "value": "Session only, resets to ${Name}"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_ORG_Change": {
-    "value": "બધી વિનંતીઓ પર લાગુ પડે છે",
+    "value": "બધી સત્રો પર લાગુ",
     "original": {
-      "value": "Applies to all requests"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Learn": {
-    "value": "ઇન્સ્ટોલેશન પ્રક્રિયા પૂર્ણ થઈ ગઈ છે! શું તમે Nuvole AI અને તેની વિશેષતાઓ વિશે વધુ જાણવા માંગો છો?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+      "value": "Applies to all sessions"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Error_N_Replace": {
-    "value": "મોડલ બદલો અને ફરીથી પ્રયાસ કરો",
+    "value": "તાત્કાલિક મોડેલ સાથે ફરીથી પ્રયાસ કરો",
     "original": {
-      "value": "Change Model for Session and Retry"
+      "value": "Retry With Temporary model"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1365,6 +1357,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_H_Learn": {
+    "value": "ઇન્સ્ટોલેશન પ્રક્રિયા પૂર્ણ થઈ ગઈ છે! શું તમે Nuvole AI અને તેની વિશેષતાઓ વિશે વધુ જાણવા માંગો છો?",
+    "original": {
+      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-1": {
     "value": "સારાંશ",
     "original": {
@@ -1935,6 +1935,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Change": {
+    "value": "મોડલ બદલો અને ફરીથી પ્રયાસ કરો",
+    "original": {
+      "value": "Change Model and Retry"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_N_Slides": {
     "value": "વપરાયેલા સ્લાઇડ્સ પસંદ કરો",
     "original": {
@@ -2110,16 +2118,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Error_N_Report": {
-    "value": "ભૂલ ખૂબ વારંવાર પુનરાવર્તિત થઈ રહી છે?",
-    "original": {
-      "value": "Is the Error Repeating Too Often?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_N_Pages": {
     "value": "વપરાયેલા પેજ્સ પસંદ કરો",
