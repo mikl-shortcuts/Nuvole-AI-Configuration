@@ -1,192 +1,8 @@
 {
-  "Settings_N_ImageSFW-False": {
-    "value": "Filtrer ikke NSFW-indhold",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Vil du have, at Nuvole AI filtrerer NSFW-indhold ved billedgenerering?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-False": {
-    "value": "Søg ikke",
-    "original": {
-      "value": "Do Not Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-True": {
-    "value": "Vis historie",
-    "original": {
-      "value": "Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Server": {
-    "value": "Du kan ikke få udviklerfeedback",
-    "original": {
-      "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_N_YesConfig": {
-    "value": "Ja, send min konfiguration",
-    "original": {
-      "value": "Yes, Transmit My Config"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Saving-False": {
-    "value": "Gem kun når spurgt",
-    "original": {
-      "value": "Save Only When Asked"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "Slet permanent alle fundne chats",
-    "original": {
-      "value": "Permanently delete all found chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Filtrer NSFW-indhold",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "Slet permanent disse chats",
-    "original": {
-      "value": "Permanently delete this chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-True": {
-    "value": "Forbedr prompt",
-    "original": {
-      "value": "Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-False": {
-    "value": "Vis ikke historie",
-    "original": {
-      "value": "Do Not Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "Dette kunne afklare dit problem",
-    "original": {
-      "value": "This could clarify your issue"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "Anbefales for en bedre oplevelse",
-    "original": {
-      "value": "Recommended for a better experience"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-True": {
-    "value": "Søg automatisk",
-    "original": {
-      "value": "Automatically Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Loading-True": {
-    "value": "Genoptag automatisk sidste chat",
-    "original": {
-      "value": "Auto-Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_SkipLearn": {
-    "value": "Spring over og begynd at arbejde",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Install_N_NoMenu": {
-    "value": "Indtast anmodning uden at åbne",
+    "value": "Åbn ikke hovedmenuen",
     "original": {
-      "value": "Enter Request Without Opening"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "Forbedr ikke prompt",
-    "original": {
-      "value": "Do Not Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Chat_ORG_DeletionDelete": {
-    "value": "Slet permanent denne chat",
-    "original": {
-      "value": "Permanently delete this chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Åbn hovedmenuen",
-    "original": {
-      "value": "Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "Slet permanent al chat-historik",
-    "original": {
-      "value": "Permanently delete all chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_H_Config": {
-    "value": "Vil du sende en Nuvole AI-indstillingskonfigurationsfil med udvikler?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Email": {
-    "value": "Du kan få udviklerfeedback",
-    "original": {
-      "value": "You can get developer feedback"
+      "value": "Don’t Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -240,6 +56,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "Du kan få udviklerfeedback",
+    "original": {
+      "value": "You can get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Seconds": {
     "value": "Tænkt i ${Num} sekunder",
@@ -310,6 +134,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "Vil du sende en Nuvole AI-indstillingskonfigurationsfil med udvikler?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_H_Selection": {
     "value": "Vælg hvilke chats, du vil slette",
@@ -411,6 +243,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_ORG_DeletionDelete": {
+    "value": "Slet permanent al chat-historik",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-2": {
     "value": "Spørgsmål",
     "original": {
@@ -430,6 +270,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "Åbn hovedmenuen",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_Feedback": {
     "value": "Skriv en feedback",
@@ -557,6 +405,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Chat_ORG_DeletionDelete": {
+    "value": "Slet permanent denne chat",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoUpdates": {
     "value": "Modtag ikke opdateringer",
     "original": {
@@ -576,6 +432,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "Vil du have, at Nuvole AI filtrerer NSFW-indhold ved billedgenerering?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-False": {
+    "value": "Filtrer ikke NSFW-indhold",
+    "original": {
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Chatten vil blive gemt",
@@ -686,6 +558,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "Forbedr ikke prompt",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Next": {
     "value": "Hvad vil du gøre næste?",
@@ -1099,6 +979,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_SkipLearn": {
+    "value": "Spring over og begynd at arbejde",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Loading": {
     "value": "Automatisk indlæsning af sidste chat",
     "original": {
@@ -1177,6 +1065,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Loading-True": {
+    "value": "Genoptag automatisk sidste chat",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-History": {
     "value": "Visning af chat-historie",
     "original": {
@@ -1247,6 +1143,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Search-True": {
+    "value": "Søg automatisk",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_T_21Changes": {
     "value": "21 ændringer",
     "original": {
@@ -1291,6 +1195,14 @@
     "value": "Fejlrate for sidste time",
     "original": {
       "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "Anbefales for en bedre oplevelse",
+    "original": {
+      "value": "Recommended for a better experience"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1394,6 +1306,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "Dette kunne afklare dit problem",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SearchSelect": {
     "value": "Vælg og slet fundne chats",
@@ -1635,6 +1555,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-False": {
+    "value": "Vis ikke historie",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_N_Continue": {
     "value": "Genoptag denne chat",
     "original": {
@@ -1679,6 +1607,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_N_ImagePlus-True": {
+    "value": "Forbedr prompt",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Changing": {
     "value": "Vil du ikke skifte modellen?",
     "original": {
@@ -1708,6 +1644,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "Slet permanent disse chats",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_T_Model": {
     "value": "Anbefalet",
@@ -1897,6 +1841,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_ImageSFW-True": {
+    "value": "Filtrer NSFW-indhold",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFW-indholdsfiltrering",
     "original": {
@@ -1954,6 +1906,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "Slet permanent alle fundne chats",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllFile": {
     "value": "Brug hele filen",
@@ -2115,6 +2075,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Saving-False": {
+    "value": "Gem kun når spurgt",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_FontMin": {
     "value": "Minimumsværdi: 22",
     "original": {
@@ -2145,6 +2113,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Feedback_N_YesConfig": {
+    "value": "Ja, send min konfiguration",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_N_Report": {
     "value": "Gentager fejlen for ofte?",
     "original": {
@@ -2174,6 +2150,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "Du kan ikke få udviklerfeedback",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_Learn": {
     "value": "Du vil blive omdirigeret til RoutineHub",
@@ -2363,6 +2347,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-True": {
+    "value": "Vis historie",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_ORG_Pages": {
     "value": "Før du vælger, vil du blive vist din fil",
     "original": {
@@ -2422,6 +2414,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "Søg ikke",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_ORG_Search": {
     "value": "Søg blandt dine chats",

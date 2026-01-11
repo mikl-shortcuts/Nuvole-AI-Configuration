@@ -1,192 +1,8 @@
 {
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಬೇಡಿ",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "ಚಿತ್ರ ರಚನೆಯ ಸಮಯದಲ್ಲಿ Nuvole AI NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಬೇಕೇ?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-False": {
-    "value": "ಹುಡುಕಬೇಡಿ",
-    "original": {
-      "value": "Do Not Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-True": {
-    "value": "ಇತಿಹಾಸವನ್ನು ಪ್ರದರ್ಶಿಸಿ",
-    "original": {
-      "value": "Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Server": {
-    "value": "ನೀವು ಡೆವಲಪರ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ",
-    "original": {
-      "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_N_YesConfig": {
-    "value": "ಹೌದು, ನನ್ನ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ರವಾನಿಸಿ",
-    "original": {
-      "value": "Yes, Transmit My Config"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Saving-False": {
-    "value": "ಕೇಳಿದಾಗ ಮಾತ್ರ ಉಳಿಸಿ",
-    "original": {
-      "value": "Save Only When Asked"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "ಎಲ್ಲಾ ಕಂಡುಬಂದ ಚಾಟ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
-    "original": {
-      "value": "Permanently delete all found chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "ಈ ಚಾಟ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
-    "original": {
-      "value": "Permanently delete this chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-True": {
-    "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸಿ",
-    "original": {
-      "value": "Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-False": {
-    "value": "ಇತಿಹಾಸವನ್ನು ಪ್ರದರ್ಶಿಸಬೇಡಿ",
-    "original": {
-      "value": "Do Not Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "ಇದು ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಬಹುದು",
-    "original": {
-      "value": "This could clarify your issue"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "ಉತ್ತಮ ಅನುಭವಕ್ಕೆ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
-    "original": {
-      "value": "Recommended for a better experience"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-True": {
-    "value": "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹುಡುಕಿ",
-    "original": {
-      "value": "Automatically Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Loading-True": {
-    "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪ್ರಾರಂಭಿಸಿ",
-    "original": {
-      "value": "Auto-Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_SkipLearn": {
-    "value": "ಬಿಟ್ಟುಬಿಡಿ ಮತ್ತು ಕೆಲಸ ಪ್ರಾರಂಭಿಸಿ",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Install_N_NoMenu": {
-    "value": "ತೆರೆಯದೆ ವಿನಂತಿಯನ್ನು ನಮೂದಿಸಿ",
+    "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಬೇಡಿ",
     "original": {
-      "value": "Enter Request Without Opening"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸಬೇಡಿ",
-    "original": {
-      "value": "Do Not Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Chat_ORG_DeletionDelete": {
-    "value": "ಈ ಚಾಟ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
-    "original": {
-      "value": "Permanently delete this chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಿರಿ",
-    "original": {
-      "value": "Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "ಎಲ್ಲಾ ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
-    "original": {
-      "value": "Permanently delete all chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_H_Config": {
-    "value": "ನೀವು Nuvole AI ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಕಾನ್ಫಿಗರೇಶನ್ ಫೈಲ್ ಅನ್ನು ಡೆವಲಪರ್‌ಗೆ ರವಾನಿಸಲು ಬಯಸುವಿರಾ?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Email": {
-    "value": "ನೀವು ಡೆವಲಪರ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಬಹುದು",
-    "original": {
-      "value": "You can get developer feedback"
+      "value": "Don’t Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -240,6 +56,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "ನೀವು ಡೆವಲಪರ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಬಹುದು",
+    "original": {
+      "value": "You can get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Seconds": {
     "value": "${Num} ಸೆಕೆಂಡುಗಳಿಗಾಗಿ ಯೋಚಿಸಲಾಗಿದೆ",
@@ -310,6 +134,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "ನೀವು Nuvole AI ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಕಾನ್ಫಿಗರೇಶನ್ ಫೈಲ್ ಅನ್ನು ಡೆವಲಪರ್‌ಗೆ ರವಾನಿಸಲು ಬಯಸುವಿರಾ?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_H_Selection": {
     "value": "ನೀವು ಅಳಿಸಬೇಕಾದ ಚಾಟ್ಗಳನ್ನು ಆರಿಸಿ",
@@ -411,6 +243,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_ORG_DeletionDelete": {
+    "value": "ಎಲ್ಲಾ ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-2": {
     "value": "ಪ್ರಶ್ನೆ",
     "original": {
@@ -430,6 +270,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಿರಿ",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_Feedback": {
     "value": "ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಬರೆಯಿರಿ",
@@ -557,6 +405,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Chat_ORG_DeletionDelete": {
+    "value": "ಈ ಚಾಟ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoUpdates": {
     "value": "ಅಪ್ಡೇಟ್ಗಳನ್ನು ಸ್ವೀಕರಿಸಬೇಡಿ",
     "original": {
@@ -576,6 +432,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "ಚಿತ್ರ ರಚನೆಯ ಸಮಯದಲ್ಲಿ Nuvole AI NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಬೇಕೇ?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-False": {
+    "value": "NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಬೇಡಿ",
+    "original": {
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "ಚಾಟ್ ಉಳಿಸಲ್ಪಡುತ್ತದೆ",
@@ -686,6 +558,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸಬೇಡಿ",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Next": {
     "value": "ನೀವು ಮುಂದೆ ಏನು ಮಾಡಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ?",
@@ -1099,6 +979,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_SkipLearn": {
+    "value": "ಬಿಟ್ಟುಬಿಡಿ ಮತ್ತು ಕೆಲಸ ಪ್ರಾರಂಭಿಸಿ",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Loading": {
     "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಲೋಡ್ ಮಾಡಿ",
     "original": {
@@ -1177,6 +1065,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Loading-True": {
+    "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪ್ರಾರಂಭಿಸಿ",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-History": {
     "value": "ಚಾಟ್ ಇತಿಹಾಸ ಪ್ರದರ್ಶನ",
     "original": {
@@ -1247,6 +1143,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Search-True": {
+    "value": "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹುಡುಕಿ",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_T_21Changes": {
     "value": "21 ಬದಲಾವಣೆಗಳು",
     "original": {
@@ -1291,6 +1195,14 @@
     "value": "ಕಳೆದ ಗಂಟೆಗೆ ದೋಷ ದರ",
     "original": {
       "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "ಉತ್ತಮ ಅನುಭವಕ್ಕೆ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
+    "original": {
+      "value": "Recommended for a better experience"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1394,6 +1306,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "ಇದು ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಬಹುದು",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SearchSelect": {
     "value": "ಕಂಡುಹಿಡಿದ ಚಾಟ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅಳಿಸಿ",
@@ -1635,6 +1555,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-False": {
+    "value": "ಇತಿಹಾಸವನ್ನು ಪ್ರದರ್ಶಿಸಬೇಡಿ",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_N_Continue": {
     "value": "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಿ",
     "original": {
@@ -1679,6 +1607,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_N_ImagePlus-True": {
+    "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಸುಧಾರಿಸಿ",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Changing": {
     "value": "ಮಾದರಿಯನ್ನು ಬದಲಾಯಿಸಬಯಸುವುದಿಲ್ಲವೇ?",
     "original": {
@@ -1708,6 +1644,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "ಈ ಚಾಟ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_T_Model": {
     "value": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
@@ -1897,6 +1841,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_ImageSFW-True": {
+    "value": "NSFW ವಿಷಯವನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFW ವಿಷಯದ ಫಿಲ್ಟರಿಂಗ್",
     "original": {
@@ -1954,6 +1906,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "ಎಲ್ಲಾ ಕಂಡುಬಂದ ಚಾಟ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllFile": {
     "value": "ಸಂಪೂರ್ಣ ಫೈಲ್ ಅನ್ನು ಬಳಸಿ",
@@ -2115,6 +2075,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Saving-False": {
+    "value": "ಕೇಳಿದಾಗ ಮಾತ್ರ ಉಳಿಸಿ",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_FontMin": {
     "value": "ಕನಿಷ್ಠ ಮೌಲ್ಯ: 22",
     "original": {
@@ -2145,6 +2113,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Feedback_N_YesConfig": {
+    "value": "ಹೌದು, ನನ್ನ ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ರವಾನಿಸಿ",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_N_Report": {
     "value": "ದೋಷವು ತುಂಬಾ ಆಗಾಗ್ಗೆ ಪುನರಾವರ್ತಿಸುತ್ತಿದೆಯೇ?",
     "original": {
@@ -2174,6 +2150,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "ನೀವು ಡೆವಲಪರ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_Learn": {
     "value": "ನೀವು RoutineHub ಗೆ ಮರುನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತೀರಿ",
@@ -2363,6 +2347,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-True": {
+    "value": "ಇತಿಹಾಸವನ್ನು ಪ್ರದರ್ಶಿಸಿ",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_ORG_Pages": {
     "value": "ಆಯ್ಕೆ ಮಾಡುವ ಮೊದಲು, ನಿಮ್ಮ ಫೈಲ್ ಅನ್ನು ನಿಮಗೆ ತೋರಿಸಲಾಗುತ್ತದೆ",
     "original": {
@@ -2422,6 +2414,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "ಹುಡುಕಬೇಡಿ",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_ORG_Search": {
     "value": "ನಿಮ್ಮ ಚಾಟ್‌ಗಳಲ್ಲಿ ಹುಡುಕಿ",

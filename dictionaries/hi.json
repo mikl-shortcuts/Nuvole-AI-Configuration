@@ -1,192 +1,8 @@
 {
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFW सामग्री को फ़िल्टर न करें",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "क्या आप चाहते हैं कि Nuvole AI छवि निर्माण के दौरान NSFW सामग्री को फ़िल्टर करे?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-False": {
-    "value": "खोजें नहीं",
-    "original": {
-      "value": "Do Not Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-True": {
-    "value": "इतिहास प्रदर्शित करें",
-    "original": {
-      "value": "Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Server": {
-    "value": "आप डेवलपर फीडबैक प्राप्त नहीं कर सकते",
-    "original": {
-      "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_N_YesConfig": {
-    "value": "हाँ, मेरी कॉन्फ़िगरेशन ट्रांसमिट करें",
-    "original": {
-      "value": "Yes, Transmit My Config"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Saving-False": {
-    "value": "केवल पूछने पर सहेजें",
-    "original": {
-      "value": "Save Only When Asked"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "सभी पाए गए चैट्स को स्थायी रूप से हटाएं",
-    "original": {
-      "value": "Permanently delete all found chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW सामग्री को फ़िल्टर करें",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "इन चैट्स को स्थायी रूप से हटाएं",
-    "original": {
-      "value": "Permanently delete this chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-True": {
-    "value": "प्रॉम्प्ट को सुधारें",
-    "original": {
-      "value": "Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-False": {
-    "value": "इतिहास प्रदर्शित न करें",
-    "original": {
-      "value": "Do Not Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "यह आपकी समस्या को स्पष्ट कर सकता है",
-    "original": {
-      "value": "This could clarify your issue"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "बेहतर अनुभव के लिए अनुशंसित",
-    "original": {
-      "value": "Recommended for a better experience"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-True": {
-    "value": "स्वचालित रूप से खोजें",
-    "original": {
-      "value": "Automatically Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Loading-True": {
-    "value": "पिछली चैट को स्वचालित रूप से फिर से शुरू करें",
-    "original": {
-      "value": "Auto-Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_SkipLearn": {
-    "value": "छोड़ें और काम शुरू करें",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Install_N_NoMenu": {
-    "value": "बिना खोलें अनुरोध दर्ज करें",
+    "value": "मुख्य मेनू न खोलें",
     "original": {
-      "value": "Enter Request Without Opening"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "प्रॉम्प्ट को सुधारें नहीं",
-    "original": {
-      "value": "Do Not Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Chat_ORG_DeletionDelete": {
-    "value": "इस चैट को स्थायी रूप से हटाएं",
-    "original": {
-      "value": "Permanently delete this chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "मुख्य मेनू खोलें",
-    "original": {
-      "value": "Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "सभी चैट इतिहास को स्थायी रूप से हटाएं",
-    "original": {
-      "value": "Permanently delete all chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_H_Config": {
-    "value": "क्या आप Nuvole AI सेटिंग्स कॉन्फ़िगरेशन फ़ाइल को डेवलपर के साथ ट्रांसमिट करना चाहेंगे?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Email": {
-    "value": "आप डेवलपर फीडबैक प्राप्त कर सकते हैं",
-    "original": {
-      "value": "You can get developer feedback"
+      "value": "Don’t Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -240,6 +56,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "आप डेवलपर फीडबैक प्राप्त कर सकते हैं",
+    "original": {
+      "value": "You can get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Seconds": {
     "value": "${Num} सेकंड के लिए सोचा",
@@ -310,6 +134,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "क्या आप Nuvole AI सेटिंग्स कॉन्फ़िगरेशन फ़ाइल को डेवलपर के साथ ट्रांसमिट करना चाहेंगे?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_H_Selection": {
     "value": "चुनें कि आप कौन से चैट्स हटाना चाहते हैं",
@@ -411,6 +243,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_ORG_DeletionDelete": {
+    "value": "सभी चैट इतिहास को स्थायी रूप से हटाएं",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-2": {
     "value": "प्रश्न",
     "original": {
@@ -430,6 +270,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "मुख्य मेनू खोलें",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_Feedback": {
     "value": "प्रतिक्रिया लिखें",
@@ -557,6 +405,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Chat_ORG_DeletionDelete": {
+    "value": "इस चैट को स्थायी रूप से हटाएं",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoUpdates": {
     "value": "अपडेट्स प्राप्त न करें",
     "original": {
@@ -576,6 +432,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "क्या आप चाहते हैं कि Nuvole AI छवि निर्माण के दौरान NSFW सामग्री को फ़िल्टर करे?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-False": {
+    "value": "NSFW सामग्री को फ़िल्टर न करें",
+    "original": {
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "चैट सहेजा जाएगा",
@@ -686,6 +558,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "प्रॉम्प्ट को सुधारें नहीं",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Next": {
     "value": "आप अगला क्या करना चाहते हैं?",
@@ -1099,6 +979,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_SkipLearn": {
+    "value": "छोड़ें और काम शुरू करें",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Loading": {
     "value": "अंतिम चैट को स्वचालित रूप से लोड करें",
     "original": {
@@ -1177,6 +1065,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Loading-True": {
+    "value": "पिछली चैट को स्वचालित रूप से फिर से शुरू करें",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-History": {
     "value": "चैट इतिहास प्रदर्शित करना",
     "original": {
@@ -1247,6 +1143,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Search-True": {
+    "value": "स्वचालित रूप से खोजें",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_T_21Changes": {
     "value": "21 परिवर्तन",
     "original": {
@@ -1291,6 +1195,14 @@
     "value": "पिछले घंटे के लिए त्रुटि दर",
     "original": {
       "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "बेहतर अनुभव के लिए अनुशंसित",
+    "original": {
+      "value": "Recommended for a better experience"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1394,6 +1306,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "यह आपकी समस्या को स्पष्ट कर सकता है",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SearchSelect": {
     "value": "चैट्स का चयन करें और हटाएं",
@@ -1635,6 +1555,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-False": {
+    "value": "इतिहास प्रदर्शित न करें",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_N_Continue": {
     "value": "इस चैट को फिर से शुरू करें",
     "original": {
@@ -1679,6 +1607,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_N_ImagePlus-True": {
+    "value": "प्रॉम्प्ट को सुधारें",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Changing": {
     "value": "मॉडल नहीं बदलना चाहते?",
     "original": {
@@ -1708,6 +1644,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "इन चैट्स को स्थायी रूप से हटाएं",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_T_Model": {
     "value": "सिफारिश की गई",
@@ -1897,6 +1841,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_ImageSFW-True": {
+    "value": "NSFW सामग्री को फ़िल्टर करें",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFW कंटेंट फिल्टरिंग",
     "original": {
@@ -1954,6 +1906,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "सभी पाए गए चैट्स को स्थायी रूप से हटाएं",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllFile": {
     "value": "पूरी फाइल का उपयोग करें",
@@ -2115,6 +2075,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Saving-False": {
+    "value": "केवल पूछने पर सहेजें",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_FontMin": {
     "value": "न्यूनतम मान: 22",
     "original": {
@@ -2145,6 +2113,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Feedback_N_YesConfig": {
+    "value": "हाँ, मेरी कॉन्फ़िगरेशन ट्रांसमिट करें",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_N_Report": {
     "value": "क्या त्रुटि बहुत बार दोहराई जा रही है?",
     "original": {
@@ -2174,6 +2150,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "आप डेवलपर फीडबैक प्राप्त नहीं कर सकते",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_Learn": {
     "value": "आपको RoutineHub पर रीडायरेक्ट किया जाएगा",
@@ -2363,6 +2347,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-True": {
+    "value": "इतिहास प्रदर्शित करें",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_ORG_Pages": {
     "value": "चयन करने से पहले, आपको आपकी फाइल दिखाई जाएगी",
     "original": {
@@ -2422,6 +2414,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "खोजें नहीं",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_ORG_Search": {
     "value": "अपनी चैट्स में खोजें",

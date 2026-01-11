@@ -1,192 +1,8 @@
 {
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യരുത്",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "ഇമേജ് ജനറേഷന് Nuvole AI NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യണോ?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-False": {
-    "value": "തേടരുത്",
-    "original": {
-      "value": "Do Not Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-True": {
-    "value": "ചരിത്രം പ്രദർശിപ്പിക്കുക",
-    "original": {
-      "value": "Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Server": {
-    "value": "നിങ്ങൾക്ക് ഡെവലപ്പർ ഫീഡ്ബാക്ക് ലഭിക്കില്ല",
-    "original": {
-      "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_N_YesConfig": {
-    "value": "അതെ, എന്റെ കൺഫിഗറേഷൻ കൈമാറുക",
-    "original": {
-      "value": "Yes, Transmit My Config"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Saving-False": {
-    "value": "അഭ്യർത്ഥിച്ചപ്പോൾ മാത്രം സൂക്ഷിക്കുക",
-    "original": {
-      "value": "Save Only When Asked"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SearchDeletionDelete": {
-    "value": "കണ്ടെത്തിയ എല്ലാ ചാറ്റുകളും സ്ഥിരമായി നീക്കം ചെയ്യുക",
-    "original": {
-      "value": "Permanently delete all found chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യുക",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_SelectionDelete": {
-    "value": "ഈ ചാറ്റുകൾ സ്ഥിരമായി നീക്കം ചെയ്യുക",
-    "original": {
-      "value": "Permanently delete this chats"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-True": {
-    "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തുക",
-    "original": {
-      "value": "Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_History-False": {
-    "value": "ചരിത്രം പ്രദർശിപ്പിക്കരുത്",
-    "original": {
-      "value": "Do Not Display History"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_YesConfig": {
-    "value": "ഇത് നിങ്ങളുടെ പ്രശ്നം വ്യക്തമാക്കാം",
-    "original": {
-      "value": "This could clarify your issue"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_YesUpdates": {
-    "value": "മെച്ചപ്പെട്ട അനുഭവത്തിന് ശുപാർശ ചെയ്യപ്പെടുന്നു",
-    "original": {
-      "value": "Recommended for a better experience"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Search-True": {
-    "value": "സ്വയം തേടുക",
-    "original": {
-      "value": "Automatically Search"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Loading-True": {
-    "value": "അവസാന ചാറ്റ് സ്വയം പുനരാരംഭിക്കുക",
-    "original": {
-      "value": "Auto-Resume Last Chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_SkipLearn": {
-    "value": "സ്കിപ്പ് ചെയ്യുക, പ്രവർത്തനം ആരംഭിക്കുക",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Install_N_NoMenu": {
-    "value": "തുറക്കാതെ അഭ്യർത്ഥന നൽകുക",
+    "value": "മുഖ്യ മെനു തുറക്കരുത്",
     "original": {
-      "value": "Enter Request Without Opening"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImagePlus-False": {
-    "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തരുത്",
-    "original": {
-      "value": "Do Not Improve Prompt"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Chat_ORG_DeletionDelete": {
-    "value": "ഈ ചാറ്റ് സ്ഥിരമായി നീക്കം ചെയ്യുക",
-    "original": {
-      "value": "Permanently delete this chat"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "പ്രധാന മെനു തുറക്കുക",
-    "original": {
-      "value": "Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_ORG_DeletionDelete": {
-    "value": "അല്ലെല്ലാം ചാറ്റ് ചരിത്രം സ്ഥിരമായി നീക്കം ചെയ്യുക",
-    "original": {
-      "value": "Permanently delete all chat history"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_H_Config": {
-    "value": "നിങ്ങൾക്ക് ഒരു Nuvole AI സെറ്റിംഗ് കൺഫിഗറേഷൻ ഫയൽ ഡെവലപ്പറുമായി കൈമാറാൻ ആഗ്രഹിക്കുമോ?",
-    "original": {
-      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Feedback_ORG_Email": {
-    "value": "നിങ്ങൾക്ക് ഡെവലപ്പർ ഫീഡ്ബാക്ക് ലഭിക്കാം",
-    "original": {
-      "value": "You can get developer feedback"
+      "value": "Don’t Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -240,6 +56,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Email": {
+    "value": "നിങ്ങൾക്ക് ഡെവലപ്പർ ഫീഡ്ബാക്ക് ലഭിക്കാം",
+    "original": {
+      "value": "You can get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Seconds": {
     "value": "${Num} സെക്കൻഡുകൾക്ക് ചിന്തിച്ചു",
@@ -310,6 +134,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_H_Config": {
+    "value": "നിങ്ങൾക്ക് ഒരു Nuvole AI സെറ്റിംഗ് കൺഫിഗറേഷൻ ഫയൽ ഡെവലപ്പറുമായി കൈമാറാൻ ആഗ്രഹിക്കുമോ?",
+    "original": {
+      "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_H_Selection": {
     "value": "ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്ന ചാറ്റുകൾ തിരഞ്ഞെടുക്കുക",
@@ -411,6 +243,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_ORG_DeletionDelete": {
+    "value": "അല്ലെല്ലാം ചാറ്റ് ചരിത്രം സ്ഥിരമായി നീക്കം ചെയ്യുക",
+    "original": {
+      "value": "Permanently delete all chat history"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Share-2": {
     "value": "ചോദ്യം",
     "original": {
@@ -430,6 +270,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_N_YesMenu": {
+    "value": "പ്രധാന മെനു തുറക്കുക",
+    "original": {
+      "value": "Open the Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_Feedback": {
     "value": "ഫീഡ്ബാക്ക് എഴുതുക",
@@ -557,6 +405,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Chat_ORG_DeletionDelete": {
+    "value": "ഈ ചാറ്റ് സ്ഥിരമായി നീക്കം ചെയ്യുക",
+    "original": {
+      "value": "Permanently delete this chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoUpdates": {
     "value": "അപ്ഡേറ്റുകൾ ലഭിക്കരുത്",
     "original": {
@@ -576,6 +432,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_H_NAME-ImageSFW": {
+    "value": "ഇമേജ് ജനറേഷന് Nuvole AI NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യണോ?",
+    "original": {
+      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ImageSFW-False": {
+    "value": "NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യരുത്",
+    "original": {
+      "value": "Do Not Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "ചാറ്റ് സൂക്ഷിക്കും",
@@ -686,6 +558,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_ImagePlus-False": {
+    "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തരുത്",
+    "original": {
+      "value": "Do Not Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Next": {
     "value": "അടുത്തത് എന്ത് ചെയ്യാൻ ആഗ്രഹിക്കുന്നുണ്ട്?",
@@ -1099,6 +979,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Install_N_SkipLearn": {
+    "value": "സ്കിപ്പ് ചെയ്യുക, പ്രവർത്തനം ആരംഭിക്കുക",
+    "original": {
+      "value": "Skip and Start Working"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Loading": {
     "value": "അവസാന ചാറ്റ് സ്വയം ലോഡ് ചെയ്യുക",
     "original": {
@@ -1177,6 +1065,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Loading-True": {
+    "value": "അവസാന ചാറ്റ് സ്വയം പുനരാരംഭിക്കുക",
+    "original": {
+      "value": "Auto-Resume Last Chat"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-History": {
     "value": "ചാറ്റ് ചരിത്രം പ്രദർശിപ്പിക്കൽ",
     "original": {
@@ -1247,6 +1143,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Search-True": {
+    "value": "സ്വയം തേടുക",
+    "original": {
+      "value": "Automatically Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_T_21Changes": {
     "value": "21 മാറ്റങ്ങൾ",
     "original": {
@@ -1291,6 +1195,14 @@
     "value": "അവസാന മണിക്കൂറിലെ പിഴവ് നിരക്ക്",
     "original": {
       "value": "Error rate for last hour"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_ORG_YesUpdates": {
+    "value": "മെച്ചപ്പെട്ട അനുഭവത്തിന് ശുപാർശ ചെയ്യപ്പെടുന്നു",
+    "original": {
+      "value": "Recommended for a better experience"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1394,6 +1306,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_YesConfig": {
+    "value": "ഇത് നിങ്ങളുടെ പ്രശ്നം വ്യക്തമാക്കാം",
+    "original": {
+      "value": "This could clarify your issue"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_N_SearchSelect": {
     "value": "കണ്ടെത്തിയ ചാറ്റുകൾ തിരഞ്ഞെടുക്കുകയും നീക്കം ചെയ്യുകയും",
@@ -1635,6 +1555,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-False": {
+    "value": "ചരിത്രം പ്രദർശിപ്പിക്കരുത്",
+    "original": {
+      "value": "Do Not Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Main_N_Continue": {
     "value": "ഈ ചാറ്റ് തുടരുക",
     "original": {
@@ -1679,6 +1607,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_N_ImagePlus-True": {
+    "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തുക",
+    "original": {
+      "value": "Improve Prompt"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_T_Changing": {
     "value": "മോഡൽ മാറ്റാൻ ആഗ്രഹിക്കുന്നില്ലേ?",
     "original": {
@@ -1708,6 +1644,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SelectionDelete": {
+    "value": "ഈ ചാറ്റുകൾ സ്ഥിരമായി നീക്കം ചെയ്യുക",
+    "original": {
+      "value": "Permanently delete this chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_T_Model": {
     "value": "ശുപാർശ ചെയ്യപ്പെട്ടത്",
@@ -1897,6 +1841,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_ImageSFW-True": {
+    "value": "NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യുക",
+    "original": {
+      "value": "Filter NSFW Content"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-ImageSFW": {
     "value": "NSFW ഉള്ളടക്കം ഫിൽട്ടർ ചെയ്യൽ",
     "original": {
@@ -1954,6 +1906,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_ORG_SearchDeletionDelete": {
+    "value": "കണ്ടെത്തിയ എല്ലാ ചാറ്റുകളും സ്ഥിരമായി നീക്കം ചെയ്യുക",
+    "original": {
+      "value": "Permanently delete all found chats"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllFile": {
     "value": "മുഴുവൻ ഫയൽ ഉപയോഗിക്കുക",
@@ -2115,6 +2075,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_Saving-False": {
+    "value": "അഭ്യർത്ഥിച്ചപ്പോൾ മാത്രം സൂക്ഷിക്കുക",
+    "original": {
+      "value": "Save Only When Asked"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_FontMin": {
     "value": "കുറഞ്ഞത്: 22",
     "original": {
@@ -2145,6 +2113,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Feedback_N_YesConfig": {
+    "value": "അതെ, എന്റെ കൺഫിഗറേഷൻ കൈമാറുക",
+    "original": {
+      "value": "Yes, Transmit My Config"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Error_N_Report": {
     "value": "പിഴവ് വളരെ അധികം ആവർത്തിക്കുന്നുണ്ടോ?",
     "original": {
@@ -2174,6 +2150,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Feedback_ORG_Server": {
+    "value": "നിങ്ങൾക്ക് ഡെവലപ്പർ ഫീഡ്ബാക്ക് ലഭിക്കില്ല",
+    "original": {
+      "value": "You can’t get developer feedback"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_ORG_Learn": {
     "value": "നിങ്ങൾക്ക് റൂട്ടീൻഹബിലേക്ക് റീഡയറക്റ്റ് ചെയ്യപ്പെടും",
@@ -2363,6 +2347,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_N_History-True": {
+    "value": "ചരിത്രം പ്രദർശിപ്പിക്കുക",
+    "original": {
+      "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_ORG_Pages": {
     "value": "തിരഞ്ഞെടുക്കുന്നതിന് മുമ്പ്, നിങ്ങളുടെ ഫയൽ കാണിക്കും",
     "original": {
@@ -2422,6 +2414,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_N_Search-False": {
+    "value": "തേടരുത്",
+    "original": {
+      "value": "Do Not Search"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "History_ORG_Search": {
     "value": "നിങ്ങളുടെ ചാറ്റുകൾക്കിടയിൽ തേടുക",
