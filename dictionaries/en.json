@@ -130,7 +130,7 @@
     "translatedBy": "human"
   },
   "Update_N_Details": {
-    "value": "View More Detailed Changelog",
+    "value": "View Full Changelog",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -780,7 +780,7 @@
     "translatedBy": "human"
   },
   "Share_ORG_Slides": {
-    "value": "Before selecting, you will be shown your presentation",
+    "value": "Your presentation will be shown first",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1000,7 +1000,7 @@
     "translatedBy": "human"
   },
   "Share_N_Slides": {
-    "value": "Select the Slides to be Used",
+    "value": "Select Slides to Use",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1100,7 +1100,7 @@
     "translatedBy": "human"
   },
   "Share_N_Pages": {
-    "value": "Select the Pages to be Used",
+    "value": "Select Pages to Use",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1185,7 +1185,7 @@
     "translatedBy": "human"
   },
   "Generation_N_Note": {
-    "value": "Yes, Generate and Save a Note on My Device",
+    "value": "Yes, Generate and Save",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1215,7 +1215,7 @@
     "translatedBy": "human"
   },
   "Share_ORG_Pages": {
-    "value": "Before selecting, you will be shown your file",
+    "value": "Your file will be shown first",
     "isTranslated": true,
     "translatedBy": "human"
   },
