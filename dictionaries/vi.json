@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "Đã xảy ra lỗi trong quá trình xử lý ảnh!",
+  "Share_ORG_Pages": {
+    "value": "Tệp của bạn sẽ được hiển thị đầu tiên",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "Thử lại bằng cách sử dụng cùng một mô hình",
+  "Generation_N_Note": {
+    "value": "Có, Tạo và Lưu",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "Đã xảy ra lỗi trong quá trình xử lý yêu cầu!",
+  "Share_N_Pages": {
+    "value": "Chọn Trang để Sử Dụng",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "Đã xảy ra lỗi trong quá trình tạo ghi chú!",
+  "Share_N_Slides": {
+    "value": "Chọn Slides để Sử Dụng",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "Đã xảy ra lỗi trong quá trình suy nghĩ!",
+  "Share_ORG_Slides": {
+    "value": "Bài thuyết trình của bạn sẽ được hiển thị đầu tiên",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "Đã xảy ra lỗi trong quá trình tạo văn bản!",
+  "Update_N_Details": {
+    "value": "Xem Toàn Bộ Nhật Ký Thay Đổi",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "Thử lại với Mô hình Tạm thời",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "Đã xảy ra lỗi trong quá trình tạo ảnh!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "Xem chi tiết thay đổi",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "Mở Menu Chính",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Đã xảy ra lỗi trong quá trình tạo ảnh!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 phiên bản",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "Thử lại với Mô hình Tạm thời",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "Có vẻ như mô hình ${Name} bạn đã chọn trước đó không còn khả dụng. Bạn muốn sử dụng mô hình AI nào?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Đã xảy ra lỗi trong quá trình tạo văn bản!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "Tăng cường Prompt",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "Đã xảy ra lỗi trong quá trình suy nghĩ!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "Thay đổi biểu tượng trò chuyện “${Text}” thành bất kỳ biểu tượng nào khác",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "Quay lại Menu Chính",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "Trước khi chọn, bạn sẽ được hiển thị bài thuyết trình của mình",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Đã xảy ra lỗi trong quá trình tạo ghi chú!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "Sử dụng Toàn bộ Bài thuyết trình",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "Chọn Các Slide Để Sử dụng",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "Sáng",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "Đã xảy ra lỗi trong quá trình xử lý yêu cầu!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "Chỉ Lưu Khi Được Yêu Cầu",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Chọn Các Trang Để Sử dụng",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "Bạn đã đặt giá trị quá cao",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "Thử lại bằng cách sử dụng cùng một mô hình",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "Đã xảy ra lỗi trong quá trình xử lý ảnh!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "Chọn kích thước tóm tắt mà bạn muốn nhận",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "Chọn xem bạn có muốn nhận thông báo về các bản cập nhật không",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "Có, Tạo và Lưu Ghi chú trên Thiết bị của Tôi",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "Trước khi chọn, bạn sẽ được hiển thị tệp của mình",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 cuộc trò chuyện",

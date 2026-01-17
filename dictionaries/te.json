@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "చిత్రాన్ని ప్రాసెస్ చేయడంలో లోపం ఏర్పడింది!",
+  "Share_ORG_Pages": {
+    "value": "మీ ఫైల్ మొదట చూపబడుతుంది",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "అదే మోడల్‌ను ఉపయోగించి మళ్లీ ప్రయత్నించండి",
+  "Generation_N_Note": {
+    "value": "అవును, సృష్టించండి మరియు సేవ్ చేయండి",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "అభ్యర్థనను ప్రాసెస్ చేయడంలో లోపం ఏర్పడింది!",
+  "Share_N_Pages": {
+    "value": "వినియోగించడానికి పేజీలను ఎంచుకోండి",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "నోట్ సృష్టించడంలో లోపం ఏర్పడింది!",
+  "Share_N_Slides": {
+    "value": "వినియోగించడానికి స్లైడ్లను ఎంచుకోండి",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "ఆలోచన ప్రక్రియలో లోపం ఏర్పడింది!",
+  "Share_ORG_Slides": {
+    "value": "మీ ప్రెజెంటేషన్ మొదట చూపబడుతుంది",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "టెక్స్ట్ సృష్టించడంలో లోపం ఏర్పడింది!",
+  "Update_N_Details": {
+    "value": "పూర్తి మార్పుల జాబితా చూడండి",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "తాత్కాలిక మోడల్‌తో మళ్లీ ప్రయత్నించండి",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "చిత్రం సృష్టించడంలో లోపం ఏర్పడింది!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "మరింత వివరమైన మార్పుల జాబితాను చూడండి",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "ప్రధాన మెనూని తెరవండి",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "చిత్రం సృష్టించడంలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 వెర్షన్లు",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "తాత్కాలిక మోడల్‌తో మళ్లీ ప్రయత్నించండి",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "మీరు ముందుగా ఎంచుకున్న ${Name} మోడల్ ఇకపై అందుబాటులో లేదు. మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "టెక్స్ట్ సృష్టించడంలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "ప్రోంప్ట్‌ను మెరుగుపరచండి",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "ఆలోచన ప్రక్రియలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "చాట్ ఐకాన్ “${Text}” నుండి మరొకదానికి మార్చండి",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "మెయిన్ మెనూకు తిరిగి రండి",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "మీ ప్రెజెంటేషన్ మీకు చూపబడుతుంది",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "నోట్ సృష్టించడంలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "పూర్తి ప్రెజెంటేషన్‌ను ఉపయోగించండి",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "ఉపయోగించాలనుకుంటున్న స్లైడ్‌లను ఎంచుకోండి",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "లైట్",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "అభ్యర్థనను ప్రాసెస్ చేయడంలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "అడిగినప్పుడు మాత్రమే సేవ్ చేయండి",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "ఉపయోగించాలనుకుంటున్న పేజీలను ఎంచుకోండి",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "మీరు విలువను చాలా ఎక్కువగా సెట్ చేసారు",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "అదే మోడల్‌ను ఉపయోగించి మళ్లీ ప్రయత్నించండి",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "చిత్రాన్ని ప్రాసెస్ చేయడంలో లోపం ఏర్పడింది!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "మీరు పొందాలనుకుంటున్న సారాంశం యొక్క పరిమాణాన్ని ఎంచుకోండి",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "అప్‌డేట్‌ల గురించి నోటిఫికేషన్‌లు పొందాలనుకుంటున్నారా",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "అవును, నా పరికరంలో నోట్‌ను సృష్టించి సేవ్ చేయండి",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "మీ ఫైల్ మీకు చూపబడుతుంది",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 చాట్‌లు",

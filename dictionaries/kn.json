@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "ಚಿತ್ರವನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+  "Share_ORG_Pages": {
+    "value": "ನಿಮ್ಮ ಫೈಲ್ ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "ಒಂದೇ ಮಾದರಿಯನ್ನು ಬಳಸಿ ಮರುಪ್ರಯತ್ನಿಸಿ",
+  "Generation_N_Note": {
+    "value": "ಹೌದು, ರಚಿಸಿ ಮತ್ತು ಉಳಿಸಿ",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "ವಿನಂತಿಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+  "Share_N_Pages": {
+    "value": "ಬಳಸಲು ಪುಟಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "ಟಿಪ್ಪಣಿ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+  "Share_N_Slides": {
+    "value": "ಬಳಸಲು ಸ್ಲೈಡ್ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "ಯೋಚನೆಯ ಪ್ರಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+  "Share_ORG_Slides": {
+    "value": "ನಿಮ್ಮ ಪ್ರಸ್ತುತಿಯನ್ನು ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "ಪಠ್ಯ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+  "Update_N_Details": {
+    "value": "ಪೂರ್ಣ ಬದಲಾವಣೆ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "ಟೆಂಪ್ ಮಾದರಿಯೊಂದಿಗೆ ಮರುಪ್ರಯತ್ನಿಸಿ",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "ಚಿತ್ರ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "ಹೆಚ್ಚಿನ ವಿವರವಾದ ಬದಲಾವಣೆಗಳ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಿರಿ",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "ಚಿತ್ರ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 ಆವೃತ್ತಿಗಳು",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "ಟೆಂಪ್ ಮಾದರಿಯೊಂದಿಗೆ ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "ನೀವು ಹಿಂದೆ ಆರಿಸಿದ ${Name} ಮಾದರಿ ಈಗ ಲಭ್ಯವಿಲ್ಲ. ನೀವು ಯಾವ AI ಮಾದರಿಯನ್ನು ಬಳಸಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "ಪಠ್ಯ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಹೆಚ್ಚಿಸಿ",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "ಯೋಚನೆಯ ಪ್ರಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "“${Text}” ಚಾಟ್ ಐಕಾನ್ ಅನ್ನು ಯಾವುದೇ ಇತರಕ್ಕೆ ಬದಲಾಯಿಸಿ",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "ಮುಖ್ಯ ಮೆನುವಿಗೆ ಮರಳಿ",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "ಆಯ್ಕೆ ಮಾಡುವ ಮೊದಲು, ನಿಮ್ಮ ಪ್ರಸ್ತುತಿಯನ್ನು ನಿಮಗೆ ತೋರಿಸಲಾಗುತ್ತದೆ",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "ಟಿಪ್ಪಣಿ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "ಸಂಪೂರ್ಣ ಪ್ರಸ್ತುತಿಯನ್ನು ಬಳಸಿ",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "ಬಳಸಲು ಬಯಸುವ ಸ್ಲೈಡ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "ಬಿಳಿ",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "ವಿನಂತಿಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "ಕೇಳಿದಾಗ ಮಾತ್ರ ಉಳಿಸಿ",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "ಬಳಸಲು ಬಯಸುವ ಪುಟಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "ನೀವು ಮೌಲ್ಯವನ್ನು ತುಂಬಾ ಹೆಚ್ಚಾಗಿ ಹೊಂದಿಸಿದ್ದೀರಿ",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "ಒಂದೇ ಮಾದರಿಯನ್ನು ಬಳಸಿ ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "ಚಿತ್ರವನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವ ಸಮಯದಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "ನೀವು ಪಡೆಯಲು ಬಯಸುವ ಸಾರಾಂಶದ ಗಾತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "ಅಪ್‌ಡೇಟ್‌ಗಳ ಬಗ್ಗೆ ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಲು ಬಯಸುವಿರಾ ಎಂದು ಆಯ್ಕೆ ಮಾಡಿ",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "ಹೌದು, ನನ್ನ ಸಾಧನದಲ್ಲಿ ಟಿಪ್ಪಣಿಯನ್ನು ರಚಿಸಿ ಮತ್ತು ಉಳಿಸಿ",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "ಆಯ್ಕೆ ಮಾಡುವ ಮೊದಲು, ನಿಮ್ಮ ಫೈಲ್ ಅನ್ನು ನಿಮಗೆ ತೋರಿಸಲಾಗುತ್ತದೆ",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 ಚಾಟ್‌ಗಳು",

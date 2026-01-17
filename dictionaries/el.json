@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "Συνέβη σφάλμα κατά την επεξεργασία της εικόνας!",
+  "Share_ORG_Pages": {
+    "value": "Το αρχείο σας θα εμφανιστεί πρώτο",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "Επαναλάβετε χρησιμοποιώντας το ίδιο μοντέλο",
+  "Generation_N_Note": {
+    "value": "Ναι, Δημιουργία και Αποθήκευση",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "Συνέβη σφάλμα κατά την επεξεργασία του αιτήματος!",
+  "Share_N_Pages": {
+    "value": "Επιλέξτε σελίδες για χρήση",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία σημειώσεων!",
+  "Share_N_Slides": {
+    "value": "Επιλέξτε διαφάνειες για χρήση",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "Συνέβη σφάλμα κατά τη διαδικασία σκέψης!",
+  "Share_ORG_Slides": {
+    "value": "Η παρουσίασή σας θα εμφανιστεί πρώτη",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία κειμένου!",
+  "Update_N_Details": {
+    "value": "Προβολή πλήρους καταγραφής αλλαγών",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "Επαναλάβετε με το προσωρινό μοντέλο",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "Συνέβη σφάλμα κατά τη δημιουργία της εικόνας!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "Προβολή Πιο Λεπτομερούς Καταγραφής Αλλαγών",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "Άνοιγμα του Κύριου Μενού",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία της εικόνας!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 εκδόσεις",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "Επαναλάβετε με το προσωρινό μοντέλο",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "Φαίνεται ότι το μοντέλο ${Name} που επιλέξατε νωρίτερα δεν είναι πλέον διαθέσιμο. Ποιο μοντέλο AI θέλετε να χρησιμοποιήσετε;",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία κειμένου!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "Βελτίωση της προτροπής",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "Συνέβη σφάλμα κατά τη διαδικασία σκέψης!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "Αλλαγή του εικονιδίου της συνομιλίας “${Text}” σε οποιοδήποτε άλλο",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "Επιστροφή στο Κύριο Μενού",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "Πριν από την επιλογή, θα σας εμφανιστεί η παρουσίασή σας",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "Συνέβη σφάλμα κατά τη δημιουργία σημειώσεων!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "Χρήση Ολόκληρης της Παρουσίασης",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "Επιλογή των Διαφανειών που θα Χρησιμοποιηθούν",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "Φωτεινό",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία του αιτήματος!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "Αποθήκευση μόνο όταν ζητηθεί",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Επιλογή των Σελίδων που θα Χρησιμοποιηθούν",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "Έχετε ορίσει την τιμή πολύ υψηλή",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "Επαναλάβετε χρησιμοποιώντας το ίδιο μοντέλο",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "Συνέβη σφάλμα κατά την επεξεργασία της εικόνας!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "Επιλέξτε το μέγεθος της περίληψης που θέλετε να λάβετε",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "Επιλέξτε εάν θέλετε να λαμβάνετε ειδοποιήσεις για ενημερώσεις",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "Ναι, Δημιουργία και Αποθήκευση Σημείωσης στη Συσκευή μου",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "Πριν από την επιλογή, θα σας εμφανιστεί το αρχείο σας",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 συνομιλίες",

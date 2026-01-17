@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "تصویر کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
+  "Share_ORG_Pages": {
+    "value": "آپ کی فائل پہلے دکھائی جائے گی",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "اسی ماڈل کا استعمال کرتے ہوئے دوبارہ کوشش کریں",
+  "Generation_N_Note": {
+    "value": "ہاں، پیدا کریں اور محفوظ کریں",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "درخواست کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
+  "Share_N_Pages": {
+    "value": "استعمال کرنے کے لیے صفحات منتخب کریں",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "نوٹ کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+  "Share_N_Slides": {
+    "value": "استعمال کرنے کے لیے سلائیڈز منتخب کریں",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "سوچ کے عمل کے دوران ایک غلطی واقع ہوئی!",
+  "Share_ORG_Slides": {
+    "value": "آپ کی پیشکش پہلے دکھائی جائے گی",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "متن کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+  "Update_N_Details": {
+    "value": "مکمل تبدیلی کی فہرست دیکھیں",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "عارضی ماڈل کے ساتھ دوبارہ کوشش کریں",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "تصویر کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "مزید تفصیلی تبدیلیوں کی فہرست دیکھیں",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "مینو کھولیں",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "تصویر کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 ورژن",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "عارضی ماڈل کے ساتھ دوبارہ کوشش کریں",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "لگتا ہے کہ آپ نے پہلے منتخب کیا ہوا ماڈل ${Name} اب دستیاب نہیں ہے۔ آپ کون سا AI ماڈل استعمال کرنا چاہتے ہیں؟",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "متن کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "پرمپٹ کو بہتر بنائیں",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "سوچ کے عمل کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "چٹ آئیکن “${Text}” کو کسی اور میں تبدیل کریں",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "مینو میں واپس جائیں",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "انتخاب کرنے سے پہلے، آپ کو آپ کی پیشکشی دکھائی جائے گی",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "نوٹ کی تخلیق کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "پوری پیشکشی استعمال کریں",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "استعمال کرنے کے لیے سلائیڈز منتخب کریں",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "روشن",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "درخواست کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "صرف جب پوچھا جائے تو محفوظ کریں",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "استعمال کرنے کے لیے صفحات منتخب کریں",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "آپ نے قدر بہت زیادہ سیٹ کی ہے",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "اسی ماڈل کا استعمال کرتے ہوئے دوبارہ کوشش کریں",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "تصویر کی پروسیسنگ کے دوران ایک غلطی واقع ہوئی!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "وہ خلاصہ کا سائز منتخب کریں جو آپ حاصل کرنا چاہتے ہیں",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "انتخاب کریں کہ کیا آپ اپ ڈیٹس کے بارے میں نوٹیفیکیشن حاصل کرنا چاہتے ہیں",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "ہاں، نوٹ بنائیں اور میرے ڈیوائس پر محفوظ کریں",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "انتخاب کرنے سے پہلے، آپ کو آپ کی فائل دکھائی جائے گی",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 چٹس",

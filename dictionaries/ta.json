@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "படத்தை செயலாக்கும் போது பிழை ஏற்பட்டது!",
+  "Share_ORG_Pages": {
+    "value": "உங்கள் கோப்பு முதலில் காட்டப்படும்",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "அதே மாதிரியைப் பயன்படுத்தி மீண்டும் முயற்சிக்கவும்",
+  "Generation_N_Note": {
+    "value": "ஆம், உருவாக்கி சேமிக்கவும்",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "கோரிக்கையை செயலாக்கும் போது பிழை ஏற்பட்டது!",
+  "Share_N_Pages": {
+    "value": "பயன்படுத்தும் பக்கங்களைத் தேர்ந்தெடுக்கவும்",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "குறிப்பு உருவாக்கும் போது பிழை ஏற்பட்டது!",
+  "Share_N_Slides": {
+    "value": "பயன்படுத்தும் ஸ்லைடுகளைத் தேர்ந்தெடுக்கவும்",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "சிந்தனை செயல்முறையின் போது பிழை ஏற்பட்டது!",
+  "Share_ORG_Slides": {
+    "value": "உங்கள் பிரசன்டேஷன் முதலில் காட்டப்படும்",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "உரை உருவாக்கும் போது பிழை ஏற்பட்டது!",
+  "Update_N_Details": {
+    "value": "முழு மாற்றப் பதிவைப் பார்க்கவும்",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "தற்காலிக மாதிரியுடன் மீண்டும் முயற்சிக்கவும்",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "படம் உருவாக்கும் போது பிழை ஏற்பட்டது!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "மேலும் விவரமான மாற்றங்கள் பட்டியலை பார்க்கவும்",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "முக்கிய மெனுவைத் திறக்கவும்",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "படம் உருவாக்கும் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 பதிப்புகள்",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "தற்காலிக மாதிரியுடன் மீண்டும் முயற்சிக்கவும்",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த ${Name} மாதிரி இனி கிடைக்கவில்லை. எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "உரை உருவாக்கும் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "ப்ராம்ப்ட்டை மேம்படுத்தவும்",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "சிந்தனை செயல்முறையின் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "“${Text}” என்ற உரையாடல் ஐகானை வேறு எதுவாகவும் மாற்றவும்",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "முக்கிய மெனுவிற்கு திரும்பவும்",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "தேர்ந்தெடுப்பதற்கு முன், உங்கள் பிரசன்டேஷன் காட்டப்படும்",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "குறிப்பு உருவாக்கும் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "முழு பிரசன்டேஷனையும் பயன்படுத்தவும்",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "பயன்படுத்தப்பட வேண்டிய ஸ்லைடுகளை தேர்ந்தெடுக்கவும்",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "ஒளி",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "கோரிக்கையை செயலாக்கும் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "கேட்கப்படும் போது மட்டும் சேமிக்கவும்",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "பயன்படுத்தப்பட வேண்டிய பக்கங்களை தேர்ந்தெடுக்கவும்",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "நீங்கள் மதிப்பை மிக அதிகமாக அமைத்துள்ளீர்கள்",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "அதே மாதிரியைப் பயன்படுத்தி மீண்டும் முயற்சிக்கவும்",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "படத்தை செயலாக்கும் போது பிழை ஏற்பட்டது!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "நீங்கள் பெற விரும்பும் சுருக்கத்தின் அளவை தேர்ந்தெடுக்கவும்",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "புதுப்பிப்புகள் பற்றிய அறிவிப்புகளை பெற விரும்புகிறீர்களா தேர்ந்தெடுக்கவும்",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "ஆம், எனது சாதனத்தில் குறிப்பை உருவாக்கி சேமிக்கவும்",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "தேர்ந்தெடுப்பதற்கு முன், உங்கள் கோப்பு காட்டப்படும்",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 உரையாடல்கள்",

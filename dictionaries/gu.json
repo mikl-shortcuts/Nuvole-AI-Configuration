@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "ઇમેજ પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+  "Share_ORG_Pages": {
+    "value": "તમારી ફાઇલ પ્રથમ દર્શાવવામાં આવશે",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "સમાન મોડેલનો ઉપયોગ કરીને ફરીથી પ્રયાસ કરો",
+  "Generation_N_Note": {
+    "value": "હા, જનરેટ અને સેવ કરો",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "વિનંતી પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+  "Share_N_Pages": {
+    "value": "વપરાશ માટે પૃષ્ઠો પસંદ કરો",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "નોટ જનરેશન દરમિયાન એક ભૂલ થઈ!",
+  "Share_N_Slides": {
+    "value": "વપરાશ માટે સ્લાઇડ્સ પસંદ કરો",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "વિચાર પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+  "Share_ORG_Slides": {
+    "value": "તમારી પ્રેઝન્ટેશન પ્રથમ દર્શાવવામાં આવશે",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "ટેક્સ્ટ જનરેશન દરમિયાન એક ભૂલ થઈ!",
+  "Update_N_Details": {
+    "value": "પૂર્ણ ચેન્જલોગ જુઓ",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "ટેમ્પ મોડેલ સાથે ફરીથી પ્રયાસ કરો",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "ઇમેજ જનરેશન દરમિયાન એક ભૂલ થઈ!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "વધુ વિગતવાર ચેન્જલોગ જુઓ",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "મુખ્ય મેનૂ ખોલો",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "ઇમેજ જનરેશન દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 વર્ઝન્સ",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "ટેમ્પ મોડેલ સાથે ફરીથી પ્રયાસ કરો",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "તમે પહેલા પસંદ કરેલ મોડેલ ${Name} હવે ઉપલબ્ધ નથી. તમે કયા AI મોડેલનો ઉપયોગ કરવા માંગો છો?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "ટેક્સ્ટ જનરેશન દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "પ્રોમ્પ્ટને વધારો",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "વિચાર પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "ચેટ આઇકોન “${Text}” ને કોઈપણ અન્યમાં બદલો",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "મુખ્ય મેનૂ પર પાછા ફરો",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "પસંદ કરતા પહેલા, તમને તમારી પ્રસ્તુતિ દર્શાવવામાં આવશે",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "નોટ જનરેશન દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "સંપૂર્ણ પ્રસ્તુતિનો ઉપયોગ કરો",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "વપરાયેલા સ્લાઇડ્સ પસંદ કરો",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "હળવું",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "વિનંતી પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "પૂછવામાં આવે ત્યારે જ સેવ કરો",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "વપરાયેલા પેજ્સ પસંદ કરો",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "તમે મૂલ્ય ખૂબ ઊંચું સેટ કર્યું છે",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "સમાન મોડેલનો ઉપયોગ કરીને ફરીથી પ્રયાસ કરો",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "ઇમેજ પ્રક્રિયા દરમિયાન એક ભૂલ થઈ!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "તમે કયા કદનો સારાંશ પ્રાપ્ત કરવા માંગો છો તે પસંદ કરો",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "પસંદ કરો કે શું તમે અપડેટ્સ વિશે સૂચનાઓ પ્રાપ્ત કરવા માંગો છો",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "હા, નોટ જનરેટ કરો અને મારા ડિવાઇસ પર સેવ કરો",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "પસંદ કરતા પહેલા, તમને તમારી ફાઇલ દર્શાવવામાં આવશે",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 ચેટ્સ",

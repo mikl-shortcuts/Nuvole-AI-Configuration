@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "ചിത്രം പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+  "Share_ORG_Pages": {
+    "value": "നിങ്ങളുടെ ഫയൽ ആദ്യം കാണിക്കും",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "അതേ മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
+  "Generation_N_Note": {
+    "value": "അതെ, സൃഷ്ടിക്കുകയും സൂക്ഷിക്കുകയും",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "അഭ്യർത്ഥന പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+  "Share_N_Pages": {
+    "value": "ഉപയോഗിക്കാനുള്ള പേജുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "കുറിപ്പ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+  "Share_N_Slides": {
+    "value": "ഉപയോഗിക്കാനുള്ള സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "ചിന്താ പ്രക്രിയയിലൂടെ ഒരു പിശക് സംഭവിച്ചു!",
+  "Share_ORG_Slides": {
+    "value": "നിങ്ങളുടെ പ്രസന്റേഷൻ ആദ്യം കാണിക്കും",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "ടെക്സ്റ്റ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+  "Update_N_Details": {
+    "value": "പൂർത്തി മാറ്റങ്ങൾ കാണുക",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "ടെമ്പ് മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "ഒരു ചിത്രം സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "കൂടുതൽ വിശദമായ മാറ്റങ്ങളുടെ ലോഗ് കാണുക",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "പ്രധാന മെനു തുറക്കുക",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "ഒരു ചിത്രം സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 പതിപ്പുകൾ",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "ടെമ്പ് മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "നിങ്ങൾ മുമ്പ് തിരഞ്ഞെടുത്ത ${Name} മോഡൽ ഇപ്പോൾ ലഭ്യമല്ല. ഏത് AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ട്?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "ടെക്സ്റ്റ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "പ്രോംപ്റ്റ് മെച്ചപ്പെടുത്തുക",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "ചിന്താ പ്രക്രിയയിലൂടെ ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "“${Text}” ചാറ്റ് ഐക്കൺ മാറ്റുക",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "മുഖ്യ മെനുവിലേക്ക് മടങ്ങുക",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "തിരഞ്ഞെടുക്കുന്നതിന് മുമ്പ്, നിങ്ങളുടെ പ്രസന്റേഷൻ കാണിക്കും",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "കുറിപ്പ് സൃഷ്ടിക്കുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "മുഴുവൻ പ്രസന്റേഷൻ ഉപയോഗിക്കുക",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "ഉപയോഗിക്കേണ്ട സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "വെളുത്തത്",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "അഭ്യർത്ഥന പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "അഭ്യർത്ഥിച്ചപ്പോൾ മാത്രം സൂക്ഷിക്കുക",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "ഉപയോഗിക്കേണ്ട പേജുകൾ തിരഞ്ഞെടുക്കുക",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "നിങ്ങൾ വളരെ ഉയർന്ന മൂല്യം സജ്ജമാക്കിയിരിക്കുന്നു",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "അതേ മോഡൽ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "ചിത്രം പ്രക്രിയ ചെയ്യുന്ന സമയത്ത് ഒരു പിശക് സംഭവിച്ചു!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "നിങ്ങൾ സ്വീകരിക്കാൻ ആഗ്രഹിക്കുന്ന സംഗ്രഹണത്തിന്റെ വലിപ്പം തിരഞ്ഞെടുക്കുക",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "അപ്ഡേറ്റുകൾക്കുള്ള അറിയിപ്പുകൾ സ്വീകരിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെന്ന് തിരഞ്ഞെടുക്കുക",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "അതെ, എന്റെ ഉപകരണത്തിൽ ഒരു നോട്ട് ജനറേറ്റ് ചെയ്യുകയും സൂക്ഷിക്കുകയും",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "തിരഞ്ഞെടുക്കുന്നതിന് മുമ്പ്, നിങ്ങളുടെ ഫയൽ കാണിക്കും",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 ചാറ്റുകൾ",

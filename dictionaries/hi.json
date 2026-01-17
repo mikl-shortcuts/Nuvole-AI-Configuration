@@ -1,64 +1,48 @@
 {
-  "Error_T_Type-Error-5": {
-    "value": "छवि को संसाधित करने के दौरान एक त्रुटि हुई!",
+  "Share_ORG_Pages": {
+    "value": "आपकी फ़ाइल पहले दिखाई जाएगी",
     "original": {
-      "value": "An error occurred during processing the image!"
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_N_ChangeStop": {
-    "value": "उसी मॉडल का उपयोग करके पुनः प्रयास करें",
+  "Generation_N_Note": {
+    "value": "हाँ, जनरेट करें और सेव करें",
     "original": {
-      "value": "Retry Using the Same Model"
+      "value": "Yes, Generate and Save"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-1": {
-    "value": "अनुरोध को संसाधित करने के दौरान एक त्रुटि हुई!",
+  "Share_N_Pages": {
+    "value": "उपयोग करने के लिए पृष्ठ चुनें",
     "original": {
-      "value": "An error occurred during processing the request!"
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-6": {
-    "value": "नोट निर्माण के दौरान एक त्रुटि हुई!",
+  "Share_N_Slides": {
+    "value": "उपयोग करने के लिए स्लाइड्स चुनें",
     "original": {
-      "value": "An error occurred during note generation!"
+      "value": "Select Slides to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-2": {
-    "value": "सोच प्रक्रिया के दौरान एक त्रुटि हुई!",
+  "Share_ORG_Slides": {
+    "value": "आपकी प्रस्तुति पहले दिखाई जाएगी",
     "original": {
-      "value": "An error occurred during the thinking process!"
+      "value": "Your presentation will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Error_T_Type-Error-3": {
-    "value": "पाठ निर्माण के दौरान एक त्रुटि हुई!",
+  "Update_N_Details": {
+    "value": "पूरा चेंजलॉग देखें",
     "original": {
-      "value": "An error occurred during text generation!"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_N_Replace": {
-    "value": "अस्थायी मॉडल के साथ पुनः प्रयास करें",
-    "original": {
-      "value": "Retry With Temp Model"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Error_T_Type-Error-4": {
-    "value": "छवि निर्माण के दौरान एक त्रुटि हुई!",
-    "original": {
-      "value": "An error occurred during image generation!"
+      "value": "View Full Changelog"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -317,16 +301,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "Update_N_Details": {
-    "value": "अधिक विस्तृत परिवर्तन लॉग देखें",
-    "original": {
-      "value": "View More Detailed Changelog",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_YesMenu": {
     "value": "मुख्य मेनू खोलें",
     "original": {
@@ -364,6 +338,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-4": {
+    "value": "छवि निर्माण के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during image generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_H_2Versions": {
     "value": "2 संस्करण",
@@ -877,6 +859,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_Replace": {
+    "value": "अस्थायी मॉडल के साथ पुनः प्रयास करें",
+    "original": {
+      "value": "Retry With Temp Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "H_ModelUpdate": {
     "value": "लगता है कि आपने पहले चुना हुआ मॉडल ${Name} अब उपलब्ध नहीं है। आप कौन सा AI मॉडल उपयोग करना चाहते हैं?",
     "original": {
@@ -944,6 +934,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-3": {
+    "value": "पाठ निर्माण के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during text generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
     "value": "प्रॉम्प्ट को बढ़ाएं",
@@ -1437,6 +1435,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_T_Type-Error-2": {
+    "value": "सोच प्रक्रिया के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during the thinking process!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Chat_ORG_Icon": {
     "value": "चैट आइकन “${Text}” को किसी अन्य में बदलें",
     "original": {
@@ -1529,16 +1535,6 @@
     "value": "मुख्य मेनू पर लौटें",
     "original": {
       "value": "Return to Main Menu",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Share_ORG_Slides": {
-    "value": "चयन करने से पहले, आपको आपकी प्रस्तुति दिखाई जाएगी",
-    "original": {
-      "value": "Before selecting, you will be shown your presentation",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1702,6 +1698,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Error_T_Type-Error-6": {
+    "value": "नोट निर्माण के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during note generation!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_N_AllPre": {
     "value": "पूरी प्रस्तुति का उपयोग करें",
@@ -1943,16 +1947,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Share_N_Slides": {
-    "value": "उपयोग किए जाने वाले स्लाइड्स का चयन करें",
-    "original": {
-      "value": "Select the Slides to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_T_ID-Theme-0": {
     "value": "लाइट",
     "original": {
@@ -2071,6 +2065,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Error_T_Type-Error-1": {
+    "value": "अनुरोध को संसाधित करने के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during processing the request!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_Saving-False": {
     "value": "केवल पूछने पर सहेजें",
     "original": {
@@ -2124,16 +2126,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "उपयोग किए जाने वाले पेजों का चयन करें",
-    "original": {
-      "value": "Select the Pages to be Used",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Settings_T_FontErrorMax": {
     "value": "आपने मान बहुत अधिक सेट किया है",
@@ -2241,6 +2233,22 @@
     "isTranslated": true,
     "version": 1
   },
+  "Error_N_ChangeStop": {
+    "value": "उसी मॉडल का उपयोग करके पुनः प्रयास करें",
+    "original": {
+      "value": "Retry Using the Same Model"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Error_T_Type-Error-5": {
+    "value": "छवि को संसाधित करने के दौरान एक त्रुटि हुई!",
+    "original": {
+      "value": "An error occurred during processing the image!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_SummarySize": {
     "value": "उस सारांश का आकार चुनें जिसे आप प्राप्त करना चाहते हैं",
     "original": {
@@ -2265,16 +2273,6 @@
     "value": "चुनें कि क्या आप अपडेट्स के बारे में सूचनाएं प्राप्त करना चाहते हैं",
     "original": {
       "value": "Select whether you want to receive notifications about updates",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Generation_N_Note": {
-    "value": "हां, एक नोट जनरेट करें और इसे मेरे डिवाइस पर सेव करें",
-    "original": {
-      "value": "Yes, Generate and Save a Note on My Device",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2328,16 +2326,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "Share_ORG_Pages": {
-    "value": "चयन करने से पहले, आपको आपकी फाइल दिखाई जाएगी",
-    "original": {
-      "value": "Before selecting, you will be shown your file",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "History_T_5Chats": {
     "value": "5 चैट्स",
