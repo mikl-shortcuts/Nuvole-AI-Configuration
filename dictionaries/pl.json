@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "Twój plik będzie pokazany jako pierwszy",
+  "History_H_Deletion": {
+    "value": "Czy na pewno chcesz usunąć historię? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie czaty”, zgadzasz się, że wszystkie czaty zostaną usunięte bez możliwości odzyskania.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "Tak, generuj i zapisz",
+  "History_H_SearchDeletion": {
+    "value": "Czy na pewno chcesz usunąć ${Count} znalezionych ${Chats}? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie znalezione czaty”, zgadzasz się, że wszystkie znalezione czaty zostaną usunięte bez możliwości odzyskania.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Wybierz strony do użycia",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "Wybierz slajdy do użycia",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "Twoja prezentacja będzie pokazana jako pierwsza",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "Zobacz pełną listę zmian",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Zobacz pełną listę zmian",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "Otwórz Menu Główne",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Czy na pewno chcesz usunąć ${Count} znalezionych ${Chats}? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń znalezione czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie znalezione czaty”, zgadzasz się, że wszystkie znalezione czaty zostaną usunięte bez możliwości odzyskania.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "Wybierz strony, które chcesz użyć",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "Wybierz i usuń znalezione czaty",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "Co chcesz zapytać?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Twoja prezentacja będzie pokazana jako pierwsza",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "Historia",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "Wybierz slajdy do użycia",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "Jasny",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Wyjdź z Nuvole AI",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "Czy na pewno chcesz usunąć historię? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie czaty”, zgadzasz się, że wszystkie czaty zostaną usunięte bez możliwości odzyskania.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "Zbyt częsty błąd?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "Wybierz strony do użycia",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "Tak, generuj i zapisz",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "Nie, nie przesyłaj konfiguracji",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "Wyświetlaj historię",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "Twój plik będzie pokazany jako pierwszy",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

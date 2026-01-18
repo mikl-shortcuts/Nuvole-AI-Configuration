@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "உங்கள் கோப்பு முதலில் காட்டப்படும்",
+  "History_H_Deletion": {
+    "value": "நீங்கள் வரலாற்றை நீக்க விரும்புகிறீர்களா? நீங்கள் முந்தைய மெனுவில் “Select and Delete Chats” ஐத் தேர்ந்தெடுத்து தேவையான சாட்களை மட்டும் நீக்கலாம். “Delete All Chats” பொத்தானைக் கிளிக் செய்வதன் மூலம், மீட்க முடியாத வகையில் அனைத்து சாட்களும் நீக்கப்படும் என்பதை நீங்கள் ஒப்புக்கொள்கிறீர்கள்.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "ஆம், உருவாக்கி சேமிக்கவும்",
+  "History_H_SearchDeletion": {
+    "value": "நீங்கள் ${Count} கண்டுபிடிக்கப்பட்ட ${Chats} ஐ நீக்க விரும்புகிறீர்களா? நீங்கள் முந்தைய மெனுவில் “Select and Delete Chats” ஐத் தேர்ந்தெடுத்து தேவையான சாட்களை மட்டும் நீக்கலாம். “Delete all found chats” பொத்தானைக் கிளிக் செய்வதன் மூலம், மீட்க முடியாத வகையில் அனைத்து கண்டுபிடிக்கப்பட்ட சாட்களும் நீக்கப்படும் என்பதை நீங்கள் ஒப்புக்கொள்கிறீர்கள்.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "பயன்படுத்தும் பக்கங்களைத் தேர்ந்தெடுக்கவும்",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "பயன்படுத்தும் ஸ்லைடுகளைத் தேர்ந்தெடுக்கவும்",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "உங்கள் பிரசன்டேஷன் முதலில் காட்டப்படும்",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "முழு மாற்றப் பதிவைப் பார்க்கவும்",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "முழு மாற்றப் பதிவைப் பார்க்கவும்",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "முக்கிய மெனுவைத் திறக்கவும்",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "நீங்கள் கண்டுபிடித்த ${Count} ${Chats} ஐ நீக்க விரும்புகிறீர்களா? நீங்கள் “தேர்ந்தெடுத்து கண்டுபிடித்த உரையாடல்களை நீக்கவும்” என்பதை முந்தைய மெனுவில் தேர்ந்தெடுத்து, “அனைத்து கண்டுபிடித்த உரையாடல்களையும் நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், கண்டுபிடித்த அனைத்து உரையாடல்களும் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "நீங்கள் பயன்படுத்த விரும்பும் பக்கங்களை தேர்ந்தெடுக்கவும்",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "கண்டுபிடித்த உரையாடல்களை தேர்ந்தெடுத்து நீக்கவும்",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "நீங்கள் என்ன கேட்க விரும்புகிறீர்கள்?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "உங்கள் பிரசன்டேஷன் முதலில் காட்டப்படும்",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "வரலாறு",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "பயன்படுத்தும் ஸ்லைடுகளைத் தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "ஒளி",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Nuvole AI ஐ விட்டு வெளியேறவும்",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "நீங்கள் வரலாற்றை நீக்க விரும்புகிறீர்களா? நீங்கள் “தேர்ந்தெடுத்து உரையாடல்களை நீக்கவும்” என்பதை முந்தைய மெனுவில் தேர்ந்தெடுத்து, “அனைத்து உரையாடல்களையும் நீக்கவும்” பொத்தானை கிளிக் செய்வதன் மூலம், அனைத்து உரையாடல்களும் மீட்க முடியாமல் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "அதிக அடிக்கடி பிழை?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "பயன்படுத்தும் பக்கங்களைத் தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "ஆம், உருவாக்கி சேமிக்கவும்",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "இல்லை, கட்டமைப்பை அனுப்ப வேண்டாம்",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "வரலாற்றைக் காட்டவும்",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "உங்கள் கோப்பு முதலில் காட்டப்படும்",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "നിങ്ങളുടെ ഫയൽ ആദ്യം കാണിക്കും",
+  "History_H_Deletion": {
+    "value": "നിങ്ങൾക്ക് ചരിത്രം ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete All Chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "അതെ, സൃഷ്ടിക്കുകയും സൂക്ഷിക്കുകയും",
+  "History_H_SearchDeletion": {
+    "value": "നിങ്ങൾക്ക് ${Count} കണ്ടെത്തിയ ${Chats} ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete all found chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് കണ്ടെത്തിയ എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "ഉപയോഗിക്കാനുള്ള പേജുകൾ തിരഞ്ഞെടുക്കുക",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "ഉപയോഗിക്കാനുള്ള സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "നിങ്ങളുടെ പ്രസന്റേഷൻ ആദ്യം കാണിക്കും",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "പൂർത്തി മാറ്റങ്ങൾ കാണുക",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "പൂർത്തി മാറ്റങ്ങൾ കാണുക",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "പ്രധാന മെനു തുറക്കുക",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "നിങ്ങൾക്ക് ${Count} കണ്ടെത്തിയ ${Chats} ഇല്ലാതാക്കാൻ ഉറപ്പാണോ? മുമ്പത്തെ മെനുവിൽ “തിരഞ്ഞെടുക്കുക, കണ്ടെത്തിയ ചാറ്റുകൾ ഇല്ലാതാക്കുക” തിരഞ്ഞെടുക്കുന്നതിലൂടെ നിങ്ങൾക്ക് ആവശ്യമായ ചാറ്റുകൾ മാത്രം ഇല്ലാതാക്കാം. “എല്ലാ കണ്ടെത്തിയ ചാറ്റുകളും ഇല്ലാതാക്കുക” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, എല്ലാ കണ്ടെത്തിയ ചാറ്റുകളും പുനഃസ്ഥാപന സാധ്യതയില്ലാതെ ഇല്ലാതാക്കും എന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "നിങ്ങൾ ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്ന പേജുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "കണ്ടെത്തിയ ചാറ്റുകൾ തിരഞ്ഞെടുക്കുകയും നീക്കം ചെയ്യുകയും",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "നിങ്ങൾ എന്ത് ചോദിക്കണമെന്ന് ആഗ്രഹിക്കുന്നു?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "നിങ്ങളുടെ പ്രസന്റേഷൻ ആദ്യം കാണിക്കും",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "ചരിത്രം",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "ഉപയോഗിക്കാനുള്ള സ്ലൈഡുകൾ തിരഞ്ഞെടുക്കുക",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "വെളുത്തത്",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Nuvole AI പുറത്തുകടക്കുക",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "ചരിത്രം നീക്കം ചെയ്യാൻ ഉറപ്പാണോ? നിങ്ങൾക്ക് ആവശ്യമായ ചാറ്റുകൾ മാത്രം നീക്കം ചെയ്യാൻ കഴിയും, മുമ്പത്തെ മെനുവിൽ “Select and delete chats” തിരഞ്ഞെടുക്കുക. “Delete all chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, എല്ലാ ചാറ്റുകളും പുനഃസ്ഥാപിക്കാനുള്ള സാധ്യതയില്ലാതെ നീക്കം ചെയ്യപ്പെടുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "അമിതമായി പതിവുള്ള പിഴവ്?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "ഉപയോഗിക്കാനുള്ള പേജുകൾ തിരഞ്ഞെടുക്കുക",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "അതെ, സൃഷ്ടിക്കുകയും സൂക്ഷിക്കുകയും",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "ഇല്ല, കൺഫിഗ് കൈമാറരുത്",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "ചരിത്രം പ്രദർശിപ്പിക്കുക",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "നിങ്ങളുടെ ഫയൽ ആദ്യം കാണിക്കും",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

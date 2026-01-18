@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "Tệp của bạn sẽ được hiển thị đầu tiên",
+  "History_H_Deletion": {
+    "value": "Bạn có chắc chắn muốn xóa lịch sử? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa Tất Cả Cuộc Trò Chuyện”, bạn đồng ý rằng tất cả các cuộc trò chuyện sẽ bị xóa mà không có khả năng khôi phục.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "Có, Tạo và Lưu",
+  "History_H_SearchDeletion": {
+    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã tìm thấy? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa tất cả các cuộc trò chuyện đã tìm thấy”, bạn đồng ý rằng tất cả các cuộc trò chuyện đã tìm thấy sẽ bị xóa mà không có khả năng khôi phục.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Chọn Trang để Sử Dụng",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "Chọn Slides để Sử Dụng",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "Bài thuyết trình của bạn sẽ được hiển thị đầu tiên",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "Xem Toàn Bộ Nhật Ký Thay Đổi",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Xem Toàn Bộ Nhật Ký Thay Đổi",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "Mở Menu Chính",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Bạn có chắc chắn muốn xóa ${Count} tìm thấy ${Chats}? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và xóa cuộc trò chuyện tìm thấy” trong menu trước đó. Bằng cách nhấp vào nút “Xóa tất cả cuộc trò chuyện tìm thấy”, bạn đồng ý rằng tất cả cuộc trò chuyện tìm thấy sẽ bị xóa mà không thể khôi phục.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "Chọn các trang bạn muốn sử dụng",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "Chọn và Xóa Các Cuộc Trò Chuyện Đã Tìm Thấy",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "Bạn muốn hỏi gì?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Bài thuyết trình của bạn sẽ được hiển thị đầu tiên",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "Lịch sử",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "Chọn Slides để Sử Dụng",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "Sáng",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Thoát khỏi Nuvole AI",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "Bạn có chắc chắn muốn xóa lịch sử không? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và xóa các cuộc trò chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa tất cả các cuộc trò chuyện”, bạn đồng ý rằng tất cả các cuộc trò chuyện sẽ bị xóa mà không thể khôi phục.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "Lỗi quá thường xuyên?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "Chọn Trang để Sử Dụng",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "Có, Tạo và Lưu",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "Không, Không Truyền Cấu hình",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "Hiển Thị Lịch Sử",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "Tệp của bạn sẽ được hiển thị đầu tiên",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

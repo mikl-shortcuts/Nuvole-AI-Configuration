@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "آپ کی فائل پہلے دکھائی جائے گی",
+  "History_H_Deletion": {
+    "value": "کیا آپ واقعی تاریخ کو حذف کرنا چاہتے ہیں؟ آپ صرف ضروری چیٹس کو حذف کر سکتے ہیں، پہلے مینو میں “Select and Delete Chats” کو منتخب کر کے۔ “Delete All Chats” بٹن پر کلک کر کے، آپ اس بات سے اتفاق کرتے ہیں کہ تمام چیٹس کو بازیافت کے بغیر حذف کر دیا جائے گا۔",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "ہاں، پیدا کریں اور محفوظ کریں",
+  "History_H_SearchDeletion": {
+    "value": "کیا آپ واقعی ${Count} ملنے والے ${Chats} کو حذف کرنا چاہتے ہیں؟ آپ صرف ضروری چیٹس کو حذف کر سکتے ہیں، پہلے مینو میں “Select and Delete Chats” کو منتخب کر کے۔ “Delete all found chats” بٹن پر کلک کر کے، آپ اس بات سے اتفاق کرتے ہیں کہ تمام ملنے والی چیٹس کو بازیافت کے بغیر حذف کر دیا جائے گا۔",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "استعمال کرنے کے لیے صفحات منتخب کریں",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "استعمال کرنے کے لیے سلائیڈز منتخب کریں",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "آپ کی پیشکش پہلے دکھائی جائے گی",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "مکمل تبدیلی کی فہرست دیکھیں",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "مکمل تبدیلی کی فہرست دیکھیں",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "مینو کھولیں",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "کیا آپ واقعی ${Count} ملنے والی ${Chats} کو حذف کرنا چاہتے ہیں؟ آپ صرف ضروری چیٹس کو حذف کر سکتے ہیں پچھلے مینو میں “ملنے والی چیٹس منتخب کریں اور حذف کریں” کو منتخب کر کے۔ “تمام ملنے والی چیٹس حذف کریں” بٹن پر کلک کر کے، آپ اس بات سے اتفاق کرتے ہیں کہ تمام ملنے والی چیٹس بازیافت کی امکان کے بغیر حذف ہو جائیں گی۔",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "وہ صفحات منتخب کریں جنہیں آپ استعمال کرنا چاہتے ہیں",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "تلاش شدہ چٹس کا انتخاب کریں اور حذف کریں",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "آپ کیا پوچھنا چاہتے ہیں؟",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "آپ کی پیشکش پہلے دکھائی جائے گی",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "تاریخ",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "استعمال کرنے کے لیے سلائیڈز منتخب کریں",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "روشن",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Nuvole AI سے باہر نکلیں",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "کیا آپ واقعی تاریخ حذف کرنا چاہتے ہیں؟ آپ صرف ضروری چٹس کو حذف کر سکتے ہیں \"چٹس کا انتخاب کریں اور حذف کریں\" کو پچھلے مینو میں منتخب کر کے۔ \"تمام چٹس حذف کریں\" بٹن پر کلک کر کے، آپ اس بات سے اتفاق کرتے ہیں کہ تمام چٹس بازیافت کے بغیر حذف ہو جائیں گی۔",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "بہت زیادہ غلطی؟",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "استعمال کرنے کے لیے صفحات منتخب کریں",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "ہاں، پیدا کریں اور محفوظ کریں",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "نہیں، ترتیب نہ بھیجیں",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "تاریخ دکھائیں",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "آپ کی فائل پہلے دکھائی جائے گی",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

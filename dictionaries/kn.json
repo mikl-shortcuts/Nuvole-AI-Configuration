@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "ನಿಮ್ಮ ಫೈಲ್ ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
+  "History_H_Deletion": {
+    "value": "ನೀವು ಇತಿಹಾಸವನ್ನು ಅಳಿಸಬೇಕೆಂದು ಖಚಿತವಾಗಿದೆಯೇ? ನೀವು ಹಿಂದಿನ ಮೆನುವಿನಲ್ಲಿ “Select and Delete Chats” ಅನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಮೂಲಕ ಅಗತ್ಯವಿರುವ ಚಾಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅಳಿಸಬಹುದು. “Delete All Chats” ಬಟನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಮರುಪಡೆಯುವ ಸಾಧ್ಯತೆ ಇಲ್ಲದೆ ಅಳಿಸಲಾಗುವುದು ಎಂದು ನೀವು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೀರಿ.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "ಹೌದು, ರಚಿಸಿ ಮತ್ತು ಉಳಿಸಿ",
+  "History_H_SearchDeletion": {
+    "value": "ನೀವು ${Count} ಕಂಡುಬಂದ ${Chats} ಅನ್ನು ಅಳಿಸಬೇಕೆಂದು ಖಚಿತವಾಗಿದೆಯೇ? ನೀವು ಹಿಂದಿನ ಮೆನುವಿನಲ್ಲಿ “Select and Delete Chats” ಅನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಮೂಲಕ ಅಗತ್ಯವಿರುವ ಚಾಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅಳಿಸಬಹುದು. “Delete all found chats” ಬಟನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ಎಲ್ಲಾ ಕಂಡುಬಂದ ಚಾಟ್‌ಗಳನ್ನು ಮರುಪಡೆಯುವ ಸಾಧ್ಯತೆ ಇಲ್ಲದೆ ಅಳಿಸಲಾಗುವುದು ಎಂದು ನೀವು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೀರಿ.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "ಬಳಸಲು ಪುಟಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "ಬಳಸಲು ಸ್ಲೈಡ್ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "ನಿಮ್ಮ ಪ್ರಸ್ತುತಿಯನ್ನು ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "ಪೂರ್ಣ ಬದಲಾವಣೆ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "ಪೂರ್ಣ ಬದಲಾವಣೆ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಿರಿ",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "ನೀವು ${Count} ಕಂಡುಹಿಡಿದ ${Chats} ಅನ್ನು ಅಳಿಸಬೇಕೆಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ? ನೀವು ಹಿಂದಿನ ಮೆನುವಿನಲ್ಲಿ “ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಕಂಡುಹಿಡಿದ ಚಾಟ್ಗಳನ್ನು ಅಳಿಸಿ” ಆಯ್ಕೆಯನ್ನು ಆರಿಸುವ ಮೂಲಕ ಕೇವಲ ಅಗತ್ಯವಾದ ಚಾಟ್ಗಳನ್ನು ಅಳಿಸಬಹುದು. “ಎಲ್ಲಾ ಕಂಡುಹಿಡಿದ ಚಾಟ್ಗಳನ್ನು ಅಳಿಸಿ” ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ಎಲ್ಲಾ ಕಂಡುಹಿಡಿದ ಚಾಟ್ಗಳು ಪುನಃಪಡೆಯುವ ಸಾಧ್ಯತೆಯಿಲ್ಲದೆ ಅಳಿಸಲ್ಪಡುತ್ತವೆ.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "ನೀವು ಬಳಸಬೇಕಾದ ಪುಟಗಳನ್ನು ಆರಿಸಿ",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "ಕಂಡುಹಿಡಿದ ಚಾಟ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅಳಿಸಿ",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "ನೀವು ಏನು ಕೇಳಲು ಬಯಸುತ್ತೀರಿ?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "ನಿಮ್ಮ ಪ್ರಸ್ತುತಿಯನ್ನು ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "ಇತಿಹಾಸ",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "ಬಳಸಲು ಸ್ಲೈಡ್ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "ಬಿಳಿ",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Nuvole AI ಅನ್ನು ನಿರ್ಗಮಿಸಿ",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "ನೀವು ಇತಿಹಾಸವನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ? ನೀವು ಹಿಂದಿನ ಮೆನುವಿನಲ್ಲಿ “ಚಾಟ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅಳಿಸಿ” ಆಯ್ಕೆ ಮಾಡುವ ಮೂಲಕ ಅಗತ್ಯವಾದ ಚಾಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅಳಿಸಬಹುದು. “ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಅಳಿಸಿ” ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಮರುಪಡೆಯುವ ಸಾಧ್ಯತೆ ಇಲ್ಲದೆ ಅಳಿಸಲಾಗುವುದು ಎಂದು ನೀವು ಒಪ್ಪುತ್ತೀರಿ.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "ತುಂಬಾ ಆಗಾಗ್ಗೆ ದೋಷ?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "ಬಳಸಲು ಪುಟಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "ಹೌದು, ರಚಿಸಿ ಮತ್ತು ಉಳಿಸಿ",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "ಇಲ್ಲ, ಕಾನ್ಫಿಗ್ ಅನ್ನು ರವಾನಿಸಬೇಡಿ",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "ಇತಿಹಾಸವನ್ನು ಪ್ರದರ್ಶಿಸಿ",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "ನಿಮ್ಮ ಫೈಲ್ ಮೊದಲು ತೋರಿಸಲಾಗುತ್ತದೆ",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

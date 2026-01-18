@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "Ihre Datei wird zuerst angezeigt",
+  "History_H_Deletion": {
+    "value": "Sind Sie sicher, dass Sie den Verlauf löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle Chats löschen“ stimmen Sie zu, dass alle Chats ohne Möglichkeit der Wiederherstellung gelöscht werden.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "Ja, generieren und speichern",
+  "History_H_SearchDeletion": {
+    "value": "Sind Sie sicher, dass Sie die ${Count} gefundenen ${Chats} löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle gefundenen Chats löschen“ stimmen Sie zu, dass alle gefundenen Chats ohne Möglichkeit der Wiederherstellung gelöscht werden.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Zu verwendende Seiten auswählen",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "Zu verwendende Folien auswählen",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "Ihre Präsentation wird zuerst angezeigt",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "Vollständiges Änderungsprotokoll anzeigen",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Vollständiges Änderungsprotokoll anzeigen",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "Hauptmenü öffnen",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Sind Sie sicher, dass Sie die ${Count} gefundenen ${Chats} löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Gefundene Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle gefundenen Chats löschen“ stimmen Sie zu, dass alle gefundenen Chats ohne Wiederherstellungsmöglichkeit gelöscht werden.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "Wählen Sie die Seiten, die Sie verwenden möchten",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "Gefundene Chats auswählen und löschen",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "Was möchten Sie fragen?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Ihre Präsentation wird zuerst angezeigt",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "Verlauf",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "Zu verwendende Folien auswählen",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "Hell",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Nuvole AI verlassen",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "Sind Sie sicher, dass Sie den Verlauf löschen möchten? Sie können nur die notwendigen Chats löschen, indem Sie „Chats auswählen und löschen“ im vorherigen Menü auswählen. Durch Klicken auf die Schaltfläche „Alle Chats löschen“ stimmen Sie zu, dass alle Chats ohne Wiederherstellungsmöglichkeit gelöscht werden.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "Zu häufiger Fehler?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "Zu verwendende Seiten auswählen",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "Ja, generieren und speichern",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "Nein, Konfiguration nicht übertragen",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "Verlauf anzeigen",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "Ihre Datei wird zuerst angezeigt",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true

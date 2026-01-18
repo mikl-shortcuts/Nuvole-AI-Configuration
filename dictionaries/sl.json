@@ -1,48 +1,16 @@
 {
-  "Share_ORG_Pages": {
-    "value": "Vaša datoteka bo prikazana prva",
+  "History_H_Deletion": {
+    "value": "Ali ste prepričani, da želite izbrisati zgodovino? Izbrisati lahko samo potrebne klepete tako, da v prejšnjem meniju izberete “Izberi in izbriši klepete”. S klikom na gumb “Izbriši vse klepete” se strinjate, da bodo vsi klepeti izbrisani brez možnosti obnove.",
     "original": {
-      "value": "Your file will be shown first"
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Generation_N_Note": {
-    "value": "Da, ustvari in shrani",
+  "History_H_SearchDeletion": {
+    "value": "Ali ste prepričani, da želite izbrisati ${Count} najdenih ${Chats}? Izbrisati lahko samo potrebne klepete tako, da v prejšnjem meniju izberete “Izberi in izbriši klepete”. S klikom na gumb “Izbriši vse najdene klepete” se strinjate, da bodo vsi najdeni klepeti izbrisani brez možnosti obnove.",
     "original": {
-      "value": "Yes, Generate and Save"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Pages": {
-    "value": "Izberite strani za uporabo",
-    "original": {
-      "value": "Select Pages to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_N_Slides": {
-    "value": "Izberite diapozitive za uporabo",
-    "original": {
-      "value": "Select Slides to Use"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Share_ORG_Slides": {
-    "value": "Vaša predstavitev bo prikazana prva",
-    "original": {
-      "value": "Your presentation will be shown first"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Update_N_Details": {
-    "value": "Poglej celotni dnevnik sprememb",
-    "original": {
-      "value": "View Full Changelog"
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -300,6 +268,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Update_N_Details": {
+    "value": "Poglej celotni dnevnik sprememb",
+    "original": {
+      "value": "View Full Changelog"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_YesMenu": {
     "value": "Odpri Glavni Meni",
@@ -1193,16 +1169,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Ali ste prepričani, da želite izbrisati ${Count} najdenih ${Chats}? Lahko izbrisete samo potrebna klepeta tako, da v prejšnjem meniju izberete “Izberi in izbriši najdena klepeta”. S klikom na gumb “Izbriši vsa najdena klepeta” se strinjate, da bodo vsa najdena klepeta izbrisana brez možnosti obnove.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Share_H_Pages": {
     "value": "Izberite strani, ki jih želite uporabiti",
     "original": {
@@ -1346,16 +1312,6 @@
     },
     "translatedBy": "ai",
     "isTranslated": true
-  },
-  "History_N_SearchSelect": {
-    "value": "Izberi in izbriši najdene klepete",
-    "original": {
-      "value": "Select and Delete Found Chats",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
   },
   "Share_H_Input": {
     "value": "Kaj želite vprašati?",
@@ -1540,6 +1496,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Share_ORG_Slides": {
+    "value": "Vaša predstavitev bo prikazana prva",
+    "original": {
+      "value": "Your presentation will be shown first"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Main_N_History": {
     "value": "Zgodovina",
@@ -1947,6 +1911,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Share_N_Slides": {
+    "value": "Izberite diapozitive za uporabo",
+    "original": {
+      "value": "Select Slides to Use"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_ID-Theme-0": {
     "value": "Svetlo",
     "original": {
@@ -2011,16 +1983,6 @@
     "value": "Izhod iz Nuvole AI",
     "original": {
       "value": "Exit the Nuvole AI",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "History_H_Deletion": {
-    "value": "Ali ste prepričani, da želite izbrisati zgodovino? Lahko izbrišete le potrebne klepete z izbirom “Izberi in izbriši klepete” v prejšnjem meniju. S klikom na gumb “Izbriši vse klepete” se strinjate, da bodo vsi klepeti izbrisani brez možnosti obnove.",
-    "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2123,6 +2085,14 @@
     "value": "Preveč pogostih napak?",
     "original": {
       "value": "Too Frequent Error?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_N_Pages": {
+    "value": "Izberite strani za uporabo",
+    "original": {
+      "value": "Select Pages to Use"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2279,6 +2249,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "Generation_N_Note": {
+    "value": "Da, ustvari in shrani",
+    "original": {
+      "value": "Yes, Generate and Save"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Feedback_N_NoConfig": {
     "value": "Ne, Ne Pošiljaj Konfiguracije",
     "original": {
@@ -2323,6 +2301,14 @@
     "value": "Prikaži zgodovino",
     "original": {
       "value": "Display History"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Share_ORG_Pages": {
+    "value": "Vaša datoteka bo prikazana prva",
+    "original": {
+      "value": "Your file will be shown first"
     },
     "translatedBy": "ai",
     "isTranslated": true
