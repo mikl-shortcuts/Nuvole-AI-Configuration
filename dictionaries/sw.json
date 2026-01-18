@@ -1,11 +1,11 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+  "History_H_SearchDeletion": {
+    "value": "Är du säker på att du vill ta bort ${Count} hittade ${Chats}? Du kan bara ta bort de nödvändiga chattarna genom att välja “Välj och ta bort chattar” i föregående meny. Genom att klicka på knappen “Ta bort alla hittade chattar” godkänner du att alla hittade chattar kommer att tas bort utan möjlighet till återställning.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
-    "translatedBy": "none",
-    "isTranslated": false
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-Search": {
     "value": "Sök på Internet",
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Är du säker på att du vill ta bort ${Count} hittade ${Chats}? Du kan bara ta bort de nödvändiga chattarna genom att välja “Välj och ta bort chattar” i föregående meny. Genom att klicka på knappen “Ta bort alla hittade chattar” godkänner du att alla hittade chattar kommer att tas bort utan möjlighet till återställning.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Välj de sidor du vill använda",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "none",
+    "isTranslated": false
   },
   "Settings_N_Close": {
     "value": "Stäng inställningar",

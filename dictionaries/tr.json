@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Seçilen ${Count} ${Chats} silmek istediğinizden emin misiniz? “Seçilen Sohbetleri Sil” düğmesine tıklayarak, seçtiğiniz sohbetlerin geri getirilme olasılığı olmadan silineceğini kabul edersiniz.",
+  "History_H_SearchDeletion": {
+    "value": "${Count} bulunan ${Chats} silmek istediğinizden emin misiniz? Önceki menüde “Seç ve Sohbetleri Sil” seçeneğini seçerek yalnızca gerekli sohbetleri silebilirsiniz. “Tüm Bulunan Sohbetleri Sil” düğmesine tıklayarak, tüm bulunan sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "${Count} bulunan ${Chats} silmek istediğinizden emin misiniz? Önceki menüde “Seç ve Sohbetleri Sil” seçeneği ile yalnızca gerekli sohbetleri silebilirsiniz. “Bulunan tüm sohbetleri sil” düğmesine tıklayarak, tüm bulunan sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Kullanmak istediğiniz sayfaları seçin",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Seçilen ${Count} ${Chats} silmek istediğinizden emin misiniz? “Seçilen Sohbetleri Sil” düğmesine tıklayarak, seçtiğiniz sohbetlerin geri getirilme olasılığı olmadan silineceğini kabul edersiniz.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Ayarları Kapat",

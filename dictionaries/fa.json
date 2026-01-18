@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} انتخاب شده را حذف کنید؟ با کلیک بر روی دکمه «حذف چت‌های انتخاب شده»، شما موافقت می‌کنید که چت‌هایی که انتخاب کرده‌اید بدون امکان بازیابی حذف شوند.",
+  "History_H_SearchDeletion": {
+    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} پیدا شده را حذف کنید؟ شما فقط می‌توانید چت‌های ضروری را با انتخاب «انتخاب و حذف چت‌ها» در منوی قبلی حذف کنید. با کلیک بر روی دکمه «حذف تمام چت‌های پیدا شده»، شما موافقت می‌کنید که تمام چت‌های پیدا شده بدون امکان بازیابی حذف شوند.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} پیدا شده را حذف کنید؟ شما فقط می‌توانید چت‌های ضروری را با انتخاب «انتخاب و حذف چت‌ها» در منوی قبلی حذف کنید. با کلیک بر روی دکمه «حذف تمام چت‌های پیدا شده»، شما موافقت می‌کنید که تمام چت‌های پیدا شده بدون امکان بازیابی حذف شوند.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "انتخاب صفحاتی که می‌خواهید استفاده کنید",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} انتخاب شده را حذف کنید؟ با کلیک بر روی دکمه «حذف چت‌های انتخاب شده»، شما موافقت می‌کنید که چت‌هایی که انتخاب کرده‌اید بدون امکان بازیابی حذف شوند.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "بستن تنظیمات",

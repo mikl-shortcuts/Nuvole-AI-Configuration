@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Вы уверены, что хотите удалить ${Count} выбранных ${Chats}? Нажав на кнопку «Удалить выбранные чаты», вы соглашаетесь с тем, что выбранные вами чаты будут удалены без возможности восстановления.",
+  "History_H_SearchDeletion": {
+    "value": "Вы уверены, что хотите удалить ${Count} найденных ${Chats}? Вы можете удалить только необходимые чаты, выбрав «Выбрать и удалить чаты» в предыдущем меню. Нажав на кнопку «Удалить все найденные чаты», вы соглашаетесь, что все найденные чаты будут удалены без возможности восстановления.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Вы уверены, что хотите удалить ${Count} найденных ${Chats}? Вы можете удалить только необходимые чаты, выбрав «Выбрать и удалить чаты» в предыдущем меню. Нажав на кнопку «Удалить все найденные чаты», вы соглашаетесь, что все найденные чаты будут удалены без возможности восстановления.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Выберите страницы, которые хотите использовать",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Вы уверены, что хотите удалить ${Count} выбранных ${Chats}? Нажав на кнопку «Удалить выбранные чаты», вы соглашаетесь с тем, что выбранные вами чаты будут удалены без возможности восстановления.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Закрыть настройки",

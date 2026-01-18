@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Apakah Anda yakin ingin menghapus ${Count} ${Chats} yang dipilih? Dengan mengklik tombol “Hapus Chats yang Dipilih”, Anda setuju bahwa chats yang Anda pilih akan dihapus tanpa kemungkinan pemulihan.",
+  "History_H_SearchDeletion": {
+    "value": "Apakah Anda yakin ingin menghapus ${Count} ${Chats} yang ditemukan? Anda hanya dapat menghapus obrolan yang diperlukan dengan memilih “Pilih dan Hapus Obrolan” di menu sebelumnya. Dengan mengklik tombol “Hapus Semua Obrolan yang Ditemukan”, Anda setuju bahwa semua obrolan yang ditemukan akan dihapus tanpa kemungkinan pemulihan.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Apakah Anda yakin ingin menghapus ${Count} ${Chats} yang ditemukan? Anda hanya dapat menghapus obrolan yang diperlukan dengan memilih “Pilih dan Hapus Obrolan” di menu sebelumnya. Dengan mengklik tombol “Hapus semua obrolan yang ditemukan”, Anda setuju bahwa semua obrolan yang ditemukan akan dihapus tanpa kemungkinan pemulihan.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Pilih halaman yang ingin Anda gunakan",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Apakah Anda yakin ingin menghapus ${Count} ${Chats} yang dipilih? Dengan mengklik tombol “Hapus Chats yang Dipilih”, Anda setuju bahwa chats yang Anda pilih akan dihapus tanpa kemungkinan pemulihan.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Tutup Pengaturan",

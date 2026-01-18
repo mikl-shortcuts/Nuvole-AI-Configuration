@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã chọn? Bằng cách nhấp vào nút “Xóa các cuộc trò chuyện đã chọn”, bạn đồng ý rằng các cuộc trò chuyện bạn đã chọn sẽ bị xóa mà không có khả năng khôi phục.",
+  "History_H_SearchDeletion": {
+    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã tìm thấy? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa Tất Cả Cuộc Trò Chuyện Đã Tìm Thấy”, bạn đồng ý rằng tất cả các cuộc trò chuyện đã tìm thấy sẽ bị xóa mà không có khả năng khôi phục.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã tìm thấy? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa tất cả các cuộc trò chuyện đã tìm thấy”, bạn đồng ý rằng tất cả các cuộc trò chuyện đã tìm thấy sẽ bị xóa mà không có khả năng khôi phục.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Chọn các trang bạn muốn sử dụng",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã chọn? Bằng cách nhấp vào nút “Xóa các cuộc trò chuyện đã chọn”, bạn đồng ý rằng các cuộc trò chuyện bạn đã chọn sẽ bị xóa mà không có khả năng khôi phục.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Đóng Cài đặt",

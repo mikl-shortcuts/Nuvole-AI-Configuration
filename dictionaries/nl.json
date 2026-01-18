@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Weet u zeker dat u ${Count} geselecteerde ${Chats} wilt verwijderen? Door op de knop “Verwijder geselecteerde chats” te klikken, gaat u akkoord dat de chats die u heeft gekozen zonder mogelijkheid tot herstel worden verwijderd.",
+  "History_H_SearchDeletion": {
+    "value": "Weet u zeker dat u ${Count} gevonden ${Chats} wilt verwijderen? U kunt alleen de nodige chats verwijderen door “Selecteer en Verwijder Chats” te selecteren in het vorige menu. Door op de knop “Verwijder Alle Gevonden Chats” te klikken, gaat u akkoord dat alle gevonden chats zonder mogelijkheid tot herstel worden verwijderd.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Weet u zeker dat u ${Count} gevonden ${Chats} wilt verwijderen? U kunt alleen de noodzakelijke chats verwijderen door “Selecteer en Verwijder Chats” te selecteren in het vorige menu. Door op de knop “Verwijder alle gevonden chats” te klikken, gaat u akkoord dat alle gevonden chats zonder mogelijkheid tot herstel worden verwijderd.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Selecteer de pagina's die je wilt gebruiken",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Weet u zeker dat u ${Count} geselecteerde ${Chats} wilt verwijderen? Door op de knop “Verwijder geselecteerde chats” te klikken, gaat u akkoord dat de chats die u heeft gekozen zonder mogelijkheid tot herstel worden verwijderd.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Instellingen sluiten",

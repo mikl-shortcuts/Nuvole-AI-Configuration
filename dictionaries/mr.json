@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "तुम्हाला ${Count} निवडलेले ${Chats} हटवायचे आहेत का? “Delete Selected Chats” बटणावर क्लिक करून, तुम्ही निवडलेले चॅट्स हटवले जातील आणि ते पुन्हा मिळवता येणार नाहीत याची तुमची सहमती आहे.",
+  "History_H_SearchDeletion": {
+    "value": "तुम्हाला ${Count} सापडलेले ${Chats} हटवायचे आहेत का? तुम्ही फक्त आवश्यक चॅट्स निवडून हटवू शकता, जे तुम्ही मागील मेनूमध्ये “चॅट्स निवडा आणि हटवा” निवडून करू शकता. “सर्व सापडलेले चॅट्स हटवा” बटणावर क्लिक करून, तुम्ही सर्व सापडलेले चॅट्स हटवण्यास सहमत आहात, जे पुन्हा मिळवता येणार नाहीत.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "तुम्हाला ${Count} सापडलेले ${Chats} हटवायचे आहेत का? तुम्ही फक्त आवश्यक चॅट्स निवडून “Select and Delete Chats” निवडून हटवू शकता. “Delete all found chats” बटणावर क्लिक करून, तुम्ही सर्व सापडलेले चॅट्स हटवण्यास सहमती दर्शवता, ज्यांची पुनर्प्राप्ती शक्य नाही.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "तुम्ही कोणत्या पृष्ठे वापरू इच्छिता ते निवडा",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "तुम्हाला ${Count} निवडलेले ${Chats} हटवायचे आहेत का? “Delete Selected Chats” बटणावर क्लिक करून, तुम्ही निवडलेले चॅट्स हटवले जातील आणि ते पुन्हा मिळवता येणार नाहीत याची तुमची सहमती आहे.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "सेटिंग्ज बंद करा",

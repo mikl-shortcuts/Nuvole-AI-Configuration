@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Sei sicuro di voler eliminare ${Count} ${Chats} selezionati? Cliccando sul pulsante “Elimina Chats Selezionati”, accetti che le chat che hai scelto verranno eliminate senza possibilità di recupero.",
+  "History_H_SearchDeletion": {
+    "value": "Sei sicuro di voler eliminare ${Count} ${Chats} trovati? Puoi eliminare solo le chat necessarie selezionando “Seleziona ed Elimina Chat” nel menu precedente. Cliccando sul pulsante “Elimina Tutte le Chat Trovate”, accetti che tutte le chat trovate verranno eliminate senza possibilità di recupero.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Sei sicuro di voler eliminare ${Count} ${Chats} trovati? Puoi eliminare solo le chat necessarie selezionando “Seleziona ed Elimina Chat” nel menu precedente. Cliccando sul pulsante “Elimina tutte le chat trovate”, accetti che tutte le chat trovate verranno eliminate senza possibilità di recupero.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Seleziona le pagine che vuoi utilizzare",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Sei sicuro di voler eliminare ${Count} ${Chats} selezionati? Cliccando sul pulsante “Elimina Chats Selezionati”, accetti che le chat che hai scelto verranno eliminate senza possibilità di recupero.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Chiudi impostazioni",

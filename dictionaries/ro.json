@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "Ești sigur că dorești să ștergi ${Count} ${Chats} selectate? Prin apăsarea butonului „Șterge Conversațiile Selectate”, ești de acord că conversațiile pe care le-ai ales vor fi șterse fără posibilitatea de recuperare.",
+  "History_H_SearchDeletion": {
+    "value": "Ești sigur că dorești să ștergi ${Count} ${Chats} găsite? Poți șterge doar chat-urile necesare selectând „Selectează și Șterge Chat-uri” în meniul anterior. Prin apăsarea butonului „Șterge Toate Chat-urile Găsite”, ești de acord că toate chat-urile găsite vor fi șterse fără posibilitatea de recuperare.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "Ești sigur că dorești să ștergi ${Count} ${Chats} găsite? Poți șterge doar chat-urile necesare selectând „Selectează și șterge chat-uri” în meniul anterior. Prin apăsarea butonului „Șterge toate chat-urile găsite”, ești de acord că toate chat-urile găsite vor fi șterse fără posibilitatea de recuperare.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "Selectați paginile pe care doriți să le utilizați",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "Ești sigur că dorești să ștergi ${Count} ${Chats} selectate? Prin apăsarea butonului „Șterge Conversațiile Selectate”, ești de acord că conversațiile pe care le-ai ales vor fi șterse fără posibilitatea de recuperare.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Închide Setările",

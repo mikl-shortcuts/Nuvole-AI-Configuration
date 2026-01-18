@@ -1,8 +1,8 @@
 {
-  "History_H_SelectionConfirm": {
-    "value": "நீங்கள் ${Count} தேர்ந்தெடுக்கப்பட்ட ${Chats} ஐ நீக்க விரும்புகிறீர்களா? “Delete Selected Chats” பொத்தானைக் கிளிக் செய்வதன் மூலம், நீங்கள் தேர்ந்தெடுக்கப்பட்ட சாட்கள் மீட்க முடியாத வகையில் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+  "History_H_SearchDeletion": {
+    "value": "நீங்கள் ${Count} கண்டுபிடிக்கப்பட்ட ${Chats} ஐ நீக்க விரும்புகிறீர்களா? நீங்கள் முந்தைய மெனுவில் “தேர்ந்தெடுத்து சாட்களை நீக்கு” என்பதைத் தேர்ந்தெடுத்து தேவையான சாட்களை மட்டுமே நீக்கலாம். “அனைத்து கண்டுபிடிக்கப்பட்ட சாட்களை நீக்கு” பொத்தானைக் கிளிக் செய்வதன் மூலம், மீண்டும் பெற முடியாத வகையில் அனைத்து கண்டுபிடிக்கப்பட்ட சாட்களும் நீக்கப்படும் என்பதை நீங்கள் ஒப்புக்கொள்கிறீர்கள்.",
     "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1161,14 +1161,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SearchDeletion": {
-    "value": "நீங்கள் ${Count} கண்டுபிடிக்கப்பட்ட ${Chats} ஐ நீக்க விரும்புகிறீர்களா? நீங்கள் முந்தைய மெனுவில் “Select and Delete Chats” ஐத் தேர்ந்தெடுத்து தேவையான சாட்களை மட்டும் நீக்கலாம். “Delete all found chats” பொத்தானைக் கிளிக் செய்வதன் மூலம், மீட்க முடியாத வகையில் அனைத்து கண்டுபிடிக்கப்பட்ட சாட்களும் நீக்கப்படும் என்பதை நீங்கள் ஒப்புக்கொள்கிறீர்கள்.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Share_H_Pages": {
     "value": "நீங்கள் பயன்படுத்த விரும்பும் பக்கங்களை தேர்ந்தெடுக்கவும்",
     "original": {
@@ -1864,6 +1856,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_SelectionConfirm": {
+    "value": "நீங்கள் ${Count} தேர்ந்தெடுக்கப்பட்ட ${Chats} ஐ நீக்க விரும்புகிறீர்களா? “Delete Selected Chats” பொத்தானைக் கிளிக் செய்வதன் மூலம், நீங்கள் தேர்ந்தெடுக்கப்பட்ட சாட்கள் மீட்க முடியாத வகையில் நீக்கப்படும் என்பதை ஒப்புக்கொள்கிறீர்கள்.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "அமைப்புகளை மூடவும்",
