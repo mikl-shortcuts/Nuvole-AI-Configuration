@@ -600,7 +600,7 @@
     "translatedBy": "human"
   },
   "History_H_SearchDeletion": {
-    "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and delete found chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+    "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -676,11 +676,6 @@
   },
   "Feedback_ORG_YesConfig": {
     "value": "This could clarify your issue",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "History_N_SearchSelect": {
-    "value": "Select and Delete Found Chats",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1040,7 +1035,7 @@
     "translatedBy": "human"
   },
   "History_H_Deletion": {
-    "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and delete chats” in the previous menu. By clicking on the “Delete all chats” button, you agree that all chats will be deleted without the possibility of recovery.",
+    "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery.",
     "isTranslated": true,
     "translatedBy": "human"
   },
