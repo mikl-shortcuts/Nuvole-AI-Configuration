@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "Da li ste sigurni da želite da obrišete istoriju? Možete obrisati samo potrebne razgovore tako što ćete izabrati „Izaberi i obriši razgovore“ u prethodnom meniju. Klikom na dugme „Obriši sve razgovore“ slažete se da će svi razgovori biti obrisani bez mogućnosti oporavka.",
+  "History_H_SelectionConfirm": {
+    "value": "Da li ste sigurni da želite da obrišete ${Count} izabranih ${Chats}? Klikom na dugme „Obriši izabrane razgovore“ slažete se da će razgovori koje ste izabrali biti obrisani bez mogućnosti oporavka.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "Da li ste sigurni da želite da obrišete ${Count} pronađene ${Chats}? Možete obrisati samo potrebne razgovore tako što ćete izabrati „Izaberi i obriši razgovore“ u prethodnom meniju. Klikom na dugme „Obriši sve pronađene razgovore“ slažete se da će svi pronađeni razgovori biti obrisani bez mogućnosti oporavka.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Da li ste sigurni da želite da obrišete ${Count} pronađene ${Chats}? Možete obrisati samo potrebne razgovore tako što ćete izabrati „Izaberi i obriši razgovore“ u prethodnom meniju. Klikom na dugme „Obriši sve pronađene razgovore“ slažete se da će svi pronađeni razgovori biti obrisani bez mogućnosti oporavka.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Изаберите странице које желите да користите",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "Da li ste sigurni da želite da obrišete ${Count} izabranih ${Chats}? Klikom na dugme „Obriši izabrane chatove“, slažete se da će chatovi koje ste izabrali biti obrisani bez mogućnosti oporavka.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "Zatvorite podešavanja",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Da li ste sigurni da želite da obrišete istoriju? Možete obrisati samo potrebne razgovore tako što ćete izabrati „Izaberi i obriši razgovore“ u prethodnom meniju. Klikom na dugme „Obriši sve razgovore“ slažete se da će svi razgovori biti obrisani bez mogućnosti oporavka.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "Generisanje slike",

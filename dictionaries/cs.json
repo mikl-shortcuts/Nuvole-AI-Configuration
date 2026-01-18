@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "Opravdu chcete smazat historii? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny chaty“ souhlasíte, že všechny chaty budou smazány bez možnosti obnovy.",
+  "History_H_SelectionConfirm": {
+    "value": "Jste si jisti, že chcete smazat ${Count} vybraných ${Chats}? Kliknutím na tlačítko „Smazat vybrané chaty“ souhlasíte s tím, že chaty, které jste vybrali, budou smazány bez možnosti obnovy.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "Opravdu chcete smazat ${Count} nalezených ${Chats}? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny nalezené chaty“ souhlasíte, že všechny nalezené chaty budou smazány bez možnosti obnovy.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Opravdu chcete smazat ${Count} nalezených ${Chats}? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny nalezené chaty“ souhlasíte, že všechny nalezené chaty budou smazány bez možnosti obnovy.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Vyberte stránky, které chcete použít",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "Jste si jisti, že chcete smazat ${Count} vybraných ${Chats}? Kliknutím na tlačítko „Smazat vybrané chaty“ souhlasíte, že chaty, které jste vybrali, budou smazány bez možnosti obnovy.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "Zavřít nastavení",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Opravdu chcete smazat historii? Můžete smazat pouze potřebné chaty výběrem „Vybrat a smazat chaty“ v předchozím menu. Kliknutím na tlačítko „Smazat všechny chaty“ souhlasíte, že všechny chaty budou smazány bez možnosti obnovy.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "Generování obrázků",

@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "האם אתה בטוח שאתה רוצה למחוק את ההיסטוריה? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים\", אתה מסכים שכל הצ'אטים ימחקו ללא אפשרות לשחזור.",
+  "History_H_SelectionConfirm": {
+    "value": "האם אתה בטוח שאתה רוצה למחוק ${Count} ${Chats} שנבחרו? על ידי לחיצה על כפתור \"מחיקת שיחות נבחרות\", אתה מסכים שהשיחות שבחרת ימחקו ללא אפשרות לשחזור.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "האם אתה בטוח שאתה רוצה למחוק ${Count} ${Chats} שנמצאו? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים שנמצאו\", אתה מסכים שכל הצ'אטים שנמצאו ימחקו ללא אפשרות לשחזור.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "האם אתה בטוח שאתה רוצה למחוק ${Count} ${Chats} שנמצאו? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים שנמצאו\", אתה מסכים שכל הצ'אטים שנמצאו ימחקו ללא אפשרות לשחזור.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "בחר את הדפים שאתה רוצה להשתמש בהם",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "האם אתה בטוח שאתה רוצה למחוק את ${Count} הצ'אטים שנבחרו? על ידי לחיצה על הכפתור “מחק את הצ'אטים שנבחרו”, אתה מסכים שהצ'אטים שבחרת ימחקו ללא אפשרות לשחזור.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "סגור הגדרות",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "האם אתה בטוח שאתה רוצה למחוק את ההיסטוריה? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים\", אתה מסכים שכל הצ'אטים ימחקו ללא אפשרות לשחזור.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "יצירת תמונה",

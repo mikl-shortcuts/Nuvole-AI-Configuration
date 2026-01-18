@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "നിങ്ങൾക്ക് ചരിത്രം ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete All Chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
+  "History_H_SelectionConfirm": {
+    "value": "നിങ്ങൾക്ക് ${Count} തിരഞ്ഞെടുത്ത ${Chats} ഇല്ലാതാക്കാൻ ഉറപ്പാണോ? “Delete Selected Chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾ തിരഞ്ഞെടുത്ത ചാറ്റുകൾ പുനഃപ്രാപ്തി സാധ്യതയില്ലാതെ ഇല്ലാതാക്കപ്പെടുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "നിങ്ങൾക്ക് ${Count} കണ്ടെത്തിയ ${Chats} ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete all found chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് കണ്ടെത്തിയ എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "നിങ്ങൾക്ക് ${Count} കണ്ടെത്തിയ ${Chats} ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete all found chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് കണ്ടെത്തിയ എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "നിങ്ങൾ ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്ന പേജുകൾ തിരഞ്ഞെടുക്കുക",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "നിങ്ങൾ തിരഞ്ഞെടുത്ത ${Count} ${Chats} നീക്കം ചെയ്യാൻ ഉറപ്പാണോ? “Delete selected chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾ തിരഞ്ഞെടുത്ത ചാറ്റുകൾ പുനഃസ്ഥാപിക്കാനുള്ള സാധ്യതയില്ലാതെ നീക്കം ചെയ്യപ്പെടുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "സെറ്റിംഗുകൾ അടയ്ക്കുക",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "നിങ്ങൾക്ക് ചരിത്രം ഇല്ലാതാക്കണോ? നിങ്ങൾക്ക് മുൻ മെനുവിൽ “Select and Delete Chats” തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യേണ്ടത്. “Delete All Chats” ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾക്ക് എല്ലാ ചാറ്റുകളും പുനരുദ്ധരിക്കാനുള്ള സാധ്യതയില്ലാതെ ഇല്ലാതാക്കുമെന്ന് നിങ്ങൾ അംഗീകരിക്കുന്നു.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "ചിത്രം ജനറേറ്റ് ചെയ്യൽ",

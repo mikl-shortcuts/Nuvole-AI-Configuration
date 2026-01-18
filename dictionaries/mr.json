@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "तुम्हाला इतिहास हटवायचा आहे का? तुम्ही फक्त आवश्यक चॅट्स निवडून “Select and Delete Chats” निवडून हटवू शकता. “Delete All Chats” बटणावर क्लिक करून, तुम्ही सर्व चॅट्स हटवण्यास सहमती दर्शवता, ज्यांची पुनर्प्राप्ती शक्य नाही.",
+  "History_H_SelectionConfirm": {
+    "value": "तुम्हाला ${Count} निवडलेले ${Chats} हटवायचे आहेत का? “Delete Selected Chats” बटणावर क्लिक करून, तुम्ही निवडलेले चॅट्स हटवले जातील आणि ते पुन्हा मिळवता येणार नाहीत याची तुमची सहमती आहे.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "तुम्हाला ${Count} सापडलेले ${Chats} हटवायचे आहेत का? तुम्ही फक्त आवश्यक चॅट्स निवडून “Select and Delete Chats” निवडून हटवू शकता. “Delete all found chats” बटणावर क्लिक करून, तुम्ही सर्व सापडलेले चॅट्स हटवण्यास सहमती दर्शवता, ज्यांची पुनर्प्राप्ती शक्य नाही.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "तुम्हाला ${Count} सापडलेले ${Chats} हटवायचे आहेत का? तुम्ही फक्त आवश्यक चॅट्स निवडून “Select and Delete Chats” निवडून हटवू शकता. “Delete all found chats” बटणावर क्लिक करून, तुम्ही सर्व सापडलेले चॅट्स हटवण्यास सहमती दर्शवता, ज्यांची पुनर्प्राप्ती शक्य नाही.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "तुम्ही कोणत्या पृष्ठे वापरू इच्छिता ते निवडा",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "तुम्हाला खरोखर ${Count} निवडलेल्या ${Chats} डिलीट करायच्या आहेत का? “Delete selected chats” बटणावर क्लिक केल्याने तुम्ही सहमत आहात की तुम्ही निवडलेल्या चॅट्स पुनर्प्राप्तीशिवाय डिलीट केल्या जातील.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "सेटिंग्ज बंद करा",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "तुम्हाला इतिहास हटवायचा आहे का? तुम्ही फक्त आवश्यक चॅट्स निवडून “Select and Delete Chats” निवडून हटवू शकता. “Delete All Chats” बटणावर क्लिक करून, तुम्ही सर्व चॅट्स हटवण्यास सहमती दर्शवता, ज्यांची पुनर्प्राप्ती शक्य नाही.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "प्रतिमा जनरेशन",

@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "Czy na pewno chcesz usunąć historię? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie czaty”, zgadzasz się, że wszystkie czaty zostaną usunięte bez możliwości odzyskania.",
+  "History_H_SelectionConfirm": {
+    "value": "Czy na pewno chcesz usunąć ${Count} wybranych ${Chats}? Klikając przycisk „Usuń wybrane czaty”, zgadzasz się, że wybrane czaty zostaną usunięte bez możliwości odzyskania.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "Czy na pewno chcesz usunąć ${Count} znalezionych ${Chats}? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie znalezione czaty”, zgadzasz się, że wszystkie znalezione czaty zostaną usunięte bez możliwości odzyskania.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Czy na pewno chcesz usunąć ${Count} znalezionych ${Chats}? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie znalezione czaty”, zgadzasz się, że wszystkie znalezione czaty zostaną usunięte bez możliwości odzyskania.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Wybierz strony, które chcesz użyć",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "Czy na pewno chcesz usunąć ${Count} wybranych ${Chats}? Klikając przycisk „Usuń wybrane czaty”, zgadzasz się, że czaty, które wybrałeś, zostaną usunięte bez możliwości odzyskania.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "Zamknij ustawienia",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Czy na pewno chcesz usunąć historię? Możesz usunąć tylko niezbędne czaty, wybierając „Wybierz i usuń czaty” w poprzednim menu. Klikając przycisk „Usuń wszystkie czaty”, zgadzasz się, że wszystkie czaty zostaną usunięte bez możliwości odzyskania.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "Generowanie obrazu",

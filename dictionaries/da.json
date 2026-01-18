@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "Er du sikker på, at du vil slette historien? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet chats” i den tidligere menu. Ved at klikke på “Slet alle chats”-knappen accepterer du, at alle chats vil blive slettet uden mulighed for gendannelse.",
+  "History_H_SelectionConfirm": {
+    "value": "Er du sikker på, at du vil slette ${Count} valgte ${Chats}? Ved at klikke på knappen “Slet valgte chats” accepterer du, at de chats, du har valgt, vil blive slettet uden mulighed for gendannelse.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "Er du sikker på, at du vil slette ${Count} fundne ${Chats}? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet chats” i den tidligere menu. Ved at klikke på “Slet alle fundne chats”-knappen accepterer du, at alle fundne chats vil blive slettet uden mulighed for gendannelse.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Er du sikker på, at du vil slette ${Count} fundne ${Chats}? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet chats” i den tidligere menu. Ved at klikke på “Slet alle fundne chats”-knappen accepterer du, at alle fundne chats vil blive slettet uden mulighed for gendannelse.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Vælg de sider, du vil bruge",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "Er du sikker på, at du vil slette ${Count} valgte ${Chats}? Ved at klikke på knappen “Slet valgte chats” accepterer du, at de chats, du har valgt, vil blive slettet uden mulighed for genoprettelse.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "Luk indstillinger",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "Er du sikker på, at du vil slette historien? Du kan kun slette de nødvendige chats ved at vælge “Vælg og slet chats” i den tidligere menu. Ved at klikke på “Slet alle chats”-knappen accepterer du, at alle chats vil blive slettet uden mulighed for gendannelse.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "Billedgenerering",

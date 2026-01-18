@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "هل أنت متأكد أنك تريد حذف التاريخ؟ يمكنك فقط حذف الدردشات الضرورية عن طريق تحديد “اختر وحذف الدردشات” في القائمة السابقة. بالنقر على زر “حذف جميع الدردشات”، فإنك توافق على أن جميع الدردشات سيتم حذفها دون إمكانية الاسترداد.",
+  "History_H_SelectionConfirm": {
+    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} المختارة؟ بالنقر على زر \"حذف المحادثات المختارة\"، فإنك توافق على أن المحادثات التي اخترتها سيتم حذفها دون إمكانية استردادها.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} التي تم العثور عليها؟ يمكنك فقط حذف الدردشات الضرورية عن طريق تحديد “اختر وحذف الدردشات” في القائمة السابقة. بالنقر على زر “حذف جميع الدردشات التي تم العثور عليها”، فإنك توافق على أن جميع الدردشات التي تم العثور عليها سيتم حذفها دون إمكانية الاسترداد.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} التي تم العثور عليها؟ يمكنك فقط حذف الدردشات الضرورية عن طريق تحديد “اختر وحذف الدردشات” في القائمة السابقة. بالنقر على زر “حذف جميع الدردشات التي تم العثور عليها”، فإنك توافق على أن جميع الدردشات التي تم العثور عليها سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "اختر الصفحات التي تريد استخدامها",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "هل أنت متأكد أنك تريد حذف ${Count} ${Chats} التي تم اختيارها؟ بالنقر على زر “حذف المحادثات التي تم اختيارها”، فإنك توافق على أن المحادثات التي اخترتها سيتم حذفها دون إمكانية الاسترداد.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "إغلاق الإعدادات",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "هل أنت متأكد أنك تريد حذف التاريخ؟ يمكنك فقط حذف الدردشات الضرورية عن طريق تحديد “اختر وحذف الدردشات” في القائمة السابقة. بالنقر على زر “حذف جميع الدردشات”، فإنك توافق على أن جميع الدردشات سيتم حذفها دون إمكانية الاسترداد.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "توليد الصورة",

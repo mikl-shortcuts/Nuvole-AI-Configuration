@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "本当に履歴を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべてのチャットを削除」ボタンをクリックすると、すべてのチャットが回復不可能に削除されることに同意したことになります。",
+  "History_H_SelectionConfirm": {
+    "value": "選択した${Count}件の${Chats}を削除してもよろしいですか？「選択したチャットを削除」ボタンをクリックすると、選択したチャットが回復不可能な状態で削除されることに同意したことになります。",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "本当に${Count}件の${Chats}を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべての検索結果を削除」ボタンをクリックすると、すべての検索結果が回復不可能に削除されることに同意したことになります。",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "本当に${Count}件の${Chats}を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべての検索結果を削除」ボタンをクリックすると、すべての検索結果が回復不可能に削除されることに同意したことになります。",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "使用するページを選択",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "${Count}件の選択された${Chats}を削除してもよろしいですか？「選択されたチャットを削除」ボタンをクリックすると、選択したチャットが復元不可能な状態で削除されます。",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "設定を閉じる",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "本当に履歴を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべてのチャットを削除」ボタンをクリックすると、すべてのチャットが回復不可能に削除されることに同意したことになります。",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "画像生成",

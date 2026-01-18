@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "您确定要删除历史记录吗？您只能通过在上一个菜单中选择“选择并删除聊天”来删除必要的聊天。点击“删除所有聊天”按钮，即表示您同意所有聊天将被删除，且无法恢复。",
+  "History_H_SelectionConfirm": {
+    "value": "您确定要删除所选的 ${Count} 个 ${Chats} 吗？点击“删除所选聊天”按钮，即表示您同意所选聊天将被删除且无法恢复。",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "您确定要删除找到的 ${Count} 个 ${Chats} 吗？您只能通过在上一个菜单中选择“选择并删除聊天”来删除必要的聊天。点击“删除所有找到的聊天”按钮，即表示您同意所有找到的聊天将被删除，且无法恢复。",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "您确定要删除找到的 ${Count} 个 ${Chats} 吗？您只能通过在上一个菜单中选择“选择并删除聊天”来删除必要的聊天。点击“删除所有找到的聊天”按钮，即表示您同意所有找到的聊天将被删除，且无法恢复。",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "选择您要使用的页面",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "您确定要删除 ${Count} 个选定的 ${Chats} 吗？通过点击“删除选定的聊天”按钮，您同意您选择的聊天将被删除，无法恢复。",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "关闭设置",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "您确定要删除历史记录吗？您只能通过在上一个菜单中选择“选择并删除聊天”来删除必要的聊天。点击“删除所有聊天”按钮，即表示您同意所有聊天将被删除，且无法恢复。",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "图像生成",

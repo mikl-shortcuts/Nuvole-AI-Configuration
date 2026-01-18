@@ -1,16 +1,8 @@
 {
-  "History_H_Deletion": {
-    "value": "기록을 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “모든 채팅 삭제” 버튼을 클릭하면 모든 채팅이 복구할 수 없이 삭제됩니다.",
+  "History_H_SelectionConfirm": {
+    "value": "선택한 ${Count}개의 ${Chats}를 삭제하시겠습니까? “선택한 채팅 삭제” 버튼을 클릭하면 선택한 채팅이 복구할 수 없이 삭제됩니다.",
     "original": {
-      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "History_H_SearchDeletion": {
-    "value": "찾은 ${Count}개의 ${Chats}를 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “찾은 모든 채팅 삭제” 버튼을 클릭하면 모든 찾은 채팅이 복구할 수 없이 삭제됩니다.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -1169,6 +1161,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "찾은 ${Count}개의 ${Chats}를 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “찾은 모든 채팅 삭제” 버튼을 클릭하면 모든 찾은 채팅이 복구할 수 없이 삭제됩니다.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete all found chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "사용할 페이지를 선택하세요",
     "original": {
@@ -1865,16 +1865,6 @@
     "isTranslated": true,
     "version": 1
   },
-  "History_H_SelectionConfirm": {
-    "value": "${Count}개의 선택된 ${Chats}를 삭제하시겠습니까? “선택된 채팅 삭제” 버튼을 클릭하면 선택한 채팅이 복구할 수 없이 삭제됩니다.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Settings_N_Close": {
     "value": "설정 닫기",
     "original": {
@@ -1988,6 +1978,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "History_H_Deletion": {
+    "value": "기록을 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “모든 채팅 삭제” 버튼을 클릭하면 모든 채팅이 복구할 수 없이 삭제됩니다.",
+    "original": {
+      "value": "Are you sure you want to delete the history? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Chats” button, you agree that all chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_T_C-Image": {
     "value": "이미지 생성",
