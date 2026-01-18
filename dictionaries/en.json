@@ -970,7 +970,7 @@
     "translatedBy": "human"
   },
   "History_H_SelectionConfirm": {
-    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete selected chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
     "isTranslated": true,
     "translatedBy": "human"
   },
