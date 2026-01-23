@@ -13,7 +13,7 @@
       "value": "Internet Search",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -23,7 +23,7 @@
       "value": "Major outage.",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -33,7 +33,7 @@
       "value": "Checking for Updates",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -43,7 +43,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -101,7 +101,7 @@
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -121,7 +121,7 @@
       "value": "Message sent!",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -131,7 +131,7 @@
       "value": "With Text",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -159,7 +159,7 @@
       "value": "System",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -179,7 +179,7 @@
       "value": "2 messages",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -199,7 +199,7 @@
       "value": "5 updates",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -219,7 +219,7 @@
       "value": "Turned On",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -229,7 +229,7 @@
       "value": "Main Menu",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -257,7 +257,7 @@
       "value": "Question",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -266,7 +266,7 @@
     "original": {
       "value": "View Full Changelog"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Install_N_YesMenu": {
@@ -274,7 +274,7 @@
     "original": {
       "value": "Open the Main Menu"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Main_N_Feedback": {
@@ -293,7 +293,7 @@
       "value": "Main Menu",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -303,7 +303,7 @@
       "value": "Select the slides you want to use",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -312,7 +312,7 @@
     "original": {
       "value": "An error occurred during image generation!"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Update_H_2Versions": {
@@ -321,7 +321,7 @@
       "value": "2 versions",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -331,7 +331,7 @@
       "value": "More",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -350,7 +350,7 @@
     "original": {
       "value": "Found information"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Error_T_Normal": {
@@ -359,7 +359,7 @@
       "value": "All systems are working properly.",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -389,7 +389,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -398,7 +398,7 @@
     "original": {
       "value": "About Nuvole AI"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Chat_ORG_DeletionDelete": {
@@ -434,7 +434,7 @@
     "original": {
       "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_N_ImageSFW-False": {
@@ -442,7 +442,7 @@
     "original": {
       "value": "Do Not Filter NSFW Content"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Text_T_Save": {
@@ -461,7 +461,7 @@
       "value": "5 changes",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -471,7 +471,7 @@
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -481,7 +481,7 @@
       "value": "What do you want to do with this site?",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -491,7 +491,7 @@
       "value": "Appearance",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -501,7 +501,7 @@
       "value": "1 update",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -511,7 +511,7 @@
       "value": "Always",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -541,7 +541,7 @@
       "value": "Report a bug",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -551,7 +551,7 @@
       "value": "Not available at the moment",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -579,7 +579,7 @@
       "value": "Describe in detail the problem you have encountered",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -589,7 +589,7 @@
       "value": "Share Sheet",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -598,7 +598,7 @@
     "original": {
       "value": "Browse, view and continue your chats"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "History_ORG_BackHistory": {
@@ -607,7 +607,7 @@
       "value": "Return to History",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -627,7 +627,7 @@
       "value": "Receive Updates",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -647,7 +647,7 @@
       "value": "1 change",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -657,7 +657,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -676,7 +676,7 @@
     "original": {
       "value": "Resume Last Chat"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Main_ORG_Ago": {
@@ -724,7 +724,7 @@
     "original": {
       "value": "Any problems, questions or ideas?"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Share_T_VideoSize": {
@@ -733,7 +733,7 @@
       "value": "Make a ${Size} summarization of the video",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -753,7 +753,7 @@
       "value": "Restart Nuvole AI",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -773,7 +773,7 @@
       "value": "AI Model",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -793,7 +793,7 @@
       "value": "Make a ${Size} summarization of the file",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -803,7 +803,7 @@
       "value": "Small",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -813,7 +813,7 @@
       "value": "Dark",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -832,7 +832,7 @@
     "original": {
       "value": "Retry With Temp Model"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "H_ModelUpdate": {
@@ -850,7 +850,7 @@
     "original": {
       "value": "Don’t Open the Main Menu"
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Chat_T_ChangingError": {
@@ -859,7 +859,7 @@
       "value": "Only emojis can be used as an icon",
       "version": 1
     },
-    "translatedBy": "verified",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
