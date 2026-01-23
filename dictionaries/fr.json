@@ -13,7 +13,7 @@
       "value": "Internet Search",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -23,7 +23,7 @@
       "value": "Major outage.",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -33,7 +33,7 @@
       "value": "Checking for Updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -43,7 +43,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -58,11 +58,11 @@
     "version": 1
   },
   "Feedback_ORG_Email": {
-    "value": "Vous pouvez obtenir des commentaires de développeurs",
+    "value": "Vous pouvez obtenir des commentaires du développeur",
     "original": {
       "value": "You can get developer feedback"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Text_T_Seconds": {
@@ -86,12 +86,12 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Supprimer tous les chats",
+    "value": "Supprimer toutes les discussions",
     "original": {
       "value": "Delete All Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -101,17 +101,17 @@
       "value": "Select the appearance to be applied to the display of responses",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Oui, Transmettre l'Historique de Ce Chat",
+    "value": "Oui, transmettre l’historique de cette discussion.",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -121,7 +121,7 @@
       "value": "Message sent!",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -131,25 +131,25 @@
       "value": "With Text",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Feedback_H_Config": {
-    "value": "Souhaitez-vous transmettre un fichier de configuration des paramètres Nuvole AI avec le développeur ?",
+    "value": "Souhaitez-vous transmettre au développeur un fichier de configuration des paramètres de Nuvole AI ?",
     "original": {
       "value": "Would you like to transmit a Nuvole AI settings configuration file with developer?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "History_H_Selection": {
-    "value": "Choisissez les chats que vous souhaitez supprimer",
+    "value": "Choisissez les discussions que vous souhaitez supprimer",
     "original": {
       "value": "Choose which chats you want to delete",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -159,17 +159,17 @@
       "value": "System",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Chat_N_Delete": {
-    "value": "Supprimer le Chat",
+    "value": "Supprimer la discussion.",
     "original": {
       "value": "Delete Chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -179,17 +179,17 @@
       "value": "2 messages",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Settings_T_ID-Save-False": {
-    "value": "Uniquement sur Demande",
+    "value": "Uniquement sur demande",
     "original": {
       "value": "Only on Request",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -199,17 +199,17 @@
       "value": "5 updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Update_H_VersionCount": {
-    "value": "${Count versions} ont été publiées depuis la version ${Num}",
+    "value": "${Count versions} versions ont été publiées depuis la version ${Num}.",
     "original": {
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -219,7 +219,7 @@
       "value": "Turned On",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -229,26 +229,26 @@
       "value": "Main Menu",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Generation_H_H": {
-    "value": "Alerte de gestion de l'appareil!",
+    "value": "Alerte de gestion de l’appareil !",
     "original": {
       "value": "Device management alert!",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Supprimer définitivement tout l'historique de chat",
+    "value": "Supprimer définitivement tout l’historique de la discussion",
     "original": {
       "value": "Permanently delete all chat history"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
@@ -257,7 +257,7 @@
       "value": "Question",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -266,7 +266,7 @@
     "original": {
       "value": "View Full Changelog"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Install_N_YesMenu": {
@@ -274,16 +274,16 @@
     "original": {
       "value": "Open the Main Menu"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Main_N_Feedback": {
-    "value": "Écrire un Retour",
+    "value": "Rédiger un commentaire",
     "original": {
       "value": "Write a Feedback",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -293,7 +293,7 @@
       "value": "Main Menu",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -303,7 +303,7 @@
       "value": "Select the slides you want to use",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -312,7 +312,7 @@
     "original": {
       "value": "An error occurred during image generation!"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Update_H_2Versions": {
@@ -321,7 +321,7 @@
       "value": "2 versions",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -331,17 +331,17 @@
       "value": "More",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Text_T_HideNote": {
-    "value": "Masquer la Note Complète",
+    "value": "Masquer la note complète",
     "original": {
       "value": "Hide Full Note",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -350,7 +350,7 @@
     "original": {
       "value": "Found information"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Error_T_Normal": {
@@ -359,27 +359,27 @@
       "value": "All systems are working properly.",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Créer un Nouveau Chat",
+    "value": "Créer une nouvelle discussion",
     "original": {
       "value": "Create a New Chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Settings_N_Loading-False": {
-    "value": "Créer un Nouveau Chat",
+    "value": "Créer une nouvelle discussion",
     "original": {
       "value": "Create New Chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -389,7 +389,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this video",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -398,34 +398,34 @@
     "original": {
       "value": "About Nuvole AI"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Supprimer définitivement ce chat",
+    "value": "Supprimer définitivement cette discussion",
     "original": {
       "value": "Permanently delete this chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Install_N_NoUpdates": {
-    "value": "Ne Pas Recevoir de Mises à Jour",
+    "value": "Ne pas recevoir de Mises à Jour",
     "original": {
       "value": "Do Not Receive Updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Settings_H_NAME-Search": {
-    "value": "Souhaitez-vous que Nuvole AI recherche des informations sur Internet, si nécessaire?",
+    "value": "Souhaitez-vous que Nuvole AI recherche des informations sur Internet, si nécessaire ?",
     "original": {
       "value": "Do you want Nuvole AI to search for information on the Internet, if necessary?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -434,7 +434,7 @@
     "original": {
       "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Settings_N_ImageSFW-False": {
@@ -442,16 +442,16 @@
     "original": {
       "value": "Do Not Filter NSFW Content"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Text_T_Save": {
-    "value": "Le chat sera sauvegardé",
+    "value": "La discussion sera sauvegardé",
     "original": {
       "value": "Chat will be saved",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -461,7 +461,7 @@
       "value": "5 changes",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -471,7 +471,7 @@
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -481,7 +481,7 @@
       "value": "What do you want to do with this site?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -491,7 +491,7 @@
       "value": "Appearance",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -501,7 +501,7 @@
       "value": "1 update",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -511,27 +511,27 @@
       "value": "Always",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Chat_N_Load": {
-    "value": "Charger et Continuer le Chat",
+    "value": "Charger et continuer la discussion",
     "original": {
       "value": "Load and Continue Chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Text_T_HideThink": {
-    "value": "Masquer les Pensées Complètes",
+    "value": "Masquer les pensées complètes",
     "original": {
       "value": "Hide Full Throghts",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -541,7 +541,7 @@
       "value": "Report a bug",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -551,25 +551,25 @@
       "value": "Not available at the moment",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Ne pas améliorer l'invite",
+    "value": "Ne pas améliorer la requête",
     "original": {
       "value": "Do Not Improve Prompt"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_T_C-Next": {
-    "value": "Que souhaitez-vous faire ensuite?",
+    "value": "Que souhaitez-vous faire ensuite ?",
     "original": {
       "value": "What do you want to do next?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -579,7 +579,7 @@
       "value": "Describe in detail the problem you have encountered",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -589,7 +589,7 @@
       "value": "Share Sheet",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -598,7 +598,7 @@
     "original": {
       "value": "Browse, view and continue your chats"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "History_ORG_BackHistory": {
@@ -607,17 +607,17 @@
       "value": "Return to History",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Chat_ORG_DeletionStop": {
-    "value": "Sauvegarder le chat et revenir en arrière",
+    "value": "Sauvegarder la discussion et revenir en arrière",
     "original": {
       "value": "Save chat and go back",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -627,17 +627,17 @@
       "value": "Receive Updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Share_H_FileType": {
-    "value": "Que souhaitez-vous faire avec ce fichier?",
+    "value": "Que souhaitez-vous faire avec ce fichier ?",
     "original": {
       "value": "What do you want to do with this file?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -647,7 +647,7 @@
       "value": "1 change",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -657,17 +657,17 @@
       "value": "Unfortunately, Nuvole AI cannot work with this site",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "History_N_Search": {
-    "value": "Recherche",
+    "value": "Rechercher",
     "original": {
       "value": "Search",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -676,16 +676,16 @@
     "original": {
       "value": "Resume Last Chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Main_ORG_Ago": {
-    "value": "Il y a ${Seconds}",
+    "value": "Il y a ${Seconds} secondes",
     "original": {
       "value": "${Seconds} ago",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -695,27 +695,27 @@
       "value": "Make a ${Size} summarization of the site",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Error_ORG_RestartNew": {
-    "value": "Un nouveau chat sera créé",
+    "value": "Une nouvelle discussion sera créée",
     "original": {
       "value": "New chat will be created",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Chat_H_Changing": {
-    "value": "Quel icône souhaitez-vous donner à ce chat (vous ne pouvez utiliser qu'un seul emoji)?",
+    "value": "Quelle icône voulez-vous donner à cette discussion (vous ne pouvez utiliser qu’un seul emoji) ?",
     "original": {
       "value": "What icon do you want to give this chat (you can use only one emoji)?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -724,7 +724,7 @@
     "original": {
       "value": "Any problems, questions or ideas?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Share_T_VideoSize": {
@@ -733,17 +733,17 @@
       "value": "Make a ${Size} summarization of the video",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Share_H_BigPre": {
-    "value": "Utiliser toute la présentation? Ou certaines diapositives?",
+    "value": "Utiliser toute la présentation ? Ou seulement certaines diapositives ?",
     "original": {
       "value": "Use the whole presentation? Or certain slides?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -753,17 +753,17 @@
       "value": "Restart Nuvole AI",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Update_H_Update": {
-    "value": "Une nouvelle mise à jour pour Nuvole AI est disponible!",
+    "value": "Une nouvelle mise à jour de Nuvole AI est disponible !",
     "original": {
       "value": "A new update for Nuvole AI is available!",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -773,17 +773,17 @@
       "value": "AI Model",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Toujours Sauvegarder les Nouveaux Chats",
+    "value": "Toujours enregistrer les nouvelles discussions",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -793,7 +793,7 @@
       "value": "Make a ${Size} summarization of the file",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -803,7 +803,7 @@
       "value": "Small",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
@@ -813,17 +813,17 @@
       "value": "Dark",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Settings_T_ID-Summary-Ask": {
-    "value": "Demander à Chaque Fois",
+    "value": "Demander à chaque fois",
     "original": {
       "value": "Ask Every Time",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -832,16 +832,16 @@
     "original": {
       "value": "Retry With Temp Model"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "H_ModelUpdate": {
-    "value": "Il semble que le modèle ${Name} que vous avez sélectionné précédemment n'est plus disponible. Quel modèle IA souhaitez-vous utiliser?",
+    "value": "Il semble que le modèle ${Name} que vous aviez sélectionné précédemment ne soit plus disponible. Quel modèle d’IA souhaitez-vous utiliser ?",
     "original": {
       "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
@@ -850,7 +850,7 @@
     "original": {
       "value": "Don’t Open the Main Menu"
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true
   },
   "Chat_T_ChangingError": {
@@ -859,83 +859,83 @@
       "value": "Only emojis can be used as an icon",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "verified",
     "isTranslated": true,
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Non, Ne Pas Transmettre l'Historique",
+    "value": "Non, ne pas transmettre l’historique",
     "original": {
       "value": "No, Not Transmit the History",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "History_N_Select": {
-    "value": "Sélectionner et Supprimer les Chats",
+    "value": "Sélectionner et supprimer des discussions",
     "original": {
       "value": "Select and Delete Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Supprimer Tous les Chats",
+    "value": "Supprimer toutes les discussions",
     "original": {
       "value": "Delete All Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "History_T_1Chats": {
-    "value": "1 chat",
+    "value": "1 discussion",
     "original": {
       "value": "1 chat",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "Error_T_Type-Error-3": {
-    "value": "Une erreur s'est produite lors de la génération de texte !",
+    "value": "Une erreur s’est produite lors de la génération du texte !",
     "original": {
       "value": "An error occurred during text generation!"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_N_NAME-ImagePlus": {
-    "value": "Améliorer l'invite",
+    "value": "Améliorer la requête",
     "original": {
       "value": "Enchance the Prompt"
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true
   },
   "Settings_H_NAME-Loading": {
-    "value": "Souhaitez-vous créer un nouveau chat ou charger et continuer le dernier lors de l'exécution de Nuvole AI?",
+    "value": "Voulez-vous créer une nouvelle discussion ou charger et continuer la dernière lors de l’exécution de Nuvole AI ?",
     "original": {
       "value": "Do you want to create a new chat or load and continue the last one when running Nuvole AI?",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Sauvegarder les chats et revenir en arrière",
+    "value": "Enregistrer les discussions et revenir en arrière",
     "original": {
       "value": "Save chats and go back",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
