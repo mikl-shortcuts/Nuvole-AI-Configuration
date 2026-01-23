@@ -66,12 +66,12 @@
     "isTranslated": true
   },
   "Text_T_Seconds": {
-    "value": "Думаю ${Num} секунд",
+    "value": "Думал ${Num} секунд",
     "original": {
       "value": "Thought for ${Num} seconds",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "human",
     "isTranslated": true,
     "version": 1
   },
