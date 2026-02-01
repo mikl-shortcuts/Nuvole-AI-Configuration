@@ -136,22 +136,24 @@ async function updateLanguageFile(langPath, currentEn, prevEn) {
             translatedBy: 'ai',
             isTranslated: true
           };
-          } else {
-            log('warn', `No translation received for key "${key}" in ${langCode}, falling back to English`);
-            newLangData[key] = {
-              value: enValue, 
-              original: { value: enValue },
-              translatedBy: 'none',
-              isTranslated: false
+        } else {
+          log('warn', `No translation received for key "${key}" in ${langCode}, falling back to English`);
+          const cleanValue = currentEn[key]?.value;
+          newLangData[key] = {
+            value: cleanValue,
+            original: { value: cleanValue },
+            translatedBy: 'none',
+            isTranslated: false
           };
         }
       }
     } catch (err) {
       log('error', `Failed to translate for ${langCode} after retries: ${err.message}`);
-      for (const [key, enValue] of Object.entries(changedKeys)) {
+      for (const key of Object.keys(changedKeys)) {
+        const cleanValue = currentEn[key]?.value; 
         newLangData[key] = {
-          value: enValue,
-          original: { value: enValue },
+          value: cleanValue,
+          original: { value: cleanValue },
           translatedBy: 'none',
           isTranslated: false
         };
