@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'dictionaries/**.json'
+      - '!dictionaries/en.json'
   workflow_dispatch:
 
 permissions:
