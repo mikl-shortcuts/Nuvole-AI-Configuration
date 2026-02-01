@@ -2,10 +2,26 @@
 
 Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)** translated into different languages are stored.
 
-## How to make changes to the translation for Nuvole AI?
+---
+## How to Make Changes to the Translation for Nuvole AI?
 
-COMING VERY SOON...
+You can easily change and improve the translations of the required languages using [Nuvole Translaton Studio](https://nuvole-translation-studio.vercel.app).
 
+### What is Required?
+
+* GitHub Account;
+* And... free time.
+
+### How Does the Translation Editing Process Work?
+
+- Confirm AI translations if they are correct;
+- Correct AI translations if they are incorrect or awkward;
+- Fix errors: overly long elements or those missing required variables may display incorrectly in Shortcuts app;
+- Very user-friendly interface: GitHub-style, with progress bars, sorting by types, error display, and much more.
+- Confirm your translation by submitting direct Pull Requests to this repository.
+
+---
+## Translations Stats
 <!-- TRANSLATION_STATS_START -->
 
 | Language | Human Progress | AI Translated | Human Translated | Top Contributors |
