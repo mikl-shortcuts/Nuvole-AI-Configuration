@@ -82,7 +82,7 @@ function generateStats() {
 
 function formatContributors(contributors) {
   const entries = Object.entries(contributors);
-  if (entries.length === 0) return '-';
+  if (entries.length === 0) return '——';
   
   return entries
     .sort((a, b) => b[1] - a[1])
@@ -93,7 +93,7 @@ function formatContributors(contributors) {
 function updateReadme() {
   const stats = generateStats();
   
-  let table = '| Language | Human Progress | AI Translated | Human Translated | Top Contributors |\n';
+  let table = '| Language | Progress | AI Translated | Human Translated | Top Contributors |\n';
   table += '| :--- | :--- | :---: | :---: | :--- |\n';
 
   for (const stat of stats) {
