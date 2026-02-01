@@ -30,8 +30,6 @@ function generateStats() {
 
   for (const file of files) {
     const code = path.basename(file, '.json');
-    if (code === 'en') continue;
-
     let content;
     try {
       content = JSON.parse(fs.readFileSync(path.join(DICT_DIR, file), 'utf8'));
@@ -44,19 +42,24 @@ function generateStats() {
     let humanCount = 0;
     const contributors = {};
 
-    for (const key in content) {
-      const entry = content[key];
-      const by = entry.translatedBy;
+    if (code === 'en') {
+      humanCount = total;
+      contributors['mikl-shortcuts'] = total;
+    } else {
+      for (const key in content) {
+        const entry = content[key];
+        const by = entry.translatedBy;
 
-      if (by === 'ai') {
-        aiCount++;
-      } else if (by && by !== 'none') {
-        humanCount++;
-        contributors[by] = (contributors[by] || 0) + 1;
+        if (by === 'ai') {
+          aiCount++;
+        } else if (by && by !== 'none') {
+          humanCount++;
+          contributors[by] = (contributors[by] || 0) + 1;
+        }
       }
     }
 
-    const percent = total > 0 ? Math.round(((aiCount + humanCount) / total) * 100) : 0;
+    const percent = total > 0 ? Math.round((humanCount / total) * 100) : 0;
     
     stats.push({
       code,
@@ -68,7 +71,11 @@ function generateStats() {
     });
   }
 
-  stats.sort((a, b) => b.percent - a.percent);
+  stats.sort((a, b) => {
+    if (a.code === 'en') return -1;
+    if (b.code === 'en') return 1;
+    return b.percent - a.percent;
+  });
 
   return stats;
 }
@@ -79,22 +86,22 @@ function formatContributors(contributors) {
   
   return entries
     .sort((a, b) => b[1] - a[1])
-    .map(([name, count]) => `@${name} (${count})`)
+    .map(([name, count]) => `[@${name}](https://github.com/${name}) (${count})`)
     .join(', ');
 }
 
 function updateReadme() {
   const stats = generateStats();
   
-  let table = '| Language | Progress | AI Translated | Human Translated | Top Contributors |\n';
+  let table = '| Language | Human Progress | AI Translated | Human Translated | Top Contributors |\n';
   table += '| :--- | :--- | :---: | :---: | :--- |\n';
 
   for (const stat of stats) {
     const langDisplay = getLangDisplay(stat.code);
-    const progressBar = `![${stat.percent}%](https://geps.dev/progress/${stat.percent})`;
+    const progressBar = `![${stat.percent}%](https://progress-bar.dev/${stat.percent}?width=200)`;
     const contribs = formatContributors(stat.contributors);
     
-    table += '| ' + langDisplay + ' | ' + progressBar + ' <br> ' + stat.percent + '% | ' + stat.aiCount + ' | ' + stat.humanCount + ' | ' + contribs + ' |\n';
+    table += `| ${langDisplay} | ${progressBar} | ${stat.aiCount} | ${stat.humanCount} | ${contribs} |\n`;
   }
 
   let readme = fs.readFileSync(README_FILE, 'utf8');
