@@ -17,7 +17,7 @@ You can easily change and improve the translations of the required languages usi
 - Confirm AI translations if they are correct;
 - Correct AI translations if they are incorrect or awkward;
 - Fix errors: overly long elements or those missing required variables may display incorrectly in Shortcuts app;
-- Very user-friendly interface: GitHub-style, with progress bars, sorting by types, error display, and much more.
+- Very user-friendly interface: GitHub-style, with progress bars, sorting by types, error display, and much more;
 - Confirm your translation by submitting direct Pull Requests to this repository.
 
 ---
