@@ -20,7 +20,10 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm init -y
+          npm pkg set type="module"
+          npm install node-fetch
 
       - name: Run Re-translation Script
         env:
