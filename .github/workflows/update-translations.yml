@@ -2,7 +2,8 @@ name: Update Translations
 
 on:
   push:
-    branches: [ main ]
+    paths:
+          - 'dictionaries/en.json'
 
 jobs:
   update-translations:
