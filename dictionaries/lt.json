@@ -106,14 +106,12 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "{\"value\":\"Yes, Transmit the History of This Chat\",\"translatedBy\":\"human\",\"isTranslated\":true,\"version\":1}",
+    "value": "Taip, Perkelti Šios Pokalbio Istoriją",
     "original": {
-      "value": "Yes, Transmit the History of This Chat",
-      "version": 1
+      "value": "Yes, Transmit the History of This Chat"
     },
-    "translatedBy": "none",
-    "isTranslated": false,
-    "version": 1
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Feedback_H_End": {
     "value": "Žinutė išsiųsta!",
