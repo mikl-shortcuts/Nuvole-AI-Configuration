@@ -6,8 +6,8 @@ const DICTIONARIES_DIR = path.resolve('dictionaries');
 const EN_FILE = path.join(DICTIONARIES_DIR, 'en.json');
 const API_URL = 'https://nuvole-systems.vercel.app/api/translator';
 
-const MAX_RETRIES = 3;
-const RETRY_DELAY_MS = 2000;
+const MAX_RETRIES = 5;
+const RETRY_DELAY_MS = 5000;
 
 const API_KEY = process.env.TRANSLATION_API_KEY;
 if (!API_KEY) {
