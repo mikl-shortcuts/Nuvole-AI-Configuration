@@ -1,11 +1,11 @@
 {
   "History_H_SearchDeletion": {
-    "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery.",
+    "value": "क्या आप वाकई ${Count} पाए गए ${Chats} को हटाना चाहते हैं? आप केवल आवश्यक चैट्स को हटाकर “Select and Delete Chats” को पिछले मेनू में चुनकर हटा सकते हैं। “Delete All Found Chats” बटन पर क्लिक करके, आप सहमत होते हैं कि सभी पाए गए चैट्स को बिना किसी रिकवरी के हटा दिया जाएगा।",
     "original": {
       "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
     },
-    "translatedBy": "none",
-    "isTranslated": false
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_NAME-Search": {
     "value": "इंटरनेट खोज",
