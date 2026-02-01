@@ -5,7 +5,7 @@ Here All text elements for **[Nuvole AI](https://routinehub.co/shortcut/18431/)*
 ---
 ## How to Make Changes to the Translation for Nuvole AI?
 
-You can easily change and improve the translations of the required languages using [Nuvole Translaton Studio](https://nuvole-translation-studio.vercel.app).
+You can easily change and improve the translations of the required languages using **[Nuvole Translaton Studio](https://nuvole-translation-studio.vercel.app)**.
 
 ### What is Required?
 
