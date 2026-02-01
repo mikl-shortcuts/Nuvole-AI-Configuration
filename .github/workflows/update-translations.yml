@@ -3,7 +3,7 @@ name: Update Translations
 on:
   push:
     paths:
-          - 'dictionaries/en.json'
+      - 'dictionaries/en.json'
 
 jobs:
   update-translations:
