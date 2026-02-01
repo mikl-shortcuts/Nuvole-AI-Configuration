@@ -136,13 +136,13 @@ async function updateLanguageFile(langPath, currentEn, prevEn) {
             translatedBy: 'ai',
             isTranslated: true
           };
-        } else {
-          log('warn', `No translation received for key "${key}" in ${langCode}, falling back to English`);
-          newLangData[key] = {
-            value: enValue,
-            original: { value: enValue },
-            translatedBy: 'none',
-            isTranslated: false
+          } else {
+            log('warn', `No translation received for key "${key}" in ${langCode}, falling back to English`);
+            newLangData[key] = {
+              value: enValue, 
+              original: { value: enValue },
+              translatedBy: 'none',
+              isTranslated: false
           };
         }
       }
