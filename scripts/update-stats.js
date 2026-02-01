@@ -24,19 +24,6 @@ function getLangDisplay(code) {
   return LANG_MAP[code] || `🏳️ ${code.toUpperCase()}`;
 }
 
-function getProgressBarUrl(percent) {
-  let color = 'd9534f';
-  if (percent >= 40 && percent < 70) {
-    color = 'f0ad4e';
-  } else if (percent >= 70 && percent < 100) {
-    color = '5bc0de';
-  } else if (percent === 100) {
-    color = '5cb85c';
-  }
-
-  return `https://progress-bar.dev/${percent}?scale=100&title=&width=140&color=${color}&suffix=%`;
-}
-
 function generateStats() {
   const files = fs.readdirSync(DICT_DIR).filter(f => f.endsWith('.json'));
   const stats = [];
@@ -110,11 +97,24 @@ function updateReadme() {
   table += '| :--- | :--- | :---: | :---: | :--- |\n';
 
   for (const stat of stats) {
-    const langDisplay = getLangDisplay(stat.code);
-    const progressBar = `![${stat.percent}%](${getProgressBarUrl(stat.percent)})`;
+    let langDisplay = getLangDisplay(stat.code);
     const contribs = formatContributors(stat.contributors);
     
-    table += `| ${langDisplay} | ${progressBar} | ${stat.aiCount} | ${stat.humanCount} | ${contribs} |\n`;
+    let emoji = '🔴';
+    if (stat.percent === 100) {
+      emoji = '🟢';
+    } else if (stat.percent >= 50) {
+      emoji = '🟡';
+    }
+
+    let progressText = `${emoji} ${stat.percent}%`;
+
+    if (stat.percent === 100) {
+      langDisplay = `**${langDisplay}**`;
+      progressText = `**${progressText}**`;
+    }
+    
+    table += `| ${langDisplay} | ${progressText} | ${stat.aiCount} | ${stat.humanCount} | ${contribs} |\n`;
   }
 
   let readme = fs.readFileSync(README_FILE, 'utf8');
