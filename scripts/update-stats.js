@@ -24,6 +24,19 @@ function getLangDisplay(code) {
   return LANG_MAP[code] || `🏳️ ${code.toUpperCase()}`;
 }
 
+function getProgressBarUrl(percent) {
+  let color = 'd9534f';
+  if (percent >= 40 && percent < 70) {
+    color = 'f0ad4e';
+  } else if (percent >= 70 && percent < 100) {
+    color = '5bc0de';
+  } else if (percent === 100) {
+    color = '5cb85c';
+  }
+
+  return `https://progress-bar.dev/${percent}?scale=100&title=&width=140&color=${color}&suffix=%`;
+}
+
 function generateStats() {
   const files = fs.readdirSync(DICT_DIR).filter(f => f.endsWith('.json'));
   const stats = [];
@@ -98,7 +111,7 @@ function updateReadme() {
 
   for (const stat of stats) {
     const langDisplay = getLangDisplay(stat.code);
-    const progressBar = `![${stat.percent}%](https://progress-bar.dev/${stat.percent}?width=200)`;
+    const progressBar = `![${stat.percent}%](${getProgressBarUrl(stat.percent)})`;
     const contribs = formatContributors(stat.contributors);
     
     table += `| ${langDisplay} | ${progressBar} | ${stat.aiCount} | ${stat.humanCount} | ${contribs} |\n`;
