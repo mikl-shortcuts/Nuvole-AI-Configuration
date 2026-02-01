@@ -1858,12 +1858,12 @@
     "version": 1
   },
   "History_H_SelectionConfirm": {
-    "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery.",
+    "value": "Una huja kuwa unataka kufuta ${Count} zilizochaguliwa za ${Chats}? Kwa kubonyeza kitufe cha “Futa Zilizochaguliwa za Mazungumzo”, unakubali kuwa mazungumzo uliyochagua yatafutwa bila uwezekano wa kurudisha.",
     "original": {
       "value": "Are you sure you want to delete ${Count} selected ${Chats}? By clicking on the “Delete Selected Chats” button, you agree that chats you have choosen will be deleted without the possibility of recovery."
     },
-    "translatedBy": "none",
-    "isTranslated": false
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Settings_N_Close": {
     "value": "Stäng inställningar",
