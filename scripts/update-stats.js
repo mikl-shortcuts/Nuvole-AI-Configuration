@@ -103,8 +103,10 @@ function updateReadme() {
     let emoji = '🔴';
     if (stat.percent === 100) {
       emoji = '🟢';
-    } else if (stat.percent >= 50) {
+    } else if (stat.percent >= 66) {
       emoji = '🟡';
+    } else if (stat.percent >= 33) {
+      emoji = '🟠';
     }
 
     let progressText = `${emoji} ${stat.percent}%`;
