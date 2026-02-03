@@ -27,7 +27,7 @@ You can easily change and improve the translations of the required languages usi
 | Language | Progress | AI Translated | Human Translated | Top Contributors |
 | :--- | :--- | :---: | :---: | :--- |
 | **🇬🇧 English** | **🟢 100%** | 0 | 255 | [@mikl-shortcuts](https://github.com/mikl-shortcuts) (255) |
-| 🇫🇷 French | 🔴 37% | 161 | 94 | [@nosleepytime](https://github.com/nosleepytime) (94) |
+| 🇫🇷 French | 🟠 37% | 161 | 94 | [@nosleepytime](https://github.com/nosleepytime) (94) |
 | 🇸🇦 Arabic | 🔴 0% | 255 | 0 | —— |
 | 🇧🇬 Bulgarian | 🔴 0% | 255 | 0 | —— |
 | 🇨🇿 Czech | 🔴 0% | 255 | 0 | —— |
