@@ -219,16 +219,6 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Do you want Nuvole AI to filter NSFW content when image generation?",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Do Not Filter NSFW Content",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
   "Text_T_Save": {
     "value": "Chat will be saved",
     "isTranslated": true,
@@ -941,16 +931,6 @@
   },
   "Share_H_BigFile": {
     "value": "Use the whole file? Or certain pages?",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Filter NSFW Content",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "NSFW Content Filtering",
     "isTranslated": true,
     "translatedBy": "human"
   },
