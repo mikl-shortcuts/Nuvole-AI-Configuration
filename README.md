@@ -10,6 +10,7 @@ You can easily change and improve the translations of the required languages usi
 ### What is Required?
 
 * GitHub Account;
+* Excellent knowledge of the English language and languages you are going to work with;
 * And... free time.
 
 ### How Does the Translation Editing Process Work?
