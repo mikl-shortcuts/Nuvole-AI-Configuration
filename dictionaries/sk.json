@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Ste si istí, že chcete odstrániť ${Count} nájdených ${Chats}? Môžete odstrániť len potrebné chaty výberom možnosti „Vybrať a odstrániť chaty“ v predchádzajúcom menu. Kliknutím na tlačidlo „Odstrániť všetky nájdené chaty“ súhlasíte s tým, že všetky nájdené chaty budú odstránené bez možnosti obnovenia.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Internetové vyhľadávanie",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Chcete, aby Nuvole AI filtroval obsah NSFW pri generovaní obrázkov?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Nefiltrovať obsah NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Chat bude uložený",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Ste si istí, že chcete odstrániť ${Count} nájdených ${Chats}? Môžete odstrániť len potrebné chaty výberom možnosti „Vybrať a odstrániť chaty“ v predchádzajúcom menu. Kliknutím na tlačidlo „Odstrániť všetky nájdené chaty“ súhlasíte s tým, že všetky nájdené chaty budú odstránené bez možnosti obnovenia.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Vyberte stránky, ktoré chcete použiť",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Použiť celý súbor? Alebo určité stránky?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Filtrovať obsah NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "Filtrovanie NSFW Obsahu",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

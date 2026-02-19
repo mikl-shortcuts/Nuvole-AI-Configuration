@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "האם אתה בטוח שאתה רוצה למחוק ${Count} ${Chats} שנמצאו? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים שנמצאו\", אתה מסכים שכל הצ'אטים שנמצאו יימחקו ללא אפשרות לשחזור.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "חיפוש באינטרנט",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "האם אתה רוצה ש-Nuvole AI יסנן תוכן NSFW כאשר יוצר תמונות?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "אל תסנן תוכן NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "הצ'אט יישמר",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "האם אתה בטוח שאתה רוצה למחוק ${Count} ${Chats} שנמצאו? אתה יכול למחוק רק את הצ'אטים הנדרשים על ידי בחירה ב\"בחר ומחק צ'אטים\" בתפריט הקודם. על ידי לחיצה על הכפתור \"מחק את כל הצ'אטים שנמצאו\", אתה מסכים שכל הצ'אטים שנמצאו יימחקו ללא אפשרות לשחזור.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "בחר את הדפים שאתה רוצה להשתמש בהם",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "השתמש בכל הקובץ? או בדפים מסוימים?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "סנן תוכן NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "סינון תוכן NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

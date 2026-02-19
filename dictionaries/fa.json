@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} پیدا شده را حذف کنید؟ شما فقط می‌توانید چت‌های ضروری را با انتخاب «انتخاب و حذف چت‌ها» در منوی قبلی حذف کنید. با کلیک بر روی دکمه «حذف تمام چت‌های پیدا شده»، شما موافقت می‌کنید که تمام چت‌های پیدا شده بدون امکان بازیابی حذف شوند.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "جستجوی اینترنت",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "آیا می‌خواهید Nuvole AI محتواهای NSFW را هنگام تولید تصویر فیلتر کند؟",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "محتواهای NSFW را فیلتر نکنید",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "چت ذخیره خواهد شد",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "آیا مطمئن هستید که می‌خواهید ${Count} ${Chats} پیدا شده را حذف کنید؟ شما فقط می‌توانید چت‌های ضروری را با انتخاب «انتخاب و حذف چت‌ها» در منوی قبلی حذف کنید. با کلیک بر روی دکمه «حذف تمام چت‌های پیدا شده»، شما موافقت می‌کنید که تمام چت‌های پیدا شده بدون امکان بازیابی حذف شوند.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "انتخاب صفحاتی که می‌خواهید استفاده کنید",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "از کل فایل استفاده کنید؟ یا صفحات خاص؟",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "محتواهای NSFW را فیلتر کنید",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "فیلتر کردن محتوای NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Biztosan törölni szeretné a ${Count} talált ${Chats}? Csak a szükséges csevegéseket törölheti, ha a „Csevegések kiválasztása és törlése” menüpontot választja az előző menüből. A „Minden talált csevegés törlése” gombra kattintva elfogadja, hogy az összes talált csevegés törlésre kerül, és nem lehet visszaállítani.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Internetes keresés",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Szeretné, hogy a Nuvole AI szűrje a NSFW tartalmat a képgeneráláskor?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Ne szűrje a NSFW tartalmat",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "A chat el lesz mentve",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Biztosan törölni szeretné a ${Count} talált ${Chats}? Csak a szükséges csevegéseket törölheti, ha a „Csevegések kiválasztása és törlése” menüpontot választja az előző menüből. A „Minden talált csevegés törlése” gombra kattintva elfogadja, hogy az összes talált csevegés törlésre kerül, és nem lehet visszaállítani.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Válassza ki a használni kívánt oldalakat",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "A teljes fájlt használja? Vagy bizonyos oldalakat?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Szűrje a NSFW tartalmat",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "NSFW tartalom szűrése",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

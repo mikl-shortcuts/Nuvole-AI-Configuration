@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "${Count}件の${Chats}を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべての検索結果を削除」ボタンをクリックすると、すべての検索結果が回復不可能に削除されることに同意したことになります。",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "インターネット検索",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "画像生成時にNuvole AIがNSFWコンテンツをフィルタリングするようにしますか？",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFWコンテンツをフィルタリングしない",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "チャットが保存されます",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "${Count}件の${Chats}を削除してもよろしいですか？前のメニューで「チャットを選択して削除」を選択することで、必要なチャットのみを削除できます。「すべての検索結果を削除」ボタンをクリックすると、すべての検索結果が回復不可能に削除されることに同意したことになります。",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "使用するページを選択",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "ファイル全体を使用しますか？それとも特定のページを使用しますか？",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFWコンテンツをフィルタリング",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "NSFWコンテンツのフィルタリング",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

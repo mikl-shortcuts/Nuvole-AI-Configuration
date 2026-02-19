@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε ${Count} βρέθηκαν ${Chats}? Μπορείτε να διαγράψετε μόνο τις απαραίτητες συνομιλίες επιλέγοντας «Επιλογή και Διαγραφή Συνομιλιών» στο προηγούμενο μενού. Κάνοντας κλικ στο κουμπί «Διαγραφή Όλων των Βρεθέντων Συνομιλιών», συμφωνείτε ότι όλες οι βρεθείσες συνομιλίες θα διαγραφούν χωρίς δυνατότητα ανάκτησης.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Αναζήτηση στο Διαδίκτυο",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Θέλετε το Nuvole AI να φιλτράρει περιεχόμενο NSFW κατά τη δημιουργία εικόνων;",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Μην φιλτράρετε περιεχόμενο NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Η συνομιλία θα αποθηκευτεί",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Είστε σίγουροι ότι θέλετε να διαγράψετε ${Count} βρέθηκαν ${Chats}? Μπορείτε να διαγράψετε μόνο τις απαραίτητες συνομιλίες επιλέγοντας «Επιλογή και Διαγραφή Συνομιλιών» στο προηγούμενο μενού. Κάνοντας κλικ στο κουμπί «Διαγραφή Όλων των Βρεθέντων Συνομιλιών», συμφωνείτε ότι όλες οι βρεθείσες συνομιλίες θα διαγραφούν χωρίς δυνατότητα ανάκτησης.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Επιλέξτε τις σελίδες που θέλετε να χρησιμοποιήσετε",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Χρήση ολόκληρου του αρχείου; Ή ορισμένων σελίδων;",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Φιλτράρισμα περιεχομένου NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "Φιλτράρισμα Περιεχομένου NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

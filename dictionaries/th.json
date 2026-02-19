@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "คุณแน่ใจหรือไม่ว่าต้องการลบ ${Count} ที่พบ ${Chats}? คุณสามารถลบการสนทนาที่จำเป็นได้โดยเลือก “เลือกและลบการสนทนา” ในเมนูก่อนหน้า โดยคลิกที่ปุ่ม “ลบการสนทนาทั้งหมดที่พบ” คุณยอมรับว่าการสนทนาทั้งหมดที่พบจะถูกลบโดยไม่มีโอกาสกู้คืน",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "ค้นหาในอินเทอร์เน็ต",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "คุณต้องการให้ Nuvole AI กรองเนื้อหา NSFW เมื่อสร้างภาพหรือไม่?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "ไม่กรองเนื้อหา NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "การสนทนาจะถูกบันทึก",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "คุณแน่ใจหรือไม่ว่าต้องการลบ ${Count} ที่พบ ${Chats}? คุณสามารถลบการสนทนาที่จำเป็นได้โดยเลือก “เลือกและลบการสนทนา” ในเมนูก่อนหน้า โดยคลิกที่ปุ่ม “ลบการสนทนาทั้งหมดที่พบ” คุณยอมรับว่าการสนทนาทั้งหมดที่พบจะถูกลบโดยไม่มีโอกาสกู้คืน",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "เลือกหน้าที่คุณต้องการใช้",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "ใช้ไฟล์ทั้งหมด? หรือหน้าบางหน้า?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "กรองเนื้อหา NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "การกรองเนื้อหา NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

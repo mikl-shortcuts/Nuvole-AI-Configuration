@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Сигурни ли сте, че искате да изтриете ${Count} намерени ${Chats}? Можете да изтриете само необходимите чатове, като изберете „Избери и изтрий чатове“ в предходното меню. Като кликнете върху бутона „Изтрий всички намерени чатове“, вие се съгласявате, че всички намерени чатове ще бъдат изтрити без възможност за възстановяване.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Търсене в интернет",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Искате ли Nuvole AI да филтрира NSFW съдържание при генериране на изображения?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Не филтрирайте NSFW съдържание",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Чатът ще бъде запазен",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Сигурни ли сте, че искате да изтриете ${Count} намерени ${Chats}? Можете да изтриете само необходимите чатове, като изберете „Избери и изтрий чатове“ в предходното меню. Като кликнете върху бутона „Изтрий всички намерени чатове“, вие се съгласявате, че всички намерени чатове ще бъдат изтрити без възможност за възстановяване.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Изберете страниците, които искате да използвате",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Използвайте целия файл? Или определени страници?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Филтрирайте NSFW съдържание",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "Филтриране на съдържанието NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "${Count} bulunan ${Chats} silmek istediğinizden emin misiniz? Önceki menüde “Seç ve Sohbetleri Sil” seçeneğini seçerek yalnızca gerekli sohbetleri silebilirsiniz. “Tüm Bulunan Sohbetleri Sil” düğmesine tıklayarak, tüm bulunan sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "İnternet Arama",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Nuvole AI'nın görüntü oluştururken NSFW içeriği filtrelemesini ister misiniz?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFW İçeriğini Filtreleme",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Sohbet kaydedilecek",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "${Count} bulunan ${Chats} silmek istediğinizden emin misiniz? Önceki menüde “Seç ve Sohbetleri Sil” seçeneğini seçerek yalnızca gerekli sohbetleri silebilirsiniz. “Tüm Bulunan Sohbetleri Sil” düğmesine tıklayarak, tüm bulunan sohbetlerin geri getirme olanağı olmadan silineceğini kabul edersiniz.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Kullanmak istediğiniz sayfaları seçin",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Tüm dosyayı kullanmak mı istiyorsunuz? Yoksa belirli sayfalar mı?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW İçeriğini Filtrele",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "NSFW İçeriği Filtreleme",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

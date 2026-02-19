@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Êtes-vous sûr de vouloir supprimer ${Count} ${Chats} trouvés ? Vous ne pouvez supprimer que les chats nécessaires en sélectionnant « Sélectionner et supprimer les chats » dans le menu précédent. En cliquant sur le bouton « Supprimer tous les chats trouvés », vous acceptez que tous les chats trouvés seront supprimés sans possibilité de récupération.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Recherche Internet",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Souhaitez-vous que Nuvole AI filtre le contenu NSFW lors de la génération d'images ?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "nosleepytime",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Ne pas filtrer le contenu NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "nosleepytime",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "La discussion sera sauvegardé",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Êtes-vous sûr de vouloir supprimer ${Count} ${Chats} trouvés ? Vous ne pouvez supprimer que les chats nécessaires en sélectionnant « Sélectionner et supprimer les chats » dans le menu précédent. En cliquant sur le bouton « Supprimer tous les chats trouvés », vous acceptez que tous les chats trouvés seront supprimés sans possibilité de récupération.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Sélectionnez les pages que vous souhaitez utiliser",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Utiliser tout le fichier? Ou certaines pages?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Filtrer le contenu NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "Filtrage du Contenu NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

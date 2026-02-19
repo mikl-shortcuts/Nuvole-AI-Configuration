@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "${Count}개의 ${Chats}을(를) 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “모든 검색된 채팅 삭제” 버튼을 클릭하면 모든 검색된 채팅이 복구할 수 없이 삭제됩니다.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "인터넷 검색",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "이미지 생성 시 Nuvole AI가 NSFW 콘텐츠를 필터링하시겠습니까?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "NSFW 콘텐츠 필터링 안 함",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "채팅이 저장됩니다",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "${Count}개의 ${Chats}을(를) 삭제하시겠습니까? 이전 메뉴에서 “채팅 선택 및 삭제”를 선택하여 필요한 채팅만 삭제할 수 있습니다. “모든 검색된 채팅 삭제” 버튼을 클릭하면 모든 검색된 채팅이 복구할 수 없이 삭제됩니다.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "사용할 페이지를 선택하세요",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "전체 파일을 사용하시겠습니까? 아니면 특정 페이지?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "NSFW 콘텐츠 필터링",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "NSFW 콘텐츠 필터링",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",

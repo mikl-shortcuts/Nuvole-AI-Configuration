@@ -1,12 +1,4 @@
 {
-  "History_H_SearchDeletion": {
-    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã tìm thấy? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa Tất Cả Cuộc Trò Chuyện Đã Tìm Thấy”, bạn đồng ý rằng tất cả các cuộc trò chuyện đã tìm thấy sẽ bị xóa mà không có khả năng khôi phục.",
-    "original": {
-      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Search": {
     "value": "Tìm kiếm trên Internet",
     "original": {
@@ -428,22 +420,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Settings_H_NAME-ImageSFW": {
-    "value": "Bạn có muốn Nuvole AI lọc nội dung NSFW khi tạo ảnh không?",
-    "original": {
-      "value": "Do you want Nuvole AI to filter NSFW content when image generation?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_ImageSFW-False": {
-    "value": "Không Lọc Nội Dung NSFW",
-    "original": {
-      "value": "Do Not Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Text_T_Save": {
     "value": "Cuộc trò chuyện sẽ được lưu",
@@ -1161,6 +1137,14 @@
     "isTranslated": true,
     "version": 1
   },
+  "History_H_SearchDeletion": {
+    "value": "Bạn có chắc chắn muốn xóa ${Count} ${Chats} đã tìm thấy? Bạn chỉ có thể xóa các cuộc trò chuyện cần thiết bằng cách chọn “Chọn và Xóa Cuộc Trò Chuyện” trong menu trước đó. Bằng cách nhấp vào nút “Xóa Tất Cả Cuộc Trò Chuyện Đã Tìm Thấy”, bạn đồng ý rằng tất cả các cuộc trò chuyện đã tìm thấy sẽ bị xóa mà không có khả năng khôi phục.",
+    "original": {
+      "value": "Are you sure you want to delete ${Count} found ${Chats}? You can only delete the necessary chats by selecting “Select and Delete Chats” in the previous menu. By clicking on the “Delete All Found Chats” button, you agree that all found chats will be deleted without the possibility of recovery."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Share_H_Pages": {
     "value": "Chọn các trang bạn muốn sử dụng",
     "original": {
@@ -1805,24 +1789,6 @@
     "value": "Sử dụng toàn bộ tệp? Hay một số trang nhất định?",
     "original": {
       "value": "Use the whole file? Or certain pages?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_N_ImageSFW-True": {
-    "value": "Lọc Nội Dung NSFW",
-    "original": {
-      "value": "Filter NSFW Content"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_NAME-ImageSFW": {
-    "value": "Lọc Nội dung NSFW",
-    "original": {
-      "value": "NSFW Content Filtering",
       "version": 1
     },
     "translatedBy": "ai",
