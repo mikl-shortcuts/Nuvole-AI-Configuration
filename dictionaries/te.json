@@ -1,4 +1,20 @@
 {
+  "Settings_T_NumberMax": {
+    "value": "గరిష్ట విలువ: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_NumberMin": {
+    "value": "కనీస విలువ: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "ఇంటర్నెట్ శోధన",
     "original": {
@@ -2007,16 +2023,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_FontMin": {
-    "value": "కనిష్ట విలువ: 22",
-    "original": {
-      "value": "Minimum value: 22",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_T_Found": {
     "value": "${Text} అభ్యర్థనపై ${Count chats} కనుగొనబడ్డాయి",
     "original": {
@@ -2301,16 +2307,6 @@
     "value": "వెనక్కి",
     "original": {
       "value": "Back",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_FontMax": {
-    "value": "గరిష్ట విలువ: 62",
-    "original": {
-      "value": "Maximum value: 62",
       "version": 1
     },
     "translatedBy": "ai",

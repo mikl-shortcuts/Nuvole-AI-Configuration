@@ -1,4 +1,20 @@
 {
+  "Settings_T_NumberMax": {
+    "value": "Максимална вредност: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_NumberMin": {
+    "value": "Минимална вредност: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Претрага интернета",
     "original": {
@@ -2007,16 +2023,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_FontMin": {
-    "value": "Minimalna vrednost: 22",
-    "original": {
-      "value": "Minimum value: 22",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_T_Found": {
     "value": "${Count chats} pronađeno na zahtev „${Text}“",
     "original": {
@@ -2301,16 +2307,6 @@
     "value": "Nazad",
     "original": {
       "value": "Back",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_FontMax": {
-    "value": "Maksimalna vrednost: 62",
-    "original": {
-      "value": "Maximum value: 62",
       "version": 1
     },
     "translatedBy": "ai",

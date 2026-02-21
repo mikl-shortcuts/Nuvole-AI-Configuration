@@ -1,4 +1,20 @@
 {
+  "Settings_T_NumberMax": {
+    "value": "મહત્તમ મૂલ્ય: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_NumberMin": {
+    "value": "લઘુત્તમ મૂલ્ય: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "ઇન્ટરનેટ શોધ",
     "original": {
@@ -2007,16 +2023,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_FontMin": {
-    "value": "ન્યૂનતમ મૂલ્ય: 22",
-    "original": {
-      "value": "Minimum value: 22",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_T_Found": {
     "value": "${Count chats} વિનંતી પર “${Text}” શોધાયેલા",
     "original": {
@@ -2301,16 +2307,6 @@
     "value": "પાછા",
     "original": {
       "value": "Back",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_FontMax": {
-    "value": "મહત્તમ મૂલ્ય: 62",
-    "original": {
-      "value": "Maximum value: 62",
       "version": 1
     },
     "translatedBy": "ai",

@@ -1,4 +1,20 @@
 {
+  "Settings_T_NumberMax": {
+    "value": "Maximální hodnota: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_NumberMin": {
+    "value": "Minimální hodnota: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Vyhledávání na internetu",
     "original": {
@@ -2005,16 +2021,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_FontMin": {
-    "value": "Minimální hodnota: 22",
-    "original": {
-      "value": "Minimum value: 22",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_T_Found": {
     "value": "Na požadavek „${Text}“ bylo nalezeno ${Count} chatů",
     "original": {
@@ -2299,16 +2305,6 @@
     "value": "Zpět",
     "original": {
       "value": "Back",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_FontMax": {
-    "value": "Maximální hodnota: 62",
-    "original": {
-      "value": "Maximum value: 62",
       "version": 1
     },
     "translatedBy": "ai",

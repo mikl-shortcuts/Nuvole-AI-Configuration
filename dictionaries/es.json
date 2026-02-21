@@ -1,4 +1,20 @@
 {
+  "Settings_T_NumberMax": {
+    "value": "Valor máximo: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_NumberMin": {
+    "value": "Valor mínimo: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_N_NAME-Search": {
     "value": "Búsqueda en Internet",
     "original": {
@@ -2007,16 +2023,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_FontMin": {
-    "value": "Valor mínimo: 22",
-    "original": {
-      "value": "Minimum value: 22",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "History_T_Found": {
     "value": "Encontrados ${Count chats} en la solicitud “${Text}”",
     "original": {
@@ -2301,16 +2307,6 @@
     "value": "Atrás",
     "original": {
       "value": "Back",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Settings_T_FontMax": {
-    "value": "Valor máximo: 62",
-    "original": {
-      "value": "Maximum value: 62",
       "version": 1
     },
     "translatedBy": "ai",
