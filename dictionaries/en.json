@@ -1024,6 +1024,31 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
+  "Settings_T_C-Text": {
+    "value": "Text Generation",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperature",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Nucleus Sampling",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
   "Update_N_NotInstall": {
     "value": "Do Not Install the Update",
     "isTranslated": true,
