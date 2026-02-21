@@ -1049,8 +1049,8 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_T_FontMin": {
-    "value": "Minimum value: 22",
+  "Settings_T_NumberMin": {
+    "value": "Minimum value: ${Num}",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1209,8 +1209,8 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_T_FontMax": {
-    "value": "Maximum value: 62",
+  "Settings_T_NumberMax": {
+    "value": "Maximum value: ${Num}",
     "isTranslated": true,
     "translatedBy": "human"
   },
