@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Максимальное значение: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Выберите параметр «Ядерный семплинг» для ИИ (по умолчанию 1.0). Более высокие значения сделают вывод более случайным, а более низкие — более сфокусированным. Рекомендация: настраивайте либо этот параметр, либо «Температуру», но не оба одновременно.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Минимальное значение: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Выберите параметр «Температура» для ИИ (по умолчанию 1.0). Более высокие значения сделают вывод более случайным, а более низкие — более сфокусированным. Рекомендация: настраивайте либо этот параметр, либо «Ядерный семплинг», но не оба одновременно.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Ядерный семплинг",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Температура",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Генерация текста",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Минимальное значение: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "Найдено ${Count chats} по запросу “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Максимальное значение: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "К сожалению, Nuvole AI не может работать с этой презентацией",

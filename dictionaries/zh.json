@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "最大值：${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "选择 AI 的核采样参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或温度参数，但不要同时调整两者。",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "最小值：${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "选择 AI 的温度参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或核采样参数，但不要同时调整两者。",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "核采样",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "温度",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "文本生成",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2021,6 +2045,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "最小值：${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "找到 ${Count chats} 个聊天，请求“${Text}”",
     "original": {
@@ -2310,6 +2342,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "最大值：${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "很抱歉，Nuvole AI无法处理此演示文稿",

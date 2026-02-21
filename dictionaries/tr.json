@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maksimum değer: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Nuvole AI için Çekirdek Örnekleme parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele hale getirirken, daha düşük değerler daha odaklı olmasını sağlar. Öneri: Bu parametreyi ya da Sıcaklık’ı aynı anda değil, ayrı ayrı ayarlayın.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimum değer: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Nuvole AI için Sıcaklık parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele hale getirirken, daha düşük değerler daha odaklı olmasını sağlar. Öneri: Bu parametreyi ya da Çekirdek Örnekleme’yi aynı anda değil, ayrı ayrı ayarlayın.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Çekirdek Örnekleme",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Sıcaklık",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Metin Oluşturma",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimum değer: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count} sohbet “${Text}” isteği üzerine bulundu",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maksimum değer: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Maalesef, Nuvole AI bu sunum ile çalışamaz",

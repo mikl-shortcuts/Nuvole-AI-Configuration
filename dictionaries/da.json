@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maksimumsværdi: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Vælg Nucleus Sampling-parameteren for AI (1,0 som standard). Højere værdier gør outputtet mere tilfældigt, mens lavere værdier gør det mere fokuseret. Anbefaling: justér enten denne parameter eller Temperatur, men ikke begge på samme tid.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimumsværdi: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Vælg temperaturparameteren for AI (1,0 som standard). Højere værdier gør outputtet mere tilfældigt, mens lavere værdier gør det mere fokuseret. Anbefaling: justér enten denne parameter eller Nucleus Sampling, men ikke begge på samme tid.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Nucleus Sampling",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatur",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Tekstgenerering",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2021,6 +2045,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimumsværdi: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} fundet på anmodning “${Text}”",
     "original": {
@@ -2310,6 +2342,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maksimumsværdi: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Desværre kan Nuvole AI ikke arbejde med denne præsentation",

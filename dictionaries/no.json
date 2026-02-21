@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maksimumsverdi: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Velg Nukleusprøvetaking-parameteren for AI (1,0 som standard). Høyere verdier gjør resultatet mer tilfeldig, mens lavere verdier gjør det mer fokusert. Anbefaling: juster enten denne parameteren eller Temperatur, men ikke begge samtidig.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimumsverdi: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Velg Temperatur-parameteren for AI (1,0 som standard). Høyere verdier gjør resultatet mer tilfeldig, mens lavere verdier gjør det mer fokusert. Anbefaling: juster enten denne parameteren eller Nukleusprøvetaking, men ikke begge samtidig.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Nukleusprøvetaking",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatur",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Tekstgenerering",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimumsverdi: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chatter} funnet på forespørsel “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maksimumsverdi: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Dessverre kan Nuvole AI ikke jobbe med denne presentasjonen",

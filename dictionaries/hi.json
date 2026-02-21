@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "अधिकतम मान: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "एआई के लिए न्यूक्लियस सैम्पलिंग पैरामीटर चुनें (डिफ़ॉल्ट 1.0)। उच्च मान आउटपुट को अधिक यादृच्छिक बनाएंगे, जबकि निम्न मान इसे अधिक केंद्रित करेंगे। सिफारिश: इस पैरामीटर या तापमान में से किसी एक को समायोजित करें, लेकिन दोनों को एक साथ नहीं।",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "न्यूनतम मान: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "एआई के लिए तापमान पैरामीटर चुनें (डिफ़ॉल्ट 1.0)। उच्च मान आउटपुट को अधिक यादृच्छिक बनाएंगे, जबकि निम्न मान इसे अधिक केंद्रित करेंगे। सिफारिश: इस पैरामीटर या न्यूक्लियस सैम्पलिंग में से किसी एक को समायोजित करें, लेकिन दोनों को एक साथ नहीं।",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "न्यूक्लियस सैम्पलिंग",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "तापमान",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "टेक्स्ट जनरेशन",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "न्यूनतम मान: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} अनुरोध “${Text}” पर मिले",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "अधिकतम मान: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "दुख की बात है, Nuvole AI इस प्रस्तुति के साथ काम नहीं कर सकता",

@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "زیادہ سے زیادہ قدر: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "این آئی کے لیے نیوکلیئس سیمپلنگ کا پیرامیٹر منتخب کریں (پہلے سے طے شدہ ۱.۰)۔ زیادہ قدریں آؤٹ پٹ کو زیادہ بے ترتیب بنائیں گی، جبکہ کم قدریں اسے زیادہ مرکوز کریں گی۔ سفارش: اس پیرامیٹر یا درجہ حرارت میں سے کسی ایک کو ایڈجسٹ کریں، لیکن دونوں کو ایک ساتھ نہیں۔",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "کم سے کم قدر: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "این آئی کے لیے درجہ حرارت کا پیرامیٹر منتخب کریں (پہلے سے طے شدہ ۱.۰)۔ زیادہ قدریں آؤٹ پٹ کو زیادہ بے ترتیب بنائیں گی، جبکہ کم قدریں اسے زیادہ مرکوز کریں گی۔ سفارش: اس پیرامیٹر یا نیوکلیئس سیمپلنگ میں سے کسی ایک کو ایڈجسٹ کریں، لیکن دونوں کو ایک ساتھ نہیں۔",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "نیوکلیئس سیمپلنگ",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "درجہ حرارت",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "ٹیکسٹ جنریشن",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "کم سے کم قدر: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} درخواست “${Text}” پر ملے",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "زیادہ سے زیادہ قدر: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "افسوس، Nuvole AI اس پیشکشی کے ساتھ کام نہیں کر سکتا",

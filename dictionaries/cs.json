@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maximální hodnota: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Vyberte parametr Vzorkování jádra pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Teplotu, ale ne oba současně.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimální hodnota: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Vyberte parametr Teplota pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Vzorkování jádra, ale ne oba současně.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Vzorkování jádra",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Teplota",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Generování textu",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2021,6 +2045,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimální hodnota: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "Na požadavek „${Text}“ bylo nalezeno ${Count} chatů",
     "original": {
@@ -2310,6 +2342,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maximální hodnota: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Bohužel, Nuvole AI nemůže pracovat s touto prezentací",

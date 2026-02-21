@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Giá trị tối đa: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Chọn tham số Lấy mẫu Hạt nhân cho AI (mặc định là 1.0). Giá trị cao hơn sẽ làm đầu ra ngẫu nhiên hơn, trong khi giá trị thấp hơn sẽ làm đầu ra tập trung hơn. Khuyến nghị: điều chỉnh một trong hai tham số này hoặc Nhiệt độ, nhưng không điều chỉnh cả hai cùng lúc.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Giá trị tối thiểu: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Chọn tham số Nhiệt độ cho AI (mặc định là 1.0). Giá trị cao hơn sẽ làm đầu ra ngẫu nhiên hơn, trong khi giá trị thấp hơn sẽ làm đầu ra tập trung hơn. Khuyến nghị: điều chỉnh một trong hai tham số này hoặc Lấy mẫu Hạt nhân, nhưng không điều chỉnh cả hai cùng lúc.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Lấy mẫu Hạt nhân",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Nhiệt độ",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Tạo Văn bản",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Giá trị tối thiểu: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "Đã tìm thấy ${Count chats} cho yêu cầu “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Giá trị tối đa: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Thật không may, Nuvole AI không thể làm việc với bài thuyết trình này",

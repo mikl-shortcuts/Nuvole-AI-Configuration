@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "ಗರಿಷ್ಠ ಮೌಲ್ಯ: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "ಎಐಗಾಗಿ ನ್ಯೂಕ್ಲಿಯಸ್ ಸ್ಯಾಂಪ್ಲಿಂಗ್ ಪ್ಯಾರಾಮೀಟರ್ ಆಯ್ಕೆಮಾಡಿ (ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ೧.೦). ಹೆಚ್ಚಿನ ಮೌಲ್ಯಗಳು ಔಟ್‌ಪುಟ್ ಅನ್ನು ಹೆಚ್ಚು ಯಾದೃಚ್ಛಿಕವಾಗಿಸುತ್ತವೆ, ಆದರೆ ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ಅದನ್ನು ಹೆಚ್ಚು ಕೇಂದ್ರೀಕೃತವಾಗಿಸುತ್ತವೆ. ಶಿಫಾರಸು: ಈ ಪ್ಯಾರಾಮೀಟರ್ ಅಥವಾ ತಾಪಮಾನವನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಹೊಂದಿಸಬೇಡಿ.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "ಕನಿಷ್ಠ ಮೌಲ್ಯ: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "ಎಐಗಾಗಿ ತಾಪಮಾನ ಪ್ಯಾರಾಮೀಟರ್ ಆಯ್ಕೆಮಾಡಿ (ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ೧.೦). ಹೆಚ್ಚಿನ ಮೌಲ್ಯಗಳು ಔಟ್‌ಪುಟ್ ಅನ್ನು ಹೆಚ್ಚು ಯಾದೃಚ್ಛಿಕವಾಗಿಸುತ್ತವೆ, ಆದರೆ ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ಅದನ್ನು ಹೆಚ್ಚು ಕೇಂದ್ರೀಕೃತವಾಗಿಸುತ್ತವೆ. ಶಿಫಾರಸು: ಈ ಪ್ಯಾರಾಮೀಟರ್ ಅಥವಾ ನ್ಯೂಕ್ಲಿಯಸ್ ಸ್ಯಾಂಪ್ಲಿಂಗ್ ಅನ್ನು ಏಕಕಾಲದಲ್ಲಿ ಹೊಂದಿಸಬೇಡಿ.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "ನ್ಯೂಕ್ಲಿಯಸ್ ಸ್ಯಾಂಪ್ಲಿಂಗ್",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "ತಾಪಮಾನ",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "ಪಠ್ಯ ರಚನೆ",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "ಕನಿಷ್ಠ ಮೌಲ್ಯ: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "“${Text}” ವಿನಂತಿಯ ಮೇಲೆ ${Count chats} ಕಂಡುಬಂದಿದೆ",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "ಗರಿಷ್ಠ ಮೌಲ್ಯ: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "ದುರದೃಷ್ಟವಶಾತ್, Nuvole AI ಈ ಪ್ರಸ್ತುತಿಯೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",

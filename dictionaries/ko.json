@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "최대 값: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "AI의 뉴클리어스 샘플링 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 온도 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "최소 값: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "AI의 온도 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 뉴클리어스 샘플링 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "뉴클리어스 샘플링",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "온도",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "텍스트 생성",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "최소 값: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "요청 “${Text}”에 대해 ${Count}개의 채팅이 발견되었습니다",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "최대 값: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "유감스럽게도, Nuvole AI는 이 프레젠테이션을 처리할 수 없습니다",

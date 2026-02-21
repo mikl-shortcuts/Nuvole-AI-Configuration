@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "ഏറ്റവും കൂടുതൽ: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "എഐയുടെ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ് പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ താപനിലയോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "കുറഞ്ഞത്: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "എഐയുടെ താപനില പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ്",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "താപനില",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "വാചകം സൃഷ്ടിക്കൽ",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "കുറഞ്ഞത്: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} കണ്ടെത്തി “${Text}” അഭ്യർത്ഥനയിലൂടെ",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "ഏറ്റവും കൂടുതൽ: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "ദുഃഖം, Nuvole AI ഈ പ്രസന്റേഷനുമായി പ്രവർത്തിക്കാൻ കഴിയില്ല",

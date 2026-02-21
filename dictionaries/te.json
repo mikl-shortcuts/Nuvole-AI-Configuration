@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "గరిష్ట విలువ: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "AI కోసం న్యూక్లియస్ శాంప్లింగ్ పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా ఉష్ణోగ్రతలో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "కనీస విలువ: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "AI కోసం ఉష్ణోగ్రత పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా న్యూక్లియస్ శాంప్లింగ్‌లో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "న్యూక్లియస్ శాంప్లింగ్",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "ఉష్ణోగ్రత",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "టెక్స్ట్ జనరేషన్",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "కనీస విలువ: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Text} అభ్యర్థనపై ${Count chats} కనుగొనబడ్డాయి",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "గరిష్ట విలువ: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "దురదృష్టవశాత్తు, నువోల్ AI ఈ ప్రెజెంటేషన్‌తో పని చేయలేదు",

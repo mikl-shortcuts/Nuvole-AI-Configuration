@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Suurim võimalik väärtus: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Vali AI tuuma valiku parameeter (vaikimisi 1.0). Kõrgemad väärtused muudavad väljundi juhuslikumaks, madalamad väärtused aga fokuseeritumaks. Soovitus: reguleeri kas seda parameetrit või temperatuuri, kuid mitte mõlemat korraga.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Väikseim võimalik väärtus: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Vali AI temperatuuri parameeter (vaikimisi 1.0). Kõrgemad väärtused muudavad väljundi juhuslikumaks, madalamad väärtused aga fokuseeritumaks. Soovitus: reguleeri kas seda parameetrit või tuuma valikut, kuid mitte mõlemat korraga.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Tuuma valik",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatuur",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Teksti genereerimine",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Väikseim võimalik väärtus: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "Leiti ${Count} vestlust päringul “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Suurim võimalik väärtus: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Kahjuks ei saa Nuvole AI selle esitlusega töödelda",

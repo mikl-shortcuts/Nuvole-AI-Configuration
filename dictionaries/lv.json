@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maksimālā vērtība: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Izvēlieties AI Nukleusa izvēles parametru (pēc noklusējuma 1.0). Augstākas vērtības padarīs izvadi nejaušāku, bet zemākas vērtības – koncentrētāku. Ieteikums: regulējiet vai nu šo parametru, vai Temperatūru, bet ne abus vienlaikus.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimālā vērtība: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Izvēlieties AI temperatūras parametru (pēc noklusējuma 1.0). Augstākas vērtības padarīs izvadi nejaušāku, bet zemākas vērtības – koncentrētāku. Ieteikums: regulējiet vai nu šo parametru, vai Nukleusa izvēli, bet ne abus vienlaikus.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Nukleusa izvēle",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatūra",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Teksta ģenerēšana",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimālā vērtība: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count čati} atrasti uz pieprasījuma “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maksimālā vērtība: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Diemžēl, Nuvole AI nevar strādāt ar šo prezentāciju",

@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Maximális érték: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Válassza ki a mesterséges intelligencia Nucleus mintavételezés paraméterét (alapértelmezett: 1,0). Magasabb értékek véletlenszerűbb kimenetet eredményeznek, míg alacsonyabb értékek koncentráltabb eredményt adnak. Ajánlás: vagy ezt a paramétert, vagy a Hőmérsékletet állítsa be, de ne mindkettőt egyszerre.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Minimális érték: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Válassza ki a mesterséges intelligencia Hőmérséklet paraméterét (alapértelmezett: 1,0). Magasabb értékek véletlenszerűbb kimenetet eredményeznek, míg alacsonyabb értékek koncentráltabb eredményt adnak. Ajánlás: vagy ezt a paramétert, vagy a Nucleus mintavételezést állítsa be, de ne mindkettőt egyszerre.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Nucleus mintavételezés",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Hőmérséklet",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Szöveggenerálás",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Minimális érték: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chat} talált a „${Text}” kérésre",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Maximális érték: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Sajnáljuk, de a Nuvole AI nem tud dolgozni ezzel a prezentációval",

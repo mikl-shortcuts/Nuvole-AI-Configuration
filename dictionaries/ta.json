@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "அதிகபட்ச மதிப்பு: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "AIக்கான நியூக்ளியஸ் மாதிரியெடுப்பு அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது வெப்பநிலையையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "குறைந்தபட்ச மதிப்பு: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "AIக்கான வெப்பநிலை அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது நியூக்ளியஸ் மாதிரியெடுப்பையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "நியூக்ளியஸ் மாதிரியெடுப்பு",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "வெப்பநிலை",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "உரை உருவாக்கம்",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "குறைந்தபட்ச மதிப்பு: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} கோரிக்கை “${Text}” க்கு கண்டுபிடிக்கப்பட்டன",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "அதிகபட்ச மதிப்பு: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Nuvole AI இந்த பிரசன்டேஷனுடன் வேலை செய்ய முடியாது",

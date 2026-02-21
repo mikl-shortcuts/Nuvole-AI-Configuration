@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Nilai maksimum: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Pilih parameter Pencuplikan Inti untuk AI (1.0 secara default). Nilai yang lebih tinggi akan membuat keluaran lebih acak, sedangkan nilai yang lebih rendah akan membuatnya lebih terfokus. Rekomendasi: sesuaikan salah satu parameter ini atau Temperatur, tetapi jangan keduanya secara bersamaan.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Nilai minimum: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Pilih parameter Temperatur untuk AI (1.0 secara default). Nilai yang lebih tinggi akan membuat keluaran lebih acak, sedangkan nilai yang lebih rendah akan membuatnya lebih terfokus. Rekomendasi: sesuaikan salah satu parameter ini atau Pencuplikan Inti, tetapi jangan keduanya secara bersamaan.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Pencuplikan Inti",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatur",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Pembangkitan Teks",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Nilai minimum: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} ditemukan pada permintaan “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Nilai maksimum: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Sayangnya, Nuvole AI tidak dapat bekerja dengan presentasi ini",

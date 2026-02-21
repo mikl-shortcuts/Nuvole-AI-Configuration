@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Максимална вредност: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Изаберите параметар Нуклеус узорковање за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Температуру, али не оба истовремено.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Минимална вредност: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Изаберите параметар Температура за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Нуклеус узорковање, али не оба истовремено.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Нуклеус узорковање",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Температура",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Генерисање текста",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Минимална вредност: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} pronađeno na zahtev „${Text}“",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Максимална вредност: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Nažalost, Nuvole AI ne može da radi sa ovom prezentacijom",

@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "最大値：${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "AIの「ニュークリアスサンプリング」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「温度」のどちらかを調整してください。両方同時に調整しないでください。",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "最小値：${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "AIの「温度」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「ニュークリアスサンプリング」のどちらかを調整してください。両方同時に調整しないでください。",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "ニュークリアスサンプリング",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "温度",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "テキスト生成",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "最小値：${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "リクエスト「${Text}」に${Count chats}件見つかりました",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "最大値：${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "残念ながら、Nuvole AIはこのプレゼンテーションを処理できません",

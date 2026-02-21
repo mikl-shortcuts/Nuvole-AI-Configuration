@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Thamani ya juu: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Chagua thamani ya parameter ya Samplingi ya Kiini kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Joto, lakini si zote mbili kwa wakati mmoja.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Thamani ya chini: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Chagua thamani ya parameter ya Joto kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Samplingi ya Kiini, lakini si zote mbili kwa wakati mmoja.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Samplingi ya Kiini",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Joto",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Uzalishaji wa Maandishi",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Thamani ya chini: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chattar} hittades på begäran “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Thamani ya juu: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Tyvärr kan Nuvole AI inte arbeta med denna presentation",

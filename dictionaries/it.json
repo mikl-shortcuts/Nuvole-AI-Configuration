@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Valore massimo: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Seleziona il parametro Campionamento Nucleus per l’IA (1.0 di default). Valori più alti renderanno l’output più casuale, mentre valori più bassi lo renderanno più focalizzato. Raccomandazione: regola questo parametro o la Temperatura, ma non entrambi contemporaneamente.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Valore minimo: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Seleziona il parametro Temperatura per l’IA (1.0 di default). Valori più alti renderanno l’output più casuale, mentre valori più bassi lo renderanno più focalizzato. Raccomandazione: regola questo parametro o il Campionamento Nucleus, ma non entrambi contemporaneamente.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Campionamento Nucleus",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatura",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Generazione del testo",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Valore minimo: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "Trovate ${Count chat} per la richiesta “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Valore massimo: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Purtroppo, Nuvole AI non può lavorare con questa presentazione",

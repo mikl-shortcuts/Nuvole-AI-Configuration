@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Enimmäisarvo: ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Valitse tekoälyn Ydinnäytteenotto-parametri (oletusarvo 1,0). Korkeammat arvot tekevät tulosteesta satunnaisemman, kun taas matalammat arvot tekevät siitä keskittyneemmän. Suositus: säädä joko tätä parametria tai Lämpötilaa, mutta ei molempia samanaikaisesti.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Vähimmäisarvo: ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Valitse tekoälyn Lämpötila-parametri (oletusarvo 1,0). Korkeammat arvot tekevät tulosteesta satunnaisemman, kun taas matalammat arvot tekevät siitä keskittyneemmän. Suositus: säädä joko tätä parametria tai Ydinnäytteenottoa, mutta ei molempia samanaikaisesti.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Ydinnäytteenotto",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Lämpötila",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Tekstin generointi",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Vähimmäisarvo: ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count} keskustelua löydetty pyynnöstä “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Enimmäisarvo: ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Valitettavasti Nuvole AI ei voi työskennellä tämän esityksen kanssa",

@@ -1,16 +1,40 @@
 {
-  "Settings_T_NumberMax": {
-    "value": "Valeur maximale : ${Num}",
+  "Settings_H_NAME-Topp": {
+    "value": "Sélectionnez le paramètre d’Échantillonnage nucléaire pour l’IA (1,0 par défaut). Des valeurs plus élevées rendront la sortie plus aléatoire, tandis que des valeurs plus basses la rendront plus ciblée. Recommandation : ajustez soit ce paramètre, soit la Température, mais pas les deux en même temps.",
     "original": {
-      "value": "Maximum value: ${Num}"
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_NumberMin": {
-    "value": "Valeur minimale : ${Num}",
+  "Settings_H_NAME-Temp": {
+    "value": "Sélectionnez le paramètre de Température pour l’IA (1,0 par défaut). Des valeurs plus élevées rendront la sortie plus aléatoire, tandis que des valeurs plus basses la rendront plus ciblée. Recommandation : ajustez soit ce paramètre, soit l’Échantillonnage nucléaire, mais pas les deux en même temps.",
     "original": {
-      "value": "Minimum value: ${Num}"
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Échantillonnage nucléaire",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Température",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_C-Text": {
+    "value": "Génération de texte",
+    "original": {
+      "value": "Text Generation"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -2023,6 +2047,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_T_NumberMin": {
+    "value": "Valeur minimale : ${Num}",
+    "original": {
+      "value": "Minimum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "History_T_Found": {
     "value": "${Count chats} trouvés pour la demande “${Text}”",
     "original": {
@@ -2312,6 +2344,14 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_NumberMax": {
+    "value": "Valeur maximale : ${Num}",
+    "original": {
+      "value": "Maximum value: ${Num}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Share_T_ErrorPre": {
     "value": "Malheureusement, Nuvole AI ne peut pas travailler avec cette présentation",
