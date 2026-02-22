@@ -420,7 +420,12 @@
     "translatedBy": "human"
   },
   "H_ModelUpdate": {
-    "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+    "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "H_ImageUpdate": {
+    "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -490,7 +495,12 @@
     "translatedBy": "human"
   },
   "Install_H_Model": {
-    "value": "Which AI model would you like to use?",
+    "value": "Which AI model for text generation would you like to use?",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_H_ImageModel": {
+    "value": "Which AI model for image generation would you like to use?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -526,6 +536,21 @@
   },
   "Settings_H_NAME-Lang": {
     "value": "Choose a language in which it will be convenient for you to work with Nuvole AI",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_Lang-AI": {
+    "value": "Translated with AI (100%)",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Translated by humans (100%)",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Translated by humans (${Num1}%) and AI (${Num2}%)",
     "isTranslated": true,
     "translatedBy": "human"
   },
