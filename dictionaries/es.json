@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Seleccione el parámetro de Muestreo Nucleus para la IA (1.0 por defecto). Valores más altos harán que la salida sea más aleatoria, mientras que valores más bajos la harán más enfocada. Recomendación: ajuste este parámetro o el de Temperatura, pero no ambos al mismo tiempo.",
+  "Settings_T_Lang-5050": {
+    "value": "Traducido por humanos (${Num1}%) e IA (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Seleccione el parámetro de Temperatura para la IA (1.0 por defecto). Valores más altos harán que la salida sea más aleatoria, mientras que valores más bajos la harán más enfocada. Recomendación: ajuste este parámetro o el de Muestreo Nucleus, pero no ambos al mismo tiempo.",
+  "Settings_T_Lang-Human": {
+    "value": "Traducido por humanos (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Muestreo Nucleus",
+  "Settings_T_Lang-AI": {
+    "value": "Traducido con IA (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Temperatura",
+  "Settings_H_ImageModel": {
+    "value": "¿Qué modelo de IA para generación de imágenes te gustaría usar?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Generación de Texto",
+  "H_ImageUpdate": {
+    "value": "Parece que el modelo de generación de imágenes ${Name} que seleccionaste anteriormente ya no está disponible. ¿Qué modelo de IA te gustaría usar?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "¿Qué modelo de IA para generación de texto te gustaría usar?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Parece que el modelo de generación de texto ${Name} que seleccionaste anteriormente ya no está disponible. ¿Qué modelo de IA te gustaría usar?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Parece que el modelo ${Name} que seleccionaste anteriormente ya no está disponible. ¿Qué modelo de IA te gustaría usar?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "No Abrir el Menú Principal",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Instalar una nueva versión ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "¿Qué modelo de IA te gustaría usar?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Generación de Texto",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatura",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Muestreo Nucleus",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Seleccione el parámetro de Temperatura para la IA (1.0 por defecto). Valores más altos harán que la salida sea más aleatoria, mientras que valores más bajos la harán más enfocada. Recomendación: ajuste este parámetro o el de Muestreo Nucleus, pero no ambos al mismo tiempo.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Seleccione el parámetro de Muestreo Nucleus para la IA (1.0 por defecto). Valores más altos harán que la salida sea más aleatoria, mientras que valores más bajos la harán más enfocada. Recomendación: ajuste este parámetro o el de Temperatura, pero no ambos al mismo tiempo.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "No instalar la actualización",

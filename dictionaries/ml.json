@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "എഐയുടെ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ് പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ താപനിലയോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
+  "Settings_T_Lang-5050": {
+    "value": "മനുഷ്യർ (${Num1}%) ഉം AI (${Num2}%) ഉം ചേർന്ന് വിവർത്തനം ചെയ്തത്",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "എഐയുടെ താപനില പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
+  "Settings_T_Lang-Human": {
+    "value": "മനുഷ്യർ വിവർത്തനം ചെയ്തത് (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ്",
+  "Settings_T_Lang-AI": {
+    "value": "AI ഉപയോഗിച്ച് വിവർത്തനം ചെയ്തത് (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "താപനില",
+  "Settings_H_ImageModel": {
+    "value": "ഇമേജ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "വാചകം സൃഷ്ടിക്കൽ",
+  "H_ImageUpdate": {
+    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ഇമേജ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "ടെക്സ്റ്റ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "നിങ്ങൾ മുമ്പ് തിരഞ്ഞെടുത്ത ${Name} മോഡൽ ഇപ്പോൾ ലഭ്യമല്ല. ഏത് AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ട്?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "മുഖ്യ മെനു തുറക്കരുത്",
     "original": {
@@ -979,16 +985,6 @@
     "value": "പുതിയ ${Num} പതിപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "ഏത് AI മോഡൽ നിങ്ങൾ ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്നുണ്ട്?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "വാചകം സൃഷ്ടിക്കൽ",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "താപനില",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ്",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "എഐയുടെ താപനില പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "എഐയുടെ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ് പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ താപനിലയോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "അപ്ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യരുത്",

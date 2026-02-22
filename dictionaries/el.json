@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Επιλέξτε την παράμετρο «Δειγματοληψία Πυρήνα» για την Nuvole AI (προεπιλογή 1.0). Υψηλότερες τιμές θα κάνουν την έξοδο πιο τυχαία, ενώ χαμηλότερες τιμές θα την κάνουν πιο εστιασμένη. Σύσταση: ρυθμίστε είτε αυτήν την παράμετρο είτε τη «Θερμοκρασία», αλλά όχι και τις δύο ταυτόχρονα.",
+  "Settings_T_Lang-5050": {
+    "value": "Μεταφρασμένο από ανθρώπους (${Num1}%) και τεχνητή νοημοσύνη (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Επιλέξτε την παράμετρο «Θερμοκρασία» για την Nuvole AI (προεπιλογή 1.0). Υψηλότερες τιμές θα κάνουν την έξοδο πιο τυχαία, ενώ χαμηλότερες τιμές θα την κάνουν πιο εστιασμένη. Σύσταση: ρυθμίστε είτε αυτήν την παράμετρο είτε τη «Δειγματοληψία Πυρήνα», αλλά όχι και τις δύο ταυτόχρονα.",
+  "Settings_T_Lang-Human": {
+    "value": "Μεταφρασμένο από ανθρώπους (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Δειγματοληψία Πυρήνα",
+  "Settings_T_Lang-AI": {
+    "value": "Μεταφρασμένο με τεχνητή νοημοσύνη (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Θερμοκρασία",
+  "Settings_H_ImageModel": {
+    "value": "Ποιο μοντέλο τεχνητής νοημοσύνης για τη δημιουργία εικόνας θέλετε να χρησιμοποιήσετε;",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Δημιουργία Κειμένου",
+  "H_ImageUpdate": {
+    "value": "Φαίνεται ότι το μοντέλο για τη δημιουργία εικόνας ${Name} που είχατε επιλέξει προηγουμένως δεν είναι πλέον διαθέσιμο. Ποιο μοντέλο τεχνητής νοημοσύνης θέλετε να χρησιμοποιήσετε;",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Ποιο μοντέλο τεχνητής νοημοσύνης για τη δημιουργία κειμένου θέλετε να χρησιμοποιήσετε;",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Φαίνεται ότι το μοντέλο για τη δημιουργία κειμένου ${Name} που είχατε επιλέξει προηγουμένως δεν είναι πλέον διαθέσιμο. Ποιο μοντέλο τεχνητής νοημοσύνης θέλετε να χρησιμοποιήσετε;",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Φαίνεται ότι το μοντέλο ${Name} που επιλέξατε νωρίτερα δεν είναι πλέον διαθέσιμο. Ποιο μοντέλο AI θέλετε να χρησιμοποιήσετε;",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Μην ανοίγετε το κύριο μενού",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Εγκατάσταση Νέας Έκδοσης ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Ποιο μοντέλο AI θέλετε να χρησιμοποιήσετε;",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Δημιουργία Κειμένου",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Θερμοκρασία",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Δειγματοληψία Πυρήνα",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Επιλέξτε την παράμετρο «Θερμοκρασία» για την Nuvole AI (προεπιλογή 1.0). Υψηλότερες τιμές θα κάνουν την έξοδο πιο τυχαία, ενώ χαμηλότερες τιμές θα την κάνουν πιο εστιασμένη. Σύσταση: ρυθμίστε είτε αυτήν την παράμετρο είτε τη «Δειγματοληψία Πυρήνα», αλλά όχι και τις δύο ταυτόχρονα.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Επιλέξτε την παράμετρο «Δειγματοληψία Πυρήνα» για την Nuvole AI (προεπιλογή 1.0). Υψηλότερες τιμές θα κάνουν την έξοδο πιο τυχαία, ενώ χαμηλότερες τιμές θα την κάνουν πιο εστιασμένη. Σύσταση: ρυθμίστε είτε αυτήν την παράμετρο είτε τη «Θερμοκρασία», αλλά όχι και τις δύο ταυτόχρονα.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Μη Εγκατάσταση της Ενημέρωσης",

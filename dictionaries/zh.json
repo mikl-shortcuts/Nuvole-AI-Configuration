@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "选择 AI 的核采样参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或温度参数，但不要同时调整两者。",
+  "Settings_T_Lang-5050": {
+    "value": "由人工翻译（${Num1}%）和 AI 翻译（${Num2}%）",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "选择 AI 的温度参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或核采样参数，但不要同时调整两者。",
+  "Settings_T_Lang-Human": {
+    "value": "由人工翻译（100%）",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "核采样",
+  "Settings_T_Lang-AI": {
+    "value": "由 AI 翻译（100%）",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "温度",
+  "Settings_H_ImageModel": {
+    "value": "您想使用哪个图像生成 AI 模型？",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "文本生成",
+  "H_ImageUpdate": {
+    "value": "看起来您之前选择的图像生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "您想使用哪个文本生成 AI 模型？",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "看起来您之前选择的文本生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -849,16 +865,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "您之前选择的模型 ${Name} 似乎不再可用。您想使用哪个 AI 模型？",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "不要打开主菜单",
     "original": {
@@ -977,16 +983,6 @@
     "value": "安装新的 ${Num} 版本",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "您想使用哪个 AI 模型？",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2000,6 +1996,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "文本生成",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "温度",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "核采样",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "选择 AI 的温度参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或核采样参数，但不要同时调整两者。",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "选择 AI 的核采样参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或温度参数，但不要同时调整两者。",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "不安装更新",

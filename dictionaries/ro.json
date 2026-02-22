@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Selectați parametrul „Eșantionare Nucleu” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Temperatură”, dar nu pe amândoi în același timp.",
+  "Settings_T_Lang-5050": {
+    "value": "Tradus de oameni (${Num1}%) și AI (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Selectați parametrul „Temperatură” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Eșantionare Nucleu”, dar nu pe amândoi în același timp.",
+  "Settings_T_Lang-Human": {
+    "value": "Tradus de oameni (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Eșantionare Nucleu",
+  "Settings_T_Lang-AI": {
+    "value": "Tradus cu ajutorul AI (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Temperatură",
+  "Settings_H_ImageModel": {
+    "value": "Ce model AI pentru generarea de imagini doriți să utilizați?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Generare de Text",
+  "H_ImageUpdate": {
+    "value": "Se pare că modelul pentru generarea de imagini ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Ce model AI pentru generarea de text doriți să utilizați?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Se pare că modelul pentru generarea de text ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Se pare că modelul ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Nu deschide meniul principal",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Instalează o Nouă Versiune ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Ce model AI doriți să utilizați?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Generare de Text",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatură",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Eșantionare Nucleu",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Selectați parametrul „Temperatură” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Eșantionare Nucleu”, dar nu pe amândoi în același timp.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Selectați parametrul „Eșantionare Nucleu” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Temperatură”, dar nu pe amândoi în același timp.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Nu Instalați Actualizarea",

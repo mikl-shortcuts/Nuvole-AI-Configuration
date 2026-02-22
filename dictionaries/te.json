@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "AI కోసం న్యూక్లియస్ శాంప్లింగ్ పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా ఉష్ణోగ్రతలో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
+  "Settings_T_Lang-5050": {
+    "value": "మానవుల ద్వారా (${Num1}%) మరియు AI ద్వారా (${Num2}%) అనువదించబడింది",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI కోసం ఉష్ణోగ్రత పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా న్యూక్లియస్ శాంప్లింగ్‌లో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
+  "Settings_T_Lang-Human": {
+    "value": "మానవుల ద్వారా అనువదించబడింది (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "న్యూక్లియస్ శాంప్లింగ్",
+  "Settings_T_Lang-AI": {
+    "value": "AI ద్వారా అనువదించబడింది (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "ఉష్ణోగ్రత",
+  "Settings_H_ImageModel": {
+    "value": "ఇమేజ్ జనరేషన్ కోసం మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "టెక్స్ట్ జనరేషన్",
+  "H_ImageUpdate": {
+    "value": "మీరు ముందుగా ఎంచుకున్న ఇమేజ్ జనరేషన్ కోసం మోడల్ ${Name} ఇప్పుడు అందుబాటులో లేదు. మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "టెక్స్ట్ జనరేషన్ కోసం మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "మీరు ముందుగా ఎంచుకున్న టెక్స్ట్ జనరేషన్ కోసం మోడల్ ${Name} ఇప్పుడు అందుబాటులో లేదు. మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "మీరు ముందుగా ఎంచుకున్న ${Name} మోడల్ ఇకపై అందుబాటులో లేదు. మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "మెయిన్ మెనూ తెరవకండి",
     "original": {
@@ -979,16 +985,6 @@
     "value": "కొత్త ${Num} వెర్షన్‌ను ఇన్స్టాల్ చేయండి",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "మీరు ఏ AI మోడల్‌ను ఉపయోగించాలనుకుంటున్నారు?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "టెక్స్ట్ జనరేషన్",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "ఉష్ణోగ్రత",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "న్యూక్లియస్ శాంప్లింగ్",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI కోసం ఉష్ణోగ్రత పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా న్యూక్లియస్ శాంప్లింగ్‌లో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "AI కోసం న్యూక్లియస్ శాంప్లింగ్ పారామీటర్‌ను ఎంచుకోండి (డిఫాల్ట్‌గా 1.0). ఎక్కువ విలువలు అవుట్‌పుట్‌ను మరింత యాదృచ్ఛికంగా చేస్తాయి, తక్కువ విలువలు దానిని మరింత కేంద్రీకృతం చేస్తాయి. సిఫార్సు: ఈ పారామీటర్ లేదా ఉష్ణోగ్రతలో దేనినైనా సర్దుబాటు చేయండి, కానీ రెండింటినీ ఒకేసారి కాదు.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "అప్‌డేట్‌ను ఇన్స్టాల్ చేయవద్దు",

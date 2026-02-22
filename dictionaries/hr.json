@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Odaberite parametar Uzorak jezgre za AI (zadano 1.0). Više vrijednosti učinit će izlaz slučajnijim, dok će niže vrijednosti učiniti izlaz usmjerenijim. Preporuka: prilagodite ili ovaj parametar ili Temperaturu, ali ne oba istovremeno.",
+  "Settings_T_Lang-5050": {
+    "value": "Preveo čovjek (${Num1}%) i AI (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Odaberite parametar Temperature za AI (zadano 1.0). Više vrijednosti učinit će izlaz slučajnijim, dok će niže vrijednosti učiniti izlaz usmjerenijim. Preporuka: prilagodite ili ovaj parametar ili Uzorak jezgre, ali ne oba istovremeno.",
+  "Settings_T_Lang-Human": {
+    "value": "Preveo čovjek (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Uzorak jezgre",
+  "Settings_T_Lang-AI": {
+    "value": "Prevedeno uz pomoć AI-a (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Temperatura",
+  "Settings_H_ImageModel": {
+    "value": "Koji AI model za generiranje slika želite koristiti?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Generiranje teksta",
+  "H_ImageUpdate": {
+    "value": "Izgleda da model za generiranje slika ${Name} koji ste ranije odabrali više nije dostupan. Koji AI model želite koristiti?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Koji AI model za generiranje teksta želite koristiti?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Izgleda da model za generiranje teksta ${Name} koji ste ranije odabrali više nije dostupan. Koji AI model želite koristiti?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -849,16 +865,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Čini se da model ${Name} koji ste ranije odabrali više nije dostupan. Koji AI model želite koristiti?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Ne otvaraj glavni izbornik",
     "original": {
@@ -977,16 +983,6 @@
     "value": "Instaliraj novu ${Num} verziju",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Koji AI model želite koristiti?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2000,6 +1996,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Generiranje teksta",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatura",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Uzorak jezgre",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Odaberite parametar Temperature za AI (zadano 1.0). Više vrijednosti učinit će izlaz slučajnijim, dok će niže vrijednosti učiniti izlaz usmjerenijim. Preporuka: prilagodite ili ovaj parametar ili Uzorak jezgre, ali ne oba istovremeno.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Odaberite parametar Uzorak jezgre za AI (zadano 1.0). Više vrijednosti učinit će izlaz slučajnijim, dok će niže vrijednosti učiniti izlaz usmjerenijim. Preporuka: prilagodite ili ovaj parametar ili Temperaturu, ali ne oba istovremeno.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Ne instaliraj ažuriranje",

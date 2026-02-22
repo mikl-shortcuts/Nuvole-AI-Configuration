@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "בחר את פרמטר הדגימה הגרעינית עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הטמפרטורה, אך לא את שניהם בו־זמנית.",
+  "Settings_T_Lang-5050": {
+    "value": "תורגם על ידי בני אדם (${Num1}%) ובינה מלאכותית (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "בחר את פרמטר הטמפרטורה עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הדגימה הגרעינית, אך לא את שניהם בו־זמנית.",
+  "Settings_T_Lang-Human": {
+    "value": "תורגם על ידי בני אדם (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "דגימה גרעינית",
+  "Settings_T_Lang-AI": {
+    "value": "תורגם באמצעות בינה מלאכותית (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "טמפרטורה",
+  "Settings_H_ImageModel": {
+    "value": "איזה מודל בינה מלאכותית ליצירת תמונות תרצה להשתמש?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "יצירת טקסט",
+  "H_ImageUpdate": {
+    "value": "נראה שהמודל ליצירת תמונות ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "איזה מודל בינה מלאכותית ליצירת טקסט תרצה להשתמש?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "נראה שהמודל ליצירת טקסט ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "נראה שמודל ${Name} שבחרת קודם לכן כבר לא זמין. איזה מודל AI אתה רוצה להשתמש?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "אַל תִּפְתַּח אֶת הַתַּפְרִיט הָרָאשִׁי",
     "original": {
@@ -979,16 +985,6 @@
     "value": "התקן גרסה חדשה ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "איזה מודל AI אתה רוצה להשתמש?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "יצירת טקסט",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "טמפרטורה",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "דגימה גרעינית",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "בחר את פרמטר הטמפרטורה עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הדגימה הגרעינית, אך לא את שניהם בו־זמנית.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "בחר את פרמטר הדגימה הגרעינית עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הטמפרטורה, אך לא את שניהם בו־זמנית.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "אל תתקין את העדכון",

@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "AIக்கான நியூக்ளியஸ் மாதிரியெடுப்பு அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது வெப்பநிலையையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
+  "Settings_T_Lang-5050": {
+    "value": "மனிதர்களால் மொழிபெயர்க்கப்பட்டது (${Num1}%) மற்றும் AI மூலம் (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AIக்கான வெப்பநிலை அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது நியூக்ளியஸ் மாதிரியெடுப்பையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
+  "Settings_T_Lang-Human": {
+    "value": "மனிதர்களால் மொழிபெயர்க்கப்பட்டது (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "நியூக்ளியஸ் மாதிரியெடுப்பு",
+  "Settings_T_Lang-AI": {
+    "value": "AI மூலம் மொழிபெயர்க்கப்பட்டது (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "வெப்பநிலை",
+  "Settings_H_ImageModel": {
+    "value": "பட உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "உரை உருவாக்கம்",
+  "H_ImageUpdate": {
+    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த பட உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "உரை உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த உரை உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த ${Name} மாதிரி இனி கிடைக்கவில்லை. எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "முதன்மை மெனுவைத் திறக்க வேண்டாம்",
     "original": {
@@ -979,16 +985,6 @@
     "value": "புதிய ${Num} பதிப்பை நிறுவவும்",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "எந்த AI மாதிரியை பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "உரை உருவாக்கம்",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "வெப்பநிலை",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "நியூக்ளியஸ் மாதிரியெடுப்பு",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AIக்கான வெப்பநிலை அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது நியூக்ளியஸ் மாதிரியெடுப்பையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "AIக்கான நியூக்ளியஸ் மாதிரியெடுப்பு அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது வெப்பநிலையையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "புதுப்பிப்பை நிறுவ வேண்டாம்",

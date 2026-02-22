@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "AI의 뉴클리어스 샘플링 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 온도 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
+  "Settings_T_Lang-5050": {
+    "value": "인간이 번역함 (${Num1}%) 및 AI가 번역함 (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI의 온도 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 뉴클리어스 샘플링 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
+  "Settings_T_Lang-Human": {
+    "value": "인간이 번역함 (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "뉴클리어스 샘플링",
+  "Settings_T_Lang-AI": {
+    "value": "AI로 번역됨 (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "온도",
+  "Settings_H_ImageModel": {
+    "value": "이미지 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "텍스트 생성",
+  "H_ImageUpdate": {
+    "value": "이전에 선택한 이미지 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "텍스트 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "이전에 선택한 텍스트 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "이전에 선택한 ${Name} 모델이 더 이상 사용할 수 없는 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "메인 메뉴를 열지 마십시오",
     "original": {
@@ -979,16 +985,6 @@
     "value": "새 ${Num} 버전 설치",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "어떤 AI 모델을 사용하시겠습니까?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "텍스트 생성",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "온도",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "뉴클리어스 샘플링",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI의 온도 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 뉴클리어스 샘플링 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "AI의 뉴클리어스 샘플링 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 온도 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "업데이트 설치하지 않기",

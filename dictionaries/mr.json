@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "एआयसाठी न्यूक्लियस सॅम्पलिंग पॅरामीटर निवडा (डीफॉल्ट १.०). उच्च मूल्ये आउटपुट अधिक यादृच्छिक बनवतील, तर कमी मूल्ये ते अधिक केंद्रित बनवतील. शिफारस: एकतर हा पॅरामीटर किंवा तापमान समायोजित करा, परंतु दोन्ही एकाच वेळी नाही.",
+  "Settings_T_Lang-5050": {
+    "value": "मानवांकडून (${Num1}%) आणि AI द्वारे (${Num2}%) अनुवादित",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "एआयसाठी तापमान पॅरामीटर निवडा (डीफॉल्ट १.०). उच्च मूल्ये आउटपुट अधिक यादृच्छिक बनवतील, तर कमी मूल्ये ते अधिक केंद्रित बनवतील. शिफारस: एकतर हा पॅरामीटर किंवा न्यूक्लियस सॅम्पलिंग समायोजित करा, परंतु दोन्ही एकाच वेळी नाही.",
+  "Settings_T_Lang-Human": {
+    "value": "मानवांकडून अनुवादित (१००%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "न्यूक्लियस सॅम्पलिंग",
+  "Settings_T_Lang-AI": {
+    "value": "AI द्वारे अनुवादित (१००%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "तापमान",
+  "Settings_H_ImageModel": {
+    "value": "तुम्हाला प्रतिमा निर्मितीसाठी कोणते AI मॉडेल वापरायचे आहे?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "मजकूर निर्मिती",
+  "H_ImageUpdate": {
+    "value": "तुम्ही पूर्वी निवडलेले प्रतिमा निर्मितीसाठी ${Name} हे मॉडेल आता उपलब्ध नाही. तुम्हाला कोणते AI मॉडेल वापरायचे आहे?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "तुम्हाला मजकूर निर्मितीसाठी कोणते AI मॉडेल वापरायचे आहे?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "तुम्ही पूर्वी निवडलेले मजकूर निर्मितीसाठी ${Name} हे मॉडेल आता उपलब्ध नाही. तुम्हाला कोणते AI मॉडेल वापरायचे आहे?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "तुम्ही आधी निवडलेले ${Name} मॉडेल आता उपलब्ध नाही. तुम्ही कोणते AI मॉडेल वापरू इच्छिता?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "मुख्य मेनू उघडू नका",
     "original": {
@@ -979,16 +985,6 @@
     "value": "नवीन ${Num} आवृत्ती स्थापित करा",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "तुम्ही कोणते AI मॉडेल वापरू इच्छिता?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "मजकूर निर्मिती",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "तापमान",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "न्यूक्लियस सॅम्पलिंग",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "एआयसाठी तापमान पॅरामीटर निवडा (डीफॉल्ट १.०). उच्च मूल्ये आउटपुट अधिक यादृच्छिक बनवतील, तर कमी मूल्ये ते अधिक केंद्रित बनवतील. शिफारस: एकतर हा पॅरामीटर किंवा न्यूक्लियस सॅम्पलिंग समायोजित करा, परंतु दोन्ही एकाच वेळी नाही.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "एआयसाठी न्यूक्लियस सॅम्पलिंग पॅरामीटर निवडा (डीफॉल्ट १.०). उच्च मूल्ये आउटपुट अधिक यादृच्छिक बनवतील, तर कमी मूल्ये ते अधिक केंद्रित बनवतील. शिफारस: एकतर हा पॅरामीटर किंवा तापमान समायोजित करा, परंतु दोन्ही एकाच वेळी नाही.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "अपडेट स्थापित करू नका",

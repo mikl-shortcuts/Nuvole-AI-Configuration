@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Изаберите параметар Нуклеус узорковање за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Температуру, али не оба истовремено.",
+  "Settings_T_Lang-5050": {
+    "value": "Превео човек (${Num1}%) и вештачка интелигенција (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Изаберите параметар Температура за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Нуклеус узорковање, али не оба истовремено.",
+  "Settings_T_Lang-Human": {
+    "value": "Превео човек (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Нуклеус узорковање",
+  "Settings_T_Lang-AI": {
+    "value": "Преведено уз помоћ вештачке интелигенције (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Температура",
+  "Settings_H_ImageModel": {
+    "value": "Који модел вештачке интелигенције за генерисање слика желите да користите?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Генерисање текста",
+  "H_ImageUpdate": {
+    "value": "Изгледа да модел за генерисање слика ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Који модел вештачке интелигенције за генерисање текста желите да користите?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Изгледа да модел за генерисање текста ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Изгледа да модел ${Name} који сте раније изабрали више није доступан. Који AI модел желите да користите?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Ne otvaraj glavni meni",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Инсталирајте нову ${Num} верзију",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Који AI модел желите да користите?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Генерисање текста",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Температура",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Нуклеус узорковање",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Изаберите параметар Температура за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Нуклеус узорковање, али не оба истовремено.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Изаберите параметар Нуклеус узорковање за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Температуру, али не оба истовремено.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Ne instalirajte ažuriranje",

@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "AIの「ニュークリアスサンプリング」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「温度」のどちらかを調整してください。両方同時に調整しないでください。",
+  "Settings_T_Lang-5050": {
+    "value": "人間による翻訳（${Num1}％）とAIによる翻訳（${Num2}％）",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AIの「温度」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「ニュークリアスサンプリング」のどちらかを調整してください。両方同時に調整しないでください。",
+  "Settings_T_Lang-Human": {
+    "value": "人間による翻訳（100％）",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "ニュークリアスサンプリング",
+  "Settings_T_Lang-AI": {
+    "value": "AIによる翻訳（100％）",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "温度",
+  "Settings_H_ImageModel": {
+    "value": "画像生成用のAIモデルはどれを使用しますか？",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "テキスト生成",
+  "H_ImageUpdate": {
+    "value": "以前選択した画像生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "テキスト生成用のAIモデルはどれを使用しますか？",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "以前選択したテキスト生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "以前に選択したモデル${Name}は利用できなくなりました。どのAIモデルを使用しますか？",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "メインメニューを開かない",
     "original": {
@@ -979,16 +985,6 @@
     "value": "新しい${Num}バージョンをインストール",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "どのAIモデルを使用しますか？",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "テキスト生成",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "温度",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "ニュークリアスサンプリング",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AIの「温度」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「ニュークリアスサンプリング」のどちらかを調整してください。両方同時に調整しないでください。",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "AIの「ニュークリアスサンプリング」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「温度」のどちらかを調整してください。両方同時に調整しないでください。",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "更新をインストールしない",

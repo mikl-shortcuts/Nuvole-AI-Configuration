@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Pasirinkite „Nuvole AI“ branduolių atrankos parametrą (numatytoji reikšmė – 1.0). Didesnės reikšmės padarys rezultatą atsitiktinesnį, o mažesnės – labiau sutelktą. Rekomendacija: keiskite arba šį parametrą, arba „Temperatūrą“, bet ne abu vienu metu.",
+  "Settings_T_Lang-5050": {
+    "value": "Išversta žmonių (${Num1} %) ir dirbtinio intelekto (${Num2} %)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Pasirinkite „Nuvole AI“ temperatūros parametrą (numatytoji reikšmė – 1.0). Didesnės reikšmės padarys rezultatą atsitiktinesnį, o mažesnės – labiau sutelktą. Rekomendacija: keiskite arba šį parametrą, arba „Branduolių atranką“, bet ne abu vienu metu.",
+  "Settings_T_Lang-Human": {
+    "value": "Išversta žmonių (100 %)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Branduolių atranka",
+  "Settings_T_Lang-AI": {
+    "value": "Išversta naudojant dirbtinį intelektą (100 %)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Temperatūra",
+  "Settings_H_ImageModel": {
+    "value": "Kokį dirbtinio intelekto modelį vaizdo generavimui norėtumėte naudoti?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Teksto generavimas",
+  "H_ImageUpdate": {
+    "value": "Atrodo, kad anksčiau pasirinktas vaizdo generavimo modelis „${Name}“ nebėra prieinamas. Kokį dirbtinio intelekto modelį norėtumėte naudoti?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Kokį dirbtinio intelekto modelį teksto generavimui norėtumėte naudoti?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Atrodo, kad anksčiau pasirinktas teksto generavimo modelis „${Name}“ nebėra prieinamas. Kokį dirbtinio intelekto modelį norėtumėte naudoti?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -849,16 +865,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Atrodo, kad modelis ${Name}, kurį pasirinkote anksčiau, dabar nebeprieinamas. Kurį AI modelį norite naudoti?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Neatidarykite pagrindinio meniu",
     "original": {
@@ -977,16 +983,6 @@
     "value": "Įdiegti naują ${Num} versiją",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Kurį AI modelį norite naudoti?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2000,6 +1996,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Teksto generavimas",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatūra",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Branduolių atranka",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Pasirinkite „Nuvole AI“ temperatūros parametrą (numatytoji reikšmė – 1.0). Didesnės reikšmės padarys rezultatą atsitiktinesnį, o mažesnės – labiau sutelktą. Rekomendacija: keiskite arba šį parametrą, arba „Branduolių atranką“, bet ne abu vienu metu.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Pasirinkite „Nuvole AI“ branduolių atrankos parametrą (numatytoji reikšmė – 1.0). Didesnės reikšmės padarys rezultatą atsitiktinesnį, o mažesnės – labiau sutelktą. Rekomendacija: keiskite arba šį parametrą, arba „Temperatūrą“, bet ne abu vienu metu.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Neįdiegti atnaujinimo",

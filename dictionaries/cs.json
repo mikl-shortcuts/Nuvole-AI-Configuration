@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Vyberte parametr Vzorkování jádra pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Teplotu, ale ne oba současně.",
+  "Settings_T_Lang-5050": {
+    "value": "Přeloženo lidmi (${Num1} %) a umělou inteligencí (${Num2} %)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Vyberte parametr Teplota pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Vzorkování jádra, ale ne oba současně.",
+  "Settings_T_Lang-Human": {
+    "value": "Přeloženo lidmi (100 %)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Vzorkování jádra",
+  "Settings_T_Lang-AI": {
+    "value": "Přeloženo umělou inteligencí (100 %)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Teplota",
+  "Settings_H_ImageModel": {
+    "value": "Který model umělé inteligence pro generování obrázků byste chtěli použít?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Generování textu",
+  "H_ImageUpdate": {
+    "value": "Vypadá to, že model pro generování obrázků ${Name}, který jste si dříve vybrali, již není k dispozici. Který model umělé inteligence byste chtěli použít?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Který model umělé inteligence pro generování textu byste chtěli použít?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Vypadá to, že model pro generování textu ${Name}, který jste si dříve vybrali, již není k dispozici. Který model umělé inteligence byste chtěli použít?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -849,16 +865,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Vypadá to, že model ${Name}, který jste dříve vybrali, již není dostupný. Jaký AI model chcete použít?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Nespouštěj hlavní nabídku",
     "original": {
@@ -977,16 +983,6 @@
     "value": "Nainstalovat novou verzi ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Jaký AI model chcete použít?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2000,6 +1996,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Generování textu",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Teplota",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Vzorkování jádra",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Vyberte parametr Teplota pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Vzorkování jádra, ale ne oba současně.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Vyberte parametr Vzorkování jádra pro AI (výchozí hodnota 1,0). Vyšší hodnoty způsobí náhodnější výstup, zatímco nižší hodnoty ho učiní cílenějším. Doporučení: upravujte buď tento parametr, nebo Teplotu, ale ne oba současně.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Nenainstalovat aktualizaci",

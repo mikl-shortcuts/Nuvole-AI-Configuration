@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Chagua thamani ya parameter ya Samplingi ya Kiini kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Joto, lakini si zote mbili kwa wakati mmoja.",
+  "Settings_T_Lang-5050": {
+    "value": "Imefasiriwa na binadamu (${Num1}%) na AI (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Chagua thamani ya parameter ya Joto kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Samplingi ya Kiini, lakini si zote mbili kwa wakati mmoja.",
+  "Settings_T_Lang-Human": {
+    "value": "Imefasiriwa na binadamu (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Samplingi ya Kiini",
+  "Settings_T_Lang-AI": {
+    "value": "Imefasiriwa na AI (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Joto",
+  "Settings_H_ImageModel": {
+    "value": "Ungependa kutumia mfano gani wa AI kwa kizazi cha picha?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Uzalishaji wa Maandishi",
+  "H_ImageUpdate": {
+    "value": "Inaonekana kwamba mfano wa kizazi cha picha ${Name} uliouchagua awali haupatikani tena. Ungependa kutumia mfano gani wa AI?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Ungependa kutumia mfano gani wa AI kwa kizazi cha maandishi?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Inaonekana kwamba mfano wa kizazi cha maandishi ${Name} uliouchagua awali haupatikani tena. Ungependa kutumia mfano gani wa AI?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Det verkar som om modellen ${Name} du valde tidigare inte längre är tillgänglig. Vilken AI-modell vill du använda?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Öppna inte huvudmenyn",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Installera en ny ${Num} version",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Vilken AI-modell vill du använda?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Uzalishaji wa Maandishi",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Joto",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Samplingi ya Kiini",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Chagua thamani ya parameter ya Joto kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Samplingi ya Kiini, lakini si zote mbili kwa wakati mmoja.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Chagua thamani ya parameter ya Samplingi ya Kiini kwa AI (1.0 kwa chaguo-msingi). Thamani za juu zitafanya matokeo kuwa zaidi ya bahati nasibu, wakati thamani za chini zitafanya iwe zaidi ya kuzingatia. Mapendekezo: geuza ama parameter hii au Joto, lakini si zote mbili kwa wakati mmoja.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Installera inte uppdateringen",

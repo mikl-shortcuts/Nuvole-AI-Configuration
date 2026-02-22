@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "اختر معلمة أخذ العينات النووية للذكاء الاصطناعي (الافتراضي 1.0). القيم الأعلى ستجعل المخرجات أكثر عشوائية، بينما القيم الأدنى ستجعلها أكثر تركيزًا. التوصية: اضبط إما هذه المعلمة أو درجة الحرارة، ولكن ليس كلاهما في الوقت نفسه.",
+  "Settings_T_Lang-5050": {
+    "value": "تمت الترجمة بواسطة البشر (${Num1}٪) والذكاء الاصطناعي (${Num2}٪)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "اختر معلمة درجة الحرارة للذكاء الاصطناعي (الافتراضي 1.0). القيم الأعلى ستجعل المخرجات أكثر عشوائية، بينما القيم الأدنى ستجعلها أكثر تركيزًا. التوصية: اضبط إما هذه المعلمة أو أخذ العينات النووية، ولكن ليس كلاهما في الوقت نفسه.",
+  "Settings_T_Lang-Human": {
+    "value": "تمت الترجمة بواسطة البشر (١٠٠٪)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "أخذ العينات النووية",
+  "Settings_T_Lang-AI": {
+    "value": "تمت الترجمة بواسطة الذكاء الاصطناعي (١٠٠٪)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "درجة الحرارة",
+  "Settings_H_ImageModel": {
+    "value": "أي نموذج ذكاء اصطناعي لتوليد الصور ترغب في استخدامه؟",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "توليد النص",
+  "H_ImageUpdate": {
+    "value": "يبدو أن النموذج المخصص لتوليد الصور ${Name} الذي اخترته سابقًا لم يعد متاحًا. أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "أي نموذج ذكاء اصطناعي لتوليد النصوص ترغب في استخدامه؟",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "يبدو أن النموذج المخصص لتوليد النصوص ${Name} الذي اخترته سابقًا لم يعد متاحًا. أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "يبدو أن النموذج ${Name} الذي اخترته سابقًا لم يعد متاحًا. أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "لا تفتح القائمة الرئيسية",
     "original": {
@@ -979,16 +985,6 @@
     "value": "تثبيت إصدار جديد ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "أي نموذج ذكاء اصطناعي ترغب في استخدامه؟",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "توليد النص",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "درجة الحرارة",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "أخذ العينات النووية",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "اختر معلمة درجة الحرارة للذكاء الاصطناعي (الافتراضي 1.0). القيم الأعلى ستجعل المخرجات أكثر عشوائية، بينما القيم الأدنى ستجعلها أكثر تركيزًا. التوصية: اضبط إما هذه المعلمة أو أخذ العينات النووية، ولكن ليس كلاهما في الوقت نفسه.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "اختر معلمة أخذ العينات النووية للذكاء الاصطناعي (الافتراضي 1.0). القيم الأعلى ستجعل المخرجات أكثر عشوائية، بينما القيم الأدنى ستجعلها أكثر تركيزًا. التوصية: اضبط إما هذه المعلمة أو درجة الحرارة، ولكن ليس كلاهما في الوقت نفسه.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "لا تثبت التحديث",

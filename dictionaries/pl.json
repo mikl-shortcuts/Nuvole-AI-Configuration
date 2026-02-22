@@ -1,40 +1,56 @@
 {
-  "Settings_H_NAME-Topp": {
-    "value": "Wybierz parametr Próbkowania Jądrowego dla AI (domyślnie 1,0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, podczas gdy niższe – bardziej skupiony. Zalecenie: dostosuj albo ten parametr, albo Temperaturę, ale nie oba jednocześnie.",
+  "Settings_T_Lang-5050": {
+    "value": "Przetłumaczone przez ludzi (${Num1}%) i AI (${Num2}%)",
     "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Wybierz parametr Temperatury dla AI (domyślnie 1,0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, podczas gdy niższe – bardziej skupiony. Zalecenie: dostosuj albo ten parametr, albo Próbkowanie Jądrowe, ale nie oba jednocześnie.",
+  "Settings_T_Lang-Human": {
+    "value": "Przetłumaczone przez ludzi (100%)",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+      "value": "Translated by humans (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Topp": {
-    "value": "Próbkowanie Jądrowe",
+  "Settings_T_Lang-AI": {
+    "value": "Przetłumaczone przez AI (100%)",
     "original": {
-      "value": "Nucleus Sampling"
+      "value": "Translated with AI (100%)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_Name-Temp": {
-    "value": "Temperatura",
+  "Settings_H_ImageModel": {
+    "value": "Który model AI do generowania obrazów chciałbyś użyć?",
     "original": {
-      "value": "Temperature"
+      "value": "Which AI model for image generation would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_C-Text": {
-    "value": "Generowanie Tekstu",
+  "H_ImageUpdate": {
+    "value": "Wygląda na to, że model do generowania obrazów ${Name}, który wybrałeś wcześniej, nie jest już dostępny. Który model AI chciałbyś użyć?",
     "original": {
-      "value": "Text Generation"
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Model": {
+    "value": "Który model AI do generowania tekstu chciałbyś użyć?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ModelUpdate": {
+    "value": "Wygląda na to, że model do generowania tekstu ${Name}, który wybrałeś wcześniej, nie jest już dostępny. Który model AI chciałbyś użyć?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -851,16 +867,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "H_ModelUpdate": {
-    "value": "Wygląda na to, że model ${Name}, który wcześniej wybrałeś, nie jest już dostępny. Który model AI chciałbyś użyć?",
-    "original": {
-      "value": "It looks like the model ${Name} you selected earlier is no longer available. Which AI model would you like to use?",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
   "Install_N_NoMenu": {
     "value": "Nie otwieraj głównego menu",
     "original": {
@@ -979,16 +985,6 @@
     "value": "Zainstaluj nową wersję ${Num}",
     "original": {
       "value": "Install a New ${Num} Version",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Model": {
-    "value": "Który model AI chciałbyś użyć?",
-    "original": {
-      "value": "Which AI model would you like to use?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2002,6 +1998,46 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Settings_T_C-Text": {
+    "value": "Generowanie Tekstu",
+    "original": {
+      "value": "Text Generation"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Temp": {
+    "value": "Temperatura",
+    "original": {
+      "value": "Temperature"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Name-Topp": {
+    "value": "Próbkowanie Jądrowe",
+    "original": {
+      "value": "Nucleus Sampling"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Wybierz parametr Temperatury dla AI (domyślnie 1,0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, podczas gdy niższe – bardziej skupiony. Zalecenie: dostosuj albo ten parametr, albo Próbkowanie Jądrowe, ale nie oba jednocześnie.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Topp": {
+    "value": "Wybierz parametr Próbkowania Jądrowego dla AI (domyślnie 1,0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, podczas gdy niższe – bardziej skupiony. Zalecenie: dostosuj albo ten parametr, albo Temperaturę, ale nie oba jednocześnie.",
+    "original": {
+      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Update_N_NotInstall": {
     "value": "Nie instaluj aktualizacji",
