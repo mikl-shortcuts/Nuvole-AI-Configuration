@@ -4,7 +4,7 @@
     "original": {
       "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
@@ -12,7 +12,7 @@
     "original": {
       "value": "Translated by humans (100%)"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
@@ -20,7 +20,7 @@
     "original": {
       "value": "Translated with AI (100%)"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Settings_H_ImageModel": {
@@ -28,7 +28,7 @@
     "original": {
       "value": "Which AI model for image generation would you like to use?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "H_ImageUpdate": {
@@ -36,7 +36,7 @@
     "original": {
       "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Install_H_Model": {
@@ -44,7 +44,7 @@
     "original": {
       "value": "Which AI model for text generation would you like to use?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "H_ModelUpdate": {
@@ -52,7 +52,7 @@
     "original": {
       "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Settings_N_NAME-Search": {
@@ -61,7 +61,7 @@
       "value": "Internet Search",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -71,7 +71,7 @@
       "value": "Major outage.",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -81,7 +81,7 @@
       "value": "Checking for Updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -91,7 +91,7 @@
       "value": "Unfortunately, Nuvole AI cannot work with this file",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -101,7 +101,7 @@
       "value": "2 chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -110,7 +110,7 @@
     "original": {
       "value": "You can get developer feedback"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Text_T_Seconds": {
@@ -247,7 +247,7 @@
       "value": "5 updates",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -257,7 +257,7 @@
       "value": "${Count versions} have been released since version ${Num}",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -267,7 +267,7 @@
       "value": "Turned On",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -277,7 +277,7 @@
       "value": "Main Menu",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -287,7 +287,7 @@
       "value": "Device management alert!",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -296,7 +296,7 @@
     "original": {
       "value": "Permanently delete all chat history"
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true
   },
   "Settings_T_ID-Share-2": {
@@ -305,7 +305,7 @@
       "value": "Question",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -860,19 +860,19 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "أعد المحاولة باستخدام النموذج المؤقت",
+    "value": "أعد المحاولة باستخدام النم",
     "original": {
       "value": "Retry With Temp Model"
     },
-    "translatedBy": "ai",
+    "translatedBy": "mikl-shortcuts",
     "isTranslated": true
   },
   "Install_N_NoMenu": {
-    "value": "لا تفتح القائمة الرئيسية",
+    "value": "لا تفتح القائمة الرئيسي",
     "original": {
       "value": "Don’t Open the Main Menu"
     },
-    "translatedBy": "ai",
+    "translatedBy": "mikl-shortcuts",
     "isTranslated": true
   },
   "Chat_T_ChangingError": {
@@ -881,7 +881,7 @@
       "value": "Only emojis can be used as an icon",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "confirmed",
     "isTranslated": true,
     "version": 1
   },
@@ -1812,12 +1812,12 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "حذف جميع المحادثات التي تم العثور عليها",
+    "value": "حذف جميع المحادثات التي تم",
     "original": {
       "value": "Delete All Found Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "mikl-shortcuts",
     "isTranslated": true,
     "version": 1
   },
@@ -1878,11 +1878,11 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "حذف جميع الدردشات التي تم العثور عليها بشكل دائم",
+    "value": "حذف جميع الدردشات التي تم العثور عليه",
     "original": {
       "value": "Permanently delete all found chats"
     },
-    "translatedBy": "ai",
+    "translatedBy": "mikl-shortcuts",
     "isTranslated": true
   },
   "Share_N_AllFile": {
@@ -2242,11 +2242,11 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "أعد المحاولة باستخدام نفس النموذج",
+    "value": "أعد المحاولة باستخدام نفس",
     "original": {
       "value": "Retry Using the Same Model"
     },
-    "translatedBy": "ai",
+    "translatedBy": "mikl-shortcuts",
     "isTranslated": true
   },
   "Error_T_Type-Error-5": {
