@@ -76,7 +76,7 @@
     "version": 1
   },
   "Settings_N_NAME-Upd": {
-    "value": "Vérification des mises à jour",
+    "value": "Vérification des MAJ",
     "original": {
       "value": "Checking for Updates",
       "version": 1
@@ -106,7 +106,7 @@
     "version": 1
   },
   "Feedback_ORG_Email": {
-    "value": "Vous pouvez obtenir des commentaires du développeur",
+    "value": "Vous pouvez obtenir le retour du dev",
     "original": {
       "value": "You can get developer feedback"
     },
@@ -134,7 +134,7 @@
     "version": 1
   },
   "History_N_DeletionDelete": {
-    "value": "Supprimer toutes les discussions",
+    "value": "Supprimer tout les chats",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -154,7 +154,7 @@
     "version": 1
   },
   "Feedback_N_YesHistory": {
-    "value": "Oui, transmettre l’historique de cette discussion.",
+    "value": "Transmettre l’historique",
     "original": {
       "value": "Yes, Transmit the History of This Chat",
       "version": 1
@@ -292,7 +292,7 @@
     "version": 1
   },
   "History_ORG_DeletionDelete": {
-    "value": "Supprimer définitivement tout l’historique de la discussion",
+    "value": "Supprimer l’historique définitivement",
     "original": {
       "value": "Permanently delete all chat history"
     },
@@ -310,7 +310,7 @@
     "version": 1
   },
   "Update_N_Details": {
-    "value": "Voir le journal des modifications complet",
+    "value": "Voir les modifications",
     "original": {
       "value": "View Full Changelog"
     },
@@ -412,7 +412,7 @@
     "version": 1
   },
   "Main_N_NewChat": {
-    "value": "Créer une nouvelle discussion",
+    "value": "Créer un nouveau chat",
     "original": {
       "value": "Create a New Chat",
       "version": 1
@@ -422,7 +422,7 @@
     "version": 1
   },
   "Settings_N_Loading-False": {
-    "value": "Créer une nouvelle discussion",
+    "value": "Créer un nouveau chat",
     "original": {
       "value": "Create New Chat",
       "version": 1
@@ -450,7 +450,7 @@
     "isTranslated": true
   },
   "Chat_ORG_DeletionDelete": {
-    "value": "Supprimer définitivement cette discussion",
+    "value": "Supprimer définitivement ce chat",
     "original": {
       "value": "Permanently delete this chat"
     },
@@ -458,7 +458,7 @@
     "isTranslated": true
   },
   "Install_N_NoUpdates": {
-    "value": "Ne pas recevoir de Mises à Jour",
+    "value": "Ne pas recevoir de MÀJ",
     "original": {
       "value": "Do Not Receive Updates",
       "version": 1
@@ -498,7 +498,7 @@
     "version": 1
   },
   "Settings_ORG_Close": {
-    "value": "Continuer la conversation avec Nuvole AI",
+    "value": "Continuer la conversation",
     "original": {
       "value": "Continue the conversation with Nuvole AI",
       "version": 1
@@ -548,7 +548,7 @@
     "version": 1
   },
   "Chat_N_Load": {
-    "value": "Charger et continuer la discussion",
+    "value": "Continuer la conversation",
     "original": {
       "value": "Load and Continue Chat",
       "version": 1
@@ -588,7 +588,7 @@
     "version": 1
   },
   "Settings_N_ImagePlus-False": {
-    "value": "Ne pas améliorer la requête",
+    "value": "Ne pas améliorer",
     "original": {
       "value": "Do Not Improve Prompt"
     },
@@ -626,7 +626,7 @@
     "version": 1
   },
   "Main_ORG_History": {
-    "value": "Parcourir, voir et continuer vos discussions",
+    "value": "Gérer vos discussions",
     "original": {
       "value": "Browse, view and continue your chats"
     },
@@ -644,7 +644,7 @@
     "version": 1
   },
   "Chat_ORG_DeletionStop": {
-    "value": "Sauvegarder la discussion et revenir en arrière",
+    "value": "Sauvegarder et revenir en arrière",
     "original": {
       "value": "Save chat and go back",
       "version": 1
@@ -704,7 +704,7 @@
     "version": 1
   },
   "Main_N_LastLoad": {
-    "value": "Reprendre la dernière discussion",
+    "value": "Reprendre le dernier chat",
     "original": {
       "value": "Resume Last Chat"
     },
@@ -752,7 +752,7 @@
     "version": 1
   },
   "Main_ORG_Feedback": {
-    "value": "Des problèmes, des questions ou des idées ?",
+    "value": "Un souci ? Une idée ?",
     "original": {
       "value": "Any problems, questions or ideas?"
     },
@@ -760,7 +760,7 @@
     "isTranslated": true
   },
   "Share_T_VideoSize": {
-    "value": "Faire un résumé de ${Size} de la vidéo",
+    "value": "Résumer ${Size} de la vidéo",
     "original": {
       "value": "Make a ${Size} summarization of the video",
       "version": 1
@@ -810,7 +810,7 @@
     "version": 1
   },
   "Settings_N_Saving-True": {
-    "value": "Toujours enregistrer les nouvelles discussions",
+    "value": "auto-enregistrer les chats",
     "original": {
       "value": "Always Save New Chats",
       "version": 1
@@ -860,7 +860,7 @@
     "version": 1
   },
   "Error_N_Replace": {
-    "value": "Réessayer avec le modèle temporaire",
+    "value": "Réessayer en temporaire",
     "original": {
       "value": "Retry With Temp Model"
     },
@@ -868,7 +868,7 @@
     "isTranslated": true
   },
   "Install_N_NoMenu": {
-    "value": "Ne pas ouvrir le menu principal",
+    "value": "Ne pas ouvrir le menu",
     "original": {
       "value": "Don’t Open the Main Menu"
     },
@@ -886,7 +886,7 @@
     "version": 1
   },
   "Feedback_N_NoHistory": {
-    "value": "Non, ne pas transmettre l’historique",
+    "value": "Ignorer l’historique",
     "original": {
       "value": "No, Not Transmit the History",
       "version": 1
@@ -896,7 +896,7 @@
     "version": 1
   },
   "History_N_Select": {
-    "value": "Sélectionner et supprimer des discussions",
+    "value": "Supprimer des discussions",
     "original": {
       "value": "Select and Delete Chats",
       "version": 1
@@ -906,7 +906,7 @@
     "version": 1
   },
   "History_N_Delete": {
-    "value": "Supprimer toutes les discussions",
+    "value": "Supprimer tout les chats",
     "original": {
       "value": "Delete All Chats",
       "version": 1
@@ -952,7 +952,7 @@
     "version": 1
   },
   "History_ORG_DeletionStop": {
-    "value": "Enregistrer les discussions et revenir en arrière",
+    "value": "Enregistrer et revenir en arrière",
     "original": {
       "value": "Save chats and go back",
       "version": 1
@@ -982,29 +982,29 @@
     "version": 1
   },
   "Update_N_Install": {
-    "value": "Installer une Nouvelle Version ${Num}",
+    "value": "Installer la version (${Num})",
     "original": {
       "value": "Install a New ${Num} Version",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
   "Install_N_SkipLearn": {
-    "value": "Passer et commencer à travailler",
+    "value": "Passer et commencer",
     "original": {
       "value": "Skip and Start Working"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_N_NAME-Loading": {
-    "value": "Charger automatiquement la dernière discussion",
+    "value": "Auto-charger dernier chat",
     "original": {
       "value": "Auto-load Last Chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_T_ID-Upd-False": {
@@ -1078,20 +1078,20 @@
     "version": 1
   },
   "Settings_N_Loading-True": {
-    "value": "Reprendre automatiquement le dernier chat",
+    "value": "Reprise auto du chat",
     "original": {
       "value": "Auto-Resume Last Chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_N_NAME-History": {
-    "value": "Affichage de l'Historique du Chat",
+    "value": "Afficher l’historique",
     "original": {
       "value": "Chat History Displaying",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -1156,11 +1156,11 @@
     "version": 1
   },
   "Settings_N_Search-True": {
-    "value": "Rechercher automatiquement",
+    "value": "Rechercher auto",
     "original": {
       "value": "Automatically Search"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Update_T_21Changes": {
@@ -1210,11 +1210,11 @@
     "isTranslated": true
   },
   "Install_ORG_YesUpdates": {
-    "value": "Recommandé pour une meilleure expérience",
+    "value": "Recommandé",
     "original": {
       "value": "Recommended for a better experience"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Text_T_Hide": {
@@ -1248,22 +1248,22 @@
     "version": 1
   },
   "Chat_ORG_Rename": {
-    "value": "Changer le nom du chat “${Text}” en un autre",
+    "value": "Renommer “${Text}”",
     "original": {
       "value": "Change the chat name “${Text}” to any other",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
   "History_N_SearchChange": {
-    "value": "Changer la Requête de Recherche",
+    "value": "Modifier la recherche",
     "original": {
       "value": "Change Search Query",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -1412,12 +1412,12 @@
     "isTranslated": true
   },
   "Chat_ORG_Icon": {
-    "value": "Changer l'icône du chat “${Text}” en une autre",
+    "value": "Modifier l’icône du chat “${Text}”",
     "original": {
       "value": "Change the chat icon “${Text}” to any other",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -1510,11 +1510,11 @@
     "version": 1
   },
   "Share_ORG_Slides": {
-    "value": "Votre présentation sera montrée en premier",
+    "value": "Affiché en premier",
     "original": {
       "value": "Your presentation will be shown first"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Main_N_History": {
@@ -1548,19 +1548,19 @@
     "version": 1
   },
   "Settings_N_History-False": {
-    "value": "Ne pas afficher l'historique",
+    "value": "Masquer l'historique",
     "original": {
       "value": "Do Not Display History"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Main_N_Continue": {
-    "value": "Reprendre cette discussion",
+    "value": "Reprendre ce chat",
     "original": {
       "value": "Resume This Chat"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_N_NAME-Voice": {
@@ -1684,12 +1684,12 @@
     "isTranslated": true
   },
   "Share_N_AllPre": {
-    "value": "Utiliser Toute la Présentation",
+    "value": "Tout utiliser",
     "original": {
       "value": "Use the Whole Presentation",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -1812,12 +1812,12 @@
     "version": 1
   },
   "History_N_SearchDelete": {
-    "value": "Supprimer Tous les Chats Trouvés",
+    "value": "Supprimer les résultats",
     "original": {
       "value": "Delete All Found Chats",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -1878,11 +1878,11 @@
     "version": 1
   },
   "History_ORG_SearchDeletionDelete": {
-    "value": "Supprimer définitivement tous les chats trouvés",
+    "value": "Supprimer définitivement les résultats",
     "original": {
       "value": "Permanently delete all found chats"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Share_N_AllFile": {
@@ -1896,19 +1896,19 @@
     "version": 1
   },
   "Error_N_Change": {
-    "value": "Changer le modèle et réessayer",
+    "value": "Changer et réessayer",
     "original": {
       "value": "Change Model and Retry"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Share_N_Slides": {
-    "value": "Sélectionner les diapositives à utiliser",
+    "value": "Diapositives à utiliser",
     "original": {
       "value": "Select Slides to Use"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_T_ID-Theme-0": {
@@ -1952,12 +1952,12 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Ne Pas Proposer Cette Mise à Jour",
+    "value": "Ne pas proposer cette MAJ",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -2040,12 +2040,12 @@
     "isTranslated": true
   },
   "Update_N_NotInstall": {
-    "value": "Ne Pas Installer la Mise à Jour",
+    "value": "Ne Pas Installer la MÀJ",
     "original": {
       "value": "Do Not Install the Update",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -2076,11 +2076,11 @@
     "isTranslated": true
   },
   "Settings_N_Saving-False": {
-    "value": "Enregistrer uniquement lorsque demandé",
+    "value": "Sauvegarder sur demande",
     "original": {
       "value": "Save Only When Asked"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_T_NumberMin": {
@@ -2112,11 +2112,11 @@
     "version": 1
   },
   "Feedback_N_YesConfig": {
-    "value": "Oui, transmettre ma configuration",
+    "value": "Partager ma configuration",
     "original": {
       "value": "Yes, Transmit My Config"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Error_N_Report": {
@@ -2128,11 +2128,11 @@
     "isTranslated": true
   },
   "Share_N_Pages": {
-    "value": "Sélectionner les pages à utiliser",
+    "value": "Sélectionner les pages",
     "original": {
       "value": "Select Pages to Use"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Settings_T_FontErrorMax": {
@@ -2146,11 +2146,11 @@
     "version": 1
   },
   "Feedback_ORG_Server": {
-    "value": "Vous ne pouvez pas obtenir de commentaires de développeurs",
+    "value": "Pas de commentaires du développeur",
     "original": {
       "value": "You can’t get developer feedback"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Install_ORG_Learn": {
@@ -2162,12 +2162,12 @@
     "isTranslated": true
   },
   "History_N_SelectionDelete": {
-    "value": "Supprimer ${Count} ${Chats} Sélectionnés",
+    "value": "Supprimer ${Count} ${Chats}",
     "original": {
       "value": "Delete ${Count} Selected ${Chats}",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
@@ -2242,11 +2242,11 @@
     "version": 1
   },
   "Error_N_ChangeStop": {
-    "value": "Réessayer en utilisant le même modèle",
+    "value": "Réessayer (même modèle)",
     "original": {
       "value": "Retry Using the Same Model"
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true
   },
   "Error_T_Type-Error-5": {
@@ -2296,12 +2296,12 @@
     "isTranslated": true
   },
   "Feedback_N_NoConfig": {
-    "value": "Non, Ne Pas Transmettre la Configuration",
+    "value": "Ne pas transmettre",
     "original": {
       "value": "No, Not Transmit Config",
       "version": 1
     },
-    "translatedBy": "ai",
+    "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
   },
