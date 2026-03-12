@@ -76,7 +76,7 @@
     "version": 1
   },
   "Settings_N_NAME-Upd": {
-    "value": "Vérification des MAJ",
+    "value": "Vérification des MÀJ",
     "original": {
       "value": "Checking for Updates",
       "version": 1
@@ -1952,7 +1952,7 @@
     "version": 1
   },
   "Update_N_Hide": {
-    "value": "Ne pas proposer cette MAJ",
+    "value": "Ne pas proposer cette MÀJ",
     "original": {
       "value": "Do Not Offer This Update",
       "version": 1
