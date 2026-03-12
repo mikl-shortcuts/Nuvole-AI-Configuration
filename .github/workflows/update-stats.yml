@@ -2,6 +2,7 @@ name: Update Translation Stats
 
 on:
   push:
+    branches: [main]
     paths:
       - 'dictionaries/**.json'
       - '!dictionaries/en.json'
