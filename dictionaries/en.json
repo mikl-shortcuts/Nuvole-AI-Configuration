@@ -1,4 +1,54 @@
 {
+  "Settings_N_Sorting": {
+    "value": "List Sorting",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stability",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rank (Intelligence)",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Speed",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Release date",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} models available:",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Select ${Name}",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Return to model list",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
   "Settings_N_NAME-Search": {
     "value": "Internet Search",
     "isTranslated": true,
@@ -540,17 +590,17 @@
     "translatedBy": "human"
   },
   "Settings_T_Lang-AI": {
-    "value": "Translated with AI (100%)",
+    "value": "Translated: 100% AI",
     "isTranslated": true,
     "translatedBy": "human"
   },
   "Settings_T_Lang-Human": {
-    "value": "Translated by humans (100%)",
+    "value": "Translated: 100% Human",
     "isTranslated": true,
     "translatedBy": "human"
   },
   "Settings_T_Lang-5050": {
-    "value": "Translated by humans (${Num1}%) and AI (${Num2}%)",
+    "value": "Translated: ${Num1}% Human, ${Num2}% AI",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1059,18 +1109,8 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Settings_N_Name-Topp": {
-    "value": "Nucleus Sampling",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
   "Settings_H_NAME-Temp": {
-    "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time.",
-    "isTranslated": true,
-    "translatedBy": "human"
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time.",
+    "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused.",
     "isTranslated": true,
     "translatedBy": "human"
   },
