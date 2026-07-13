@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "由人工翻译（${Num1}%）和 AI 翻译（${Num2}%）",
+  "Settings_ORG_ModelSelect": {
+    "value": "返回模型列表",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "选择 ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "关于 ${Model}:/n/n完整名称：${Name}/n排名：${Rank}/n稳定性：${Stability}/n速度：${Speed} 秒/生成/n公司：${Company}/n发布日期：${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "关于 ${Model}:/n/n完整名称：${Name}/n排名：${Rank}/n人工分析评分：${Score}/n稳定性：${Stability}/n速度：${Speed} 令牌/秒/n公司：${Company}/n发布日期：${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} 个模型可用：",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "发布日期",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "速度",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "排名（智能）",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "稳定性",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "列表排序",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "选择 AI 的温度参数（默认 1.0）。较高的值会使输出更随机，而较低的值会使其更聚焦。",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "翻译：${Num1}% 人工，${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "由人工翻译（100%）",
+    "value": "翻译：100% 人工",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "由 AI 翻译（100%）",
+    "value": "翻译：100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "您想使用哪个图像生成 AI 模型？",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "看起来您之前选择的图像生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "您想使用哪个文本生成 AI 模型？",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "看起来您之前选择的文本生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -865,6 +921,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "看起来您之前选择的文本生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "看起来您之前选择的图像生成模型“${Name}”已不再可用。您想使用哪个 AI 模型？",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "不要打开主菜单",
     "original": {
@@ -988,6 +1060,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "您想使用哪个文本生成 AI 模型？",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "您想使用哪个图像生成 AI 模型？",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "跳过并开始工作",
@@ -2009,30 +2097,6 @@
     "value": "温度",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "核采样",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "选择 AI 的温度参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或核采样参数，但不要同时调整两者。",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "选择 AI 的核采样参数（默认值为 1.0）。较高的值会使输出更随机，而较低的值则会使输出更集中。建议：调整此参数或温度参数，但不要同时调整两者。",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

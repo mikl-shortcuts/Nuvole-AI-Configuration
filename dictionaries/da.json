@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Oversat af mennesker (${Num1}%) og AI (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Gå tilbage til modeloversigten",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Vælg ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Om ${Model}:/n/nFuldt navn: ${Name}/nRang: ${Rank}/nStabilitet: ${Stability}/nHastighed: ${Speed} Sec/gen/nFirma: ${Company}/nUdgivelsesdato: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Om ${Model}:/n/nFuldt navn: ${Name}/nRang: ${Rank}/nKunstig analyse score: ${Score}/nStabilitet: ${Stability}/nHastighed: ${Speed} Tokens/sec/nFirma: ${Company}/nUdgivelsesdato: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} modeller tilgængelige:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Udgivelsesdato",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Hastighed",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rang (Intelligens)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilitet",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Liste sortering",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Vælg temperaturen for AI (1.0 som standard). Højere værdier gør output mere tilfældig, mens lavere værdier gør det mere fokuseret.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Oversat: ${Num1}% Menneske, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Oversat af mennesker (100%)",
+    "value": "Oversat: 100% Menneske",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Oversat med AI (100%)",
+    "value": "Oversat: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Hvilken AI-model til billedgenerering vil du bruge?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Det ser ud til, at modellen til billedgenerering ${Name}, som du tidligere valgte, ikke længere er tilgængelig. Hvilken AI-model vil du bruge?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Hvilken AI-model til tekstgenerering vil du bruge?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Det ser ud til, at modellen til tekstgenerering ${Name}, som du tidligere valgte, ikke længere er tilgængelig. Hvilken AI-model vil du bruge?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -865,6 +921,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Det ser ud til, at modellen til tekstgenerering ${Name}, som du tidligere valgte, ikke længere er tilgængelig. Hvilken AI-model vil du bruge?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Det ser ud til, at modellen til billedgenerering ${Name}, som du tidligere valgte, ikke længere er tilgængelig. Hvilken AI-model vil du bruge?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Åbn ikke hovedmenuen",
     "original": {
@@ -988,6 +1060,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Hvilken AI-model til tekstgenerering vil du bruge?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Hvilken AI-model til billedgenerering vil du bruge?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Spring over og begynd at arbejde",
@@ -2009,30 +2097,6 @@
     "value": "Temperatur",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Nucleus Sampling",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Vælg temperaturparameteren for AI (1,0 som standard). Højere værdier gør outputtet mere tilfældigt, mens lavere værdier gør det mere fokuseret. Anbefaling: justér enten denne parameter eller Nucleus Sampling, men ikke begge på samme tid.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Vælg Nucleus Sampling-parameteren for AI (1,0 som standard). Højere værdier gør outputtet mere tilfældigt, mens lavere værdier gør det mere fokuseret. Anbefaling: justér enten denne parameter eller Temperatur, men ikke begge på samme tid.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

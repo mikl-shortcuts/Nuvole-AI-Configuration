@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Tradus de oameni (${Num1}%) și AI (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Întoarce-te la lista de modele",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Selectează ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Despre ${Model}:/n/nNume complet: ${Name}/nClasă: ${Rank}/nStabilitate: ${Stability}/nViteză: ${Speed} Sec/gen/nCompanie: ${Company}/nData lansării: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Despre ${Model}:/n/nNume complet: ${Name}/nClasă: ${Rank}/nScor de analiză artificială: ${Score}/nStabilitate: ${Stability}/nViteză: ${Speed} Token/sec/nCompanie: ${Company}/nData lansării: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} modele disponibile:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Data lansării",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Viteză",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Clasă (Inteligență)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilitate",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Sortare listă",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Selectează parametrul de temperatură pentru AI (1.0 implicit). Valorile mai mari vor face ca ieșirea să fie mai aleatorie, în timp ce valorile mai mici vor face ca aceasta să fie mai concentrată.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Tradus: ${Num1}% Uman, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Tradus de oameni (100%)",
+    "value": "Tradus: 100% Uman",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Tradus cu ajutorul AI (100%)",
+    "value": "Tradus: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Ce model AI pentru generarea de imagini doriți să utilizați?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Se pare că modelul pentru generarea de imagini ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Ce model AI pentru generarea de text doriți să utilizați?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Se pare că modelul pentru generarea de text ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Se pare că modelul pentru generarea de text ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Se pare că modelul pentru generarea de imagini ${Name} pe care l-ați selectat anterior nu mai este disponibil. Ce model AI doriți să utilizați?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Nu deschide meniul principal",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Ce model AI pentru generarea de text doriți să utilizați?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Ce model AI pentru generarea de imagini doriți să utilizați?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Săriți și începeți să lucrați",
@@ -2011,30 +2099,6 @@
     "value": "Temperatură",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Eșantionare Nucleu",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Selectați parametrul „Temperatură” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Eșantionare Nucleu”, dar nu pe amândoi în același timp.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Selectați parametrul „Eșantionare Nucleu” pentru AI (1,0 implicit). Valorile mai mari vor face ieșirea mai aleatorie, în timp ce valorile mai mici o vor face mai concentrată. Recomandare: ajustați fie acest parametru, fie „Temperatură”, dar nu pe amândoi în același timp.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

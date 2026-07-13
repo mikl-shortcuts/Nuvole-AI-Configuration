@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Превео човек (${Num1}%) и вештачка интелигенција (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Vratite se na listu modela",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Izaberite ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "O ${Model}:/n/nPuno ime: ${Name}/nRang: ${Rank}/nStabilnost: ${Stability}/nBrzina: ${Speed} Sec/gen/nKompanija: ${Company}/nDatum izdavanja: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "O ${Model}:/n/nPuno ime: ${Name}/nRang: ${Rank}/nArtificial Analysis Score: ${Score}/nStabilnost: ${Stability}/nBrzina: ${Speed} Tokena/sec/nKompanija: ${Company}/nDatum izdavanja: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} dostupnih modela:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Datum izdavanja",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Brzina",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rang (Inteligencija)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilnost",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Sortiranje liste",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Izaberite parametar Temperature za AI (1.0 po defaultu). Više vrednosti će učiniti izlaz random, dok će manje vrednosti učiniti izlaz više fokusiran.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Prevedeno: ${Num1}% Human, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Превео човек (100%)",
+    "value": "Prevedeno: 100% Human",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Преведено уз помоћ вештачке интелигенције (100%)",
+    "value": "Prevedeno: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Који модел вештачке интелигенције за генерисање слика желите да користите?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Изгледа да модел за генерисање слика ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Који модел вештачке интелигенције за генерисање текста желите да користите?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Изгледа да модел за генерисање текста ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Изгледа да модел за генерисање текста ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Изгледа да модел за генерисање слика ${Name} који сте раније одабрали више није доступан. Који модел вештачке интелигенције желите да користите?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Ne otvaraj glavni meni",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Који модел вештачке интелигенције за генерисање текста желите да користите?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Који модел вештачке интелигенције за генерисање слика желите да користите?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Preskoči i Počni sa Radom",
@@ -2011,30 +2099,6 @@
     "value": "Температура",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Нуклеус узорковање",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Изаберите параметар Температура за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Нуклеус узорковање, али не оба истовремено.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Изаберите параметар Нуклеус узорковање за Nuvole AI (подразумевано 1.0). Веће вредности ће учинити излаз случајнијим, док мање вредности чине излаз фокусиранијим. Препорука: подесите или овај параметар или Температуру, али не оба истовремено.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

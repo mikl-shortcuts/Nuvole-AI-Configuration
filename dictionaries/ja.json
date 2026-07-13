@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "人間による翻訳（${Num1}％）とAIによる翻訳（${Num2}％）",
+  "Settings_ORG_ModelSelect": {
+    "value": "モデルリストに戻る",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} を選択",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "について ${Model}:/n/nフルネーム：${Name}/nランク：${Rank}/n安定性：${Stability}/n速度：${Speed} 秒/生成/n会社：${Company}/nリリース日：${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "について ${Model}:/n/nフルネーム：${Name}/nランク：${Rank}/n人工分析スコア：${Score}/n安定性：${Stability}/n速度：${Speed} トークン/秒/n会社：${Company}/nリリース日：${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} モデルが利用可能です：",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "リリース日",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "速度",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "ランク（知能）",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "安定性",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "リストの並べ替え",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI の温度パラメータを選択してください（デフォルトは 1.0）。値が高いほど出力はランダムになり、低いほど集中します。",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "翻訳：${Num1}% 人間、${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "人間による翻訳（100％）",
+    "value": "翻訳：100% 人間",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "AIによる翻訳（100％）",
+    "value": "翻訳：100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "画像生成用のAIモデルはどれを使用しますか？",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "以前選択した画像生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "テキスト生成用のAIモデルはどれを使用しますか？",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "以前選択したテキスト生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "以前選択したテキスト生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "以前選択した画像生成用のモデル「${Name}」は、もう利用できなくなったようです。どのAIモデルを使用しますか？",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "メインメニューを開かない",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "テキスト生成用のAIモデルはどれを使用しますか？",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "画像生成用のAIモデルはどれを使用しますか？",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "スキップして作業を開始",
@@ -2011,30 +2099,6 @@
     "value": "温度",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "ニュークリアスサンプリング",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "AIの「温度」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「ニュークリアスサンプリング」のどちらかを調整してください。両方同時に調整しないでください。",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "AIの「ニュークリアスサンプリング」パラメータを選択します（デフォルトは1.0）。値が高いほど出力がランダムになり、低いほど焦点が絞られます。推奨：このパラメータか「温度」のどちらかを調整してください。両方同時に調整しないでください。",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

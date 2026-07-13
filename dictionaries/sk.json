@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Preložené ľuďmi (${Num1} %) a umelou inteligenciou (${Num2} %)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Späť na zoznam modelov",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Vybrať ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Sek/gen/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nUmelý analytický skóre: ${Score}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Tokenov/sek/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} dostupných modelov:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Dátum vydania",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Rýchlosť",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Hodnotenie (Inteligencia)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilita",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Zoradenie zoznamu",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Vyberte parametre teploty pre AI (1.0 je predvolené). Vyššie hodnoty budú výsledok náhodnejší, nižšie hodnoty budú výsledok zameranejší.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Preložené: ${Num1}% Človek, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Preložené ľuďmi (100 %)",
+    "value": "Preložené: 100% Človek",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Preložené pomocou umelej inteligencie (100 %)",
+    "value": "Preložené: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Ktorý model umelej inteligencie pre generovanie obrázkov by ste chceli použiť?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Vyzerá sa, že model pre generovanie obrázkov ${Name}, ktorý ste si vybrali skôr, už nie je dostupný. Ktorý model umelej inteligencie by ste chceli použiť?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Ktorý model umelej inteligencie pre generovanie textu by ste chceli použiť?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Vyzerá sa, že model pre generovanie textu ${Name}, ktorý ste si vybrali skôr, už nie je dostupný. Ktorý model umelej inteligencie by ste chceli použiť?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Vyzerá sa, že model pre generovanie textu ${Name}, ktorý ste si vybrali skôr, už nie je dostupný. Ktorý model umelej inteligencie by ste chceli použiť?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Vyzerá sa, že model pre generovanie obrázkov ${Name}, ktorý ste si vybrali skôr, už nie je dostupný. Ktorý model umelej inteligencie by ste chceli použiť?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Neotvárajte Hlavné Menu",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Ktorý model umelej inteligencie pre generovanie textu by ste chceli použiť?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Ktorý model umelej inteligencie pre generovanie obrázkov by ste chceli použiť?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Preskočiť a začať pracovať",
@@ -2011,30 +2099,6 @@
     "value": "Teplota",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Vzorkovanie jadra",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Vyberte parameter Teplota pre AI (predvolene 1,0). Vyššie hodnoty spôsobia náhodnejší výstup, kým nižšie hodnoty ho spravia zameranejší. Odporúčanie: nastavte buď tento parameter, alebo Vzorkovanie jadra, ale nie oba súčasne.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Vyberte parameter Vzorkovanie jadra pre AI (predvolene 1,0). Vyššie hodnoty spôsobia náhodnejší výstup, kým nižšie hodnoty ho spravia zameranejší. Odporúčanie: nastavte buď tento parameter, alebo Teplotu, ale nie oba súčasne.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

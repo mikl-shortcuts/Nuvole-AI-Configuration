@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Tulkojis cilvēks (${Num1}%) un AI (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Atgriezties pie modelu saraksta",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Izvēlieties ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Par ${Model}:/n/nPilns nosaukums: ${Name}/nRangs: ${Rank}/nStabilitāte: ${Stability}/nĀtrums: ${Speed} sek/generācija/nUzņēmums: ${Company}/nIzlaiduma datums: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Par ${Model}:/n/nPilns nosaukums: ${Name}/nRangs: ${Rank}/nMākslīgās analīzes rezultāts: ${Score}/nStabilitāte: ${Stability}/nĀtrums: ${Speed} simboli/sek/nUzņēmums: ${Company}/nIzlaiduma datums: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} pieejami modeļi:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Izlaiduma datums",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Ātrums",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rangs (Intelektualitāte)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilitāte",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Saraksta kārtošana",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Izvēlieties temperatūras parametru AI (noklusējuma vērtība 1.0). Augstākas vērtības padara izkārtību vairāk nejaušu, kamēr zemākas vērtības to padara vairāk koncentrētu.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Tulkojums: ${Num1}% cilvēks, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Tulkojis cilvēks (100%)",
+    "value": "Tulkojums: 100% cilvēks",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Tulkots ar AI (100%)",
+    "value": "Tulkojums: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Kuru AI modeli attēlu ģenerēšanai vēlaties izmantot?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Šķiet, ka attēlu ģenerēšanas modeļa ${Name}, ko izvēlējāties iepriekš, vairs nav piejamais. Kuru AI modeli vēlaties izmantot?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Kuru AI modeli teksta ģenerēšanai vēlaties izmantot?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Šķiet, ka teksta ģenerēšanas modeļa ${Name}, ko izvēlējāties iepriekš, vairs nav pieejams. Kuru AI modeli vēlaties izmantot?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Šķiet, ka teksta ģenerēšanas modeļa ${Name}, ko izvēlējāties iepriekš, vairs nav pieejams. Kuru AI modeli vēlaties izmantot?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Šķiet, ka attēlu ģenerēšanas modeļa ${Name}, ko izvēlējāties iepriekš, vairs nav piejamais. Kuru AI modeli vēlaties izmantot?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Neatveriet Galveno Izvelni",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Kuru AI modeli teksta ģenerēšanai vēlaties izmantot?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Kuru AI modeli attēlu ģenerēšanai vēlaties izmantot?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Izlaist un Sākt Darbu",
@@ -2011,30 +2099,6 @@
     "value": "Temperatūra",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Nukleusa izvēle",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Izvēlieties AI temperatūras parametru (pēc noklusējuma 1.0). Augstākas vērtības padarīs izvadi nejaušāku, bet zemākas vērtības – koncentrētāku. Ieteikums: regulējiet vai nu šo parametru, vai Nukleusa izvēli, bet ne abus vienlaikus.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Izvēlieties AI Nukleusa izvēles parametru (pēc noklusējuma 1.0). Augstākas vērtības padarīs izvadi nejaušāku, bet zemākas vērtības – koncentrētāku. Ieteikums: regulējiet vai nu šo parametru, vai Temperatūru, bet ne abus vienlaikus.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

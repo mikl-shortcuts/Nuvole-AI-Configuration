@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "인간이 번역함 (${Num1}%) 및 AI가 번역함 (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "모델 목록으로 돌아가기",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} 선택",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n안정성: ${Stability}/n속도: ${Speed} 초/생성/n회사: ${Company}/n출시일: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n인공 분석 점수: ${Score}/n안정성: ${Stability}/n속도: ${Speed} 토큰/초/n회사: ${Company}/n출시일: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num}개의 모델 사용 가능:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "출시일",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "속도",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "순위 (지능)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "안정성",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "목록 정렬",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI의 온도 매개변수를 선택하세요 (기본값 1.0). 높은 값은 출력을 더 무작위로 만들고, 낮은 값은 더 집중적으로 만듭니다.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "번역: ${Num1}% 인간, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "인간이 번역함 (100%)",
+    "value": "번역: 100% 인간",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "AI로 번역됨 (100%)",
+    "value": "번역: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "이미지 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "이전에 선택한 이미지 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "텍스트 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "이전에 선택한 텍스트 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "이전에 선택한 텍스트 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "이전에 선택한 이미지 생성 모델 ${Name}이(가) 더 이상 사용 가능하지 않은 것 같습니다. 어떤 AI 모델을 사용하시겠습니까?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "메인 메뉴를 열지 마십시오",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "텍스트 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "이미지 생성을 위한 AI 모델을 어떤 것을 사용하시겠습니까?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "건너뛰고 작업 시작",
@@ -2011,30 +2099,6 @@
     "value": "온도",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "뉴클리어스 샘플링",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "AI의 온도 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 뉴클리어스 샘플링 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "AI의 뉴클리어스 샘플링 매개변수를 선택하세요 (기본값: 1.0). 값이 높을수록 출력이 더 무작위화되며, 값이 낮을수록 더 집중됩니다. 권장 사항: 이 매개변수나 온도 중 하나만 조정하세요. 둘을 동시에 조정하지 마세요.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

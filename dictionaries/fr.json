@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Traduction par des humains (${Num1} %) et par IA (${Num2} %)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Retour à la liste des modèles",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Sélectionner ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "À propos de ${Model}:/n/nNom complet : ${Name}/nRang : ${Rank}/nStabilité : ${Stability}/nVitesse : ${Speed} Sec/gen/nEntreprise : ${Company}/nDate de sortie : ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "À propos de ${Model}:/n/nNom complet : ${Name}/nRang : ${Rank}/nScore d'analyse artificielle : ${Score}/nStabilité : ${Stability}/nVitesse : ${Speed} Tokens/sec/nEntreprise : ${Company}/nDate de sortie : ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} modèles disponibles :",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Date de sortie",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Vitesse",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rang (Intelligence)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilité",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Tri des listes",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Sélectionnez le paramètre de température pour l'IA (1,0 par défaut). Des valeurs plus élevées rendront la sortie plus aléatoire, tandis que des valeurs plus faibles la rendront plus ciblée.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Traduction : ${Num1} % Humain, ${Num2} % IA",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Traduction par des humains (100 %)",
+    "value": "Traduction : 100 % Humain",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Traduction par IA (100 %)",
+    "value": "Traduction : 100 % IA",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Quel modèle d’IA pour la génération d’images souhaitez-vous utiliser ?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Il semble que le modèle de génération d’images ${Name} que vous aviez sélectionné précédemment ne soit plus disponible. Quel modèle d’IA souhaitez-vous utiliser ?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Quel modèle d’IA pour la génération de texte souhaitez-vous utiliser ?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Il semble que le modèle de génération de texte ${Name} que vous aviez sélectionné précédemment ne soit plus disponible. Quel modèle d’IA souhaitez-vous utiliser ?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "nosleepytime",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Il semble que le modèle de génération de texte ${Name} que vous aviez sélectionné précédemment ne soit plus disponible. Quel modèle d’IA souhaitez-vous utiliser ?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Il semble que le modèle de génération d’images ${Name} que vous aviez sélectionné précédemment ne soit plus disponible. Quel modèle d’IA souhaitez-vous utiliser ?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Ne pas ouvrir le menu",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "nosleepytime",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Quel modèle d’IA pour la génération de texte souhaitez-vous utiliser ?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Quel modèle d’IA pour la génération d’images souhaitez-vous utiliser ?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Passer et commencer",
@@ -2011,30 +2099,6 @@
     "value": "Température",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Échantillonnage nucléaire",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Sélectionnez le paramètre de Température pour l’IA (1,0 par défaut). Des valeurs plus élevées rendront la sortie plus aléatoire, tandis que des valeurs plus basses la rendront plus ciblée. Recommandation : ajustez soit ce paramètre, soit l’Échantillonnage nucléaire, mais pas les deux en même temps.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Sélectionnez le paramètre d’Échantillonnage nucléaire pour l’IA (1,0 par défaut). Des valeurs plus élevées rendront la sortie plus aléatoire, tandis que des valeurs plus basses la rendront plus ciblée. Recommandation : ajustez soit ce paramètre, soit la Température, mais pas les deux en même temps.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "תורגם על ידי בני אדם (${Num1}%) ובינה מלאכותית (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "חזור לרשימת הדגמים",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "בחר ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "על ${Model}:/n/nשם מלא: ${Name}/nדרג: ${Rank}/nיציבות: ${Stability}/nמהירות: ${Speed} שניות/יצירה/nחברה: ${Company}/nתאריך שחרור: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "על ${Model}:/n/nשם מלא: ${Name}/nדרג: ${Rank}/nציון ניתוח מלאכותי: ${Score}/nיציבות: ${Stability}/nמהירות: ${Speed} טוקנים/שנייה/nחברה: ${Company}/nתאריך שחרור: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} דגמים זמינים:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "תאריך שחרור",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "מהירות",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "דרג (בינה)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "יציבות",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "מיון הרשימה",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "בחר את פרמטר הטמפרטורה לאייי (1.0 כברירת מחדל). ערכים גבוהים יותר יגרמו לתוצאה להיות יותר אקראית, בעוד שערכים נמוכים יותר יגרמו לה להיות יותר מוקדית.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "מתורגם: ${Num1}% אנושי, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "תורגם על ידי בני אדם (100%)",
+    "value": "מתורגם: 100% אנושי",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "תורגם באמצעות בינה מלאכותית (100%)",
+    "value": "מתורגם: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "איזה מודל בינה מלאכותית ליצירת תמונות תרצה להשתמש?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "נראה שהמודל ליצירת תמונות ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "איזה מודל בינה מלאכותית ליצירת טקסט תרצה להשתמש?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "נראה שהמודל ליצירת טקסט ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "נראה שהמודל ליצירת טקסט ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "נראה שהמודל ליצירת תמונות ${Name} שבחרת קודם כבר אינו זמין. איזה מודל בינה מלאכותית תרצה להשתמש?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "אַל תִּפְתַּח אֶת הַתַּפְרִיט הָרָאשִׁי",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "איזה מודל בינה מלאכותית ליצירת טקסט תרצה להשתמש?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "איזה מודל בינה מלאכותית ליצירת תמונות תרצה להשתמש?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "דלג והתחל לעבוד",
@@ -2011,30 +2099,6 @@
     "value": "טמפרטורה",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "דגימה גרעינית",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "בחר את פרמטר הטמפרטורה עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הדגימה הגרעינית, אך לא את שניהם בו־זמנית.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "בחר את פרמטר הדגימה הגרעינית עבור ה־AI (ברירת מחדל: 1.0). ערכים גבוהים יותר יהפכו את הפלט לאקראי יותר, בעוד שערכים נמוכים יותר יהפכו אותו ממוקד יותר. המלצה: כוון או את הפרמטר הזה או את הטמפרטורה, אך לא את שניהם בו־זמנית.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

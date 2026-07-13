@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "İnsanlar tarafından (${Num1}%) ve yapay zeka tarafından (${Num2}%) çevrildi",
+  "Settings_ORG_ModelSelect": {
+    "value": "Model listesine dön",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} seç",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nStabilite: ${Stability}/nHız: ${Speed} Saniye/gen/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nYapay Analiz Puanı: ${Score}/nStabilite: ${Stability}/nHız: ${Speed} Tokens/saniye/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} model mevcut:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Yayınlanma tarihi",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Hız",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Sıralama (Zekâ)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilite",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Liste Sıralama",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI için sıcaklık parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele yaparken, daha düşük değerler onu daha odaklı yapar.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Çeviri: ${Num1}% İnsan, ${Num2}% Yapay Zeka",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "İnsanlar tarafından çevrildi (100%)",
+    "value": "Çeviri: %100 İnsan",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Yapay zeka ile çevrildi (100%)",
+    "value": "Çeviri: %100 Yapay Zeka",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Görsel oluşturma için hangi yapay zeka modelini kullanmak istersiniz?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Daha önce seçtiğiniz görsel oluşturma modeli ${Name} artık mevcut değil gibi görünüyor. Hangi yapay zeka modelini kullanmak istersiniz?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Metin oluşturma için hangi yapay zeka modelini kullanmak istersiniz?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Daha önce seçtiğiniz metin oluşturma modeli ${Name} artık mevcut değil gibi görünüyor. Hangi yapay zeka modelini kullanmak istersiniz?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Daha önce seçtiğiniz metin oluşturma modeli ${Name} artık mevcut değil gibi görünüyor. Hangi yapay zeka modelini kullanmak istersiniz?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Daha önce seçtiğiniz görsel oluşturma modeli ${Name} artık mevcut değil gibi görünüyor. Hangi yapay zeka modelini kullanmak istersiniz?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Ana Menüyü Açma",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Metin oluşturma için hangi yapay zeka modelini kullanmak istersiniz?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Görsel oluşturma için hangi yapay zeka modelini kullanmak istersiniz?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Atla ve Çalışmaya Başla",
@@ -2011,30 +2099,6 @@
     "value": "Sıcaklık",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Çekirdek Örnekleme",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Nuvole AI için Sıcaklık parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele hale getirirken, daha düşük değerler daha odaklı olmasını sağlar. Öneri: Bu parametreyi ya da Çekirdek Örnekleme’yi aynı anda değil, ayrı ayrı ayarlayın.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Nuvole AI için Çekirdek Örnekleme parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele hale getirirken, daha düşük değerler daha odaklı olmasını sağlar. Öneri: Bu parametreyi ya da Sıcaklık’ı aynı anda değil, ayrı ayrı ayarlayın.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

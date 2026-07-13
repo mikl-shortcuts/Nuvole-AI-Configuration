@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "மனிதர்களால் மொழிபெயர்க்கப்பட்டது (${Num1}%) மற்றும் AI மூலம் (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "மாதிரி பட்டியலுக்கு திரும்பவும்",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} ஐத் தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} Sec/gen/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nகலைக்கூடை மதிப்பீடு: ${Score}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} டோக்கன்கள்/விநாடி/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} மாதிரிகள் கிடைக்கின்றன:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "வெளிப்பாட்டு தேதி",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "வேகம்",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "வரிசை (புத்திசாலித்தன்மை)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "நிலைப்புத்தன்மை",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "பட்டியலின் வரிசை",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AIக்கான வெப்பநிலை பராமீட்டை தேர்ந்தெடுக்கவும் (1.0 தவிர). உயர்ந்த மதிப்புகள் வெளியீட்டை அதிகமாக சந்தேகத்துடன் செய்கின்றன, குறைந்த மதிப்புகள் அதை அதிகமாக கவனமாக செய்கின்றன.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "மொழிபெயர்க்கப்பட்டது: ${Num1}% மனிதன், ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "மனிதர்களால் மொழிபெயர்க்கப்பட்டது (100%)",
+    "value": "மொழிபெயர்க்கப்பட்டது: 100% மனிதன்",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "AI மூலம் மொழிபெயர்க்கப்பட்டது (100%)",
+    "value": "மொழிபெயர்க்கப்பட்டது: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "பட உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த பட உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "உரை உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த உரை உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த உரை உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "நீங்கள் முன்பு தேர்ந்தெடுத்த பட உருவாக்கத்திற்கான மாதிரி ${Name} இப்போது கிடைக்கவில்லை. எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "முதன்மை மெனுவைத் திறக்க வேண்டாம்",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "உரை உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "பட உருவாக்கத்திற்கான எந்த AI மாதிரியைப் பயன்படுத்த விரும்புகிறீர்கள்?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "தவிர்த்து வேலை செய்யத் தொடங்கவும்",
@@ -2011,30 +2099,6 @@
     "value": "வெப்பநிலை",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "நியூக்ளியஸ் மாதிரியெடுப்பு",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "AIக்கான வெப்பநிலை அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது நியூக்ளியஸ் மாதிரியெடுப்பையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "AIக்கான நியூக்ளியஸ் மாதிரியெடுப்பு அளவுருவைத் தேர்ந்தெடுக்கவும் (இயல்புநிலை 1.0). உயர் மதிப்புகள் வெளியீட்டை மேலும் சீரற்றதாக மாற்றும், அதே சமயம் குறைந்த மதிப்புகள் அதை மேலும் கவனம் செலுத்தும். பரிந்துரை: இந்த அளவுருவையோ அல்லது வெப்பநிலையையோ ஒரே நேரத்தில் சரிசெய்ய வேண்டாம்.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

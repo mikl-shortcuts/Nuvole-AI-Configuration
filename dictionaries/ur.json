@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "انسانوں کے ذریعے ترجمہ کیا گیا (${Num1}٪) اور AI کے ذریعے (${Num2}٪)",
+  "Settings_ORG_ModelSelect": {
+    "value": "ماڈل لیسٹ پر واپس جائیں",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} کا انتخاب کریں",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "کی بارے میں ${Model}:/n/nپورا نام: ${Name}/nرنک: ${Rank}/nستابلیٹی: ${Stability}/nسپیڈ: ${Speed} سیکنڈ/جنریشن/nکمپنی: ${Company}/nریلیز ڈیٹ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "کی بارے میں ${Model}:/n/nپورا نام: ${Name}/nرنک: ${Rank}/nکünstliche تحلیل اسکور: ${Score}/nستابلیٹی: ${Stability}/nسپیڈ: ${Speed} ٹوکنز/سیکنڈ/nکمپنی: ${Company}/nریلیز ڈیٹ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} ماڈلز دستیاب ہیں:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "ریلیز ڈیٹ",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "سپیڈ",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "رنک (انٹیلی جنس)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "ستابلیٹی",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "لیسٹ سورتنگ",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AI کے لیے ٹیمپریچر پارامٹر کا انتخاب کریں (1.0 ڈیفالٹ). زیادہ قیمتیں آؤٹ پٹ کو زیادہ رینڈم بنائیں گی، جبکہ کم قیمتیں اسے زیادہ فوکسڈ بنائیں گی۔",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "ترجمہ شدہ: ${Num1}% Human, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "انسانوں کے ذریعے ترجمہ کیا گیا (۱۰۰٪)",
+    "value": "ترجمہ شدہ: 100% Human",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "AI کے ذریعے ترجمہ کیا گیا (۱۰۰٪)",
+    "value": "ترجمہ شدہ: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "آپ تصویر سازی کے لیے کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "یہ لگتا ہے کہ آپ نے پہلے منتخب کیا ہوا تصویر سازی کے لیے ماڈل ${Name} اب دستیاب نہیں ہے۔ آپ کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "آپ متن سازی کے لیے کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "یہ لگتا ہے کہ آپ نے پہلے منتخب کیا ہوا متن سازی کے لیے ماڈل ${Name} اب دستیاب نہیں ہے۔ آپ کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "یہ لگتا ہے کہ آپ نے پہلے منتخب کیا ہوا متن سازی کے لیے ماڈل ${Name} اب دستیاب نہیں ہے۔ آپ کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "یہ لگتا ہے کہ آپ نے پہلے منتخب کیا ہوا تصویر سازی کے لیے ماڈل ${Name} اب دستیاب نہیں ہے۔ آپ کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "مینو کھولنا نہیں",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "آپ متن سازی کے لیے کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "آپ تصویر سازی کے لیے کون سا AI ماڈل استعمال کرنا چاہیں گے؟",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "چھوڑیں اور کام شروع کریں",
@@ -2011,30 +2099,6 @@
     "value": "درجہ حرارت",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "نیوکلیئس سیمپلنگ",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "این آئی کے لیے درجہ حرارت کا پیرامیٹر منتخب کریں (پہلے سے طے شدہ ۱.۰)۔ زیادہ قدریں آؤٹ پٹ کو زیادہ بے ترتیب بنائیں گی، جبکہ کم قدریں اسے زیادہ مرکوز کریں گی۔ سفارش: اس پیرامیٹر یا نیوکلیئس سیمپلنگ میں سے کسی ایک کو ایڈجسٹ کریں، لیکن دونوں کو ایک ساتھ نہیں۔",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "این آئی کے لیے نیوکلیئس سیمپلنگ کا پیرامیٹر منتخب کریں (پہلے سے طے شدہ ۱.۰)۔ زیادہ قدریں آؤٹ پٹ کو زیادہ بے ترتیب بنائیں گی، جبکہ کم قدریں اسے زیادہ مرکوز کریں گی۔ سفارش: اس پیرامیٹر یا درجہ حرارت میں سے کسی ایک کو ایڈجسٹ کریں، لیکن دونوں کو ایک ساتھ نہیں۔",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

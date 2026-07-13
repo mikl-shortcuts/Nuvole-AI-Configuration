@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "Được dịch bởi con người (${Num1}%) và AI (${Num2}%)",
+  "Settings_ORG_ModelSelect": {
+    "value": "Quay lại danh sách mô hình",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Chọn ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Thông tin về ${Model}:/n/nTên đầy đủ: ${Name}/nXếp hạng: ${Rank}/nĐộ ổn định: ${Stability}/nTốc độ: ${Speed} Sec/gen/nCông ty: ${Company}/nNgày phát hành: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Thông tin về ${Model}:/n/nTên đầy đủ: ${Name}/nXếp hạng: ${Rank}/nĐiểm phân tích nhân tạo: ${Score}/nĐộ ổn định: ${Stability}/nTốc độ: ${Speed} Tokens/sec/nCông ty: ${Company}/nNgày phát hành: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} mô hình có sẵn:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "Ngày phát hành",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "Tốc độ",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "Xếp hạng (Trí tuệ)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "Độ ổn định",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "Sắp xếp danh sách",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "Chọn tham số Nhiệt độ cho AI (mặc định là 1.0). Giá trị cao hơn sẽ làm cho kết quả trở nên ngẫu nhiên hơn, còn giá trị thấp hơn sẽ làm cho nó trở nên tập trung hơn.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Đã dịch: ${Num1}% Con người, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "Được dịch bởi con người (100%)",
+    "value": "Đã dịch: 100% Con người",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "Được dịch bằng AI (100%)",
+    "value": "Đã dịch: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "Bạn muốn sử dụng mô hình AI nào cho việc tạo hình ảnh?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "Có vẻ như mô hình tạo hình ảnh ${Name} mà bạn đã chọn trước đó không còn khả dụng nữa. Bạn muốn sử dụng mô hình AI nào?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "Bạn muốn sử dụng mô hình AI nào cho việc tạo văn bản?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "Có vẻ như mô hình tạo văn bản ${Name} mà bạn đã chọn trước đó không còn khả dụng nữa. Bạn muốn sử dụng mô hình AI nào?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "Có vẻ như mô hình tạo văn bản ${Name} mà bạn đã chọn trước đó không còn khả dụng nữa. Bạn muốn sử dụng mô hình AI nào?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "Có vẻ như mô hình tạo hình ảnh ${Name} mà bạn đã chọn trước đó không còn khả dụng nữa. Bạn muốn sử dụng mô hình AI nào?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "Không Mở Menu Chính",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "Bạn muốn sử dụng mô hình AI nào cho việc tạo văn bản?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "Bạn muốn sử dụng mô hình AI nào cho việc tạo hình ảnh?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "Bỏ Qua và Bắt Đầu Làm Việc",
@@ -2011,30 +2099,6 @@
     "value": "Nhiệt độ",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "Lấy mẫu Hạt nhân",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "Chọn tham số Nhiệt độ cho AI (mặc định là 1.0). Giá trị cao hơn sẽ làm đầu ra ngẫu nhiên hơn, trong khi giá trị thấp hơn sẽ làm đầu ra tập trung hơn. Khuyến nghị: điều chỉnh một trong hai tham số này hoặc Lấy mẫu Hạt nhân, nhưng không điều chỉnh cả hai cùng lúc.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "Chọn tham số Lấy mẫu Hạt nhân cho AI (mặc định là 1.0). Giá trị cao hơn sẽ làm đầu ra ngẫu nhiên hơn, trong khi giá trị thấp hơn sẽ làm đầu ra tập trung hơn. Khuyến nghị: điều chỉnh một trong hai tham số này hoặc Nhiệt độ, nhưng không điều chỉnh cả hai cùng lúc.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true

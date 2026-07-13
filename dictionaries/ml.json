@@ -1,56 +1,112 @@
 {
-  "Settings_T_Lang-5050": {
-    "value": "മനുഷ്യർ (${Num1}%) ഉം AI (${Num2}%) ഉം ചേർന്ന് വിവർത്തനം ചെയ്തത്",
+  "Settings_ORG_ModelSelect": {
+    "value": "മോഡൽ പട്ടികയിലേക്ക് മടങ്ങുക",
     "original": {
-      "value": "Translated by humans (${Num1}%) and AI (${Num2}%)"
+      "value": "Return to model list"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} തിരഞ്ഞെടുക്കുക",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} സെക്കൻഡ്/ജെനറേഷൻ/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nകൃത്രിമ വിശകലന സ്കോർ: ${Score}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} ടോക്കൻ/സെക്കൻഡ്/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} മോഡലുകൾ ലഭ്യമാണ്:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-release": {
+    "value": "വിഡീയോ പുറത്തിറക്കുന്ന തീയതി",
+    "original": {
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-speed": {
+    "value": "വേഗം",
+    "original": {
+      "value": "Speed"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-rank": {
+    "value": "രാങ്ക് (ബുദ്ധി)",
+    "original": {
+      "value": "Rank (Intelligence)"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_Sorting-stability": {
+    "value": "നിരന്തരത",
+    "original": {
+      "value": "Stability"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_Sorting": {
+    "value": "പട്ടിക വർഗ്ഗീകരണം",
+    "original": {
+      "value": "List Sorting"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_NAME-Temp": {
+    "value": "AIയ്ക്ക് താപനില പരാമീറ്റർ തിരഞ്ഞെടുക്കുക (ഡിഫോൾട്ട് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ട് കൂടുതൽ വൈവിധ്യമുള്ളതാക്കും, കുറഞ്ഞ മൂല്യങ്ങൾ കൂടുതൽ ഫോക്കസ്ഡ് ആയി.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: ${Num1}% മനുഷ്യൻ, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-Human": {
-    "value": "മനുഷ്യർ വിവർത്തനം ചെയ്തത് (100%)",
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% മനുഷ്യൻ",
     "original": {
-      "value": "Translated by humans (100%)"
+      "value": "Translated: 100% Human"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
   "Settings_T_Lang-AI": {
-    "value": "AI ഉപയോഗിച്ച് വിവർത്തനം ചെയ്തത് (100%)",
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% AI",
     "original": {
-      "value": "Translated with AI (100%)"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_ImageModel": {
-    "value": "ഇമേജ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
-    "original": {
-      "value": "Which AI model for image generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ImageUpdate": {
-    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ഇമേജ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
-    "original": {
-      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_H_Model": {
-    "value": "ടെക്സ്റ്റ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
-    "original": {
-      "value": "Which AI model for text generation would you like to use?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "H_ModelUpdate": {
-    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
-    "original": {
-      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+      "value": "Translated: 100% AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -867,6 +923,22 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "H_ModelUpdate": {
+    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "It looks like the model for text generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "H_ImageUpdate": {
+    "value": "മുമ്പ് നിങ്ങൾ തിരഞ്ഞെടുത്ത ഇമേജ് ജനറേഷൻ മോഡൽ ${Name} ഇപ്പോൾ ലഭ്യമല്ലെന്ന് തോന്നുന്നു. ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "It looks like the model for image generation ${Name} you selected earlier is no longer available. Which AI model would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Install_N_NoMenu": {
     "value": "മുഖ്യ മെനു തുറക്കരുത്",
     "original": {
@@ -990,6 +1062,22 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
+  },
+  "Install_H_Model": {
+    "value": "ടെക്സ്റ്റ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "Which AI model for text generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_H_ImageModel": {
+    "value": "ഇമേജ് ജനറേഷന് ഏതു AI മോഡൽ ഉപയോഗിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നു?",
+    "original": {
+      "value": "Which AI model for image generation would you like to use?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
   },
   "Install_N_SkipLearn": {
     "value": "സ്കിപ്പ് ചെയ്യുക, പ്രവർത്തനം ആരംഭിക്കുക",
@@ -2011,30 +2099,6 @@
     "value": "താപനില",
     "original": {
       "value": "Temperature"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_N_Name-Topp": {
-    "value": "ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ്",
-    "original": {
-      "value": "Nucleus Sampling"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Temp": {
-    "value": "എഐയുടെ താപനില പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
-    "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Nucleus Sampling, but not both at the same time."
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Settings_H_NAME-Topp": {
-    "value": "എഐയുടെ ന്യൂക്ലിയസ് സാമ്പ്ലിംഗ് പാരാമീറ്റർ തിരഞ്ഞെടുക്കുക (സ്വതേയുള്ളത് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ടിനെ കൂടുതൽ യാദൃച്ഛികമാക്കും, അതേസമയം താഴ്ന്ന മൂല്യങ്ങൾ കൂടുതൽ കേന്ദ്രീകൃതമാക്കും. ശുപാർശ: ഈ പാരാമീറ്ററോ താപനിലയോ ഒരേ സമയം ക്രമീകരിക്കരുത്.",
-    "original": {
-      "value": "Select the Nucleus Sampling parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused. Recommendation: adjust either this parameter or Temperature, but not both at the same time."
     },
     "translatedBy": "ai",
     "isTranslated": true
