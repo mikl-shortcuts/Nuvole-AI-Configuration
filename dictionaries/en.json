@@ -1,4 +1,29 @@
 {
+  "Install_N_Settings": {
+    "value": "Open Settings",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Install_H_MainAlert": {
+    "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Install_T_MainAlert": {
+    "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Install_H_InputAlert": {
+    "value": "You can interact with Nuvole AI using either text or voice.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
+  "Install_T_InputAlert": {
+    "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input.",
+    "isTranslated": true,
+    "translatedBy": "human"
+  },
   "Settings_N_Sorting": {
     "value": "List Sorting",
     "isTranslated": true,
@@ -185,7 +210,7 @@
     "translatedBy": "human"
   },
   "Install_N_YesMenu": {
-    "value": "Open the Main Menu",
+    "value": "Show Main Menu",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -480,7 +505,7 @@
     "translatedBy": "human"
   },
   "Install_N_NoMenu": {
-    "value": "Don’t Open the Main Menu",
+    "value": "Skip Main Menu",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -554,8 +579,8 @@
     "isTranslated": true,
     "translatedBy": "human"
   },
-  "Install_N_SkipLearn": {
-    "value": "Skip and Start Working",
+  "Install_N_Start": {
+    "value": "Start Using Nuvole AI",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -625,7 +650,7 @@
     "translatedBy": "human"
   },
   "Install_H_Main": {
-    "value": "Do you want to open the Main Menu when running Nuvole AI?",
+    "value": "Show the Main Menu on Nuvole AI launch?",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -750,7 +775,7 @@
     "translatedBy": "human"
   },
   "Install_H_Learn": {
-    "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?",
+    "value": "The installation process is complete!",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -905,7 +930,7 @@
     "translatedBy": "human"
   },
   "Install_H_Input": {
-    "value": "Select the most convenient way for you to enter a request for AI",
+    "value": "Select the most convenient way for you to enter a request for AI.",
     "isTranslated": true,
     "translatedBy": "human"
   },
@@ -1180,7 +1205,7 @@
     "translatedBy": "human"
   },
   "Install_ORG_Learn": {
-    "value": "You will be redirected to RoutineHub",
+    "value": "Explore all features on RoutineHub",
     "isTranslated": true,
     "translatedBy": "human"
   },
