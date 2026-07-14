@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "મોડલ સૂચિ પર ફરો",
+  "Install_N_Start": {
+    "value": "Nuvole AIનો ઉપયોગ શરૂ કરો",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} પસંદ કરો",
+  "Install_T_InputAlert": {
+    "value": "અગર તમે વોઇસ ઇનપુટ પસંદ કરો છો, તમે કોઈ પણ સમયે ટેક્સ્ટમાં સ્વિચ કરવા માટે રેકોર્ડિંગને બંધ કરો. અગર તમે ટેક્સ્ટ ઇનપુટ પસંદ કરો છો, તમે વોઇસ ઇનપુટનો ઉપયોગ કરી શકશો નહીં.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "${Model} વિશે:/n/nપૂર્ણ નામ: ${Name}/nરેંક: ${Rank}/nસ્થિરતા: ${Stability}/nગતિ: ${Speed} સેક/જન/ન કંપની: ${Company}/nરિલીઝ તારીખ: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "તમે Nuvole AI સાથે ટેક્સ્ટ અથવા વોઇસનો ઉપયોગ કરીને ઇન્ટરેક્ટ કરી શકો છો.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "${Model} વિશે:/n/nપૂર્ણ નામ: ${Name}/nરેંક: ${Rank}/nકૃત્રિમ વિશ્લેષણ સ્કોર: ${Score}/nસ્થિરતા: ${Stability}/nગતિ: ${Speed} ટોકન/સેક/ન કંપની: ${Company}/nરિલીઝ તારીખ: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "તમે નિર્ણય લઈ શકો છો કે Nuvole AI લૌંચ પર મુખ્ય મેનુ ખોલે છે કે તેને બાયપાસ કરે છે અને તરત જ પ્રોમ્પ્ટ ફીલ્ડ ખોલે છે./nમુખ્ય મેનુ ક્યારેય પણ પછી ખોલી શકાય છે જેથી પ્રોમ્પ્ટ ફીલ્ડ ખાલી રાખવામાં આવે.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} મોડલ્સ ઉપલબ્ધ છે:",
+  "Install_H_MainAlert": {
+    "value": "મુખ્ય મેનુ તમને નવું ચેટ બનાવવાનું, તમારા ચેટ ઇતિહાસને એક્સેસ કરવાનું, સેટિંગ્સ અને અન્ય ફીચરો પ્રાપ્ત કરવાનું મદદ કરે છે.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "રિલીઝ તારીખ",
+  "Install_N_Settings": {
+    "value": "સેટિંગ્સ ખોલો",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "ગતિ",
+  "Install_ORG_Learn": {
+    "value": "RoutineHub પર બધી ફીચરો જોવા",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "રેંક (બુદ્ધિશક્તિ)",
+  "Install_H_Input": {
+    "value": "AI માટે એક રિક્વેસ્ટ દાખલ કરવા માટે તમારા માટે સૌથી સુવિધાજનક રીત પસંદ કરો.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "સ્થિરતા",
+  "Install_H_Learn": {
+    "value": "ઇન્સ્ટોલેશન પ્રક્રિયા પૂર્ણ થઈ ગઈ છે!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Nuvole AI લૌંચ પર મુખ્ય મેનુ દેખાવો?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "મુખ્ય મેનુ બાયપાસ કરો",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "મુખ્ય મેનુ દેખાવો",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI માટે તાપમાન પરામિતિ પસંદ કરો (1.0 ડિફોલ્ટ). વધુ મૂલ્યો આઉટપુટને વધુ રેન્ડમ બનાવશે, જ્યારે ઓછા મૂલ્યો તેને વધુ ફોકસ્ડ બનાવશે.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "સ્થિરતા",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "અનુવાદિત: ${Num1}% માનવ, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "રેંક (બુદ્ધિશક્તિ)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "અનુવાદિત: 100% માનવ",
+  "Settings_ORG_Sorting-speed": {
+    "value": "ગતિ",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "અનુવાદિત: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "રિલીઝ તારીખ",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} મોડલ્સ ઉપલબ્ધ છે:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "${Model} વિશે:/n/nપૂર્ણ નામ: ${Name}/nરેંક: ${Rank}/nકૃત્રિમ વિશ્લેષણ સ્કોર: ${Score}/nસ્થિરતા: ${Stability}/nગતિ: ${Speed} ટોકન/સેક/ન કંપની: ${Company}/nરિલીઝ તારીખ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "${Model} વિશે:/n/nપૂર્ણ નામ: ${Name}/nરેંક: ${Rank}/nસ્થિરતા: ${Stability}/nગતિ: ${Speed} સેક/જન/ન કંપની: ${Company}/nરિલીઝ તારીખ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} પસંદ કરો",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "મોડલ સૂચિ પર ફરો",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "પૂર્ણ ચેન્જલોગ જુઓ",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "મુખ્ય મેનૂ ખોલો",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "મુખ્ય મેનૂ ખોલશો નહીં",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "આઇકોન તરીકે ફક્ત ઇમોજી વાપરી શકાય છે",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "છોડીને કામ શરૂ કરો",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "છેલ્લી ચેટને સ્વચાલિત રીતે લોડ કરો",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "અનુવાદિત: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "અનુવાદિત: 100% માનવ",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "અનુવાદિત: ${Num1}% માનવ, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "અનુરોધની પ્રક્રિયા",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "ચેટ ઇતિહાસ દર્શાવવું",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "શું તમે Nuvole AI ચલાવતી વખતે મુખ્ય મેનૂ ખોલવા માંગો છો?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "ઇન્સ્ટોલેશન પ્રક્રિયા પૂર્ણ થઈ ગઈ છે! શું તમે Nuvole AI અને તેની વિશેષતાઓ વિશે વધુ જાણવા માંગો છો?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "સારાંશ",
@@ -1709,16 +1755,6 @@
     "value": "ચેટ સેવિંગ",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI માટે વિનંતી દાખલ કરવા માટે તમારા માટે સૌથી સુવિધાજનક રીત પસંદ કરો",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AI માટે તાપમાન પરામિતિ પસંદ કરો (1.0 ડિફોલ્ટ). વધુ મૂલ્યો આઉટપુટને વધુ રેન્ડમ બનાવશે, જ્યારે ઓછા મૂલ્યો તેને વધુ ફોકસ્ડ બનાવશે.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "અપડેટ ઇન્સ્ટોલ કરશો નહીં",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "તમે ડેવલપરની પ્રતિક્રિયા મેળવી શકતા નથી",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "તમને RoutineHub પર રીડાયરેક્ટ કરવામાં આવશે",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

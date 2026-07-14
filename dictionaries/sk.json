@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Späť na zoznam modelov",
+  "Install_N_Start": {
+    "value": "Začať používať Nuvole AI",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "Vybrať ${Name}",
+  "Install_T_InputAlert": {
+    "value": "Ak si vyberiete hlasové vstupy, môžete vždy prejsť na text, ak ukončíte nahrávanie bez hovorenia. Ak si vyberiete textové vstupy, nebudete môcť používať hlasové vstupy.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Sek/gen/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Môžete sa s Nuvole AI spájať buď textom alebo hlasom.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nUmelý analytický skóre: ${Score}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Tokenov/sek/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Môžete si vybrať, či sa Nuvole AI pri spustení otvorí Hlavné menu alebo ho preskočí a okamžite sa otvorí pole s výzvou./nHlavné menu sa vždy môže neskôr otvoriť, ak ponecháte pole s výzvou prázdne.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} dostupných modelov:",
+  "Install_H_MainAlert": {
+    "value": "Hlavné menu vám umožňuje vytvoriť nový chat, prístup k vašej histórii chatov, nastaveniam a ďalším funkciám.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Dátum vydania",
+  "Install_N_Settings": {
+    "value": "Otvorte nastavenia",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Rýchlosť",
+  "Install_ORG_Learn": {
+    "value": "Preskúmajte všetky funkcie na RoutineHub",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Hodnotenie (Inteligencia)",
+  "Install_H_Input": {
+    "value": "Vyberte najpohodlnejší spôsob, ako zadať požiadavku pre AI.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Stabilita",
+  "Install_H_Learn": {
+    "value": "Inštalačný proces je dokončený!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Zobraziť hlavné menu pri spustení Nuvole AI?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Preskočiť hlavné menu",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Zobraziť hlavné menu",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Vyberte parametre teploty pre AI (1.0 je predvolené). Vyššie hodnoty budú výsledok náhodnejší, nižšie hodnoty budú výsledok zameranejší.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilita",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Preložené: ${Num1}% Človek, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Hodnotenie (Inteligencia)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Preložené: 100% Človek",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Rýchlosť",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Preložené: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "Dátum vydania",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} dostupných modelov:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nUmelý analytický skóre: ${Score}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Tokenov/sek/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "O ${Model}:/n/nPlné meno: ${Name}/nHodnotenie: ${Rank}/nStabilita: ${Stability}/nRýchlosť: ${Speed} Sek/gen/nSpolečnosť: ${Company}/nDátum vydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Vybrať ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Späť na zoznam modelov",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Zobraziť úplný zoznam zmien",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Otvoriť Hlavné Menu",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Neotvárajte Hlavné Menu",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Iba emoji môžu byť použité ako ikona",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Preskočiť a začať pracovať",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Automatické načítanie posledného chatu",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Preložené: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Preložené: 100% Človek",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Preložené: ${Num1}% Človek, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "Spracovanie požiadavky",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Zobrazenie histórie chatu",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Chcete otvoriť hlavné menu pri spustení Nuvole AI?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Inštalačný proces je dokončený! Chcete sa dozvedieť viac o Nuvole AI a jeho funkciách?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Sumarizácia",
@@ -1709,16 +1755,6 @@
     "value": "Ukladanie Chatov",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "Vyberte najvhodnejší spôsob zadávania požiadavky pre AI",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "Vyberte parametre teploty pre AI (1.0 je predvolené). Vyššie hodnoty budú výsledok náhodnejší, nižšie hodnoty budú výsledok zameranejší.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Neinštalovať Aktualizáciu",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Nemôžete získať spätnú väzbu od vývojára",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "Budete presmerovaní na RoutineHub",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

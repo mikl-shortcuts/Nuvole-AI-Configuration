@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "กลับไปยังรายการโมเดล",
+  "Install_N_Start": {
+    "value": "เริ่มใช้งาน Nuvole AI",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "เลือก ${Name}",
+  "Install_T_InputAlert": {
+    "value": "ถ้าคุณเลือกการป้อนเสียง คุณสามารถสลับไปยังข้อความได้ตลอดเวลาโดยการจบการบันทึกโดยไม่พูด ถ้าคุณเลือกการป้อนข้อความ คุณจะไม่สามารถใช้งานเสียงได้",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "เกี่ยวกับ ${Model}:/n/nชื่อเต็ม: ${Name}/nอันดับ: ${Rank}/nความมั่นคง: ${Stability}/nความเร็ว: ${Speed} วินาที/การสร้าง/nบริษัท: ${Company}/nวันที่ปล่อย: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "คุณสามารถใช้งาน Nuvole AI ได้ทั้งทางข้อความและเสียง",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "เกี่ยวกับ ${Model}:/n/nชื่อเต็ม: ${Name}/nอันดับ: ${Rank}/nคะแนนการวิเคราะห์ทางเทคโนโลยี: ${Score}/nความมั่นคง: ${Stability}/nความเร็ว: ${Speed} โทเคน/วินาที/nบริษัท: ${Company}/nวันที่ปล่อย: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "คุณสามารถเลือกว่าจะเปิดเมนูหลักเมื่อเปิด Nuvole AI หรือข้ามไปยังฟิลด์โปรมพ์ททันที/nคุณสามารถเปิดเมนูหลักได้ตลอดเวลาโดยการปล่อยฟิลด์โปรมพ์ทว่างเปล่า",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} โมเดลที่มีอยู่:",
+  "Install_H_MainAlert": {
+    "value": "เมนูหลักจะให้คุณสร้างแชทใหม่ อ้างอิงประวัติการแชท การตั้งค่า และคุณสมบัติอื่นๆ",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "วันที่ปล่อย",
+  "Install_N_Settings": {
+    "value": "เปิดการตั้งค่า",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "ความเร็ว",
+  "Install_ORG_Learn": {
+    "value": "สำรวจคุณสมบัติทั้งหมดบน RoutineHub",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "อันดับ (ความฉลาด)",
+  "Install_H_Input": {
+    "value": "เลือกวิธีที่สะดวกที่สุดสำหรับการป้อนคำขอ AI",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "ความมั่นคง",
+  "Install_H_Learn": {
+    "value": "กระบวนการติดตั้งเสร็จสมบูรณ์!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "แสดงเมนูหลักเมื่อเปิด Nuvole AI?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "ข้ามเมนูหลัก",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "แสดงเมนูหลัก",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "เลือกพารามิเตอร์ของอุณหภูมิสำหรับ AI (ค่าเริ่มต้น 1.0). ค่าที่สูงขึ้นจะทำให้ผลลัพธ์มีความสุ่มมากขึ้น ส่วนค่าที่ต่ำลงจะทำให้มีความเชื่อมโยงมากขึ้น",
+  "Settings_ORG_Sorting-stability": {
+    "value": "ความมั่นคง",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "ถูกแปล: ${Num1}% มนุษย์, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "อันดับ (ความฉลาด)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "ถูกแปล: 100% มนุษย์",
+  "Settings_ORG_Sorting-speed": {
+    "value": "ความเร็ว",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "ถูกแปล: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "วันที่ปล่อย",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} โมเดลที่มีอยู่:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "เกี่ยวกับ ${Model}:/n/nชื่อเต็ม: ${Name}/nอันดับ: ${Rank}/nคะแนนการวิเคราะห์ทางเทคโนโลยี: ${Score}/nความมั่นคง: ${Stability}/nความเร็ว: ${Speed} โทเคน/วินาที/nบริษัท: ${Company}/nวันที่ปล่อย: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "เกี่ยวกับ ${Model}:/n/nชื่อเต็ม: ${Name}/nอันดับ: ${Rank}/nความมั่นคง: ${Stability}/nความเร็ว: ${Speed} วินาที/การสร้าง/nบริษัท: ${Company}/nวันที่ปล่อย: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "เลือก ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "กลับไปยังรายการโมเดล",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "ดูบันทึกการเปลี่ยนแปลงทั้งหมด",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "เปิดเมนูหลัก",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "อย่าเปิดเมนูหลัก",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "สามารถใช้ได้เฉพาะอีโมจิเท่านั้น",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "ข้ามและเริ่มทำงาน",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "โหลดแชทล่าสุดอัตโนมัติ",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "ถูกแปล: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "ถูกแปล: 100% มนุษย์",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "ถูกแปล: ${Num1}% มนุษย์, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "การประมวลผลคำขอ",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "การแสดงประวัติการสนทนา",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "คุณต้องการเปิดเมนูหลักเมื่อรัน Nuvole AI หรือไม่?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "กระบวนการติดตั้งเสร็จสิ้น! คุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ Nuvole AI และคุณสมบัติของมันหรือไม่?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "การสรุป",
@@ -1709,16 +1755,6 @@
     "value": "การบันทึกการแชท",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "เลือกวิธีที่สะดวกที่สุดสำหรับคุณในการป้อนคำขอสำหรับ AI",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "เลือกพารามิเตอร์ของอุณหภูมิสำหรับ AI (ค่าเริ่มต้น 1.0). ค่าที่สูงขึ้นจะทำให้ผลลัพธ์มีความสุ่มมากขึ้น ส่วนค่าที่ต่ำลงจะทำให้มีความเชื่อมโยงมากขึ้น",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "ไม่ติดตั้งการอัปเดต",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "คุณไม่สามารถรับข้อเสนอแนะจากนักพัฒนาได้",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "คุณจะถูกนำไปยัง RoutineHub",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

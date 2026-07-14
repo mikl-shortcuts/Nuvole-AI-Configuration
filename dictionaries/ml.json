@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "മോഡൽ പട്ടികയിലേക്ക് മടങ്ങുക",
+  "Install_N_Start": {
+    "value": "നുവോലെ എഐ ഉപയോഗിക്കാൻ തുടങ്ങുക",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} തിരഞ്ഞെടുക്കുക",
+  "Install_T_InputAlert": {
+    "value": "നിങ്ങൾ ശബ്ദ ഇൻപുട്ട് തിരഞ്ഞെടുക്കുന്നതെങ്കിൽ, നിങ്ങൾ എപ്പോഴും പാഠ്യ ഇൻപുട്ടിലേക്ക് മാറാം ശബ്ദ രേഖപ്പെടുത്തൽ അവസാനിപ്പിക്കാതെ. നിങ്ങൾ പാഠ്യ ഇൻപുട്ട് തിരഞ്ഞെടുക്കുന്നതെങ്കിൽ, നിങ്ങൾ ശബ്ദ ഇൻപുട്ട് ഉപയോഗിക്കാൻ കഴിയില്ല.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} സെക്കൻഡ്/ജെനറേഷൻ/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "നിങ്ങൾക്ക് പാഠ്യമോ ശബ്ദമോ ഉപയോഗിച്ച് നുവോലെ എഐയുമായി ഇടപഴകാം.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nകൃത്രിമ വിശകലന സ്കോർ: ${Score}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} ടോക്കൻ/സെക്കൻഡ്/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "നിങ്ങൾക്ക് നുവോലെ എഐ പ്രാരംഭിക്കുമ്പോൾ പ്രധാന മെനുവ് തുറക്കുകയോ അല്ലെങ്കിൽ അതിൽ നിന്ന് പുറത്തുവരാനായി പ്രോംപ്റ്റ് ഫീൽഡ് തുറക്കുകയോ ചെയ്യാം. പ്രധാന മെനുവ് എപ്പോഴും പിന്നീട് പ്രോംപ്റ്റ് ഫീൽഡ് ശൂന്യമാക്കി തുറക്കാം.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} മോഡലുകൾ ലഭ്യമാണ്:",
+  "Install_H_MainAlert": {
+    "value": "പ്രധാന മെനുവിൽ നിന്നും നിങ്ങൾ ഒരു പുതിയ ചാറ്റ് സൃഷ്ടിക്കാം, നിങ്ങളുടെ ചാറ്റ് ചരിത്രം, അയ്യങ്കളങ്ങൾ, മറ്റും പ്രവർത്തനങ്ങൾക്ക് പ്രവേശനം നേടാം.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "വിഡീയോ പുറത്തിറക്കുന്ന തീയതി",
+  "Install_N_Settings": {
+    "value": "അയ്യങ്കളങ്ങൾ തുറക്കുക",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "വേഗം",
+  "Install_ORG_Learn": {
+    "value": "റൂട്ടീൻഹബിൽ എല്ലാ പ്രവർത്തനങ്ങളും പരിശോധിക്കുക",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "രാങ്ക് (ബുദ്ധി)",
+  "Install_H_Input": {
+    "value": "എഐയ്ക്ക് ഒരു അഭ്യർത്ഥന നൽകാൻ നിങ്ങൾക്ക് ഏറ്റവും സുഗമമായ വഴി തിരഞ്ഞെടുക്കുക.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "നിരന്തരത",
+  "Install_H_Learn": {
+    "value": "ഇൻസ്റ്റാൾ ചെയ്യൽ പൂർത്തിയായി!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "നുവോലെ എഐ പ്രാരംഭിക്കുമ്പോൾ പ്രധാന മെനു കാണിക്കണം?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "പ്രധാന മെനു ഒഴിവാക്കുക",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "പ്രധാന മെനു കാണിക്കുക",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AIയ്ക്ക് താപനില പരാമീറ്റർ തിരഞ്ഞെടുക്കുക (ഡിഫോൾട്ട് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ട് കൂടുതൽ വൈവിധ്യമുള്ളതാക്കും, കുറഞ്ഞ മൂല്യങ്ങൾ കൂടുതൽ ഫോക്കസ്ഡ് ആയി.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "നിരന്തരത",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "പരിഭാഷപ്പെടുത്തിയത്: ${Num1}% മനുഷ്യൻ, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "രാങ്ക് (ബുദ്ധി)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% മനുഷ്യൻ",
+  "Settings_ORG_Sorting-speed": {
+    "value": "വേഗം",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "വിഡീയോ പുറത്തിറക്കുന്ന തീയതി",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} മോഡലുകൾ ലഭ്യമാണ്:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nകൃത്രിമ വിശകലന സ്കോർ: ${Score}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} ടോക്കൻ/സെക്കൻഡ്/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "ഈ ${Model} പറ്റി:/n/nപൂർണ്ണ നാമം: ${Name}/nരാങ്ക്: ${Rank}/nനിരന്തരത: ${Stability}/nവേഗം: ${Speed} സെക്കൻഡ്/ജെനറേഷൻ/nകമ്പനി: ${Company}/nവിഡീയോ പുറത്തിറക്കുന്ന തീയതി: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} തിരഞ്ഞെടുക്കുക",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "മോഡൽ പട്ടികയിലേക്ക് മടങ്ങുക",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "പൂർത്തി മാറ്റങ്ങൾ കാണുക",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "പ്രധാന മെനു തുറക്കുക",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "മുഖ്യ മെനു തുറക്കരുത്",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "അയോണായി എമോജികൾ മാത്രം ഉപയോഗിക്കാം",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "സ്കിപ്പ് ചെയ്യുക, പ്രവർത്തനം ആരംഭിക്കുക",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "അവസാന ചാറ്റ് സ്വയം ലോഡ് ചെയ്യുക",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: 100% മനുഷ്യൻ",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "പരിഭാഷപ്പെടുത്തിയത്: ${Num1}% മനുഷ്യൻ, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "അഭ്യർത്ഥനയുടെ പ്രോസസ്സിംഗ്",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "ചാറ്റ് ചരിത്രം പ്രദർശിപ്പിക്കൽ",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Nuvole AI റൺ ചെയ്യുമ്പോൾ പ്രധാന മെനു തുറക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "ഇൻസ്റ്റാളേഷൻ പ്രക്രിയ പൂർത്തിയായി! നുവോലെ എഐയെക്കുറിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "സംഗ്രഹണം",
@@ -1709,16 +1755,6 @@
     "value": "ചാറ്റ് സൂക്ഷിക്കൽ",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI യെ അഭ്യർത്ഥിക്കാൻ നിങ്ങൾക്ക് ഏറ്റവും സൗകര്യപ്രദമായ മാർഗ്ഗം തിരഞ്ഞെടുക്കുക",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AIയ്ക്ക് താപനില പരാമീറ്റർ തിരഞ്ഞെടുക്കുക (ഡിഫോൾട്ട് 1.0). ഉയർന്ന മൂല്യങ്ങൾ ഔട്ട്പുട്ട് കൂടുതൽ വൈവിധ്യമുള്ളതാക്കും, കുറഞ്ഞ മൂല്യങ്ങൾ കൂടുതൽ ഫോക്കസ്ഡ് ആയി.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "അപ്ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യരുത്",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "നിങ്ങൾക്ക് ഡെവലപ്പർ ഫീഡ്ബാക്ക് ലഭിക്കില്ല",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "നിങ്ങൾക്ക് റൂട്ടീൻഹബിലേക്ക് റീഡയറക്റ്റ് ചെയ്യപ്പെടും",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

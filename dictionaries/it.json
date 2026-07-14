@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Torna alla lista dei modelli",
+  "Install_N_Start": {
+    "value": "Inizia a usare Nuvole AI",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "Seleziona ${Name}",
+  "Install_T_InputAlert": {
+    "value": "Se scegli l’input vocale, puoi passare al testo in qualsiasi momento terminando la registrazione senza parlare. Se scegli l’input testuale, non potrai utilizzare l’input vocale.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "Informazioni su ${Model}:/n/nNome completo: ${Name}/nClassifica: ${Rank}/nStabilità: ${Stability}/nVelocità: ${Speed} Sec/gen/nAzienda: ${Company}/nData di rilascio: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Puoi interagire con Nuvole AI tramite testo o voce.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "Informazioni su ${Model}:/n/nNome completo: ${Name}/nClassifica: ${Rank}/nPunteggio di analisi artificiale: ${Score}/nStabilità: ${Stability}/nVelocità: ${Speed} Token/sec/nAzienda: ${Company}/nData di rilascio: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Puoi scegliere se Nuvole AI apre il menu principale all’avvio o lo salta e apre direttamente il campo di input. Il menu principale può sempre essere aperto in seguito lasciando vuoto il campo di input.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} modelli disponibili:",
+  "Install_H_MainAlert": {
+    "value": "Il menu principale ti consente di creare una nuova chat, accedere alla cronologia delle chat, alle impostazioni e ad altre funzionalità.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Data di rilascio",
+  "Install_N_Settings": {
+    "value": "Apri le impostazioni",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Velocità",
+  "Install_ORG_Learn": {
+    "value": "Esplora tutte le funzionalità su RoutineHub",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Classifica (Intelligenza)",
+  "Install_H_Input": {
+    "value": "Seleziona il modo più comodo per inserire una richiesta all’IA.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Stabilità",
+  "Install_H_Learn": {
+    "value": "Il processo di installazione è completato!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Mostrare il menu principale all’avvio di Nuvole AI?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Salta il menu principale",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Mostra il menu principale",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Seleziona il parametro di temperatura per l’IA (1.0 come valore predefinito). Valori più alti renderanno l’output più casuale, mentre valori più bassi lo renderanno più focalizzato.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilità",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Tradotto: ${Num1}% Umano, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Classifica (Intelligenza)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Tradotto: 100% Umano",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Velocità",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Tradotto: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "Data di rilascio",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} modelli disponibili:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Informazioni su ${Model}:/n/nNome completo: ${Name}/nClassifica: ${Rank}/nPunteggio di analisi artificiale: ${Score}/nStabilità: ${Stability}/nVelocità: ${Speed} Token/sec/nAzienda: ${Company}/nData di rilascio: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Informazioni su ${Model}:/n/nNome completo: ${Name}/nClassifica: ${Rank}/nStabilità: ${Stability}/nVelocità: ${Speed} Sec/gen/nAzienda: ${Company}/nData di rilascio: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Seleziona ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Torna alla lista dei modelli",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Visualizza il registro completo delle modifiche",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Apri il Menu Principale",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Non aprire il menu principale",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Solo emoji possono essere usati come icona",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Salta e Inizia a Lavorare",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Carica automaticamente l'ultima chat",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Tradotto: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Tradotto: 100% Umano",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Tradotto: ${Num1}% Umano, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "Elaborazione della richiesta",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Visualizzazione cronologia chat",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Vuoi aprire il menu principale quando esegui Nuvole AI?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Il processo di installazione è completo! Vuoi saperne di più su Nuvole AI e le sue funzionalità?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Riassunto",
@@ -1709,16 +1755,6 @@
     "value": "Salvataggio chat",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "Seleziona il modo più comodo per te per inserire una richiesta per l'AI",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "Seleziona il parametro di temperatura per l’IA (1.0 come valore predefinito). Valori più alti renderanno l’output più casuale, mentre valori più bassi lo renderanno più focalizzato.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Non installare l'aggiornamento",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Non puoi ottenere feedback dagli sviluppatori",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "Sarai reindirizzato a RoutineHub",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

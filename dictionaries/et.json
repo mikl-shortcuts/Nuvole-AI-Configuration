@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Tagasi mudelite loendisse",
+  "Install_N_Start": {
+    "value": "Alusta Nuvole AI kasutamist",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "Vali ${Name}",
+  "Install_T_InputAlert": {
+    "value": "Kui valite häälsisestuse, saate iga hetk vahetada tekstile, lõpetades salvestamise ilma kõneluseta. Kui valite tekstisisestuse, ei saa te kasutada häälsisestust.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "Teave ${Model} kohta:/n/nTäispikk nimi: ${Name}/nRank: ${Rank}/nStabiilsus: ${Stability}/nKiirus: ${Speed} Sec/gen/nFirma: ${Company}/nVäljalaskekuupäev: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Saad suhtleda Nuvole AI-ga nii teksti kui ka häälte kaudu.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "Teave ${Model} kohta:/n/nTäispikk nimi: ${Name}/nRank: ${Rank}/nArtifitsiaalse analüüsi punktide arv: ${Score}/nStabiilsus: ${Stability}/nKiirus: ${Speed} Tokens/sec/nFirma: ${Company}/nVäljalaskekuupäev: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Saad valida, kas Nuvole AI avab Peamenüü käivitamisel või ohistab selle ja avab otse sisestusvälja. /nPeamenüü saab alati hiljem avada, kui jätad sisestusvälja tühjaks.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} mudelit saadaval:",
+  "Install_H_MainAlert": {
+    "value": "Peamenüü võimaldab luua uue vestluse, juurdepääsu oma vestlusajaloole, seadetele ja teistele funktsioonidele.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Väljalaskekuupäev",
+  "Install_N_Settings": {
+    "value": "Ava valikud",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Kiirus",
+  "Install_ORG_Learn": {
+    "value": "Uurige kõiki funktsioone RoutineHubis",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Rank (Intellekt)",
+  "Install_H_Input": {
+    "value": "Vali kõige mugavam viis, kuidas te saad teha AI-ile päringut.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Stabiilsus",
+  "Install_H_Learn": {
+    "value": "Paigaldusprotsess on lõpetatud!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Kas Nuvole AI käivitamisel näidata Peamenüüd?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Ohista Peamenüü",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Näita Peamenüüd",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Vali AI jaoks temperatuuri parameeter (vaikimisi 1.0). Suuremad väärtused teevad väljundist juhuslikumaks, väiksemad väärtused keskendatumaks.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabiilsus",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Tõlgitud: ${Num1}% inimene, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Rank (Intellekt)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Tõlgitud: 100% inimene",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Kiirus",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Tõlgitud: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "Väljalaskekuupäev",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} mudelit saadaval:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Teave ${Model} kohta:/n/nTäispikk nimi: ${Name}/nRank: ${Rank}/nArtifitsiaalse analüüsi punktide arv: ${Score}/nStabiilsus: ${Stability}/nKiirus: ${Speed} Tokens/sec/nFirma: ${Company}/nVäljalaskekuupäev: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Teave ${Model} kohta:/n/nTäispikk nimi: ${Name}/nRank: ${Rank}/nStabiilsus: ${Stability}/nKiirus: ${Speed} Sec/gen/nFirma: ${Company}/nVäljalaskekuupäev: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Vali ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Tagasi mudelite loendisse",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Vaata täielikku muudatuste loendit",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Ava Peamenüü",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Ära ava peamenüüd",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Ikoonina saab kasutada ainult emojisid",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Jäta vahele ja alusta tööd",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Automaatne viimase vestluse laadimine",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Tõlgitud: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Tõlgitud: 100% inimene",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Tõlgitud: ${Num1}% inimene, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "Päringu töötlemine",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Vestluse ajalugu kuvamine",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Kas soovite avada peamenüü, kui Nuvole AI käivitub?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Paigaldusprotsess on lõpule viidud! Kas soovite rohkem teada saada Nuvole AI-st ja selle funktsioonidest?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Kokkuvõte",
@@ -1709,16 +1755,6 @@
     "value": "Vestluse salvestamine",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "Valige teile mugav viis AI päringu sisestamiseks",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "Vali AI jaoks temperatuuri parameeter (vaikimisi 1.0). Suuremad väärtused teevad väljundist juhuslikumaks, väiksemad väärtused keskendatumaks.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Ära paigalda uuendust",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Te ei saa arendaja tagasisidet",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "Teid suunatakse RoutineHubi",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "모델 목록으로 돌아가기",
+  "Install_N_Start": {
+    "value": "Nuvole AI 사용 시작",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} 선택",
+  "Install_T_InputAlert": {
+    "value": "음성 입력 방법을 선택한 경우, 음성을 입력하지 않고 녹음을 종료하면 언제든지 텍스트로 전환할 수 있습니다. 텍스트 입력 방법을 선택한 경우 음성 입력 방법을 사용할 수 없습니다.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n안정성: ${Stability}/n속도: ${Speed} 초/생성/n회사: ${Company}/n출시일: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "텍스트 또는 음성으로 Nuvole AI와 상호작용할 수 있습니다.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n인공 분석 점수: ${Score}/n안정성: ${Stability}/n속도: ${Speed} 토큰/초/n회사: ${Company}/n출시일: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Nuvole AI가 시작 시 메인 메뉴를 열거나 건너뛰고 즉시 프롬프트 필드를 열지 여부를 선택할 수 있습니다. /n메인 메뉴는 언제든지 프롬프트 필드를 비워 두면 열 수 있습니다.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num}개의 모델 사용 가능:",
+  "Install_H_MainAlert": {
+    "value": "메인 메뉴에서 새 채팅을 생성하거나 채팅 기록, 설정 및 기타 기능을 사용할 수 있습니다.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "출시일",
+  "Install_N_Settings": {
+    "value": "설정 열기",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "속도",
+  "Install_ORG_Learn": {
+    "value": "RoutineHub에서 모든 기능을 탐색하세요",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "순위 (지능)",
+  "Install_H_Input": {
+    "value": "AI에 요청을 입력하는 가장 편리한 방법을 선택하세요.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "안정성",
+  "Install_H_Learn": {
+    "value": "설치 과정이 완료되었습니다!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Nuvole AI 시작 시 메인 메뉴를 표시하시겠습니까?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "메인 메뉴 건너뛰기",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "메인 메뉴 표시",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI의 온도 매개변수를 선택하세요 (기본값 1.0). 높은 값은 출력을 더 무작위로 만들고, 낮은 값은 더 집중적으로 만듭니다.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "안정성",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "번역: ${Num1}% 인간, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "순위 (지능)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "번역: 100% 인간",
+  "Settings_ORG_Sorting-speed": {
+    "value": "속도",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "번역: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "출시일",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num}개의 모델 사용 가능:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n인공 분석 점수: ${Score}/n안정성: ${Stability}/n속도: ${Speed} 토큰/초/n회사: ${Company}/n출시일: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "${Model}에 대해:/n/n전체 이름: ${Name}/n순위: ${Rank}/n안정성: ${Stability}/n속도: ${Speed} 초/생성/n회사: ${Company}/n출시일: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} 선택",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "모델 목록으로 돌아가기",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "전체 변경 로그 보기",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "메인 메뉴 열기",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "메인 메뉴를 열지 마십시오",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "아이콘으로 이모지만 사용할 수 있습니다",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "건너뛰고 작업 시작",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "마지막 채팅 자동 로드",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "번역: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "번역: 100% 인간",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "번역: ${Num1}% 인간, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "요청 처리",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "채팅 기록 표시",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Nuvole AI를 실행할 때 메인 메뉴를 열겠습니까?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "설치 과정이 완료되었습니다! Nuvole AI와 그 기능에 대해 더 알고 싶으신가요?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "요약",
@@ -1709,16 +1755,6 @@
     "value": "채팅 저장",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI에 요청을 입력하는 가장 편리한 방법을 선택하세요",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AI의 온도 매개변수를 선택하세요 (기본값 1.0). 높은 값은 출력을 더 무작위로 만들고, 낮은 값은 더 집중적으로 만듭니다.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "업데이트 설치하지 않기",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "개발자 피드백을 받을 수 없습니다",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "RoutineHub로 리디렉션됩니다",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

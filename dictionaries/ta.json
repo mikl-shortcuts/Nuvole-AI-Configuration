@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "மாதிரி பட்டியலுக்கு திரும்பவும்",
+  "Install_N_Start": {
+    "value": "Nuvole AI பயன்படுத்தத் தொடங்கு",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} ஐத் தேர்ந்தெடுக்கவும்",
+  "Install_T_InputAlert": {
+    "value": "நீங்கள் குரல் உள்ளீட்டை தேர்ந்தெடுத்தால், எப்போதும் பேசாமல் பதிவை முடித்து பேச்சு முறைக்கு மாற்றலாம். நீங்கள் பேச்சு உள்ளீட்டை தேர்ந்தெடுத்தால், குரல் உள்ளீட்டை பயன்படுத்த முடியாது.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} Sec/gen/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "நீங்கள் Nuvole AI உடன் பேச்சு அல்லது குரல் மூலம் தொடர்பு கொள்ளலாம்.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nகலைக்கூடை மதிப்பீடு: ${Score}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} டோக்கன்கள்/விநாடி/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "நீங்கள் Nuvole AI தொடக்கத்தில் தொடக்க மெனூவை திறக்க விரும்புகிறீர்களா அல்லது அதை தவிர்த்து நேரடியாக வினா புலத்தை திறக்க விரும்புகிறீர்களா. தொடக்க மெனூவை எப்போதும் பின்னர் திறக்கலாம், வினா புலத்தை விட்டு வெளியேறி.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} மாதிரிகள் கிடைக்கின்றன:",
+  "Install_H_MainAlert": {
+    "value": "தொடக்க மெனூவில் நீங்கள் புதிய ஒரு பேச்சு உருவாக்கலாம், உங்கள் பேச்சு வரலாற்றை அணுகலாம், அமைப்புகளை, மற்றும் பிற அம்சங்களை.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "வெளிப்பாட்டு தேதி",
+  "Install_N_Settings": {
+    "value": "அமைப்புகளை திற",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "வேகம்",
+  "Install_ORG_Learn": {
+    "value": "RoutineHub இல் அனைத்து அம்சங்களையும் ஆராய்க",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "வரிசை (புத்திசாலித்தன்மை)",
+  "Install_H_Input": {
+    "value": "AI கேட்டுக்கொள்ளும் வினாவை உள்ளீடு செய்ய உங்களுக்கு எளிதான வழியை தேர்ந்தெடுக்கவும்.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "நிலைப்புத்தன்மை",
+  "Install_H_Learn": {
+    "value": "நிரல் நிறுவல் முடிவடைந்தது!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Nuvole AI தொடக்கத்தில் தொடக்க மெனூவை காட்ட வேண்டும்?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "தொடக்க மெனூவை தவிர்",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "தொடக்க மெனூவை காட்டு",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AIக்கான வெப்பநிலை பராமீட்டை தேர்ந்தெடுக்கவும் (1.0 தவிர). உயர்ந்த மதிப்புகள் வெளியீட்டை அதிகமாக சந்தேகத்துடன் செய்கின்றன, குறைந்த மதிப்புகள் அதை அதிகமாக கவனமாக செய்கின்றன.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "நிலைப்புத்தன்மை",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "மொழிபெயர்க்கப்பட்டது: ${Num1}% மனிதன், ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "வரிசை (புத்திசாலித்தன்மை)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "மொழிபெயர்க்கப்பட்டது: 100% மனிதன்",
+  "Settings_ORG_Sorting-speed": {
+    "value": "வேகம்",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "மொழிபெயர்க்கப்பட்டது: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "வெளிப்பாட்டு தேதி",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} மாதிரிகள் கிடைக்கின்றன:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nகலைக்கூடை மதிப்பீடு: ${Score}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} டோக்கன்கள்/விநாடி/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "பற்றி ${Model}:/n/nமுழு பெயர்: ${Name}/nவரிசை: ${Rank}/nநிலைப்புத்தன்மை: ${Stability}/nவேகம்: ${Speed} Sec/gen/nகம்பெனி: ${Company}/nவெளிப்பாட்டு தேதி: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} ஐத் தேர்ந்தெடுக்கவும்",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "மாதிரி பட்டியலுக்கு திரும்பவும்",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "முழு மாற்றப் பதிவைப் பார்க்கவும்",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "முக்கிய மெனுவைத் திறக்கவும்",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "முதன்மை மெனுவைத் திறக்க வேண்டாம்",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "ஐகானாக எமோஜிகள் மட்டுமே பயன்படுத்த முடியும்",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "தவிர்த்து வேலை செய்யத் தொடங்கவும்",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "கடைசி உரையாடலை தானாக ஏற்றவும்",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "மொழிபெயர்க்கப்பட்டது: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "மொழிபெயர்க்கப்பட்டது: 100% மனிதன்",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "மொழிபெயர்க்கப்பட்டது: ${Num1}% மனிதன், ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "கோரிக்கையின் செயலாக்கம்",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "உரையாடல் வரலாற்றை காட்சிப்படுத்துதல்",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Nuvole AI ஐ இயக்கும் போது முக்கிய மெனுவை திறக்க விரும்புகிறீர்களா?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "நிறுவல் செயல்முறை முடிந்துவிட்டது! Nuvole AI மற்றும் அதன் அம்சங்கள் பற்றி மேலும் அறிய விரும்புகிறீர்களா?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "சுருக்கம்",
@@ -1709,16 +1755,6 @@
     "value": "உரையாடல் சேமித்தல்",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI க்கான கோரிக்கையை உள்ளிடுவதற்கு உங்களுக்கு வசதியான வழியை தேர்ந்தெடுக்கவும்",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AIக்கான வெப்பநிலை பராமீட்டை தேர்ந்தெடுக்கவும் (1.0 தவிர). உயர்ந்த மதிப்புகள் வெளியீட்டை அதிகமாக சந்தேகத்துடன் செய்கின்றன, குறைந்த மதிப்புகள் அதை அதிகமாக கவனமாக செய்கின்றன.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "புதுப்பிப்பை நிறுவ வேண்டாம்",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "நீங்கள் டெவலப்பர் கருத்துக்களை பெற முடியாது",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "ரூட்டின் ஹப்-க்கு மீண்டும் அனுப்பப்படுவீர்கள்",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

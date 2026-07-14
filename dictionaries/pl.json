@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Powrót do listy modeli",
+  "Install_N_Start": {
+    "value": "Rozpocznij korzystanie z Nuvole AI",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "Wybierz ${Name}",
+  "Install_T_InputAlert": {
+    "value": "Jeśli wybierzesz głosowy wpis, możesz w każdej chwili przełączyć się na tekst, kończąc nagrywanie bez mówienia. Jeśli wybierzesz wpis tekstowy, nie będziesz mógł używać głosowego wpisu.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "O ${Model}:/n/nPełna nazwa: ${Name}/nRanking: ${Rank}/nStabilność: ${Stability}/nSzybkość: ${Speed} Sek/gen/nFirma: ${Company}/nData wydania: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Możesz interakcjonować z Nuvole AI za pomocą tekstu lub głosu.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "O ${Model}:/n/nPełna nazwa: ${Name}/nRanking: ${Rank}/nWskaźnik sztucznej analizy: ${Score}/nStabilność: ${Stability}/nSzybkość: ${Speed} Tokenów/sec/nFirma: ${Company}/nData wydania: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Możesz wybrać, czy Nuvole AI otworzy Główne Menu po uruchomieniu lub pominięcie go i natychmiastowe otwarcie pola wpisywania./nGłówne Menu zawsze można otworzyć później, pozostawiając pole wpisywania puste.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} dostępnych modeli:",
+  "Install_H_MainAlert": {
+    "value": "Główne menu pozwala utworzyć nową rozmowę, uzyskać dostęp do historii czatów, ustawień i innych funkcji.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Data wydania",
+  "Install_N_Settings": {
+    "value": "Otwórz ustawienia",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Szybkość",
+  "Install_ORG_Learn": {
+    "value": "Zapoznaj się ze wszystkimi funkcjami na RoutineHub",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Ranking (Inteligencja)",
+  "Install_H_Input": {
+    "value": "Wybierz najwygodniejszy dla Ciebie sposób wprowadzania żądania do AI.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Stabilność",
+  "Install_H_Learn": {
+    "value": "Proces instalacji został zakończony!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Pokaż Główne Menu przy uruchomieniu Nuvole AI?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Pomiń Główne Menu",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Pokaż Główne Menu",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Wybierz parametr Temperatury dla AI (domyślnie 1.0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, a niższe bardziej skupione.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilność",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Przetłumaczono: ${Num1}% Człowiek, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Ranking (Inteligencja)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Przetłumaczono: 100% Człowiek",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Szybkość",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Przetłumaczono: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "Data wydania",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} dostępnych modeli:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "O ${Model}:/n/nPełna nazwa: ${Name}/nRanking: ${Rank}/nWskaźnik sztucznej analizy: ${Score}/nStabilność: ${Stability}/nSzybkość: ${Speed} Tokenów/sec/nFirma: ${Company}/nData wydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "O ${Model}:/n/nPełna nazwa: ${Name}/nRanking: ${Rank}/nStabilność: ${Stability}/nSzybkość: ${Speed} Sek/gen/nFirma: ${Company}/nData wydania: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Wybierz ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Powrót do listy modeli",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Zobacz pełną listę zmian",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Otwórz Menu Główne",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Nie otwieraj głównego menu",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Tylko emoji mogą być używane jako ikona",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Pomiń i zacznij pracować",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Automatyczne ładowanie ostatniego czatu",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Przetłumaczono: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Przetłumaczono: 100% Człowiek",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Przetłumaczono: ${Num1}% Człowiek, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "Przetwarzanie żądania",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Wyświetlanie historii czatu",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Czy chcesz otworzyć menu główne przy uruchamianiu Nuvole AI?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Proces instalacji został zakończony! Czy chcesz dowiedzieć się więcej o Nuvole AI i jego funkcjach?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Podsumowanie",
@@ -1709,16 +1755,6 @@
     "value": "Zapisywanie czatu",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "Wybierz najwygodniejszy dla Ciebie sposób wprowadzania żądania dla AI",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "Wybierz parametr Temperatury dla AI (domyślnie 1.0). Wyższe wartości sprawią, że wynik będzie bardziej losowy, a niższe bardziej skupione.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Nie instaluj aktualizacji",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Nie możesz uzyskać opinii programisty",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "Zostaniesz przekierowany do RoutineHub",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

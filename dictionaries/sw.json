@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Rudi kwa orodha ya mifumo",
+  "Install_N_Start": {
+    "value": "Anza Kutumia Nuvole AI",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "Chagua ${Name}",
+  "Install_T_InputAlert": {
+    "value": "Kama uchagua kuingia kwa sauti, unaweza kubadili kwa maandishi wakati wowote kwa kukamilisha rekodi bila kusema. Kama uchagua kuingia kwa maandishi, hutakuwa na uwezo wa kutumia sauti.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "Kuhusu ${Model}:/n/nJina Kamzima: ${Name}/nCheo: ${Rank}/nUstawi: ${Stability}/nKasi: ${Speed} Sec/gen/nKampuni: ${Company}/nTarehe ya Kutoa: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Unaweza kushirikiana na Nuvole AI kwa kutumia pamoja na maandishi au sauti.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "Kuhusu ${Model}:/n/nJina Kamzima: ${Name}/nCheo: ${Rank}/nAlama ya Uchanganuzi wa Kifaa: ${Score}/nUstawi: ${Stability}/nKasi: ${Speed} Tokens/sec/nKampuni: ${Company}/nTarehe ya Kutoa: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Unaweza kuchagua kama Nuvole AI inafungua Menü Kuu wakati wa kuanzisha au kuikataa na kufungua sehemu ya maombi haraka. Menü Kuu inaweza kufunguliwa baadaye kwa kuacha sehemu ya maombi tupu.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} mifumo yamepatikana:",
+  "Install_H_MainAlert": {
+    "value": "Menü Kuu inakupa nafasi ya kuunda kipengele cha mazungumzo mpya, kupata historia ya mazungumzo, mipangilio, na vitu vinginevyengine.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Tarehe ya Kutoa",
+  "Install_N_Settings": {
+    "value": "Fungua Mipangilio",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Kasi",
+  "Install_ORG_Learn": {
+    "value": "Jifunze kuhusu vitu vyote kwenye RoutineHub",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Cheo (Akili)",
+  "Install_H_Input": {
+    "value": "Chagua njia inayokubali kwa kuingia ombi kwa AI.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Ustawi",
+  "Install_H_Learn": {
+    "value": "Mpango wa kuanzishwa umekwisha!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Onyesha Menü Kuu wakati wa kuanzisha Nuvole AI?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Kataa Menü Kuu",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Onyesha Menü Kuu",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "Chagua thamani ya Joto kwa AI (1.0 kwa kawaida). Thamani kubwa zaidi zitawezesha matokeo kuwa zaidi ya random, wakati thamani ndogo zitawezesha kuwa zaidi ya kitu kimoja.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Ustawi",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Imechanganyikwa: ${Num1}% Binadamu, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Cheo (Akili)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Imechanganyikwa: 100% Binadamu",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Kasi",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Imechanganyikwa: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "Tarehe ya Kutoa",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} mifumo yamepatikana:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Kuhusu ${Model}:/n/nJina Kamzima: ${Name}/nCheo: ${Rank}/nAlama ya Uchanganuzi wa Kifaa: ${Score}/nUstawi: ${Stability}/nKasi: ${Speed} Tokens/sec/nKampuni: ${Company}/nTarehe ya Kutoa: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Kuhusu ${Model}:/n/nJina Kamzima: ${Name}/nCheo: ${Rank}/nUstawi: ${Stability}/nKasi: ${Speed} Sec/gen/nKampuni: ${Company}/nTarehe ya Kutoa: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "Chagua ${Name}",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Rudi kwa orodha ya mifumo",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Tazama Changelog Kamili",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Öppna huvudmenyn",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Öppna inte huvudmenyn",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Endast emojis kan användas som en ikon",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Hoppa över och börja arbeta",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Automatisk laddning av senaste chatt",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Imechanganyikwa: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Imechanganyikwa: 100% Binadamu",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Imechanganyikwa: ${Num1}% Binadamu, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "Bearbetning av begäran",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Visa chatt-historia",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Vill du öppna huvudmenyn när du kör Nuvole AI?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Installationsprocessen är klar! Vill du lära dig mer om Nuvole AI och dess funktioner?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Sammanfattning",
@@ -1709,16 +1755,6 @@
     "value": "Spara chatt",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "Välj det mest bekväma sättet för dig att ange en begäran för AI",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "Chagua thamani ya Joto kwa AI (1.0 kwa kawaida). Thamani kubwa zaidi zitawezesha matokeo kuwa zaidi ya random, wakati thamani ndogo zitawezesha kuwa zaidi ya kitu kimoja.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Installera inte uppdateringen",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Du kan inte få utvecklarfeedback",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "Du kommer att omdirigeras till RoutineHub",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

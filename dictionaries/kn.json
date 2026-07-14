@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "ಮಾದರಿ ಪಟ್ಟಿಗೆ ಮರಳಿ",
+  "Install_N_Start": {
+    "value": "ನುವೋಲೆ AI ಯನ್ನು ಬಳಸಲು ಪ್ರಾರಂಭಿಸು",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} ಆಯ್ಕೆಮಾಡಿ",
+  "Install_T_InputAlert": {
+    "value": "ನೀವು ಧ್ವನಿ ಇನ್‌ಪುಟ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿದರೆ, ನೀವು ಯಾವಾಗಲೂ ಪಠ್ಯಕ್ಕೆ ಬದಲಾಯಿಸಬಹುದು ಧ್ವನಿ ರೆಕಾರ್ಡಿಂಗ್‌ನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸುವುದರ ಮೂಲಕ. ನೀವು ಪಠ್ಯ ಇನ್‌ಪುಟ್‌ನ್ನು ಆಯ್ಕೆ ಮಾಡಿದರೆ, ನೀವು ಧ್ವನಿ ಇನ್‌ಪುಟ್‌ನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "${Model} ಬಗ್ಗೆ:/n/nಪೂರ್ಣ ಹೆಸರು: ${Name}/nರ್ಯಾಂಕ್: ${Rank}/nಸ್ಥಿರತೆ: ${Stability}/nಗತಿ: ${Speed} ಸೆಕೆಂಡ್/ಜೆನ್/nಕಂಪನಿ: ${Company}/nವಿಡುಗಡೆ ದಿನಾಂಕ: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "ನೀವು ಪಠ್ಯ ಅಥವಾ ಧ್ವನಿಯ ಮೂಲಕ ನುವೋಲೆ AI ಯೊಂದಿಗೆ ಪರಸ್ಪರ ಕ್ರಿಯೆ ನಡೆಸಬಹುದು.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "${Model} ಬಗ್ಗೆ:/n/nಪೂರ್ಣ ಹೆಸರು: ${Name}/nರ್ಯಾಂಕ್: ${Rank}/nಕೃತಕ ವಿಶ್ಲೇಷಣಾ ಅಂಕ: ${Score}/nಸ್ಥಿರತೆ: ${Stability}/nಗತಿ: ${Speed} ಟೋಕನ್ಸ್/ಸೆಕೆಂಡ್/nಕಂಪನಿ: ${Company}/nವಿಡುಗಡೆ ದಿನಾಂಕ: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "ನೀವು ನುವೋಲೆ AI ಯನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ ಮುಖಪುಟವನ್ನು ತೆರೆದುಕೊಳ್ಳಬೇಕೆ ಅಥವಾ ಅದನ್ನು ಬಯಲಿಸಿ ಮತ್ತು ಪ್ರೋಂಪ್ಟ್ ಕ್ಷೇತ್ರವನ್ನು ತಕ್ಷಣವೇ ತೆರೆದುಕೊಳ್ಳಬೇಕೆ ಎಂದು ಆಯ್ಕೆ ಮಾಡಬಹುದು./nಮುಖಪುಟವನ್ನು ಯಾವಾಗಲೂ ನಂತರ ತೆರೆದುಕೊಳ್ಳಬಹುದು ಪ್ರೋಂಪ್ಟ್ ಕ್ಷೇತ್ರವನ್ನು ಖಾಲಿಯಾಗಿ ಬಿಡುವ ಮೂಲಕ.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} ಮಾದರಿಗಳು ಲಭ್ಯ:",
+  "Install_H_MainAlert": {
+    "value": "ಮುಖಪುಟವು ನಿಮಗೆ ಹೊಸ ಚಾಟ್ ಸೃಷ್ಟಿಸಲು, ನಿಮ್ಮ ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ಪ್ರವೇಶಿಸಲು, ಸೇಟಿಂಗ್ಸ್ ಮತ್ತು ಇತರ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಅವಕಾಶ ಮಾಡಿಕೊಡುತ್ತದೆ.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "ವಿಡುಗಡೆ ದಿನಾಂಕ",
+  "Install_N_Settings": {
+    "value": "ಸೇಟಿಂಗ್ಸ್ ತೆರೆದುಕೊಳ್ಳಿ",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "ಗತಿ",
+  "Install_ORG_Learn": {
+    "value": "ರೂಟೀನ್‌ಹಬ್‌ನಲ್ಲಿ ಎಲ್ಲಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "ರ್ಯಾಂಕ್ (ಬುದ್ಧಿಶಕ್ತಿ)",
+  "Install_H_Input": {
+    "value": "ನಿಮಗೆ AI ಗೆ ಬೇಡಿಕೆ ಸಲ್ಲಿಸಲು ಅತ್ಯಂತ ಅನುಕೂಲಕರವಾದ ಮಾರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "ಸ್ಥಿರತೆ",
+  "Install_H_Learn": {
+    "value": "ಸ್ಥಾಪನೆ ಪ್ರಕ್ರಿಯೆ ಸಂಪೂರ್ಣವಾಗಿದೆ!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "ನುವೋಲೆ AI ಯನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ ಮುಖಪುಟವನ್ನು ತೋರಿಸಬೇಕೆ?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "ಮುಖಪುಟವನ್ನು ಬಯಲಿಸು",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "ಮುಖಪುಟವನ್ನು ತೋರಿಸು",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI ಗಾಗಿ ತಾಪಮಾನ ಪರಾಮೀಟರ್ ಆಯ್ಕೆಮಾಡಿ (1.0 ಡಿಫಾಲ್ಟ್). ಹೆಚ್ಚಿನ ಮೌಲ್ಯಗಳು ಆउಟ್‌ಪುಟ್‌ನ್ನು ಹೆಚ್ಚು ಅಸ್ಪಷ್ಟವಾಗಿಸುತ್ತವೆ, ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ಅದನ್ನು ಹೆಚ್ಚು ಕೇಂದ್ರೀಕೃತವಾಗಿಸುತ್ತವೆ.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "ಸ್ಥಿರತೆ",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: ${Num1}% ಮಾನವ, ${Num2}% AI",
+  "Settings_ORG_Sorting-rank": {
+    "value": "ರ್ಯಾಂಕ್ (ಬುದ್ಧಿಶಕ್ತಿ)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: 100% ಮಾನವ",
+  "Settings_ORG_Sorting-speed": {
+    "value": "ಗತಿ",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: 100% AI",
+  "Settings_ORG_Sorting-release": {
+    "value": "ವಿಡುಗಡೆ ದಿನಾಂಕ",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} ಮಾದರಿಗಳು ಲಭ್ಯ:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "${Model} ಬಗ್ಗೆ:/n/nಪೂರ್ಣ ಹೆಸರು: ${Name}/nರ್ಯಾಂಕ್: ${Rank}/nಕೃತಕ ವಿಶ್ಲೇಷಣಾ ಅಂಕ: ${Score}/nಸ್ಥಿರತೆ: ${Stability}/nಗತಿ: ${Speed} ಟೋಕನ್ಸ್/ಸೆಕೆಂಡ್/nಕಂಪನಿ: ${Company}/nವಿಡುಗಡೆ ದಿನಾಂಕ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "${Model} ಬಗ್ಗೆ:/n/nಪೂರ್ಣ ಹೆಸರು: ${Name}/nರ್ಯಾಂಕ್: ${Rank}/nಸ್ಥಿರತೆ: ${Stability}/nಗತಿ: ${Speed} ಸೆಕೆಂಡ್/ಜೆನ್/nಕಂಪನಿ: ${Company}/nವಿಡುಗಡೆ ದಿನಾಂಕ: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} ಆಯ್ಕೆಮಾಡಿ",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "ಮಾದರಿ ಪಟ್ಟಿಗೆ ಮರಳಿ",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "ಪೂರ್ಣ ಬದಲಾವಣೆ ಪಟ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಿರಿ",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಬೇಡಿ",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "ಐಕಾನ್‌ಗಾಗಿ ಕೇವಲ ಎಮೋಜಿಗಳನ್ನು ಮಾತ್ರ ಬಳಸಬಹುದು",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "ಬಿಟ್ಟುಬಿಡಿ ಮತ್ತು ಕೆಲಸ ಪ್ರಾರಂಭಿಸಿ",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "ಕೊನೆಯ ಚಾಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಲೋಡ್ ಮಾಡಿ",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: 100% AI",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: 100% ಮಾನವ",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "ಅನುವಾದಿಸಲಾಗಿದೆ: ${Num1}% ಮಾನವ, ${Num2}% AI",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "ವಿನಂತಿಯ ಪ್ರಕ್ರಿಯೆ",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "ಚಾಟ್ ಇತಿಹಾಸ ಪ್ರದರ್ಶನ",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Nuvole AI ಅನ್ನು ರನ್ ಮಾಡುವಾಗ ನೀವು ಮುಖ್ಯ ಮೆನುವನ್ನು ತೆರೆಯಬೇಕೆ?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "ಸ್ಥಾಪನೆ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡಿದೆ! ನುವೋಲೆ AI ಮತ್ತು ಅದರ ವೈಶಿಷ್ಟ್ಯಗಳ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುವಿರಾ?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "ಸಾರಾಂಶ",
@@ -1709,16 +1755,6 @@
     "value": "ಚಾಟ್ ಉಳಿಸುವುದು",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI ಗೆ ವಿನಂತಿಯನ್ನು ನಮೂದಿಸುವ ಅತ್ಯಂತ ಅನುಕೂಲಕರ ಮಾರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AI ಗಾಗಿ ತಾಪಮಾನ ಪರಾಮೀಟರ್ ಆಯ್ಕೆಮಾಡಿ (1.0 ಡಿಫಾಲ್ಟ್). ಹೆಚ್ಚಿನ ಮೌಲ್ಯಗಳು ಆउಟ್‌ಪುಟ್‌ನ್ನು ಹೆಚ್ಚು ಅಸ್ಪಷ್ಟವಾಗಿಸುತ್ತವೆ, ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ಅದನ್ನು ಹೆಚ್ಚು ಕೇಂದ್ರೀಕೃತವಾಗಿಸುತ್ತವೆ.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಅಸ್ಥಾಪಿಸಬೇಡಿ",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "ನೀವು ಡೆವಲಪರ್‌ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "ನೀವು RoutineHub ಗೆ ಮರುನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತೀರಿ",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true

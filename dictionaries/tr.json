@@ -1,72 +1,96 @@
 {
-  "Settings_ORG_ModelSelect": {
-    "value": "Model listesine dön",
+  "Install_N_Start": {
+    "value": "Nuvole AI’yi Kullanmaya Başla",
     "original": {
-      "value": "Return to model list"
+      "value": "Start Using Nuvole AI"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_N_ModelSelect": {
-    "value": "${Name} seç",
+  "Install_T_InputAlert": {
+    "value": "Ses girişini seçerseniz, konuşmadan kaydı bitirerek her zaman metne geçebilirsiniz. Metin girişini seçerseniz, ses girişini kullanamazsınız.",
     "original": {
-      "value": "Select ${Name}"
+      "value": "If you choose voice input, you can switch to text at any time by ending the recording without speaking. If you choose text input, you won’t be able to use voice input."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ImgModelInfo": {
-    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nStabilite: ${Stability}/nHız: ${Speed} Saniye/gen/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+  "Install_H_InputAlert": {
+    "value": "Nuvole AI ile metin veya ses kullanarak etkileşime geçebilirsiniz.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can interact with Nuvole AI using either text or voice."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_TextModelInfo": {
-    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nYapay Analiz Puanı: ${Score}/nStabilite: ${Stability}/nHız: ${Speed} Tokens/saniye/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+  "Install_T_MainAlert": {
+    "value": "Nuvole AI’nin başlangıçta Ana Menüyü açıp açmayacağını seçebilirsiniz veya hemen istemci alanı açabilirsiniz./nAna Menü, istemci alanı boş bırakılarak her zaman açılabilir.",
     "original": {
-      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+      "value": "You can choose whether Nuvole AI opens the Main Menu on launch or skips it and opens the prompt field immediately./nThe Main Menu can always be opened later by leaving the prompt field empty."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_ModelsCount": {
-    "value": "${Num} model mevcut:",
+  "Install_H_MainAlert": {
+    "value": "Ana Menü, yeni bir sohbet oluşturmanıza, sohbet geçmişinize erişmenize, ayarlarımıza ve diğer özelliklere erişmenize olanak tanır.",
     "original": {
-      "value": "${Num} models available:"
+      "value": "The Main Menu lets you create a new chat, access your chat history, settings, and other features."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-release": {
-    "value": "Yayınlanma tarihi",
+  "Install_N_Settings": {
+    "value": "Ayarları Aç",
     "original": {
-      "value": "Release date"
+      "value": "Open Settings"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-speed": {
-    "value": "Hız",
+  "Install_ORG_Learn": {
+    "value": "RoutineHub’ta tüm özellikleri keşfedin",
     "original": {
-      "value": "Speed"
+      "value": "Explore all features on RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-rank": {
-    "value": "Sıralama (Zekâ)",
+  "Install_H_Input": {
+    "value": "AI’ye bir talep göndermek için en uygun yöntemi seçin.",
     "original": {
-      "value": "Rank (Intelligence)"
+      "value": "Select the most convenient way for you to enter a request for AI."
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_ORG_Sorting-stability": {
-    "value": "Stabilite",
+  "Install_H_Learn": {
+    "value": "Kurulum işlemi tamamlandı!",
     "original": {
-      "value": "Stability"
+      "value": "The installation process is complete!"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_H_Main": {
+    "value": "Nuvole AI başlatıldığında Ana Menüyü gösterilsin mi?",
+    "original": {
+      "value": "Show the Main Menu on Nuvole AI launch?"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_NoMenu": {
+    "value": "Ana Menüyü Atla",
+    "original": {
+      "value": "Skip Main Menu"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Install_N_YesMenu": {
+    "value": "Ana Menüyü Göster",
+    "original": {
+      "value": "Show Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -79,34 +103,74 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_H_NAME-Temp": {
-    "value": "AI için sıcaklık parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele yaparken, daha düşük değerler onu daha odaklı yapar.",
+  "Settings_ORG_Sorting-stability": {
+    "value": "Stabilite",
     "original": {
-      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+      "value": "Stability"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-5050": {
-    "value": "Çeviri: ${Num1}% İnsan, ${Num2}% Yapay Zeka",
+  "Settings_ORG_Sorting-rank": {
+    "value": "Sıralama (Zekâ)",
     "original": {
-      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+      "value": "Rank (Intelligence)"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-Human": {
-    "value": "Çeviri: %100 İnsan",
+  "Settings_ORG_Sorting-speed": {
+    "value": "Hız",
     "original": {
-      "value": "Translated: 100% Human"
+      "value": "Speed"
     },
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Settings_T_Lang-AI": {
-    "value": "Çeviri: %100 Yapay Zeka",
+  "Settings_ORG_Sorting-release": {
+    "value": "Yayınlanma tarihi",
     "original": {
-      "value": "Translated: 100% AI"
+      "value": "Release date"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ModelsCount": {
+    "value": "${Num} model mevcut:",
+    "original": {
+      "value": "${Num} models available:"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_TextModelInfo": {
+    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nYapay Analiz Puanı: ${Score}/nStabilite: ${Stability}/nHız: ${Speed} Tokens/saniye/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nArtificial Analysis Score: ${Score}/nStability: ${Stability}/nSpeed: ${Speed} Tokens/sec/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_ImgModelInfo": {
+    "value": "Hakkında ${Model}:/n/nTam Adı: ${Name}/nSıralama: ${Rank}/nStabilite: ${Stability}/nHız: ${Speed} Saniye/gen/nŞirket: ${Company}/nYayınlanma Tarihi: ${Date}",
+    "original": {
+      "value": "About ${Model}:/n/nFull Name: ${Name}/nRank: ${Rank}/nStability: ${Stability}/nSpeed: ${Speed} Sec/gen/nCompany: ${Company}/nRelease Date: ${Date}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_N_ModelSelect": {
+    "value": "${Name} seç",
+    "original": {
+      "value": "Select ${Name}"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_ORG_ModelSelect": {
+    "value": "Model listesine dön",
+    "original": {
+      "value": "Return to model list"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -369,14 +433,6 @@
     "value": "Tam Değişiklik Günlüğünü Görüntüle",
     "original": {
       "value": "View Full Changelog"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_N_YesMenu": {
-    "value": "Ana Menüyü Aç",
-    "original": {
-      "value": "Open the Main Menu"
     },
     "translatedBy": "ai",
     "isTranslated": true
@@ -939,14 +995,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_NoMenu": {
-    "value": "Ana Menüyü Açma",
-    "original": {
-      "value": "Don’t Open the Main Menu"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Chat_T_ChangingError": {
     "value": "Sadece emojiler simge olarak kullanılabilir",
     "original": {
@@ -1079,14 +1127,6 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
-  "Install_N_SkipLearn": {
-    "value": "Atla ve Çalışmaya Başla",
-    "original": {
-      "value": "Skip and Start Working"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
   "Settings_N_NAME-Loading": {
     "value": "Son Sohbeti Otomatik Yükle",
     "original": {
@@ -1145,6 +1185,30 @@
     "isTranslated": true,
     "version": 1
   },
+  "Settings_T_Lang-AI": {
+    "value": "Çeviri: %100 Yapay Zeka",
+    "original": {
+      "value": "Translated: 100% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-Human": {
+    "value": "Çeviri: %100 İnsan",
+    "original": {
+      "value": "Translated: 100% Human"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
+  "Settings_T_Lang-5050": {
+    "value": "Çeviri: ${Num1}% İnsan, ${Num2}% Yapay Zeka",
+    "original": {
+      "value": "Translated: ${Num1}% Human, ${Num2}% AI"
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Settings_T_C-Request": {
     "value": "İsteğin İşlenmesi",
     "original": {
@@ -1177,16 +1241,6 @@
     "value": "Sohbet Geçmişi Görüntüleme",
     "original": {
       "value": "Chat History Displaying",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Main": {
-    "value": "Nuvole AI çalıştırıldığında Ana Menüyü açmak ister misiniz?",
-    "original": {
-      "value": "Do you want to open the Main Menu when running Nuvole AI?",
       "version": 1
     },
     "translatedBy": "ai",
@@ -1422,14 +1476,6 @@
     "translatedBy": "ai",
     "isTranslated": true,
     "version": 1
-  },
-  "Install_H_Learn": {
-    "value": "Kurulum işlemi tamamlandı! Nuvole AI ve özellikleri hakkında daha fazla bilgi edinmek ister misiniz?",
-    "original": {
-      "value": "The installation process is complete! Do you want to learn more about Nuvole AI and its features?"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
   },
   "Settings_T_ID-Share-1": {
     "value": "Özet",
@@ -1709,16 +1755,6 @@
     "value": "Sohbet Kaydetme",
     "original": {
       "value": "Chat Saving",
-      "version": 1
-    },
-    "translatedBy": "ai",
-    "isTranslated": true,
-    "version": 1
-  },
-  "Install_H_Input": {
-    "value": "AI için isteği girmek için en uygun yolu seçin",
-    "original": {
-      "value": "Select the most convenient way for you to enter a request for AI",
       "version": 1
     },
     "translatedBy": "ai",
@@ -2103,6 +2139,14 @@
     "translatedBy": "ai",
     "isTranslated": true
   },
+  "Settings_H_NAME-Temp": {
+    "value": "AI için sıcaklık parametresini seçin (varsayılan 1.0). Daha yüksek değerler çıktıyı daha rastgele yaparken, daha düşük değerler onu daha odaklı yapar.",
+    "original": {
+      "value": "Select the Temperature parameter for AI (1.0 by default). Higher values will make the output more random, while lower values will make it more focused."
+    },
+    "translatedBy": "ai",
+    "isTranslated": true
+  },
   "Update_N_NotInstall": {
     "value": "Güncellemeyi Yükleme",
     "original": {
@@ -2213,14 +2257,6 @@
     "value": "Geliştirici geri bildirimi alamazsınız",
     "original": {
       "value": "You can’t get developer feedback"
-    },
-    "translatedBy": "ai",
-    "isTranslated": true
-  },
-  "Install_ORG_Learn": {
-    "value": "RoutineHub'a yönlendirileceksiniz",
-    "original": {
-      "value": "You will be redirected to RoutineHub"
     },
     "translatedBy": "ai",
     "isTranslated": true
